@@ -1,0 +1,99 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+32,1:02:27.858,-,-,166.115,1:46.809,21.0,1,3,G. Zhou,UNI-Virtuosi,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:28.340,0.482,0.482,166.094,1:47.215,23.0,2,5,D. Ticktum,Carlin Racing,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:30.808,2.950,2.468,165.984,1:47.618,21.0,3,7,L. Lawson,Hitech Grand Prix,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:31.953,4.095,1.145,165.934,1:46.703,20.0,4,11,R. Verschoor,MP Motorsport,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:37.650,9.792,5.697,165.682,1:47.838,22.0,5,17,M. Armstrong,DAMS,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:39.784,11.926,2.134,165.588,1:47.224,15.0,6,6,J. Daruvala,Carlin Racing,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:40.017,12.159,0.233,165.578,1:46.380,19.0,7,1,R. Shwartzman,PREMA Racing,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:46.337,18.479,6.320,165.3,1:47.946,16.0,8,10,T. Pourchaire,ART Grand Prix,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:47.622,19.764,1.285,165.243,1:47.494,16.0,9,4,F. Drugovich,UNI-Virtuosi,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:47.710,19.852,0.088,165.24,1:47.275,21.0,10,22,M. Nannini,HWA RACELAB,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:48.763,20.905,1.053,165.193,1:48.342,21.0,11,14,D. Beckmann,Charouz Racing System,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:49.114,21.256,0.351,165.178,1:47.713,16.0,12,9,C. Lundgaard,ART Grand Prix,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:55.243,27.385,6.129,164.91,1:47.376,21.0,13,8,J. Vips,Hitech Grand Prix,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:56.684,28.826,1.441,164.847,1:47.337,19.0,14,25,M. Sato,Trident,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:02:59.393,31.535,2.709,164.729,1:47.142,19.0,15,21,R. Boschung,Campos Racing,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:03:08.478,40.620,9.085,164.334,1:48.048,19.0,16,15,G. Samaia,Charouz Racing System,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:03:16.310,48.452,7.832,163.995,1:47.209,21.0,17,24,B. Viscaal,Trident,Sakhir,Feature Race,,Round 1 ,2021-03-28
+32,1:03:29.810,61.952,13.500,163.414,1:48.024,19.0,18,12,L. Zendeli,MP Motorsport,Sakhir,Feature Race,,Round 1 ,2021-03-28
+29,56:32.626,DNF,-,166.28,1:47.524,22.0,19,2,O. Piastri,PREMA Racing,Sakhir,Feature Race,,Round 1 ,2021-03-28
+23,46:19.610,-,-,160.895,1:46.202,19.0,1,2,O. Piastri,PREMA Racing,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:20.384,0.774,0.774,160.851,1:46.529,19.0,2,9,C. Lundgaard,ART Grand Prix,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:21.686,2.076,1.302,160.775,1:47.371,18.0,3,3,G. Zhou,UNI-Virtuosi,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:22.104,2.494,0.418,160.751,1:46.655,22.0,4,6,J. Daruvala,Carlin Racing,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:22.576,2.966,0.472,160.724,1:46.432,22.0,5,11,R. Verschoor,MP Motorsport,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:23.369,3.759,0.793,160.678,1:46.963,22.0,6,10,T. Pourchaire,ART Grand Prix,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:25.997,6.387,2.628,160.527,1:47.131,22.0,7,14,D. Beckmann,Charouz Racing System,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:27.706,8.096,1.709,160.428,1:47.818,18.0,8,25,M. Sato,Trident,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:29.343,9.733,1.637,160.334,1:47.272,23.0,9,22,M. Nannini,HWA RACELAB,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:31.790,12.180,2.447,160.193,1:48.158,7.0,10,17,M. Armstrong,DAMS,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:32.052,12.442,0.262,160.178,1:47.465,18.0,11,15,G. Samaia,Charouz Racing System,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:36.354,16.744,4.302,159.932,1:48.827,7.0,12,24,B. Viscaal,Trident,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:37.179,17.569,0.825,159.885,1:47.185,18.0,13,20,G. Petecof,Campos Racing,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:44.157,24.547,6.978,159.487,1:48.604,9.0,14,4,F. Drugovich,UNI-Virtuosi,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:47.081,27.471,2.924,159.321,1:48.804,12.0,15,16,R. Nissany,DAMS,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,46:56.590,36.980,9.509,158.783,1:46.287,19.0,16,8,J. Vips,Hitech Grand Prix,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,47:08.076,48.466,11.486,158.138,1:45.507,21.0,17,21,R. Boschung,Campos Racing,Sakhir,Sprint Race 2,,Round 1 ,2021-03-28
+23,44:11.624,-,-,168.661,1:51.352,5.0,1,7,L. Lawson,Hitech Grand Prix,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:12.549,0.925,0.925,168.603,1:51.486,5.0,2,6,J. Daruvala,Carlin Racing,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:26.006,14.382,13.457,167.752,1:51.415,5.0,3,14,D. Beckmann,Charouz Racing System,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:28.702,17.078,2.696,167.582,1:51.492,6.0,4,1,R. Shwartzman,PREMA Racing,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:29.128,17.504,0.426,167.555,1:51.852,8.0,5,2,O. Piastri,PREMA Racing,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:30.176,18.552,1.048,167.49,1:51.752,6.0,6,9,C. Lundgaard,ART Grand Prix,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:33.913,22.289,3.737,167.256,1:51.737,5.0,7,3,G. Zhou,UNI-Virtuosi,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:36.484,24.860,2.571,167.095,1:51.222,5.0,8,5,D. Ticktum,Carlin Racing,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:38.915,27.291,2.431,166.943,1:50.886,5.0,9,12,L. Zendeli,MP Motorsport,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:39.557,27.933,0.642,166.903,1:52.254,6.0,10,8,J. Vips,Hitech Grand Prix,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:43.532,31.908,3.214,166.656,1:51.912,8.0,11,15,G. Samaia,Charouz Racing System,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:43.929,32.305,0.397,166.631,1:52.084,6.0,12,16,R. Nissany,DAMS,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:45.318,28.694,0.761,166.856,1:52.094,8.0,13,24,B. Viscaal,Trident,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:45.587,33.963,1.658,166.528,1:52.053,6.0,14,22,M. Nannini,HWA RACELAB,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,44:58.509,46.885,12.922,165.731,1:52.693,9.0,15,25,M. Sato,Trident,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,45:14.874,63.250,16.365,164.732,1:51.374,19.0,16,4,F. Drugovich,UNI-Virtuosi,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,45:18.565,66.941,3.691,164.508,1:53.308,9.0,17,20,G. Petecof,Campos Racing,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+23,45:20.534,68.910,1.969,164.389,1:52.883,5.0,18,23,A. Deledda,HWA RACELAB,Sakhir,Sprint Race 1,,Round 1 ,2021-03-28
+9,1:42.848,-,-,189.436,,,1,3,G. Zhou,UNI-Virtuosi,Sakhir,Qualifying Session,17:06:59,Round 1 ,2021-03-28
+10,1:42.851,0.003,0.003,189.431,,,2,9,C. Lundgaard,ART Grand Prix,Sakhir,Qualifying Session,17:04:01,Round 1 ,2021-03-28
+9,1:43.211,0.363,0.360,188.77,,,3,4,F. Drugovich,UNI-Virtuosi,Sakhir,Qualifying Session,17:07:02,Round 1 ,2021-03-28
+10,1:43.338,0.490,0.127,188.538,,,4,5,D. Ticktum,Carlin Racing,Sakhir,Qualifying Session,17:04:51,Round 1 ,2021-03-28
+9,1:43.443,0.595,0.002,188.347,,,5,11,R. Verschoor,MP Motorsport,Sakhir,Qualifying Session,17:04:13,Round 1 ,2021-03-28
+9,1:43.475,0.627,0.032,188.288,,,6,6,J. Daruvala,Carlin Racing,Sakhir,Qualifying Session,17:03:52,Round 1 ,2021-03-28
+10,1:43.478,0.630,0.003,188.283,,,7,2,O. Piastri,PREMA Racing,Sakhir,Qualifying Session,17:07:08,Round 1 ,2021-03-28
+8,1:43.519,0.671,0.041,188.208,,,8,7,L. Lawson,Hitech Grand Prix,Sakhir,Qualifying Session,17:04:09,Round 1 ,2021-03-28
+9,1:43.559,0.711,0.040,188.136,,,9,14,D. Beckmann,Charouz Racing System,Sakhir,Qualifying Session,17:04:17,Round 1 ,2021-03-28
+10,1:43.585,0.737,0.026,188.089,,,10,10,T. Pourchaire,ART Grand Prix,Sakhir,Qualifying Session,17:04:05,Round 1 ,2021-03-28
+5,1:43.694,0.846,0.109,187.891,,,11,1,R. Shwartzman,PREMA Racing,Sakhir,Qualifying Session,16:37:24,Round 1 ,2021-03-28
+9,1:43.704,0.856,0.010,187.873,,,12,21,R. Boschung,Campos Racing,Sakhir,Qualifying Session,17:04:11,Round 1 ,2021-03-28
+9,1:43.729,0.881,0.025,187.827,,,13,17,M. Armstrong,DAMS,Sakhir,Qualifying Session,16:36:19,Round 1 ,2021-03-28
+11,1:43.768,0.920,0.039,187.757,,,14,16,R. Nissany,DAMS,Sakhir,Qualifying Session,17:03:54,Round 1 ,2021-03-28
+10,1:43.839,0.991,0.071,187.628,,,15,24,B. Viscaal,Trident,Sakhir,Qualifying Session,17:04:22,Round 1 ,2021-03-28
+9,1:43.955,1.107,0.116,187.419,,,16,12,L. Zendeli,MP Motorsport,Sakhir,Qualifying Session,17:04:20,Round 1 ,2021-03-28
+9,1:44.227,1.379,0.272,186.93,,,17,15,G. Samaia,Charouz Racing System,Sakhir,Qualifying Session,17:06:32,Round 1 ,2021-03-28
+7,1:44.654,1.806,0.427,186.167,,,18,25,M. Sato,Trident,Sakhir,Qualifying Session,16:40:45,Round 1 ,2021-03-28
+9,1:44.825,1.977,0.171,185.864,,,19,22,M. Nannini,HWA RACELAB,Sakhir,Qualifying Session,17:04:27,Round 1 ,2021-03-28
+9,1:45.053,2.205,0.228,185.46,,,20,20,G. Petecof,Campos Racing,Sakhir,Qualifying Session,16:50:29,Round 1 ,2021-03-28
+7,1:46.712,3.864,1.659,182.577,,,21,23,A. Deledda,HWA RACELAB,Sakhir,Qualifying Session,16:41:04,Round 1 ,2021-03-28
+9,1:43.441,0.593,0.103,188.35,,,,8,J. Vips,Hitech Grand Prix,Sakhir,Qualifying Session,17:06:35,Round 1 ,2021-03-28
+16,1:45.340,-,-,184.955,,,1,4,F. Drugovich,UNI-Virtuosi,Sakhir,Free Practice,13:25:51,Round 1 ,2021-03-28
+14,1:45.481,0.141,0.141,184.708,,,2,5,D. Ticktum,Carlin Racing,Sakhir,Free Practice,13:25:22,Round 1 ,2021-03-28
+15,1:45.628,0.288,0.147,184.451,,,3,7,L. Lawson,Hitech Grand Prix,Sakhir,Free Practice,13:22:47,Round 1 ,2021-03-28
+16,1:45.651,0.311,0.023,184.41,,,4,17,M. Armstrong,DAMS,Sakhir,Free Practice,13:26:13,Round 1 ,2021-03-28
+13,1:45.666,0.326,0.015,184.384,,,5,1,R. Shwartzman,PREMA Racing,Sakhir,Free Practice,13:27:02,Round 1 ,2021-03-28
+16,1:45.734,0.394,0.068,184.266,,,6,12,L. Zendeli,MP Motorsport,Sakhir,Free Practice,13:29:55,Round 1 ,2021-03-28
+14,1:45.762,0.422,0.028,184.217,,,7,8,J. Vips,Hitech Grand Prix,Sakhir,Free Practice,13:27:06,Round 1 ,2021-03-28
+15,1:45.763,0.423,0.001,184.215,,,8,6,J. Daruvala,Carlin Racing,Sakhir,Free Practice,13:26:10,Round 1 ,2021-03-28
+15,1:45.838,0.498,0.075,184.085,,,9,24,B. Viscaal,Trident,Sakhir,Free Practice,13:26:33,Round 1 ,2021-03-28
+14,1:46.077,0.737,0.239,183.67,,,10,2,O. Piastri,PREMA Racing,Sakhir,Free Practice,13:27:11,Round 1 ,2021-03-28
+15,1:46.149,0.809,0.072,183.545,,,11,10,T. Pourchaire,ART Grand Prix,Sakhir,Free Practice,13:26:38,Round 1 ,2021-03-28
+14,1:46.195,0.855,0.046,183.466,,,12,3,G. Zhou,UNI-Virtuosi,Sakhir,Free Practice,13:23:15,Round 1 ,2021-03-28
+16,1:46.207,0.867,0.012,183.445,,,13,9,C. Lundgaard,ART Grand Prix,Sakhir,Free Practice,13:32:57,Round 1 ,2021-03-28
+16,1:46.225,0.885,0.018,183.414,,,14,16,R. Nissany,DAMS,Sakhir,Free Practice,13:26:16,Round 1 ,2021-03-28
+16,1:46.237,0.897,0.012,183.393,,,15,11,R. Verschoor,MP Motorsport,Sakhir,Free Practice,13:25:59,Round 1 ,2021-03-28
+14,1:46.387,1.047,0.150,183.135,,,16,14,D. Beckmann,Charouz Racing System,Sakhir,Free Practice,13:22:00,Round 1 ,2021-03-28
+15,1:46.585,1.245,0.198,182.794,,,17,15,G. Samaia,Charouz Racing System,Sakhir,Free Practice,13:26:19,Round 1 ,2021-03-28
+18,1:46.597,1.257,0.012,182.774,,,18,20,G. Petecof,Campos Racing,Sakhir,Free Practice,13:26:06,Round 1 ,2021-03-28
+15,1:46.718,1.378,0.121,182.567,,,19,25,M. Sato,Trident,Sakhir,Free Practice,13:22:38,Round 1 ,2021-03-28
+17,1:46.788,1.448,0.070,182.447,,,20,21,R. Boschung,Campos Racing,Sakhir,Free Practice,13:19:21,Round 1 ,2021-03-28
+19,1:47.400,2.060,0.612,181.407,,,21,22,M. Nannini,HWA RACELAB,Sakhir,Free Practice,13:19:10,Round 1 ,2021-03-28
+18,1:48.888,3.548,1.488,178.928,,,22,23,A. Deledda,HWA RACELAB,Sakhir,Free Practice,13:22:23,Round 1 ,2021-03-28

@@ -1,0 +1,70 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+21,37:19.524,-,-,197.312,1:45.633,18.0,1,19,A. Hubert,BWT Arden,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:21.726,2.202,2.202,197.118,1:45.584,18.0,2,12,J. Correa,Sauber Junior Team by Charouz,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:23.744,4.220,2.018,196.941,1:45.590,18.0,3,7,G. Zhou,UNI-Virtuosi,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:25.655,6.131,1.911,196.773,1:45.578,21.0,4,15,J. Aitken,Campos Racing,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:27.312,7.788,1.657,196.628,1:45.297,18.0,5,5,S. Sette Câmara,DAMS,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:30.319,10.795,3.007,196.365,1:45.758,18.0,6,6,N. Latifi,DAMS,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:32.646,13.122,2.327,196.162,1:45.193,19.0,7,1,L. Delétraz,Carlin,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:34.931,15.407,2.285,195.964,1:45.708,20.0,8,11,C. Ilott,Sauber Junior Team by Charouz,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:35.724,16.200,0.793,195.895,1:44.702,18.0,9,2,N. Matsushita,Carlin,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:37.212,17.688,1.488,195.766,1:45.863,18.0,10,4,N. de Vries,ART Grand Prix,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:40.618,21.094,3.406,195.471,1:45.774,19.0,11,16,J. King,MP Motorsport,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:45.778,26.254,5.160,195.025,1:45.289,19.0,12,8,L. Ghiotto,UNI-Virtuosi,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:46.592,27.068,0.814,194.955,1:45.896,19.0,13,14,D. Boccolacci,Campos Racing,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:51.501,31.977,4.909,194.534,1:45.965,17.0,14,20,G. Alesi,Trident,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:53.125,33.601,1.624,194.395,1:45.843,17.0,15,21,R. Boschung,Trident,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:53.377,33.853,0.252,194.374,1:45.855,16.0,16,3,N. Mazepin,ART Grand Prix,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:53.955,34.431,0.578,194.324,1:45.670,19.0,17,10,S. Gelael,PREMA Racing,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,38:32.977,73.453,39.022,191.046,1:47.484,21.0,18,17,M. Raghunathan,MP Motorsport,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+18,32:51.508,DNF,-,192.133,1:47.736,13.0,19,18,T. Calderón,BWT Arden,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+30,1:15:35.425,-,-,139.163,1:44.584,30.0,1,4,N. de Vries,ART Grand Prix,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:15:43.813,8.388,8.388,138.906,1:45.113,22.0,2,5,S. Sette Câmara,DAMS,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:15:45.200,9.775,1.387,138.864,1:45.207,21.0,3,15,J. Aitken,Campos Racing,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:15:55.578,20.153,10.378,138.548,1:45.741,23.0,4,7,G. Zhou,UNI-Virtuosi,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:15:58.024,22.599,2.446,138.473,1:45.605,28.0,5,6,N. Latifi,DAMS,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:15:59.556,24.131,1.532,138.427,1:45.263,29.0,6,16,J. King,MP Motorsport,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:16:04.093,28.668,4.537,138.289,1:46.132,28.0,7,12,J. Correa,Sauber Junior Team by Charouz,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:16:05.384,29.959,1.291,138.25,1:45.300,27.0,8,19,A. Hubert,BWT Arden,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:16:08.245,32.820,2.861,138.163,1:45.418,27.0,9,2,N. Matsushita,Carlin,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:16:15.182,39.757,6.937,137.954,1:45.135,27.0,10,20,G. Alesi,Trident,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:16:44.796,69.371,29.614,137.067,1:47.182,29.0,11,18,T. Calderón,BWT Arden,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+29,1:15:48.982,1 LAP,1 LAP,134.125,1:48.811,28.0,12,17,M. Raghunathan,MP Motorsport,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+12,1:43.024,-,-,204.138,,,1,5,S. Sette Câmara,DAMS,Le Castellet,Qualifying Session,17:14:32,Round 5 ,2019-06-23
+13,1:43.344,0.320,0.320,203.506,,,2,7,G. Zhou,UNI-Virtuosi,Le Castellet,Qualifying Session,17:36:14,Round 5 ,2019-06-23
+13,1:43.401,0.377,0.057,203.394,,,3,15,J. Aitken,Campos Racing,Le Castellet,Qualifying Session,17:36:04,Round 5 ,2019-06-23
+14,1:43.453,0.429,0.052,203.292,,,4,4,N. de Vries,ART Grand Prix,Le Castellet,Qualifying Session,17:36:11,Round 5 ,2019-06-23
+13,1:43.565,0.541,0.112,203.072,,,5,11,C. Ilott,Sauber Junior Team by Charouz,Le Castellet,Qualifying Session,17:27:16,Round 5 ,2019-06-23
+13,1:43.650,0.626,0.085,202.905,,,6,6,N. Latifi,DAMS,Le Castellet,Qualifying Session,17:13:40,Round 5 ,2019-06-23
+13,1:43.763,0.739,0.113,202.684,,,7,2,N. Matsushita,Carlin,Le Castellet,Qualifying Session,17:14:03,Round 5 ,2019-06-23
+12,1:43.768,0.744,0.005,202.675,,,8,9,M. Schumacher,PREMA Racing,Le Castellet,Qualifying Session,17:35:57,Round 5 ,2019-06-23
+14,1:43.812,0.788,0.044,202.589,,,9,14,D. Boccolacci,Campos Racing,Le Castellet,Qualifying Session,17:14:00,Round 5 ,2019-06-23
+13,1:43.895,0.871,0.083,202.427,,,10,10,S. Gelael,PREMA Racing,Le Castellet,Qualifying Session,17:13:29,Round 5 ,2019-06-23
+12,1:43.983,0.959,0.088,202.256,,,11,8,L. Ghiotto,UNI-Virtuosi,Le Castellet,Qualifying Session,17:10:39,Round 5 ,2019-06-23
+13,1:44.025,1.001,0.042,202.174,,,12,1,L. Delétraz,Carlin,Le Castellet,Qualifying Session,17:36:08,Round 5 ,2019-06-23
+13,1:44.120,1.096,0.095,201.99,,,13,12,J. Correa,Sauber Junior Team by Charouz,Le Castellet,Qualifying Session,17:13:57,Round 5 ,2019-06-23
+10,1:44.371,1.347,0.251,201.504,,,14,21,R. Boschung,Trident,Le Castellet,Qualifying Session,17:13:50,Round 5 ,2019-06-23
+12,1:44.612,1.588,0.241,201.04,,,15,19,A. Hubert,BWT Arden,Le Castellet,Qualifying Session,17:18:07,Round 5 ,2019-06-23
+13,1:44.882,1.858,0.270,200.522,,,16,16,J. King,MP Motorsport,Le Castellet,Qualifying Session,17:36:35,Round 5 ,2019-06-23
+12,1:47.006,3.982,2.124,196.542,,,17,18,T. Calderón,BWT Arden,Le Castellet,Qualifying Session,17:14:11,Round 5 ,2019-06-23
+13,1:48.374,5.350,1.368,194.061,,,18,17,M. Raghunathan,MP Motorsport,Le Castellet,Qualifying Session,17:36:41,Round 5 ,2019-06-23
+17,1:44.009,-,-,202.205,,,1,5,S. Sette Câmara,DAMS,Le Castellet,Free Practice,13:36:48,Round 5 ,2019-06-23
+19,1:44.609,0.600,0.600,201.045,,,2,4,N. de Vries,ART Grand Prix,Le Castellet,Free Practice,13:12:49,Round 5 ,2019-06-23
+16,1:44.669,0.660,0.060,200.93,,,3,8,L. Ghiotto,UNI-Virtuosi,Le Castellet,Free Practice,13:17:53,Round 5 ,2019-06-23
+17,1:44.778,0.769,0.109,200.721,,,4,9,M. Schumacher,PREMA Racing,Le Castellet,Free Practice,13:15:41,Round 5 ,2019-06-23
+21,1:44.829,0.820,0.051,200.623,,,5,11,C. Ilott,Sauber Junior Team by Charouz,Le Castellet,Free Practice,13:16:48,Round 5 ,2019-06-23
+18,1:44.908,0.899,0.079,200.472,,,6,7,G. Zhou,UNI-Virtuosi,Le Castellet,Free Practice,13:21:44,Round 5 ,2019-06-23
+18,1:45.037,1.028,0.129,200.226,,,7,10,S. Gelael,PREMA Racing,Le Castellet,Free Practice,13:35:30,Round 5 ,2019-06-23
+18,1:45.054,1.045,0.017,200.194,,,8,6,N. Latifi,DAMS,Le Castellet,Free Practice,13:12:06,Round 5 ,2019-06-23
+19,1:45.112,1.103,0.058,200.083,,,9,21,R. Boschung,Trident,Le Castellet,Free Practice,13:15:38,Round 5 ,2019-06-23
+18,1:45.127,1.118,0.015,200.055,,,10,2,N. Matsushita,Carlin,Le Castellet,Free Practice,13:17:56,Round 5 ,2019-06-23
+20,1:45.134,1.125,0.007,200.041,,,11,1,L. Delétraz,Carlin,Le Castellet,Free Practice,13:36:15,Round 5 ,2019-06-23
+20,1:45.296,1.287,0.162,199.734,,,12,20,G. Alesi,Trident,Le Castellet,Free Practice,13:34:05,Round 5 ,2019-06-23
+19,1:45.417,1.408,0.121,199.504,,,13,14,D. Boccolacci,Campos Racing,Le Castellet,Free Practice,13:16:44,Round 5 ,2019-06-23
+17,1:45.499,1.490,0.082,199.349,,,14,3,N. Mazepin,ART Grand Prix,Le Castellet,Free Practice,13:27:24,Round 5 ,2019-06-23
+19,1:45.506,1.497,0.007,199.336,,,15,15,J. Aitken,Campos Racing,Le Castellet,Free Practice,13:10:29,Round 5 ,2019-06-23
+19,1:45.520,1.511,0.014,199.31,,,16,12,J. Correa,Sauber Junior Team by Charouz,Le Castellet,Free Practice,13:15:19,Round 5 ,2019-06-23
+18,1:45.886,1.877,0.366,198.621,,,17,16,J. King,MP Motorsport,Le Castellet,Free Practice,13:39:59,Round 5 ,2019-06-23
+19,1:46.043,2.034,0.157,198.327,,,18,19,A. Hubert,BWT Arden,Le Castellet,Free Practice,13:31:36,Round 5 ,2019-06-23
+20,1:47.822,3.813,1.779,195.054,,,19,18,T. Calderón,BWT Arden,Le Castellet,Free Practice,13:39:14,Round 5 ,2019-06-23
+18,1:51.923,7.914,4.101,187.907,,,20,17,M. Raghunathan,MP Motorsport,Le Castellet,Free Practice,13:37:51,Round 5 ,2019-06-23

@@ -1,0 +1,96 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+42,1:01:02.089,-,-,137.777,1:22.045,37.0,1,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:01:04.983,2.894,2.894,137.668,1:22.663,37.0,2,2,O. Piastri,PREMA Racing,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:01:16.350,14.261,11.367,137.243,1:22.778,18.0,3,4,F. Drugovich,UNI-Virtuosi,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:01:19.999,17.910,3.649,137.107,1:22.733,36.0,4,1,R. Shwartzman,PREMA Racing,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:01:26.219,24.130,6.220,136.875,1:21.912,42.0,5,3,G. Zhou,UNI-Virtuosi,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:01:32.782,30.693,6.563,136.632,1:22.753,23.0,6,21,R. Boschung,Campos Racing,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:01:33.377,31.288,0.595,136.61,1:22.979,37.0,7,7,L. Lawson,Hitech Grand Prix,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:01:39.140,37.051,5.763,136.397,1:22.164,37.0,8,8,J. Vips,Hitech Grand Prix,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:01:48.652,46.563,9.512,136.047,1:23.549,29.0,9,16,R. Nissany,DAMS,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:01:51.602,49.513,2.950,135.939,1:23.383,36.0,10,11,R. Verschoor,MP Motorsport,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:01:53.469,51.380,1.867,135.871,1:22.852,36.0,11,24,B. Viscaal,Trident,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:01:55.055,52.966,1.586,135.813,1:22.783,27.0,12,9,C. Lundgaard,ART Grand Prix,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:01:57.923,55.834,2.868,135.708,1:23.313,35.0,13,14,D. Beckmann,Charouz Racing System,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+42,1:02:13.326,71.237,15.403,135.148,1:21.949,40.0,14,25,M. Sato,Trident,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+41,1:01:15.182,1 LAP,1 LAP,134.018,1:24.235,17.0,15,15,G. Samaia,Charouz Racing System,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+41,1:01:41.791,1 LAP,26.609,133.054,1:22.033,35.0,16,20,G. Petecof,Campos Racing,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+41,1:02:03.665,1 LAP,21.874,132.273,1:24.487,18.0,17,23,A. Deledda,HWA RACELAB,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+40,1:01:37.390,2 LAPS,1 LAP,129.964,1:23.378,24.0,18,22,J. Aitken,HWA RACELAB,Monte Carlo,Feature Race,,Round 2 ,2021-05-22
+28,47:53.826,8.068,8.068,117.045,1:35.220,20.0,1,5,D. Ticktum,Carlin Racing,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+28,47:54.591,8.833,0.765,117.014,1:36.160,28.0,2,2,O. Piastri,PREMA Racing,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+28,47:54.998,9.240,0.407,116.998,1:35.192,20.0,3,8,J. Vips,Hitech Grand Prix,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+28,47:55.927,10.169,0.929,116.96,1:35.697,19.0,4,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+28,48:00.094,14.336,4.167,116.791,1:33.704,27.0,5,21,R. Boschung,Campos Racing,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+28,48:02.207,16.449,2.113,116.705,1:33.463,27.0,6,11,R. Verschoor,MP Motorsport,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+28,48:07.210,21.452,5.003,116.503,1:35.871,27.0,7,12,L. Zendeli,MP Motorsport,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+28,48:09.720,23.962,2.510,116.402,1:36.282,27.0,8,6,J. Daruvala,Carlin Racing,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+28,48:10.136,24.378,0.416,116.385,1:35.959,27.0,9,22,J. Aitken,HWA RACELAB,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+28,48:33.051,47.293,22.915,115.469,1:30.728,28.0,10,1,R. Shwartzman,PREMA Racing,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+28,48:57.715,71.957,24.664,114.5,1:36.716,27.0,11,24,B. Viscaal,Trident,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+27,48:02.293,1 LAP,1 LAP,112.534,1:38.637,26.0,12,23,A. Deledda,HWA RACELAB,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+27,49:15.621,1 LAP,73.328,109.742,1:39.305,18.0,13,15,G. Samaia,Charouz Racing System,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+26,48:03.300,2 LAPS,1 LAP,108.328,1:36.571,18.0,14,4,F. Drugovich,UNI-Virtuosi,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+26,48:17.618,2 LAPS,14.318,107.793,1:34.756,26.0,15,3,G. Zhou,UNI-Virtuosi,Monte Carlo,Sprint Race 2,,Round 2 ,2021-05-22
+30,44:21.272,-,-,135.422,1:22.445,24.0,1,3,G. Zhou,UNI-Virtuosi,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:23.668,2.396,2.396,135.3,1:22.971,18.0,2,4,F. Drugovich,UNI-Virtuosi,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:27.181,5.909,3.513,135.122,1:23.730,18.0,3,16,R. Nissany,DAMS,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:28.702,7.430,1.521,135.045,1:23.883,12.0,4,21,R. Boschung,Campos Racing,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:32.279,11.007,3.577,134.864,1:22.125,22.0,5,8,J. Vips,Hitech Grand Prix,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:32.767,11.495,0.488,134.84,1:22.128,23.0,6,5,D. Ticktum,Carlin Racing,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:34.519,13.247,1.752,134.751,1:22.960,24.0,7,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:36.519,15.247,2.000,134.651,1:23.906,21.0,8,2,O. Piastri,PREMA Racing,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:38.786,17.514,2.267,134.537,1:23.840,12.0,9,7,L. Lawson,Hitech Grand Prix,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:40.219,18.947,1.433,134.465,1:24.191,9.0,10,17,M. Armstrong,DAMS,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:40.562,19.290,0.343,134.447,1:24.243,8.0,11,6,J. Daruvala,Carlin Racing,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:40.818,19.546,0.256,134.435,1:24.290,8.0,12,14,D. Beckmann,Charouz Racing System,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:41.187,19.915,0.369,134.416,1:24.148,12.0,13,11,R. Verschoor,MP Motorsport,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:41.506,20.234,0.319,134.4,1:24.099,14.0,14,24,B. Viscaal,Trident,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:42.027,20.755,0.521,134.374,1:24.397,20.0,15,12,L. Zendeli,MP Motorsport,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:42.440,21.168,0.413,134.353,1:24.263,23.0,16,22,J. Aitken,HWA RACELAB,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+30,44:43.145,21.873,0.705,134.318,1:24.487,23.0,17,15,G. Samaia,Charouz Racing System,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+29,45:03.834,1 LAP,1 LAP,128.847,1:26.315,23.0,18,23,A. Deledda,HWA RACELAB,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+28,41:48.788,DNF,-,134.076,1:24.669,16.0,19,25,M. Sato,Trident,Monte Carlo,Sprint Race 1,,Round 2 ,2021-05-22
+11,1:21.403,-,-,147.576,,,1,1,R. Shwartzman,PREMA Racing,Monte Carlo,Qualifying Group B,14:00:48,Round 2 ,2021-05-22
+11,1:21.589,0.186,0.186,147.24,,,2,5,D. Ticktum,Carlin Racing,Monte Carlo,Qualifying Group B,14:00:22,Round 2 ,2021-05-22
+11,1:21.854,0.451,0.265,146.763,,,3,21,R. Boschung,Campos Racing,Monte Carlo,Qualifying Group B,14:00:51,Round 2 ,2021-05-22
+11,1:21.877,0.474,0.023,146.722,,,4,9,C. Lundgaard,ART Grand Prix,Monte Carlo,Qualifying Group B,14:00:45,Round 2 ,2021-05-22
+11,1:21.912,0.509,0.035,146.659,,,5,3,G. Zhou,UNI-Virtuosi,Monte Carlo,Qualifying Group B,14:01:07,Round 2 ,2021-05-22
+10,1:21.941,0.538,0.029,146.607,,,6,7,L. Lawson,Hitech Grand Prix,Monte Carlo,Qualifying Group B,13:59:51,Round 2 ,2021-05-22
+11,1:22.168,0.765,0.227,146.202,,,7,17,M. Armstrong,DAMS,Monte Carlo,Qualifying Group B,14:00:41,Round 2 ,2021-05-22
+11,1:22.758,1.355,0.590,145.16,,,8,11,R. Verschoor,MP Motorsport,Monte Carlo,Qualifying Group B,14:01:11,Round 2 ,2021-05-22
+11,1:24.091,2.688,1.333,142.859,,,9,25,M. Sato,Trident,Monte Carlo,Qualifying Group B,14:01:17,Round 2 ,2021-05-22
+11,1:24.302,2.899,0.211,142.501,,,10,15,G. Samaia,Charouz Racing System,Monte Carlo,Qualifying Group B,14:01:15,Round 2 ,2021-05-22
+11,1:20.985,-,-,148.338,,,1,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Qualifying Group A,13:36:45,Round 2 ,2021-05-22
+11,1:21.443,0.458,0.458,147.504,,,2,2,O. Piastri,PREMA Racing,Monte Carlo,Qualifying Group A,13:36:58,Round 2 ,2021-05-22
+9,1:21.523,0.538,0.080,147.359,,,3,8,J. Vips,Hitech Grand Prix,Monte Carlo,Qualifying Group A,13:34:39,Round 2 ,2021-05-22
+11,1:22.102,1.117,0.579,146.32,,,4,16,R. Nissany,DAMS,Monte Carlo,Qualifying Group A,13:33:28,Round 2 ,2021-05-22
+10,1:22.131,1.146,0.029,146.268,,,5,4,F. Drugovich,UNI-Virtuosi,Monte Carlo,Qualifying Group A,13:34:27,Round 2 ,2021-05-22
+11,1:22.244,1.259,0.113,146.067,,,6,6,J. Daruvala,Carlin Racing,Monte Carlo,Qualifying Group A,13:36:50,Round 2 ,2021-05-22
+11,1:22.585,1.600,0.341,145.464,,,7,14,D. Beckmann,Charouz Racing System,Monte Carlo,Qualifying Group A,13:36:55,Round 2 ,2021-05-22
+11,1:22.827,1.842,0.242,145.039,,,8,24,B. Viscaal,Trident,Monte Carlo,Qualifying Group A,13:35:43,Round 2 ,2021-05-22
+10,1:22.933,1.948,0.106,144.854,,,9,12,L. Zendeli,MP Motorsport,Monte Carlo,Qualifying Group A,13:35:46,Round 2 ,2021-05-22
+10,1:23.344,2.359,0.411,144.139,,,10,20,G. Petecof,Campos Racing,Monte Carlo,Qualifying Group A,13:35:59,Round 2 ,2021-05-22
+10,1:23.353,2.368,0.009,144.124,,,11,22,J. Aitken,HWA RACELAB,Monte Carlo,Qualifying Group A,13:34:30,Round 2 ,2021-05-22
+21,1:22.041,-,-,146.429,,,1,1,R. Shwartzman,PREMA Racing,Monte Carlo,Free Practice,10:35:43,Round 2 ,2021-05-22
+23,1:22.564,0.523,0.523,145.501,,,2,5,D. Ticktum,Carlin Racing,Monte Carlo,Free Practice,10:35:02,Round 2 ,2021-05-22
+19,1:22.628,0.587,0.064,145.388,,,3,8,J. Vips,Hitech Grand Prix,Monte Carlo,Free Practice,10:28:22,Round 2 ,2021-05-22
+21,1:22.663,0.622,0.035,145.327,,,4,4,F. Drugovich,UNI-Virtuosi,Monte Carlo,Free Practice,10:32:42,Round 2 ,2021-05-22
+21,1:22.980,0.939,0.317,144.772,,,5,2,O. Piastri,PREMA Racing,Monte Carlo,Free Practice,10:32:45,Round 2 ,2021-05-22
+20,1:23.019,0.978,0.039,144.704,,,6,21,R. Boschung,Campos Racing,Monte Carlo,Free Practice,10:29:37,Round 2 ,2021-05-22
+21,1:23.253,1.212,0.234,144.297,,,7,7,L. Lawson,Hitech Grand Prix,Monte Carlo,Free Practice,10:29:33,Round 2 ,2021-05-22
+24,1:23.364,1.323,0.111,144.105,,,8,17,M. Armstrong,DAMS,Monte Carlo,Free Practice,10:32:13,Round 2 ,2021-05-22
+21,1:23.444,1.403,0.080,143.967,,,9,3,G. Zhou,UNI-Virtuosi,Monte Carlo,Free Practice,10:32:05,Round 2 ,2021-05-22
+23,1:23.523,1.482,0.079,143.831,,,10,16,R. Nissany,DAMS,Monte Carlo,Free Practice,10:30:20,Round 2 ,2021-05-22
+21,1:23.555,1.514,0.032,143.775,,,11,11,R. Verschoor,MP Motorsport,Monte Carlo,Free Practice,10:36:02,Round 2 ,2021-05-22
+21,1:23.585,1.544,0.030,143.724,,,12,12,L. Zendeli,MP Motorsport,Monte Carlo,Free Practice,10:32:10,Round 2 ,2021-05-22
+20,1:23.599,1.558,0.014,143.700,,,13,22,J. Aitken,HWA RACELAB,Monte Carlo,Free Practice,10:35:47,Round 2 ,2021-05-22
+22,1:23.679,1.638,0.080,143.562,,,14,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Free Practice,10:29:20,Round 2 ,2021-05-22
+24,1:23.829,1.788,0.150,143.306,,,15,6,J. Daruvala,Carlin Racing,Monte Carlo,Free Practice,10:35:57,Round 2 ,2021-05-22
+22,1:24.014,1.973,0.185,142.990,,,16,14,D. Beckmann,Charouz Racing System,Monte Carlo,Free Practice,10:33:24,Round 2 ,2021-05-22
+19,1:24.748,2.707,0.734,141.752,,,17,15,G. Samaia,Charouz Racing System,Monte Carlo,Free Practice,10:32:20,Round 2 ,2021-05-22
+20,1:25.418,3.377,0.670,140.640,,,18,9,C. Lundgaard,ART Grand Prix,Monte Carlo,Free Practice,10:28:18,Round 2 ,2021-05-22
+9,1:25.993,3.952,0.575,139.699,,,19,20,G. Petecof,Campos Racing,Monte Carlo,Free Practice,10:07:59,Round 2 ,2021-05-22
+11,1:28.896,6.855,2.903,135.137,,,20,24,B. Viscaal,Trident,Monte Carlo,Free Practice,10:05:44,Round 2 ,2021-05-22
+19,1:29.355,7.314,0.459,134.443,,,21,23,A. Deledda,HWA RACELAB,Monte Carlo,Free Practice,10:32:27,Round 2 ,2021-05-22
+3,-,-,-,-,,,22,25,M. Sato,Trident,Monte Carlo,Free Practice,-,Round 2 ,2021-05-22

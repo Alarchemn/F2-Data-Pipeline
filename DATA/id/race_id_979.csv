@@ -1,0 +1,78 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+21,37:17.053,-,-,198.867,1:43.443,6.0,1,10,N. Latifi,DAMS,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:18.770,1.717,-,198.714,1:43.630,3.0,2,5,L. Ghiotto,RUSSIAN TIME,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:22.353,5.300,3.583,198.397,1:43.769,14.0,3,6,A. Markelov,RUSSIAN TIME,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:24.751,7.698,2.398,198.185,1:43.657,13.0,4,19,S. Canamasas,Rapax,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:24.996,7.943,0.245,198.163,1:43.219,13.0,5,1,C. Leclerc,PREMA Racing,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:25.332,8.279,0.336,198.134,1:44.192,6.0,6,20,N. Nato,Pertamina Arden,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:25.854,8.801,0.522,198.088,1:44.404,18.0,7,18,N. de Vries,Rapax,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:26.537,9.484,0.683,198.027,1:44.248,6.0,8,7,N. Matsushita,ART Grand Prix,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:27.671,10.618,1.134,197.928,1:44.621,15.0,9,4,G. Malja,Racing Engineering,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:30.315,13.262,0.999,197.695,1:44.364,4.0,10,8,A. Albon,ART Grand Prix,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:30.588,13.535,0.273,197.671,1:44.958,17.0,11,12,R. Visoiu,Campos Racing,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:30.878,13.825,0.290,197.646,1:44.865,13.0,12,2,A. Fuoco,PREMA Racing,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:31.439,14.386,0.561,197.596,1:45.168,14.0,13,3,L. Delétraz,Racing Engineering,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:31.718,14.665,0.279,197.572,1:44.972,15.0,14,17,C. Ilott,Trident,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:31.978,14.925,0.260,197.549,1:44.430,16.0,15,14,S. Sette Câmara,MP Motorsport,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:32.924,15.871,0.946,197.466,1:44.333,4.0,16,21,S. Gelael,Pertamina Arden,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:49.316,12.263,1.645,197.783,1:43.550,6.0,17,9,O. Rowland,DAMS,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,38:02.971,45.918,30.047,194.867,1:44.605,21.0,18,16,N. Jeffri,Trident,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+28,49:23.075,-,-,200.241,1:43.440,25.0,1,1,C. Leclerc,PREMA Racing,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:31.941,8.866,-,199.644,1:43.901,12.0,2,20,N. Nato,Pertamina Arden,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:32.680,9.605,0.739,199.594,1:43.786,22.0,3,9,O. Rowland,DAMS,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:40.818,17.743,8.138,199.049,1:44.157,11.0,4,6,A. Markelov,RUSSIAN TIME,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:41.790,18.715,0.972,198.984,1:43.584,23.0,5,19,S. Canamasas,Rapax,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:47.359,24.284,5.569,198.613,1:43.722,14.0,6,5,L. Ghiotto,RUSSIAN TIME,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:49.573,26.498,2.214,198.466,1:44.060,11.0,7,15,J. King,MP Motorsport,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:50.880,27.805,1.307,198.379,1:43.880,13.0,8,10,N. Latifi,DAMS,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:51.979,28.904,1.099,198.306,1:44.131,16.0,9,21,S. Gelael,Pertamina Arden,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:57.635,34.560,5.656,197.932,1:42.512,23.0,10,7,N. Matsushita,ART Grand Prix,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:07.839,44.764,10.204,197.261,1:43.457,22.0,11,11,R. Boschung,Campos Racing,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:09.611,46.536,1.772,197.145,1:44.783,9.0,12,3,L. Delétraz,Racing Engineering,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:10.125,47.050,0.514,197.111,1:44.572,23.0,13,14,S. Sette Câmara,MP Motorsport,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:13.748,50.673,3.623,196.874,1:44.830,12.0,14,4,G. Malja,Racing Engineering,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:19.532,56.457,5.784,196.497,1:44.856,13.0,15,16,N. Jeffri,Trident,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:24.430,61.355,4.898,196.179,1:43.718,28.0,16,2,A. Fuoco,PREMA Racing,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:32.618,69.543,8.188,195.649,1:44.076,23.0,17,12,R. Visoiu,Campos Racing,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:35.624,72.549,3.006,195.455,1:43.713,21.0,18,8,A. Albon,ART Grand Prix,Silverstone,Feature Race,,Round 6 ,2017-07-16
+27,49:25.486,1 LAP,1 LAP,192.927,1:44.092,22.0,19,17,C. Ilott,Trident,Silverstone,Feature Race,,Round 6 ,2017-07-16
+11,1:38.427,-,-,215.465,,,1,1,C. Leclerc,PREMA Racing,Silverstone,Qualifying Session,15:40:24,Round 6 ,2017-07-16
+10,1:38.885,0.458,-,214.467,,,2,9,O. Rowland,DAMS,Silverstone,Qualifying Session,15:40:23,Round 6 ,2017-07-16
+9,1:38.906,0.479,0.021,214.421,,,3,20,N. Nato,Pertamina Arden,Silverstone,Qualifying Session,15:40:03,Round 6 ,2017-07-16
+10,1:38.988,0.561,0.082,214.244,,,4,15,J. King,MP Motorsport,Silverstone,Qualifying Session,15:40:28,Round 6 ,2017-07-16
+11,1:39.062,0.635,0.074,214.084,,,5,6,A. Markelov,RUSSIAN TIME,Silverstone,Qualifying Session,15:41:21,Round 6 ,2017-07-16
+10,1:39.138,0.711,0.076,213.919,,,6,10,N. Latifi,DAMS,Silverstone,Qualifying Session,15:40:35,Round 6 ,2017-07-16
+12,1:39.368,0.941,0.230,213.424,,,7,19,S. Canamasas,Rapax,Silverstone,Qualifying Session,15:40:18,Round 6 ,2017-07-16
+9,1:39.405,0.978,0.037,213.345,,,8,7,N. Matsushita,ART Grand Prix,Silverstone,Qualifying Session,15:40:38,Round 6 ,2017-07-16
+12,1:39.413,0.986,0.008,213.328,,,9,14,S. Sette Câmara,MP Motorsport,Silverstone,Qualifying Session,15:40:48,Round 6 ,2017-07-16
+12,1:39.594,1.167,0.028,212.94,,,10,18,N. de Vries,Rapax,Silverstone,Qualifying Session,15:40:42,Round 6 ,2017-07-16
+11,1:39.879,1.452,0.285,212.332,,,11,4,G. Malja,Racing Engineering,Silverstone,Qualifying Session,15:41:17,Round 6 ,2017-07-16
+12,1:39.959,1.532,0.080,212.162,,,12,5,L. Ghiotto,RUSSIAN TIME,Silverstone,Qualifying Session,15:22:20,Round 6 ,2017-07-16
+11,1:39.566,1.139,0.153,213.0,,,13,8,A. Albon,ART Grand Prix,Silverstone,Qualifying Session,15:41:12,Round 6 ,2017-07-16
+11,1:39.966,1.539,0.007,212.148,,,14,3,L. Delétraz,Racing Engineering,Silverstone,Qualifying Session,15:40:33,Round 6 ,2017-07-16
+13,1:39.996,1.569,0.030,212.084,,,15,17,C. Ilott,Trident,Silverstone,Qualifying Session,15:40:56,Round 6 ,2017-07-16
+12,1:40.394,1.967,0.398,211.243,,,16,11,R. Boschung,Campos Racing,Silverstone,Qualifying Session,15:41:00,Round 6 ,2017-07-16
+12,1:40.454,2.027,0.042,211.117,,,17,16,N. Jeffri,Trident,Silverstone,Qualifying Session,15:41:28,Round 6 ,2017-07-16
+8,1:40.478,2.051,0.024,211.067,,,18,21,S. Gelael,Pertamina Arden,Silverstone,Qualifying Session,15:24:57,Round 6 ,2017-07-16
+12,1:40.568,2.141,0.090,210.878,,,19,2,A. Fuoco,PREMA Racing,Silverstone,Qualifying Session,15:44:29,Round 6 ,2017-07-16
+12,1:40.412,1.985,0.018,211.205,,,20,12,R. Visoiu,Campos Racing,Silverstone,Qualifying Session,15:41:06,Round 6 ,2017-07-16
+17,1:40.695,-,-,210.612,,,1,1,C. Leclerc,PREMA Racing,Silverstone,Free Practice,16:03:00,Round 6 ,2017-07-16
+18,1:41.010,0.315,-,209.955,,,2,9,O. Rowland,DAMS,Silverstone,Free Practice,16:01:04,Round 6 ,2017-07-16
+16,1:41.247,0.552,0.237,209.463,,,3,5,L. Ghiotto,RUSSIAN TIME,Silverstone,Free Practice,15:46:34,Round 6 ,2017-07-16
+17,1:41.283,0.588,0.036,209.389,,,4,10,N. Latifi,DAMS,Silverstone,Free Practice,15:56:22,Round 6 ,2017-07-16
+17,1:41.316,0.621,0.033,209.321,,,5,6,A. Markelov,RUSSIAN TIME,Silverstone,Free Practice,16:05:10,Round 6 ,2017-07-16
+17,1:41.328,0.633,0.012,209.296,,,6,19,S. Canamasas,Rapax,Silverstone,Free Practice,16:13:53,Round 6 ,2017-07-16
+19,1:41.329,0.634,0.001,209.294,,,7,15,J. King,MP Motorsport,Silverstone,Free Practice,15:55:16,Round 6 ,2017-07-16
+20,1:41.359,0.664,0.030,209.232,,,8,18,N. de Vries,Rapax,Silverstone,Free Practice,15:47:38,Round 6 ,2017-07-16
+19,1:41.377,0.682,0.018,209.195,,,9,20,N. Nato,Pertamina Arden,Silverstone,Free Practice,16:02:23,Round 6 ,2017-07-16
+18,1:41.631,0.936,0.254,208.672,,,10,3,L. Delétraz,Racing Engineering,Silverstone,Free Practice,16:02:28,Round 6 ,2017-07-16
+16,1:41.660,0.965,0.029,208.613,,,11,14,S. Sette Câmara,MP Motorsport,Silverstone,Free Practice,15:50:50,Round 6 ,2017-07-16
+13,1:41.742,1.047,0.082,208.444,,,12,4,G. Malja,Racing Engineering,Silverstone,Free Practice,15:46:26,Round 6 ,2017-07-16
+16,1:41.755,1.060,0.013,208.418,,,13,2,A. Fuoco,PREMA Racing,Silverstone,Free Practice,16:03:48,Round 6 ,2017-07-16
+18,1:41.824,1.129,0.069,208.277,,,14,7,N. Matsushita,ART Grand Prix,Silverstone,Free Practice,15:58:24,Round 6 ,2017-07-16
+17,1:41.885,1.190,0.061,208.152,,,15,8,A. Albon,ART Grand Prix,Silverstone,Free Practice,15:49:18,Round 6 ,2017-07-16
+19,1:42.224,1.529,0.339,207.462,,,16,21,S. Gelael,Pertamina Arden,Silverstone,Free Practice,16:06:01,Round 6 ,2017-07-16
+15,1:42.284,1.589,0.060,207.34,,,17,11,R. Boschung,Campos Racing,Silverstone,Free Practice,16:03:39,Round 6 ,2017-07-16
+17,1:42.314,1.619,0.030,207.279,,,18,17,C. Ilott,Trident,Silverstone,Free Practice,16:03:08,Round 6 ,2017-07-16
+17,1:42.317,1.622,0.003,207.273,,,19,16,N. Jeffri,Trident,Silverstone,Free Practice,15:45:18,Round 6 ,2017-07-16
+18,1:42.677,1.982,0.360,206.546,,,20,12,R. Visoiu,Campos Racing,Silverstone,Free Practice,16:05:15,Round 6 ,2017-07-16

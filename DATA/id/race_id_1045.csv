@@ -1,0 +1,82 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+38,1:25:22.484,-,-,113.697,1:24.879,29.0,1,11,F. Drugovich,MP Motorsport,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:24.889,2.405,2.405,113.643,1:25.064,30.0,2,20,R. Verschoor,Trident,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:26.129,3.645,1.240,113.616,1:24.995,34.0,3,17,A. Iwasa,DAMS,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:29.431,6.947,3.302,113.543,1:25.203,32.0,4,1,D. Hauger,PREMA Racing,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:30.471,7.987,1.040,113.52,1:25.200,37.0,5,22,E. Fittipaldi,Charouz Racing System,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:33.356,10.872,2.885,113.456,1:25.469,10.0,6,25,A. Cordeel,Van Amersfoort Racing,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:34.884,12.400,1.528,113.422,1:24.934,14.0,7,8,J. Vips,Hitech Grand Prix,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:37.093,14.609,1.413,113.373,1:25.510,29.0,8,14,O. Caldwell,Campos Racing,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:38.046,15.562,0.953,113.352,1:23.339,30.0,9,10,T. Pourchaire,ART Grand Prix,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:39.765,17.281,1.719,113.314,1:25.377,28.0,10,2,J. Daruvala,PREMA Racing,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:40.983,18.499,1.218,113.287,1:25.571,11.0,11,21,C. Williams,Trident,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:42.748,20.264,1.765,113.249,1:23.865,30.0,12,5,L. Lawson,Carlin,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:48.085,25.601,5.337,113.131,1:24.329,28.0,13,7,M. Armstrong,Hitech Grand Prix,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:51.869,29.385,2.241,113.048,1:23.078,31.0,14,9,F. Vesti,ART Grand Prix,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:26:13.123,50.639,21.254,112.584,1:24.648,29.0,15,15,R. Boschung,Campos Racing,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:35.680,13.196,0.796,113.404,1:25.044,15.0,16,24,D. Beckmann,Van Amersfoort Racing,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:49.628,27.144,1.543,113.097,1:24.314,38.0,17,16,R. Nissany,DAMS,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+29,43:42.549,-,-,169.461,1:26.338,5.0,1,7,M. Armstrong,Hitech Grand Prix,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:43.429,0.880,0.880,169.404,1:26.253,5.0,2,12,C. Novalak,MP Motorsport,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:44.539,1.990,1.110,169.332,1:26.293,3.0,3,1,D. Hauger,PREMA Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:45.066,2.517,0.527,169.298,1:26.261,4.0,4,5,L. Lawson,Carlin,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:45.575,3.026,0.509,169.265,1:26.225,4.0,5,8,J. Vips,Hitech Grand Prix,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:45.867,3.318,0.292,169.246,1:26.287,5.0,6,17,A. Iwasa,DAMS,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:46.817,4.268,0.950,169.185,1:26.366,5.0,7,20,R. Verschoor,Trident,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:47.199,4.650,0.382,169.161,1:26.218,5.0,8,6,L. Sargeant,Carlin,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:47.389,4.840,0.190,169.148,1:25.987,18.0,9,3,J. Doohan,Virtuosi Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:48.007,5.458,0.618,169.109,1:25.808,25.0,10,11,F. Drugovich,MP Motorsport,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:48.836,6.287,0.829,169.055,1:26.439,5.0,11,9,F. Vesti,ART Grand Prix,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:49.268,6.719,0.432,169.028,1:26.377,6.0,12,25,A. Cordeel,Van Amersfoort Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:49.965,7.416,0.697,168.983,1:26.382,6.0,13,22,E. Fittipaldi,Charouz Racing System,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:50.652,8.103,0.687,168.939,1:26.237,4.0,14,24,D. Beckmann,Van Amersfoort Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:51.489,8.940,0.837,168.885,1:26.431,6.0,15,16,R. Nissany,DAMS,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:52.268,9.719,0.779,168.835,1:26.020,22.0,16,2,J. Daruvala,PREMA Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:52.367,9.818,0.099,168.829,1:26.708,11.0,17,15,R. Boschung,Campos Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:52.994,10.445,0.627,168.788,1:26.772,12.0,18,21,C. Williams,Trident,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:53.837,11.288,0.843,168.734,1:26.688,9.0,19,4,M. Sato,Virtuosi Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:54.019,11.470,0.182,168.723,1:26.003,24.0,20,10,T. Pourchaire,ART Grand Prix,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+13,1:20.713,-,-,189.961,,,1,11,F. Drugovich,MP Motorsport,Zandvoort,Qualifying Session,15:37:09,Round 12 ,2022-09-04
+10,1:20.939,0.226,0.226,189.431,,,2,3,J. Doohan,Virtuosi Racing,Zandvoort,Qualifying Session,15:37:49,Round 12 ,2022-09-04
+12,1:21.241,0.528,0.302,188.727,,,3,6,L. Sargeant,Carlin,Zandvoort,Qualifying Session,15:37:02,Round 12 ,2022-09-04
+13,1:21.242,0.529,0.001,188.725,,,4,20,R. Verschoor,Trident,Zandvoort,Qualifying Session,15:37:34,Round 12 ,2022-09-04
+12,1:21.243,0.530,0.001,188.722,,,5,17,A. Iwasa,DAMS,Zandvoort,Qualifying Session,15:40:03,Round 12 ,2022-09-04
+12,1:21.281,0.568,0.038,188.634,,,6,5,L. Lawson,Carlin,Zandvoort,Qualifying Session,15:37:05,Round 12 ,2022-09-04
+11,1:21.347,0.634,0.066,188.481,,,7,1,D. Hauger,PREMA Racing,Zandvoort,Qualifying Session,15:37:42,Round 12 ,2022-09-04
+11,1:21.443,0.730,0.096,188.259,,,8,8,J. Vips,Hitech Grand Prix,Zandvoort,Qualifying Session,15:40:32,Round 12 ,2022-09-04
+11,1:21.454,0.741,0.011,188.233,,,9,7,M. Armstrong,Hitech Grand Prix,Zandvoort,Qualifying Session,15:37:28,Round 12 ,2022-09-04
+14,1:21.559,0.846,0.105,187.991,,,10,12,C. Novalak,MP Motorsport,Zandvoort,Qualifying Session,15:40:42,Round 12 ,2022-09-04
+13,1:21.580,0.867,0.021,187.943,,,11,9,F. Vesti,ART Grand Prix,Zandvoort,Qualifying Session,15:40:29,Round 12 ,2022-09-04
+12,1:21.619,0.906,0.039,187.853,,,12,25,A. Cordeel,Van Amersfoort Racing,Zandvoort,Qualifying Session,15:36:41,Round 12 ,2022-09-04
+12,1:21.733,1.020,0.114,187.591,,,13,22,E. Fittipaldi,Charouz Racing System,Zandvoort,Qualifying Session,15:36:44,Round 12 ,2022-09-04
+14,1:21.738,1.025,0.005,187.579,,,14,16,R. Nissany,DAMS,Zandvoort,Qualifying Session,15:37:17,Round 12 ,2022-09-04
+13,1:21.923,1.210,0.185,187.156,,,15,4,M. Sato,Virtuosi Racing,Zandvoort,Qualifying Session,15:37:39,Round 12 ,2022-09-04
+4,1:21.984,1.271,0.061,187.016,,,16,10,T. Pourchaire,ART Grand Prix,Zandvoort,Qualifying Session,15:05:46,Round 12 ,2022-09-04
+11,1:22.007,1.294,0.023,186.964,,,17,2,J. Daruvala,PREMA Racing,Zandvoort,Qualifying Session,15:06:17,Round 12 ,2022-09-04
+12,1:22.075,1.362,0.068,186.809,,,18,24,D. Beckmann,Van Amersfoort Racing,Zandvoort,Qualifying Session,15:36:47,Round 12 ,2022-09-04
+11,1:22.084,1.371,0.009,186.789,,,19,14,O. Caldwell,Campos Racing,Zandvoort,Qualifying Session,15:36:49,Round 12 ,2022-09-04
+14,1:22.122,1.409,0.038,186.702,,,20,21,C. Williams,Trident,Zandvoort,Qualifying Session,15:40:09,Round 12 ,2022-09-04
+11,1:22.399,1.686,0.277,186.075,,,21,15,R. Boschung,Campos Racing,Zandvoort,Qualifying Session,15:30:45,Round 12 ,2022-09-04
+12,1:23.113,2.400,0.714,184.476,,,22,23,T. Calderón,Charouz Racing System,Zandvoort,Qualifying Session,15:36:56,Round 12 ,2022-09-04
+15,1:22.967,-,-,184.801,,,1,3,J. Doohan,Virtuosi Racing,Zandvoort,Free Practice,10:44:11,Round 12 ,2022-09-04
+17,1:23.290,0.323,0.323,184.084,,,2,17,A. Iwasa,DAMS,Zandvoort,Free Practice,10:46:42,Round 12 ,2022-09-04
+17,1:23.369,0.402,0.079,183.91,,,3,11,F. Drugovich,MP Motorsport,Zandvoort,Free Practice,10:46:49,Round 12 ,2022-09-04
+16,1:23.402,0.435,0.033,183.837,,,4,5,L. Lawson,Carlin,Zandvoort,Free Practice,10:46:55,Round 12 ,2022-09-04
+15,1:23.414,0.447,0.012,183.81,,,5,1,D. Hauger,PREMA Racing,Zandvoort,Free Practice,10:47:28,Round 12 ,2022-09-04
+9,1:23.453,0.486,0.039,183.724,,,6,9,F. Vesti,ART Grand Prix,Zandvoort,Free Practice,10:29:53,Round 12 ,2022-09-04
+16,1:23.463,0.496,0.010,183.702,,,7,6,L. Sargeant,Carlin,Zandvoort,Free Practice,10:46:57,Round 12 ,2022-09-04
+18,1:23.537,0.570,0.074,183.54,,,8,25,A. Cordeel,Van Amersfoort Racing,Zandvoort,Free Practice,10:29:12,Round 12 ,2022-09-04
+16,1:23.584,0.617,0.047,183.437,,,9,10,T. Pourchaire,ART Grand Prix,Zandvoort,Free Practice,10:46:53,Round 12 ,2022-09-04
+17,1:23.595,0.628,0.011,183.412,,,10,20,R. Verschoor,Trident,Zandvoort,Free Practice,10:49:38,Round 12 ,2022-09-04
+15,1:23.839,0.872,0.244,182.879,,,11,2,J. Daruvala,PREMA Racing,Zandvoort,Free Practice,10:47:32,Round 12 ,2022-09-04
+12,1:23.955,0.988,0.116,182.626,,,12,24,D. Beckmann,Van Amersfoort Racing,Zandvoort,Free Practice,10:50:19,Round 12 ,2022-09-04
+16,1:23.970,1.003,0.015,182.593,,,13,4,M. Sato,Virtuosi Racing,Zandvoort,Free Practice,10:50:16,Round 12 ,2022-09-04
+15,1:23.987,1.020,0.017,182.556,,,14,8,J. Vips,Hitech Grand Prix,Zandvoort,Free Practice,10:50:13,Round 12 ,2022-09-04
+15,1:24.008,1.041,0.021,182.511,,,15,21,C. Williams,Trident,Zandvoort,Free Practice,10:46:36,Round 12 ,2022-09-04
+16,1:24.033,1.066,0.025,182.456,,,16,7,M. Armstrong,Hitech Grand Prix,Zandvoort,Free Practice,10:47:22,Round 12 ,2022-09-04
+16,1:24.077,1.110,0.044,182.361,,,17,12,C. Novalak,MP Motorsport,Zandvoort,Free Practice,10:47:25,Round 12 ,2022-09-04
+16,1:24.126,1.159,0.049,182.255,,,18,14,O. Caldwell,Campos Racing,Zandvoort,Free Practice,10:50:09,Round 12 ,2022-09-04
+16,1:24.297,1.330,0.171,181.885,,,19,16,R. Nissany,DAMS,Zandvoort,Free Practice,10:26:34,Round 12 ,2022-09-04
+17,1:24.476,1.509,0.179,181.5,,,20,15,R. Boschung,Campos Racing,Zandvoort,Free Practice,10:49:54,Round 12 ,2022-09-04
+17,1:24.608,1.641,0.132,181.216,,,21,22,E. Fittipaldi,Charouz Racing System,Zandvoort,Free Practice,10:43:19,Round 12 ,2022-09-04
+17,1:25.824,2.857,1.216,178.649,,,22,23,T. Calderón,Charouz Racing System,Zandvoort,Free Practice,10:50:56,Round 12 ,2022-09-04

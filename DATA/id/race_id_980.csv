@@ -1,0 +1,75 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+18,39:40.215,-,-,190.492,2:01.475,3.0,1,14,S. Sette Câmara,MP Motorsport,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:40.838,0.623,-,190.442,2:01.367,2.0,2,3,N. de Vries,Racing Engineering,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:42.618,2.403,1.780,190.3,2:01.812,5.0,3,5,L. Ghiotto,RUSSIAN TIME,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:43.324,3.109,0.706,190.243,2:01.718,4.0,4,20,N. Nato,Pertamina Arden,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:44.035,3.820,0.711,190.187,2:01.518,7.0,5,1,C. Leclerc,PREMA Racing,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:45.109,4.894,1.074,190.101,2:01.711,3.0,6,19,R. Merhi,Rapax,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:45.663,5.448,0.554,190.057,2:01.807,7.0,7,2,A. Fuoco,PREMA Racing,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:46.043,5.828,0.380,190.027,2:02.655,14.0,8,9,O. Rowland,DAMS,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:46.905,6.690,0.862,189.958,2:02.170,4.0,9,10,N. Latifi,DAMS,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:49.417,9.202,2.512,189.758,2:02.716,3.0,10,17,S. Ferrucci,Trident,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:49.844,9.629,0.427,189.724,2:02.625,5.0,11,4,G. Malja,Racing Engineering,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:50.771,10.556,0.927,189.651,2:02.683,3.0,12,18,L. Delétraz,Rapax,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:51.080,10.865,0.309,189.626,2:02.906,4.0,13,11,R. Boschung,Campos Racing,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:51.310,11.095,0.230,189.608,1:59.965,11.0,14,15,J. King,MP Motorsport,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:52.285,12.070,0.975,189.531,2:02.968,5.0,15,16,N. Jeffri,Trident,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:53.924,13.709,1.639,189.401,2:02.648,2.0,16,12,R. Visoiu,Campos Racing,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:54.336,14.121,0.412,189.368,2:00.377,14.0,17,21,S. Gelael,Pertamina Arden,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:57.758,17.543,3.422,189.098,2:00.925,3.0,18,8,A. Albon,ART Grand Prix,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+25,52:50.172,-,-,198.7,2:00.204,18.0,1,6,A. Markelov,RUSSIAN TIME,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,52:56.229,6.057,-,198.321,2:01.212,11.0,2,5,L. Ghiotto,RUSSIAN TIME,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,52:56.618,6.446,0.389,198.296,2:00.240,16.0,3,2,A. Fuoco,PREMA Racing,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:10.084,19.912,13.466,197.459,2:00.889,10.0,4,4,G. Malja,Racing Engineering,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:11.321,21.149,1.237,197.383,2:00.669,11.0,5,3,N. de Vries,Racing Engineering,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:19.528,29.356,8.207,196.877,2:00.938,10.0,6,14,S. Sette Câmara,MP Motorsport,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:23.651,33.479,4.123,196.623,2:01.656,11.0,7,19,R. Merhi,Rapax,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:25.783,35.611,2.132,196.492,2:01.493,19.0,8,20,N. Nato,Pertamina Arden,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:32.907,42.735,7.124,196.057,2:01.693,16.0,9,17,S. Ferrucci,Trident,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:34.305,44.133,1.398,195.971,2:01.015,9.0,10,12,R. Visoiu,Campos Racing,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:37.780,47.608,3.475,195.76,2:01.106,16.0,11,16,N. Jeffri,Trident,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:49.724,59.552,11.944,195.036,2:01.109,11.0,12,8,A. Albon,ART Grand Prix,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:50.389,60.217,0.665,194.996,2:00.693,10.0,13,11,R. Boschung,Campos Racing,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:51.242,61.070,0.853,194.944,2:01.719,18.0,14,18,L. Delétraz,Rapax,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,54:04.254,74.082,13.012,194.162,2:01.229,13.0,15,21,S. Gelael,Pertamina Arden,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+24,53:34.588,1 LAP,1 LAP,188.11,2:01.095,11.0,16,7,N. Matsushita,ART Grand Prix,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+10,2:20.842,-,-,179.026,,,1,1,C. Leclerc,PREMA Racing,Spa-Francorchamps,Qualifying Session,16:36:33,Round 8 ,2017-08-27
+10,2:21.510,0.668,-,178.181,,,2,10,N. Latifi,DAMS,Spa-Francorchamps,Qualifying Session,16:45:55,Round 8 ,2017-08-27
+10,2:21.578,0.736,0.068,178.095,,,3,9,O. Rowland,DAMS,Spa-Francorchamps,Qualifying Session,16:35:14,Round 8 ,2017-08-27
+11,2:22.069,1.227,0.491,177.479,,,4,4,G. Malja,Racing Engineering,Spa-Francorchamps,Qualifying Session,16:37:50,Round 8 ,2017-08-27
+10,2:22.073,1.231,0.004,177.474,,,5,2,A. Fuoco,PREMA Racing,Spa-Francorchamps,Qualifying Session,16:36:16,Round 8 ,2017-08-27
+10,2:22.534,1.692,0.461,176.9,,,6,3,N. de Vries,Racing Engineering,Spa-Francorchamps,Qualifying Session,16:34:37,Round 8 ,2017-08-27
+10,2:22.952,2.110,0.418,176.383,,,7,5,L. Ghiotto,RUSSIAN TIME,Spa-Francorchamps,Qualifying Session,16:30:50,Round 8 ,2017-08-27
+10,2:23.132,2.290,0.180,176.161,,,8,19,R. Merhi,Rapax,Spa-Francorchamps,Qualifying Session,16:33:36,Round 8 ,2017-08-27
+10,2:23.180,2.338,0.048,176.102,,,9,6,A. Markelov,RUSSIAN TIME,Spa-Francorchamps,Qualifying Session,16:31:33,Round 8 ,2017-08-27
+10,2:23.409,2.567,0.229,175.821,,,10,8,A. Albon,ART Grand Prix,Spa-Francorchamps,Qualifying Session,16:57:56,Round 8 ,2017-08-27
+7,2:23.424,2.582,0.015,175.803,,,11,14,S. Sette Câmara,MP Motorsport,Spa-Francorchamps,Qualifying Session,16:32:43,Round 8 ,2017-08-27
+10,2:23.459,2.617,0.035,175.76,,,12,17,S. Ferrucci,Trident,Spa-Francorchamps,Qualifying Session,16:34:32,Round 8 ,2017-08-27
+11,2:23.470,2.628,0.011,175.746,,,13,18,L. Delétraz,Rapax,Spa-Francorchamps,Qualifying Session,16:42:46,Round 8 ,2017-08-27
+11,2:23.737,2.895,0.267,175.42,,,14,11,R. Boschung,Campos Racing,Spa-Francorchamps,Qualifying Session,16:32:55,Round 8 ,2017-08-27
+10,2:23.788,2.946,0.051,175.358,,,15,7,N. Matsushita,ART Grand Prix,Spa-Francorchamps,Qualifying Session,16:36:25,Round 8 ,2017-08-27
+9,2:24.127,3.285,0.339,174.945,,,16,15,J. King,MP Motorsport,Spa-Francorchamps,Qualifying Session,16:57:53,Round 8 ,2017-08-27
+11,2:24.215,3.373,0.088,174.838,,,17,12,R. Visoiu,Campos Racing,Spa-Francorchamps,Qualifying Session,16:38:14,Round 8 ,2017-08-27
+9,2:24.437,3.595,0.222,174.57,,,18,20,N. Nato,Pertamina Arden,Spa-Francorchamps,Qualifying Session,16:33:47,Round 8 ,2017-08-27
+10,2:25.039,4.197,0.602,173.845,,,19,21,S. Gelael,Pertamina Arden,Spa-Francorchamps,Qualifying Session,16:43:56,Round 8 ,2017-08-27
+10,2:27.008,6.166,1.969,171.517,,,20,16,N. Jeffri,Trident,Spa-Francorchamps,Qualifying Session,16:44:07,Round 8 ,2017-08-27
+7,1:57.681,-,-,214.26,,,1,1,C. Leclerc,PREMA Racing,Spa-Francorchamps,Free Practice,12:03:30,Round 8 ,2017-08-27
+17,1:57.819,0.138,-,214.009,,,2,2,A. Fuoco,PREMA Racing,Spa-Francorchamps,Free Practice,12:07:56,Round 8 ,2017-08-27
+14,1:58.015,0.334,0.196,213.654,,,3,9,O. Rowland,DAMS,Spa-Francorchamps,Free Practice,12:06:25,Round 8 ,2017-08-27
+12,1:58.184,0.503,0.169,213.348,,,4,6,A. Markelov,RUSSIAN TIME,Spa-Francorchamps,Free Practice,12:03:24,Round 8 ,2017-08-27
+15,1:58.421,0.740,0.237,212.921,,,5,11,R. Boschung,Campos Racing,Spa-Francorchamps,Free Practice,12:06:47,Round 8 ,2017-08-27
+18,1:58.425,0.744,0.004,212.914,,,6,20,N. Nato,Pertamina Arden,Spa-Francorchamps,Free Practice,12:07:37,Round 8 ,2017-08-27
+15,1:58.469,0.788,0.044,212.835,,,7,3,N. de Vries,Racing Engineering,Spa-Francorchamps,Free Practice,12:02:55,Round 8 ,2017-08-27
+14,1:58.565,0.884,0.096,212.663,,,8,21,S. Gelael,Pertamina Arden,Spa-Francorchamps,Free Practice,12:02:15,Round 8 ,2017-08-27
+15,1:58.596,0.915,0.031,212.607,,,9,4,G. Malja,Racing Engineering,Spa-Francorchamps,Free Practice,12:01:56,Round 8 ,2017-08-27
+15,1:58.603,0.922,0.007,212.594,,,10,10,N. Latifi,DAMS,Spa-Francorchamps,Free Practice,12:03:19,Round 8 ,2017-08-27
+16,1:58.607,0.926,0.004,212.587,,,11,14,S. Sette Câmara,MP Motorsport,Spa-Francorchamps,Free Practice,12:06:58,Round 8 ,2017-08-27
+12,1:58.675,0.994,0.068,212.465,,,12,8,A. Albon,ART Grand Prix,Spa-Francorchamps,Free Practice,12:07:04,Round 8 ,2017-08-27
+14,1:58.677,0.996,0.002,212.462,,,13,5,L. Ghiotto,RUSSIAN TIME,Spa-Francorchamps,Free Practice,12:07:26,Round 8 ,2017-08-27
+14,1:58.767,1.086,0.090,212.301,,,14,7,N. Matsushita,ART Grand Prix,Spa-Francorchamps,Free Practice,12:07:30,Round 8 ,2017-08-27
+16,1:58.788,1.107,0.021,212.263,,,15,18,L. Delétraz,Rapax,Spa-Francorchamps,Free Practice,12:06:32,Round 8 ,2017-08-27
+16,1:58.805,1.124,0.017,212.233,,,16,12,R. Visoiu,Campos Racing,Spa-Francorchamps,Free Practice,12:06:28,Round 8 ,2017-08-27
+15,1:58.811,1.130,0.006,212.222,,,17,17,S. Ferrucci,Trident,Spa-Francorchamps,Free Practice,12:06:38,Round 8 ,2017-08-27
+18,1:58.881,1.200,0.070,212.097,,,18,15,J. King,MP Motorsport,Spa-Francorchamps,Free Practice,12:10:38,Round 8 ,2017-08-27
+16,1:59.408,1.727,0.527,211.161,,,19,16,N. Jeffri,Trident,Spa-Francorchamps,Free Practice,12:06:51,Round 8 ,2017-08-27
+14,1:59.586,1.905,0.178,210.847,,,20,19,R. Merhi,Rapax,Spa-Francorchamps,Free Practice,12:11:29,Round 8 ,2017-08-27

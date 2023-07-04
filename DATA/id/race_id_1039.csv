@@ -1,0 +1,80 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+42,1:02:35.675,-,-,134.344,1:23.251,29.0,1,11,F. Drugovich,MP Motorsport,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:36.502,0.827,0.827,134.314,1:23.264,29.0,2,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:43.717,8.042,7.215,134.057,1:23.256,31.0,3,8,J. Vips,Hitech Grand Prix,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:48.629,12.954,4.912,133.882,1:23.376,17.0,4,3,J. Doohan,Virtuosi Racing,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:49.209,13.534,0.580,133.862,1:23.525,33.0,5,22,E. Fittipaldi,Charouz Racing System,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:50.421,14.746,1.212,133.819,1:23.737,29.0,6,7,M. Armstrong,Hitech Grand Prix,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:50.976,15.301,0.555,133.799,1:22.863,13.0,7,1,D. Hauger,PREMA Racing,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:51.396,15.721,0.420,133.784,1:22.900,15.0,8,2,J. Daruvala,PREMA Racing,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:51.839,16.164,0.443,133.768,1:23.344,17.0,9,6,L. Sargeant,Carlin,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:59.840,24.165,8.001,133.485,1:24.043,31.0,10,4,M. Sato,Virtuosi Racing,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:03:03.345,27.670,3.505,133.361,1:24.206,28.0,11,23,C. Bölükbasi,Charouz Racing System,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:03:03.430,27.755,0.085,133.358,1:22.862,35.0,12,20,R. Verschoor,Trident,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:03:06.188,30.513,2.758,133.261,1:24.185,16.0,13,24,J. Hughes,Van Amersfoort Racing,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:03:07.300,31.625,1.112,133.222,1:23.593,17.0,14,9,F. Vesti,ART Grand Prix,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:03:08.284,32.609,0.984,133.188,1:23.689,17.0,15,14,O. Caldwell,Campos Racing,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+41,1:01:30.459,DNF,-,133.463,1:23.559,14.0,16,21,C. Williams,Trident,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+41,1:01:30.688,DNF,-,133.455,1:23.409,17.0,17,17,A. Iwasa,DAMS,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+30,44:28.491,-,-,135.056,1:23.033,28.0,1,1,D. Hauger,PREMA Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:35.202,6.711,6.711,134.717,1:23.549,26.0,2,2,J. Daruvala,PREMA Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:35.758,7.267,0.556,134.689,1:23.086,30.0,3,7,M. Armstrong,Hitech Grand Prix,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:41.655,13.164,5.897,134.393,1:24.087,16.0,4,22,E. Fittipaldi,Charouz Racing System,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:43.057,14.566,1.402,134.322,1:24.213,17.0,5,8,J. Vips,Hitech Grand Prix,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:44.320,15.829,1.263,134.259,1:22.941,30.0,6,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:45.856,17.365,1.536,134.182,1:22.832,30.0,7,3,J. Doohan,Virtuosi Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:50.161,21.670,4.305,133.968,1:23.661,27.0,8,5,L. Lawson,Carlin,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:51.329,22.838,1.168,133.91,1:24.363,9.0,9,16,R. Nissany,DAMS,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:51.522,23.031,0.193,133.9,1:23.085,30.0,10,6,L. Sargeant,Carlin,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:54.847,26.356,3.325,133.735,1:24.538,20.0,11,9,F. Vesti,ART Grand Prix,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:59.829,31.338,4.982,133.488,1:24.579,9.0,12,23,C. Bölükbasi,Charouz Racing System,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:00.905,32.414,1.076,133.435,1:23.286,29.0,13,20,R. Verschoor,Trident,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:12.717,44.226,11.812,132.854,1:24.750,7.0,14,21,C. Williams,Trident,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:13.143,44.652,0.426,132.833,1:24.879,6.0,15,4,M. Sato,Virtuosi Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:13.736,45.245,0.593,132.804,1:24.883,7.0,16,14,O. Caldwell,Campos Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:15.761,47.270,2.025,132.705,1:23.815,8.0,17,25,A. Cordeel,Van Amersfoort Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:23.894,55.403,8.133,132.309,1:23.594,15.0,18,24,J. Hughes,Van Amersfoort Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:24.242,55.751,0.348,132.292,1:23.846,15.0,19,17,A. Iwasa,DAMS,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+9,1:21.535,-,-,147.337,,,1,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Qualifying Group B,12:17:42,Round 5 ,2022-05-29
+9,1:21.618,0.083,0.083,147.188,,,2,8,J. Vips,Hitech Grand Prix,Monte Carlo,Qualifying Group B,12:17:37,Round 5 ,2022-05-29
+10,1:21.719,0.184,0.101,147.006,,,3,22,E. Fittipaldi,Charouz Racing System,Monte Carlo,Qualifying Group B,12:17:00,Round 5 ,2022-05-29
+9,1:21.928,0.393,0.209,146.631,,,4,2,J. Daruvala,PREMA Racing,Monte Carlo,Qualifying Group B,12:15:56,Round 5 ,2022-05-29
+9,1:22.011,0.476,0.083,146.482,,,5,24,J. Hughes,Van Amersfoort Racing,Monte Carlo,Qualifying Group B,12:15:47,Round 5 ,2022-05-29
+9,1:22.017,0.482,0.006,146.472,,,6,16,R. Nissany,DAMS,Monte Carlo,Qualifying Group B,12:17:47,Round 5 ,2022-05-29
+9,1:22.072,0.537,0.055,146.373,,,7,6,L. Sargeant,Carlin,Monte Carlo,Qualifying Group B,12:17:34,Round 5 ,2022-05-29
+10,1:23.180,1.645,1.108,144.424,,,8,12,C. Novalak,MP Motorsport,Monte Carlo,Qualifying Group B,12:16:56,Round 5 ,2022-05-29
+9,1:23.241,1.706,0.061,144.318,,,9,4,M. Sato,Virtuosi Racing,Monte Carlo,Qualifying Group B,12:17:52,Round 5 ,2022-05-29
+9,1:23.498,1.963,0.257,143.874,,,10,14,O. Caldwell,Campos Racing,Monte Carlo,Qualifying Group B,12:17:30,Round 5 ,2022-05-29
+10,1:21.348,-,-,147.676,,,1,11,F. Drugovich,MP Motorsport,Monte Carlo,Qualifying Group A,11:53:24,Round 5 ,2022-05-29
+11,1:21.432,0.084,0.084,147.524,,,2,3,J. Doohan,Virtuosi Racing,Monte Carlo,Qualifying Group A,11:56:39,Round 5 ,2022-05-29
+11,1:21.499,0.151,0.067,147.403,,,3,5,L. Lawson,Carlin,Monte Carlo,Qualifying Group A,11:53:39,Round 5 ,2022-05-29
+11,1:21.734,0.386,0.235,146.979,,,4,7,M. Armstrong,Hitech Grand Prix,Monte Carlo,Qualifying Group A,11:53:59,Round 5 ,2022-05-29
+11,1:21.817,0.469,0.083,146.83,,,5,1,D. Hauger,PREMA Racing,Monte Carlo,Qualifying Group A,11:53:29,Round 5 ,2022-05-29
+10,1:21.859,0.511,0.042,146.754,,,6,15,R. Boschung,Campos Racing,Monte Carlo,Qualifying Group A,11:50:48,Round 5 ,2022-05-29
+11,1:21.902,0.554,0.043,146.677,,,7,17,A. Iwasa,DAMS,Monte Carlo,Qualifying Group A,11:54:06,Round 5 ,2022-05-29
+11,1:21.985,0.637,0.083,146.529,,,8,21,C. Williams,Trident,Monte Carlo,Qualifying Group A,11:53:48,Round 5 ,2022-05-29
+10,1:22.703,1.355,0.718,145.257,,,9,9,F. Vesti,ART Grand Prix,Monte Carlo,Qualifying Group A,11:50:46,Round 5 ,2022-05-29
+11,1:22.762,1.414,0.059,145.153,,,10,25,A. Cordeel,Van Amersfoort Racing,Monte Carlo,Qualifying Group A,11:56:25,Round 5 ,2022-05-29
+10,1:24.150,2.802,1.388,142.759,,,11,23,C. Bölükbasi,Charouz Racing System,Monte Carlo,Qualifying Group A,11:51:05,Round 5 ,2022-05-29
+26,1:21.589,-,-,147.24,,,1,11,F. Drugovich,MP Motorsport,Monte Carlo,Free Practice,17:46:55,Round 5 ,2022-05-29
+25,1:21.591,0.002,0.002,147.236,,,2,15,R. Boschung,Campos Racing,Monte Carlo,Free Practice,17:47:31,Round 5 ,2022-05-29
+29,1:21.637,0.048,0.046,147.153,,,3,1,D. Hauger,PREMA Racing,Monte Carlo,Free Practice,17:46:42,Round 5 ,2022-05-29
+28,1:21.659,0.070,0.022,147.114,,,4,24,J. Hughes,Van Amersfoort Racing,Monte Carlo,Free Practice,17:49:53,Round 5 ,2022-05-29
+27,1:21.953,0.364,0.294,146.586,,,5,5,L. Lawson,Carlin,Monte Carlo,Free Practice,17:44:40,Round 5 ,2022-05-29
+28,1:22.033,0.444,0.080,146.443,,,6,3,J. Doohan,Virtuosi Racing,Monte Carlo,Free Practice,17:50:20,Round 5 ,2022-05-29
+28,1:22.052,0.463,0.019,146.409,,,7,2,J. Daruvala,PREMA Racing,Monte Carlo,Free Practice,17:44:15,Round 5 ,2022-05-29
+27,1:22.171,0.582,0.119,146.197,,,8,6,L. Sargeant,Carlin,Monte Carlo,Free Practice,17:47:39,Round 5 ,2022-05-29
+23,1:22.181,0.592,0.010,146.179,,,9,20,R. Verschoor,Trident,Monte Carlo,Free Practice,17:44:18,Round 5 ,2022-05-29
+27,1:22.187,0.598,0.006,146.169,,,10,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Free Practice,17:49:34,Round 5 ,2022-05-29
+26,1:22.286,0.697,0.099,145.993,,,11,16,R. Nissany,DAMS,Monte Carlo,Free Practice,17:47:28,Round 5 ,2022-05-29
+26,1:22.330,0.741,0.044,145.915,,,12,17,A. Iwasa,DAMS,Monte Carlo,Free Practice,17:46:38,Round 5 ,2022-05-29
+24,1:22.518,0.929,0.188,145.582,,,13,7,M. Armstrong,Hitech Grand Prix,Monte Carlo,Free Practice,17:40:45,Round 5 ,2022-05-29
+27,1:22.860,1.271,0.342,144.981,,,14,22,E. Fittipaldi,Charouz Racing System,Monte Carlo,Free Practice,17:43:39,Round 5 ,2022-05-29
+27,1:23.055,1.466,0.195,144.641,,,15,9,F. Vesti,ART Grand Prix,Monte Carlo,Free Practice,17:46:46,Round 5 ,2022-05-29
+25,1:23.614,2.025,0.559,143.674,,,16,8,J. Vips,Hitech Grand Prix,Monte Carlo,Free Practice,17:43:07,Round 5 ,2022-05-29
+27,1:23.672,2.083,0.058,143.574,,,17,25,A. Cordeel,Van Amersfoort Racing,Monte Carlo,Free Practice,17:50:57,Round 5 ,2022-05-29
+28,1:24.843,3.254,0.797,141.593,,,18,14,O. Caldwell,Campos Racing,Monte Carlo,Free Practice,17:44:51,Round 5 ,2022-05-29
+26,1:23.861,2.272,0.189,143.251,,,19,21,C. Williams,Trident,Monte Carlo,Free Practice,17:41:50,Round 5 ,2022-05-29
+26,1:23.862,2.273,0.001,143.249,,,20,23,C. Bölükbasi,Charouz Racing System,Monte Carlo,Free Practice,17:50:17,Round 5 ,2022-05-29
+25,1:24.018,2.429,0.156,142.983,,,21,4,M. Sato,Virtuosi Racing,Monte Carlo,Free Practice,17:29:10,Round 5 ,2022-05-29
+26,1:24.046,2.457,0.028,142.936,,,22,12,C. Novalak,MP Motorsport,Monte Carlo,Free Practice,17:40:53,Round 5 ,2022-05-29

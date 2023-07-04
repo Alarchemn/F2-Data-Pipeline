@@ -1,0 +1,62 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+21,34:26.288,-,-,211.412,1:35.849,4.0,1,15,J. Aitken,Campos Racing,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:29.052,2.764,2.764,211.129,1:35.812,4.0,2,16,J. King,MP Motorsport,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:32.818,6.530,3.766,210.746,1:35.770,10.0,3,4,N. de Vries,ART Grand Prix,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:33.900,7.612,1.082,210.636,1:35.813,4.0,4,7,G. Zhou,UNI-Virtuosi,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:34.476,8.189,0.577,210.577,1:35.689,12.0,5,2,N. Matsushita,Carlin,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:34.829,8.541,0.352,210.541,1:35.422,4.0,6,9,M. Schumacher,PREMA Racing,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:39.139,12.851,4.310,210.105,1:36.060,4.0,7,20,G. Alesi,Trident,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:39.677,13.389,0.538,210.051,1:36.016,10.0,8,1,L. Delétraz,Carlin,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:40.228,13.941,0.552,209.995,1:36.039,4.0,9,3,N. Mazepin,ART Grand Prix,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:49.379,23.091,9.150,209.075,1:36.135,4.0,10,6,N. Latifi,DAMS,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:55.851,29.564,6.473,208.429,1:36.635,12.0,11,14,M. Sato,Campos Racing,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,35:07.678,41.390,11.826,207.26,1:35.816,5.0,12,11,C. Ilott,Sauber Junior Team by Charouz,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,35:18.766,52.478,11.088,206.175,1:37.252,14.0,13,17,M. Raghunathan,MP Motorsport,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,35:19.309,53.021,0.543,206.123,1:36.993,19.0,14,18,T. Calderón,BWT Arden,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,35:58.979,92.691,39.670,202.335,1:35.854,4.0,15,8,L. Ghiotto,UNI-Virtuosi,Monza,Sprint Race,,Round 10 ,2019-09-08
+30,48:56.512,-,-,212.678,1:36.009,10.0,1,2,N. Matsushita,Carlin,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:02.264,5.752,5.752,212.262,1:34.900,28.0,2,8,L. Ghiotto,UNI-Virtuosi,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:05.719,9.207,3.455,212.013,1:35.411,11.0,3,4,N. de Vries,ART Grand Prix,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:13.725,17.213,8.006,211.438,1:35.935,11.0,4,11,C. Ilott,Sauber Junior Team by Charouz,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:16.999,20.487,3.274,211.204,1:35.889,10.0,5,5,S. Sette Câmara,DAMS,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:21.322,24.810,4.323,210.896,1:35.597,24.0,6,16,J. King,MP Motorsport,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:28.847,32.335,7.525,210.361,1:36.337,22.0,7,20,G. Alesi,Trident,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:29.571,33.059,0.724,210.31,1:35.540,26.0,8,15,J. Aitken,Campos Racing,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:35.402,38.890,5.831,209.898,1:36.597,8.0,9,10,S. Gelael,PREMA Racing,Monza,Feature Race,,Round 10 ,2019-09-08
+30,50:09.297,72.785,33.895,207.534,1:37.491,10.0,10,17,M. Raghunathan,MP Motorsport,Monza,Feature Race,,Round 10 ,2019-09-08
+29,49:13.922,1 LAP,1 LAP,204.364,1:36.369,23.0,11,3,N. Mazepin,ART Grand Prix,Monza,Feature Race,,Round 10 ,2019-09-08
+29,49:14.167,1 LAP,0.245,204.347,1:35.760,28.0,12,14,M. Sato,Campos Racing,Monza,Feature Race,,Round 10 ,2019-09-08
+29,50:20.668,1 LAP,66.501,199.848,1:35.719,11.0,13,6,N. Latifi,DAMS,Monza,Feature Race,,Round 10 ,2019-09-08
+13,1:33.887,-,-,222.126,,,1,11,C. Ilott,Sauber Junior Team by Charouz,Monza,Qualifying Session,17:04:11,Round 10 ,2019-09-08
+13,1:34.030,0.143,0.143,221.788,,,2,7,G. Zhou,UNI-Virtuosi,Monza,Qualifying Session,17:04:04,Round 10 ,2019-09-08
+14,1:34.063,0.176,0.033,221.71,,,3,3,N. Mazepin,ART Grand Prix,Monza,Qualifying Session,17:04:10,Round 10 ,2019-09-08
+15,1:34.156,0.269,0.093,221.491,,,4,4,N. de Vries,ART Grand Prix,Monza,Qualifying Session,17:32:33,Round 10 ,2019-09-08
+14,1:34.272,0.385,0.116,221.219,,,5,5,S. Sette Câmara,DAMS,Monza,Qualifying Session,17:04:08,Round 10 ,2019-09-08
+5,1:34.419,0.532,0.147,220.875,,,6,2,N. Matsushita,Carlin,Monza,Qualifying Session,17:02:39,Round 10 ,2019-09-08
+14,1:34.885,0.998,0.466,219.79,,,7,6,N. Latifi,DAMS,Monza,Qualifying Session,17:03:53,Round 10 ,2019-09-08
+11,1:34.944,1.057,0.059,219.653,,,8,16,J. King,MP Motorsport,Monza,Qualifying Session,17:32:43,Round 10 ,2019-09-08
+13,1:35.082,1.195,0.138,219.334,,,9,9,M. Schumacher,PREMA Racing,Monza,Qualifying Session,17:02:45,Round 10 ,2019-09-08
+13,1:35.101,1.214,0.019,219.291,,,10,1,L. Delétraz,Carlin,Monza,Qualifying Session,17:04:00,Round 10 ,2019-09-08
+13,1:35.148,1.261,0.047,219.182,,,11,10,S. Gelael,PREMA Racing,Monza,Qualifying Session,17:04:03,Round 10 ,2019-09-08
+14,1:35.310,1.423,0.162,218.81,,,12,20,G. Alesi,Trident,Monza,Qualifying Session,17:04:08,Round 10 ,2019-09-08
+13,1:35.547,1.660,0.237,218.267,,,13,15,J. Aitken,Campos Racing,Monza,Qualifying Session,17:04:59,Round 10 ,2019-09-08
+15,1:35.641,1.754,0.094,218.052,,,14,8,L. Ghiotto,UNI-Virtuosi,Monza,Qualifying Session,17:33:05,Round 10 ,2019-09-08
+13,1:36.709,2.822,1.068,215.644,,,15,14,M. Sato,Campos Racing,Monza,Qualifying Session,17:04:50,Round 10 ,2019-09-08
+14,1:37.027,3.140,0.318,214.938,,,16,17,M. Raghunathan,MP Motorsport,Monza,Qualifying Session,17:04:32,Round 10 ,2019-09-08
+13,1:33.017,-,-,224.204,,,1,8,L. Ghiotto,UNI-Virtuosi,Monza,Free Practice,13:39:32,Round 10 ,2019-09-08
+12,1:33.120,0.103,0.103,223.956,,,2,4,N. de Vries,ART Grand Prix,Monza,Free Practice,13:35:35,Round 10 ,2019-09-08
+13,1:33.298,0.281,0.178,223.528,,,3,1,L. Delétraz,Carlin,Monza,Free Practice,13:35:54,Round 10 ,2019-09-08
+13,1:33.388,0.371,0.090,223.313,,,4,2,N. Matsushita,Carlin,Monza,Free Practice,13:38:44,Round 10 ,2019-09-08
+12,1:33.676,0.659,0.288,222.626,,,5,15,J. Aitken,Campos Racing,Monza,Free Practice,13:45:48,Round 10 ,2019-09-08
+12,1:33.680,0.663,0.004,222.617,,,6,6,N. Latifi,DAMS,Monza,Free Practice,13:39:15,Round 10 ,2019-09-08
+12,1:33.707,0.690,0.027,222.553,,,7,7,G. Zhou,UNI-Virtuosi,Monza,Free Practice,13:38:19,Round 10 ,2019-09-08
+12,1:33.768,0.751,0.061,222.408,,,8,9,M. Schumacher,PREMA Racing,Monza,Free Practice,13:36:06,Round 10 ,2019-09-08
+11,1:33.791,0.774,0.023,222.353,,,9,10,S. Gelael,PREMA Racing,Monza,Free Practice,13:39:37,Round 10 ,2019-09-08
+17,1:33.955,0.938,0.164,221.965,,,10,11,C. Ilott,Sauber Junior Team by Charouz,Monza,Free Practice,13:39:36,Round 10 ,2019-09-08
+12,1:33.973,0.956,0.018,221.923,,,11,5,S. Sette Câmara,DAMS,Monza,Free Practice,13:32:14,Round 10 ,2019-09-08
+8,1:34.023,1.006,0.050,221.805,,,12,20,G. Alesi,Trident,Monza,Free Practice,13:41:57,Round 10 ,2019-09-08
+12,1:34.064,1.047,0.041,221.708,,,13,3,N. Mazepin,ART Grand Prix,Monza,Free Practice,13:39:43,Round 10 ,2019-09-08
+13,1:34.556,1.539,0.492,220.555,,,14,16,J. King,MP Motorsport,Monza,Free Practice,13:46:22,Round 10 ,2019-09-08
+15,1:35.076,2.059,0.520,219.348,,,15,14,M. Sato,Campos Racing,Monza,Free Practice,13:45:03,Round 10 ,2019-09-08
+11,1:36.691,3.674,1.615,215.685,,,16,18,T. Calderón,BWT Arden,Monza,Free Practice,13:35:59,Round 10 ,2019-09-08
+18,1:36.909,3.892,0.218,215.199,,,17,17,M. Raghunathan,MP Motorsport,Monza,Free Practice,13:42:04,Round 10 ,2019-09-08

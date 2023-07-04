@@ -1,0 +1,76 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+28,44:47.130,-,-,164.287,1:33.893,5.0,1,5,A. Albon,DAMS,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,44:56.595,9.465,9.465,163.71,1:33.537,6.0,2,14,L. Ghiotto,Campos Vexatec Racing,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,44:58.501,11.371,1.906,163.594,1:33.952,5.0,3,18,S. Sette Câmara,Carlin,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,45:00.768,13.638,2.267,163.457,1:33.871,14.0,4,19,L. Norris,Carlin,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,45:15.340,28.210,14.572,162.58,1:33.892,8.0,5,9,R. Merhi,MP Motorsport,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,45:21.274,34.144,5.934,162.225,1:34.354,10.0,6,12,N. Fukuzumi,BWT Arden,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,45:21.275,34.145,0.001,162.225,1:34.204,10.0,7,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,45:23.716,36.586,2.441,162.08,1:33.806,17.0,8,8,G. Russell,ART Grand Prix,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,45:24.270,37.140,0.554,162.047,1:34.435,14.0,9,20,L. Delétraz,Charouz Racing System,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,45:26.106,38.976,1.836,161.938,1:34.172,8.0,10,7,J. Aitken,ART Grand Prix,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,45:28.093,40.963,1.987,161.82,1:34.423,9.0,11,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,45:28.665,41.535,0.572,161.786,1:34.111,14.0,12,2,T. Makino,RUSSIAN TIME,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,45:39.360,52.230,10.695,161.154,1:34.036,10.0,13,1,A. Markelov,RUSSIAN TIME,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,45:39.509,52.379,0.149,161.145,1:34.320,12.0,14,16,A. Maini,Trident,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,45:48.062,60.932,8.553,160.644,1:33.782,9.0,15,15,R. Nissany,Campos Vexatec Racing,Budapest,Sprint Race,,Round 8 ,2018-07-29
+28,46:04.314,77.184,16.252,159.699,1:34.337,12.0,16,6,N. Latifi,DAMS,Budapest,Sprint Race,,Round 8 ,2018-07-29
+27,45:47.668,1 LAP,1 LAP,154.927,1:31.889,24.0,17,21,A. Fuoco,Charouz Racing System,Budapest,Sprint Race,,Round 8 ,2018-07-29
+34,1:00:16.996,-,-,148.214,1:32.832,33.0,1,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:33.504,16.508,16.508,147.54,1:35.120,25.0,2,19,L. Norris,Carlin,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:37.748,20.752,4.244,147.368,1:33.466,32.0,3,21,A. Fuoco,Charouz Racing System,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:38.801,21.805,1.053,147.326,1:33.672,33.0,4,7,J. Aitken,ART Grand Prix,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:40.073,23.077,1.272,147.274,1:34.093,29.0,5,5,A. Albon,DAMS,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:45.692,28.696,5.619,147.047,1:33.268,33.0,6,14,L. Ghiotto,Campos Vexatec Racing,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:46.095,29.099,0.403,147.031,1:33.290,30.0,7,18,S. Sette Câmara,Carlin,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:52.590,35.594,6.495,146.769,1:34.600,26.0,8,1,A. Markelov,RUSSIAN TIME,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:53.300,36.304,0.710,146.741,1:34.329,32.0,9,2,T. Makino,RUSSIAN TIME,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:54.110,37.114,0.810,146.708,1:35.232,29.0,10,12,N. Fukuzumi,BWT Arden,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:54.979,37.983,0.869,146.674,1:35.314,29.0,11,9,R. Merhi,MP Motorsport,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:55.332,38.336,0.353,146.659,1:33.235,32.0,12,16,A. Maini,Trident,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:56.116,39.120,0.784,146.628,1:33.617,27.0,13,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:00:56.854,39.858,0.738,146.598,1:33.212,32.0,14,17,A. Lorandi,Trident,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:01:05.068,48.072,8.214,146.27,1:32.615,33.0,15,15,R. Nissany,Campos Vexatec Racing,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:01:10.237,53.241,5.169,146.064,1:33.894,29.0,16,11,M. Günther,BWT Arden,Budapest,Feature Race,,Round 8 ,2018-07-29
+34,1:01:30.692,73.696,20.455,145.254,1:32.972,34.0,17,20,L. Delétraz,Charouz Racing System,Budapest,Feature Race,,Round 8 ,2018-07-29
+33,1:01:17.422,1 LAP,1 LAP,141.49,1:32.473,33.0,18,10,R. Boschung,MP Motorsport,Budapest,Feature Race,,Round 8 ,2018-07-29
+10,1:27.400,-,-,180.453,,,1,18,S. Sette Câmara,Carlin,Budapest,Qualifying Session,17:22:25,Round 8 ,2018-07-29
+9,1:27.430,0.030,0.030,180.391,,,2,7,J. Aitken,ART Grand Prix,Budapest,Qualifying Session,17:15:24,Round 8 ,2018-07-29
+8,1:27.631,0.231,0.201,179.977,,,3,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Budapest,Qualifying Session,17:08:51,Round 8 ,2018-07-29
+12,1:27.762,0.362,0.131,179.708,,,4,8,G. Russell,ART Grand Prix,Budapest,Qualifying Session,17:00:34,Round 8 ,2018-07-29
+10,1:27.828,0.428,0.066,179.573,,,5,14,L. Ghiotto,Campos Vexatec Racing,Budapest,Qualifying Session,17:15:15,Round 8 ,2018-07-29
+10,1:27.864,0.464,0.036,179.5,,,6,19,L. Norris,Carlin,Budapest,Qualifying Session,17:22:21,Round 8 ,2018-07-29
+10,1:27.957,0.557,0.093,179.31,,,7,1,A. Markelov,RUSSIAN TIME,Budapest,Qualifying Session,17:08:12,Round 8 ,2018-07-29
+10,1:27.958,0.558,0.001,179.308,,,8,16,A. Maini,Trident,Budapest,Qualifying Session,17:12:50,Round 8 ,2018-07-29
+11,1:27.973,0.573,0.015,179.277,,,9,10,R. Boschung,MP Motorsport,Budapest,Qualifying Session,17:21:47,Round 8 ,2018-07-29
+10,1:28.032,0.632,0.059,179.157,,,10,20,L. Delétraz,Charouz Racing System,Budapest,Qualifying Session,17:22:17,Round 8 ,2018-07-29
+10,1:28.038,0.638,0.006,179.145,,,11,12,N. Fukuzumi,BWT Arden,Budapest,Qualifying Session,17:14:33,Round 8 ,2018-07-29
+10,1:28.073,0.673,0.035,179.074,,,12,21,A. Fuoco,Charouz Racing System,Budapest,Qualifying Session,17:21:29,Round 8 ,2018-07-29
+10,1:28.107,0.707,0.034,179.005,,,13,5,A. Albon,DAMS,Budapest,Qualifying Session,17:01:34,Round 8 ,2018-07-29
+9,1:28.124,0.724,0.017,178.97,,,14,6,N. Latifi,DAMS,Budapest,Qualifying Session,17:01:38,Round 8 ,2018-07-29
+10,1:28.169,0.769,0.045,178.879,,,15,11,M. Günther,BWT Arden,Budapest,Qualifying Session,17:22:09,Round 8 ,2018-07-29
+10,1:28.348,0.948,0.179,178.516,,,16,15,R. Nissany,Campos Vexatec Racing,Budapest,Qualifying Session,17:21:53,Round 8 ,2018-07-29
+11,1:28.533,1.133,0.185,178.143,,,17,17,A. Lorandi,Trident,Budapest,Qualifying Session,17:22:34,Round 8 ,2018-07-29
+8,1:28.648,1.248,0.115,177.912,,,18,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Budapest,Qualifying Session,17:09:06,Round 8 ,2018-07-29
+10,1:28.724,1.324,0.076,177.76,,,19,9,R. Merhi,MP Motorsport,Budapest,Qualifying Session,17:22:04,Round 8 ,2018-07-29
+8,1:28.750,1.350,0.026,177.708,,,20,2,T. Makino,RUSSIAN TIME,Budapest,Qualifying Session,17:21:40,Round 8 ,2018-07-29
+14,1:28.886,-,-,177.436,,,1,8,G. Russell,ART Grand Prix,Budapest,Free Practice,13:22:06,Round 8 ,2018-07-29
+13,1:29.188,0.302,0.302,176.835,,,2,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Budapest,Free Practice,13:21:31,Round 8 ,2018-07-29
+16,1:29.269,0.383,0.081,176.674,,,3,18,S. Sette Câmara,Carlin,Budapest,Free Practice,13:25:37,Round 8 ,2018-07-29
+15,1:29.333,0.447,0.064,176.548,,,4,14,L. Ghiotto,Campos Vexatec Racing,Budapest,Free Practice,13:22:19,Round 8 ,2018-07-29
+14,1:29.337,0.451,0.004,176.54,,,5,5,A. Albon,DAMS,Budapest,Free Practice,13:24:11,Round 8 ,2018-07-29
+11,1:29.390,0.504,0.053,176.435,,,6,10,R. Boschung,MP Motorsport,Budapest,Free Practice,13:24:24,Round 8 ,2018-07-29
+13,1:29.441,0.555,0.051,176.335,,,7,12,N. Fukuzumi,BWT Arden,Budapest,Free Practice,13:25:01,Round 8 ,2018-07-29
+14,1:29.478,0.592,0.037,176.262,,,8,19,L. Norris,Carlin,Budapest,Free Practice,13:22:13,Round 8 ,2018-07-29
+14,1:29.534,0.648,0.056,176.152,,,9,7,J. Aitken,ART Grand Prix,Budapest,Free Practice,13:26:21,Round 8 ,2018-07-29
+15,1:29.555,0.669,0.021,176.11,,,10,1,A. Markelov,RUSSIAN TIME,Budapest,Free Practice,13:21:58,Round 8 ,2018-07-29
+13,1:29.566,0.680,0.011,176.089,,,11,6,N. Latifi,DAMS,Budapest,Free Practice,13:22:24,Round 8 ,2018-07-29
+15,1:29.636,0.750,0.070,175.951,,,12,9,R. Merhi,MP Motorsport,Budapest,Free Practice,13:24:33,Round 8 ,2018-07-29
+17,1:29.862,0.976,0.226,175.509,,,13,20,L. Delétraz,Charouz Racing System,Budapest,Free Practice,13:25:41,Round 8 ,2018-07-29
+15,1:29.926,1.040,0.064,175.384,,,14,11,M. Günther,BWT Arden,Budapest,Free Practice,13:25:21,Round 8 ,2018-07-29
+15,1:30.053,1.167,0.127,175.136,,,15,21,A. Fuoco,Charouz Racing System,Budapest,Free Practice,13:21:02,Round 8 ,2018-07-29
+18,1:30.103,1.217,0.050,175.039,,,16,16,A. Maini,Trident,Budapest,Free Practice,13:24:56,Round 8 ,2018-07-29
+14,1:30.113,1.227,0.010,175.02,,,17,15,R. Nissany,Campos Vexatec Racing,Budapest,Free Practice,13:24:19,Round 8 ,2018-07-29
+16,1:30.573,1.687,0.460,174.131,,,18,17,A. Lorandi,Trident,Budapest,Free Practice,13:18:31,Round 8 ,2018-07-29
+15,1:30.574,1.688,0.001,174.129,,,19,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Budapest,Free Practice,13:20:42,Round 8 ,2018-07-29
+4,1:31.072,2.186,0.498,173.177,,,20,2,T. Makino,RUSSIAN TIME,Budapest,Free Practice,13:01:51,Round 8 ,2018-07-29

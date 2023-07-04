@@ -1,0 +1,79 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+21,33:15.078,-,-,218.958,1:34.104,7.0,1,5,L. Ghiotto,RUSSIAN TIME,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:17.374,2.296,-,218.706,1:34.258,3.0,2,14,S. Sette Câmara,MP Motorsport,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:19.583,4.505,2.209,218.464,1:34.080,4.0,3,2,A. Fuoco,PREMA Racing,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:21.324,6.246,1.741,218.274,1:34.253,4.0,4,18,L. Delétraz,Rapax,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:26.881,11.803,5.557,217.67,1:34.662,4.0,5,19,R. Merhi,Rapax,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:32.383,17.305,5.502,217.075,1:34.728,2.0,6,21,S. Gelael,Pertamina Arden,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:35.088,20.010,2.705,216.783,1:34.480,5.0,7,7,N. Matsushita,ART Grand Prix,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:35.666,20.588,0.578,216.721,1:34.315,4.0,8,8,A. Albon,ART Grand Prix,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:38.341,23.263,2.675,216.434,1:34.199,3.0,9,1,C. Leclerc,PREMA Racing,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:38.782,23.704,0.441,216.387,1:34.559,5.0,10,20,N. Nato,Pertamina Arden,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:42.497,27.419,3.715,215.989,1:34.661,5.0,11,9,O. Rowland,DAMS,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:44.385,29.307,1.888,215.788,1:34.325,4.0,12,3,N. de Vries,Racing Engineering,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:44.737,29.659,0.352,215.75,1:34.482,4.0,13,11,R. Boschung,Campos Racing,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:44.984,29.906,0.247,215.724,1:34.392,4.0,14,17,S. Ferrucci,Trident,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:47.123,32.045,2.139,215.496,1:34.324,4.0,15,6,A. Markelov,RUSSIAN TIME,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:48.043,32.965,0.920,215.398,1:34.251,4.0,16,10,N. Latifi,DAMS,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:48.315,33.237,0.272,215.37,1:35.063,4.0,17,16,N. Jeffri,Trident,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,34:12.525,57.447,24.210,212.829,1:33.523,19.0,18,4,G. Malja,Racing Engineering,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,34:15.207,60.129,2.682,212.551,1:34.493,14.0,19,12,R. Visoiu,Campos Racing,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,34:21.380,66.302,6.173,211.915,1:32.921,21.0,20,15,J. King,MP Motorsport,Monza,Sprint Race,,Round 9 ,2017-09-03
+23,44:10.800,-,-,180.529,1:47.650,23.0,1,2,A. Fuoco,PREMA Racing,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:11.151,0.351,0.351,180.505,1:47.436,23.0,2,7,N. Matsushita,ART Grand Prix,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:12.277,1.477,1.126,180.429,1:47.648,23.0,3,10,N. Latifi,DAMS,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:13.885,3.085,-,180.66,1:47.151,23.0,4,5,L. Ghiotto,RUSSIAN TIME,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:14.644,3.844,1.798,180.268,1:48.359,23.0,5,21,S. Gelael,Pertamina Arden,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:16.068,5.268,1.424,180.171,1:48.448,18.0,6,14,S. Sette Câmara,MP Motorsport,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:16.831,6.031,0.763,180.119,1:49.415,23.0,7,18,L. Delétraz,Rapax,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:17.730,6.930,0.899,180.058,1:49.259,18.0,8,4,G. Malja,Racing Engineering,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:18.678,7.878,0.948,179.994,1:48.349,16.0,9,6,A. Markelov,RUSSIAN TIME,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:19.019,8.219,0.341,179.971,1:47.988,18.0,10,15,J. King,MP Motorsport,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:20.512,9.712,1.493,179.87,1:49.386,23.0,11,19,R. Merhi,Rapax,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:22.479,11.679,1.967,179.737,1:50.687,23.0,12,16,N. Jeffri,Trident,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:22.779,11.979,0.300,179.717,1:49.267,15.0,13,20,N. Nato,Pertamina Arden,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:22.846,12.046,0.569,180.39,1:47.930,23.0,14,8,A. Albon,ART Grand Prix,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:23.206,12.406,0.427,179.688,1:48.472,15.0,15,11,R. Boschung,Campos Racing,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:24.331,13.531,1.125,179.612,1:49.731,17.0,16,12,R. Visoiu,Campos Racing,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:44.789,33.989,20.458,178.244,1:48.047,15.0,17,1,C. Leclerc,PREMA Racing,Monza,Feature Race,,Round 9 ,2017-09-03
+23,45:23.209,72.409,18.420,177.029,1:48.095,17.0,18,3,N. de Vries,Racing Engineering,Monza,Feature Race,,Round 9 ,2017-09-03
+9,1:30.982,-,-,229.218,,,1,7,N. Matsushita,ART Grand Prix,Monza,Qualifying Session,16:25:31,Round 9 ,2017-09-03
+9,1:31.071,0.089,-,228.994,,,2,3,N. de Vries,Racing Engineering,Monza,Qualifying Session,16:28:42,Round 9 ,2017-09-03
+9,1:31.239,0.257,0.168,228.573,,,3,18,L. Delétraz,Rapax,Monza,Qualifying Session,16:28:59,Round 9 ,2017-09-03
+9,1:31.266,0.284,0.027,228.505,,,4,6,A. Markelov,RUSSIAN TIME,Monza,Qualifying Session,16:29:52,Round 9 ,2017-09-03
+9,1:31.323,0.341,0.057,228.363,,,5,19,R. Merhi,Rapax,Monza,Qualifying Session,16:53:26,Round 9 ,2017-09-03
+9,1:31.355,0.373,0.032,228.283,,,6,15,J. King,MP Motorsport,Monza,Qualifying Session,16:53:41,Round 9 ,2017-09-03
+10,1:31.378,0.396,0.023,228.225,,,7,1,C. Leclerc,PREMA Racing,Monza,Qualifying Session,16:30:14,Round 9 ,2017-09-03
+8,1:31.426,0.444,0.048,228.105,,,8,2,A. Fuoco,PREMA Racing,Monza,Qualifying Session,16:28:39,Round 9 ,2017-09-03
+8,1:31.482,0.500,0.056,227.966,,,9,17,S. Ferrucci,Trident,Monza,Qualifying Session,16:28:44,Round 9 ,2017-09-03
+9,1:31.511,0.529,0.029,227.893,,,10,8,A. Albon,ART Grand Prix,Monza,Qualifying Session,16:28:32,Round 9 ,2017-09-03
+9,1:31.529,0.547,0.018,227.849,,,11,5,L. Ghiotto,RUSSIAN TIME,Monza,Qualifying Session,16:53:47,Round 9 ,2017-09-03
+8,1:31.653,0.671,0.124,227.54,,,12,14,S. Sette Câmara,MP Motorsport,Monza,Qualifying Session,16:28:58,Round 9 ,2017-09-03
+8,1:31.711,0.729,0.058,227.396,,,13,9,O. Rowland,DAMS,Monza,Qualifying Session,16:29:40,Round 9 ,2017-09-03
+9,1:31.747,0.765,0.036,227.307,,,14,10,N. Latifi,DAMS,Monza,Qualifying Session,16:29:53,Round 9 ,2017-09-03
+9,1:31.772,0.790,0.025,227.245,,,15,20,N. Nato,Pertamina Arden,Monza,Qualifying Session,16:29:56,Round 9 ,2017-09-03
+8,1:31.878,0.896,0.106,226.983,,,16,11,R. Boschung,Campos Racing,Monza,Qualifying Session,16:29:46,Round 9 ,2017-09-03
+8,1:31.942,0.960,0.064,226.825,,,17,4,G. Malja,Racing Engineering,Monza,Qualifying Session,16:29:44,Round 9 ,2017-09-03
+9,1:32.171,1.189,0.229,226.262,,,18,21,S. Gelael,Pertamina Arden,Monza,Qualifying Session,16:26:36,Round 9 ,2017-09-03
+8,1:32.267,1.285,0.096,226.026,,,19,12,R. Visoiu,Campos Racing,Monza,Qualifying Session,16:25:46,Round 9 ,2017-09-03
+7,1:32.373,1.391,0.106,225.767,,,20,16,N. Jeffri,Trident,Monza,Qualifying Session,16:29:05,Round 9 ,2017-09-03
+16,1:31.128,-,-,228.851,,,1,6,A. Markelov,RUSSIAN TIME,Monza,Free Practice,12:07:44,Round 9 ,2017-09-03
+19,1:31.362,0.234,-,228.265,,,2,5,L. Ghiotto,RUSSIAN TIME,Monza,Free Practice,12:12:00,Round 9 ,2017-09-03
+18,1:31.367,0.239,0.005,228.253,,,3,1,C. Leclerc,PREMA Racing,Monza,Free Practice,12:11:38,Round 9 ,2017-09-03
+17,1:31.406,0.278,0.039,228.155,,,4,7,N. Matsushita,ART Grand Prix,Monza,Free Practice,12:16:24,Round 9 ,2017-09-03
+17,1:31.446,0.318,0.040,228.055,,,5,3,N. de Vries,Racing Engineering,Monza,Free Practice,12:11:30,Round 9 ,2017-09-03
+18,1:31.514,0.386,0.068,227.886,,,6,9,O. Rowland,DAMS,Monza,Free Practice,12:12:28,Round 9 ,2017-09-03
+18,1:31.516,0.388,0.002,227.881,,,7,8,A. Albon,ART Grand Prix,Monza,Free Practice,12:07:29,Round 9 ,2017-09-03
+20,1:31.657,0.529,0.141,227.53,,,8,15,J. King,MP Motorsport,Monza,Free Practice,12:10:57,Round 9 ,2017-09-03
+19,1:31.671,0.543,0.014,227.496,,,9,18,L. Delétraz,Rapax,Monza,Free Practice,12:07:17,Round 9 ,2017-09-03
+19,1:31.727,0.599,0.056,227.357,,,10,2,A. Fuoco,PREMA Racing,Monza,Free Practice,12:11:16,Round 9 ,2017-09-03
+19,1:31.744,0.616,0.017,227.315,,,11,20,N. Nato,Pertamina Arden,Monza,Free Practice,12:11:42,Round 9 ,2017-09-03
+17,1:31.793,0.665,0.049,227.193,,,12,11,R. Boschung,Campos Racing,Monza,Free Practice,12:07:19,Round 9 ,2017-09-03
+19,1:32.064,0.936,0.271,226.525,,,13,10,N. Latifi,DAMS,Monza,Free Practice,12:04:14,Round 9 ,2017-09-03
+16,1:32.095,0.967,0.031,226.448,,,14,4,G. Malja,Racing Engineering,Monza,Free Practice,12:10:41,Round 9 ,2017-09-03
+16,1:32.107,0.979,0.012,226.419,,,15,19,R. Merhi,Rapax,Monza,Free Practice,12:27:51,Round 9 ,2017-09-03
+18,1:32.131,1.003,0.024,226.36,,,16,14,S. Sette Câmara,MP Motorsport,Monza,Free Practice,12:11:57,Round 9 ,2017-09-03
+21,1:32.300,1.172,0.169,225.945,,,17,17,S. Ferrucci,Trident,Monza,Free Practice,12:04:43,Round 9 ,2017-09-03
+18,1:32.543,1.415,0.243,225.352,,,18,12,R. Visoiu,Campos Racing,Monza,Free Practice,12:10:31,Round 9 ,2017-09-03
+21,1:32.822,1.694,0.279,224.675,,,19,16,N. Jeffri,Trident,Monza,Free Practice,12:10:49,Round 9 ,2017-09-03
+16,1:32.839,1.711,0.017,224.634,,,20,21,S. Gelael,Pertamina Arden,Monza,Free Practice,12:06:46,Round 9 ,2017-09-03

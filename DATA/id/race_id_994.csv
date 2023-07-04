@@ -1,0 +1,73 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+21,42:48.729,-,-,163.298,1:58.016,5.0,1,21,A. Fuoco,Charouz Racing System,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,42:50.442,1.713,1.713,163.189,1:57.678,4.0,2,19,L. Norris,Carlin,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,42:52.401,3.672,1.959,163.064,1:57.834,4.0,3,15,R. Merhi,Campos Vexatec Racing,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,42:57.277,8.548,4.876,162.756,1:57.590,5.0,4,8,G. Russell,ART Grand Prix,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,42:58.187,9.458,0.910,162.698,1:57.745,5.0,5,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,42:59.779,11.050,1.592,162.598,1:57.658,5.0,6,20,L. Delétraz,Charouz Racing System,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,43:01.689,12.960,1.910,162.478,1:57.695,5.0,7,1,A. Markelov,RUSSIAN TIME,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,43:03.776,15.047,2.087,162.347,1:58.138,5.0,8,5,A. Albon,DAMS,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,43:08.375,19.646,4.599,162.058,1:58.109,5.0,9,14,L. Ghiotto,Campos Vexatec Racing,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,43:11.781,23.052,3.406,161.845,1:57.637,5.0,10,18,S. Sette Câmara,Carlin,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,43:13.158,24.429,1.377,161.759,1:58.081,5.0,11,9,D. Boccolacci,MP Motorsport,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,43:16.572,27.843,3.414,161.546,1:58.614,4.0,12,12,N. Fukuzumi,BWT Arden,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,43:19.264,30.535,2.692,161.379,1:58.293,5.0,13,7,J. Aitken,ART Grand Prix,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,43:21.934,33.205,2.670,161.214,1:59.288,5.0,14,17,A. Lorandi,Trident,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+21,44:24.743,96.014,62.809,157.414,1:58.205,19.0,15,6,N. Latifi,DAMS,Yas Island,Sprint Race,,Round 12 ,2018-11-25
+29,1:03:33.863,-,-,151.925,1:55.039,11.0,1,8,G. Russell,ART Grand Prix,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:03:37.164,3.301,3.301,151.794,1:54.734,12.0,2,1,A. Markelov,RUSSIAN TIME,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:03:42.146,8.283,4.982,151.596,1:53.194,27.0,3,14,L. Ghiotto,Campos Vexatec Racing,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:03:45.909,12.046,3.763,151.447,1:55.137,7.0,4,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:03:52.913,19.050,7.004,151.17,1:54.492,12.0,5,19,L. Norris,Carlin,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:03:55.827,21.964,2.914,151.055,1:55.946,10.0,6,20,L. Delétraz,Charouz Racing System,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:03:57.496,23.633,1.669,150.99,1:56.633,12.0,7,21,A. Fuoco,Charouz Racing System,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:04:01.238,27.375,3.742,150.842,1:56.711,10.0,8,15,R. Merhi,Campos Vexatec Racing,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:04:01.703,27.840,0.465,150.824,1:56.471,27.0,9,2,T. Makino,RUSSIAN TIME,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:04:06.649,32.786,4.946,150.63,1:56.201,11.0,10,7,J. Aitken,ART Grand Prix,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:04:16.348,42.485,9.699,150.251,1:57.026,14.0,11,11,D. Ticktum,BWT Arden,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:04:20.166,46.303,3.818,150.103,1:55.522,11.0,12,9,D. Boccolacci,MP Motorsport,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:04:21.672,47.809,1.506,150.044,1:55.549,11.0,13,17,A. Lorandi,Trident,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:04:29.434,55.571,7.762,149.743,1:54.038,25.0,14,5,A. Albon,DAMS,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:04:44.053,70.190,14.619,149.18,1:57.489,8.0,15,10,N. Kari,MP Motorsport,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:04:44.629,70.766,0.576,149.158,1:53.303,24.0,16,18,S. Sette Câmara,Carlin,Yas Island,Feature Race,,Round 12 ,2018-11-25
+29,1:05:03.834,89.971,19.205,148.424,1:54.391,24.0,17,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Yas Island,Feature Race,,Round 12 ,2018-11-25
+10,1:49.251,-,-,183.013,,,1,8,G. Russell,ART Grand Prix,Yas Island,Qualifying Session,19:28:14,Round 12 ,2018-11-25
+8,1:49.541,0.290,0.290,182.528,,,2,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Yas Island,Qualifying Session,19:29:48,Round 12 ,2018-11-25
+9,1:49.647,0.396,0.106,182.352,,,3,6,N. Latifi,DAMS,Yas Island,Qualifying Session,19:16:40,Round 12 ,2018-11-25
+9,1:49.869,0.618,0.222,181.983,,,4,1,A. Markelov,RUSSIAN TIME,Yas Island,Qualifying Session,19:28:32,Round 12 ,2018-11-25
+10,1:49.946,0.695,0.077,181.856,,,5,7,J. Aitken,ART Grand Prix,Yas Island,Qualifying Session,19:28:08,Round 12 ,2018-11-25
+9,1:50.038,0.787,0.092,181.704,,,6,20,L. Delétraz,Charouz Racing System,Yas Island,Qualifying Session,19:28:38,Round 12 ,2018-11-25
+10,1:50.059,0.808,0.021,181.669,,,7,19,L. Norris,Carlin,Yas Island,Qualifying Session,19:30:18,Round 12 ,2018-11-25
+10,1:50.155,0.904,0.096,181.511,,,8,5,A. Albon,DAMS,Yas Island,Qualifying Session,19:28:11,Round 12 ,2018-11-25
+9,1:50.180,0.929,0.025,181.47,,,9,2,T. Makino,RUSSIAN TIME,Yas Island,Qualifying Session,19:28:29,Round 12 ,2018-11-25
+10,1:50.187,0.936,0.007,181.458,,,10,18,S. Sette Câmara,Carlin,Yas Island,Qualifying Session,19:29:06,Round 12 ,2018-11-25
+10,1:50.375,1.124,0.188,181.149,,,11,10,N. Kari,MP Motorsport,Yas Island,Qualifying Session,19:28:35,Round 12 ,2018-11-25
+10,1:50.513,1.262,0.138,180.923,,,12,15,R. Merhi,Campos Vexatec Racing,Yas Island,Qualifying Session,19:28:41,Round 12 ,2018-11-25
+9,1:50.522,1.271,0.009,180.908,,,13,21,A. Fuoco,Charouz Racing System,Yas Island,Qualifying Session,19:07:58,Round 12 ,2018-11-25
+10,1:50.580,1.329,0.058,180.813,,,14,11,D. Ticktum,BWT Arden,Yas Island,Qualifying Session,19:28:44,Round 12 ,2018-11-25
+10,1:50.812,1.561,0.232,180.435,,,15,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Yas Island,Qualifying Session,19:28:47,Round 12 ,2018-11-25
+10,1:50.855,1.604,0.043,180.365,,,16,17,A. Lorandi,Trident,Yas Island,Qualifying Session,19:29:09,Round 12 ,2018-11-25
+10,1:50.892,1.641,0.037,180.305,,,17,14,L. Ghiotto,Campos Vexatec Racing,Yas Island,Qualifying Session,19:12:29,Round 12 ,2018-11-25
+10,1:51.037,1.786,0.145,180.069,,,18,9,D. Boccolacci,MP Motorsport,Yas Island,Qualifying Session,19:28:21,Round 12 ,2018-11-25
+9,1:51.048,1.797,0.011,180.051,,,19,12,N. Fukuzumi,BWT Arden,Yas Island,Qualifying Session,19:29:02,Round 12 ,2018-11-25
+10,1:51.597,2.346,0.549,179.166,,,20,16,A. Maini,Trident,Yas Island,Qualifying Session,19:17:08,Round 12 ,2018-11-25
+19,1:51.720,-,-,178.968,,,1,8,G. Russell,ART Grand Prix,Yas Island,Free Practice,11:44:42,Round 12 ,2018-11-25
+18,1:51.884,0.164,0.164,178.706,,,2,21,A. Fuoco,Charouz Racing System,Yas Island,Free Practice,11:42:05,Round 12 ,2018-11-25
+20,1:52.315,0.595,0.431,178.02,,,3,14,L. Ghiotto,Campos Vexatec Racing,Yas Island,Free Practice,11:41:46,Round 12 ,2018-11-25
+15,1:52.323,0.603,0.008,178.008,,,4,12,N. Fukuzumi,BWT Arden,Yas Island,Free Practice,11:44:57,Round 12 ,2018-11-25
+16,1:52.386,0.666,0.063,177.908,,,5,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Yas Island,Free Practice,11:45:33,Round 12 ,2018-11-25
+19,1:52.395,0.675,0.009,177.894,,,6,15,R. Merhi,Campos Vexatec Racing,Yas Island,Free Practice,11:41:49,Round 12 ,2018-11-25
+17,1:52.518,0.798,0.123,177.699,,,7,20,L. Delétraz,Charouz Racing System,Yas Island,Free Practice,11:58:20,Round 12 ,2018-11-25
+18,1:52.611,0.891,0.093,177.552,,,8,19,L. Norris,Carlin,Yas Island,Free Practice,11:41:08,Round 12 ,2018-11-25
+17,1:52.655,0.935,0.044,177.483,,,9,5,A. Albon,DAMS,Yas Island,Free Practice,11:57:21,Round 12 ,2018-11-25
+16,1:52.940,1.220,0.285,177.035,,,10,1,A. Markelov,RUSSIAN TIME,Yas Island,Free Practice,11:45:04,Round 12 ,2018-11-25
+18,1:53.012,1.292,0.072,176.922,,,11,7,J. Aitken,ART Grand Prix,Yas Island,Free Practice,12:01:09,Round 12 ,2018-11-25
+18,1:53.037,1.317,0.025,176.883,,,12,18,S. Sette Câmara,Carlin,Yas Island,Free Practice,11:47:56,Round 12 ,2018-11-25
+18,1:53.216,1.496,0.179,176.604,,,13,17,A. Lorandi,Trident,Yas Island,Free Practice,11:45:47,Round 12 ,2018-11-25
+17,1:53.360,1.640,0.144,176.379,,,14,2,T. Makino,RUSSIAN TIME,Yas Island,Free Practice,12:03:50,Round 12 ,2018-11-25
+16,1:53.398,1.678,0.038,176.32,,,15,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Yas Island,Free Practice,11:42:12,Round 12 ,2018-11-25
+17,1:53.483,1.763,0.085,176.188,,,16,16,A. Maini,Trident,Yas Island,Free Practice,11:44:49,Round 12 ,2018-11-25
+18,1:53.507,1.787,0.024,176.151,,,17,6,N. Latifi,DAMS,Yas Island,Free Practice,11:45:15,Round 12 ,2018-11-25
+18,1:53.605,1.885,0.098,175.999,,,18,10,N. Kari,MP Motorsport,Yas Island,Free Practice,11:55:20,Round 12 ,2018-11-25
+17,1:53.875,2.155,0.270,175.581,,,19,9,D. Boccolacci,MP Motorsport,Yas Island,Free Practice,11:47:12,Round 12 ,2018-11-25
+18,1:54.317,2.597,0.442,174.903,,,20,11,D. Ticktum,BWT Arden,Yas Island,Free Practice,12:05:51,Round 12 ,2018-11-25

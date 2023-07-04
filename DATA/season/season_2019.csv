@@ -1,0 +1,841 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+23,42:36.192,-,-,174.958,1:47.184,14.0,1,8,L. Ghiotto,UNI-Virtuosi,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,42:41.666,5.474,5.474,174.584,1:48.760,3.0,2,5,S. Sette Câmara,DAMS,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,42:43.059,6.867,1.393,174.489,1:49.038,4.0,3,6,N. Latifi,DAMS,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,42:54.432,18.240,11.373,173.719,1:49.559,4.0,4,7,G. Zhou,UNI-Virtuosi,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,42:58.131,21.939,3.699,173.469,1:49.306,2.0,5,1,L. Delétraz,Carlin,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:00.871,24.679,2.740,173.285,1:49.930,5.0,6,9,M. Schumacher,PREMA Racing,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:01.346,25.154,0.475,173.253,1:47.145,14.0,7,4,N. de Vries,ART Grand Prix,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:01.712,25.520,0.366,173.229,1:47.797,13.0,8,16,J. King,MP Motorsport,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:06.706,30.514,4.994,172.894,1:48.785,16.0,9,19,A. Hubert,BWT Arden,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:06.724,30.532,0.018,172.893,1:48.079,12.0,10,10,S. Gelael,PREMA Racing,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:08.416,32.224,1.692,172.78,1:49.761,4.0,11,15,J. Aitken,Campos Racing,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:12.172,35.980,3.756,172.53,1:48.056,12.0,12,2,N. Matsushita,Carlin,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:16.733,40.541,4.561,172.227,1:49.356,20.0,13,3,N. Mazepin,ART Grand Prix,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:19.266,43.074,2.533,172.059,1:49.868,4.0,14,21,R. Boschung,Trident,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:22.198,46.006,2.932,171.865,1:50.248,4.0,15,18,T. Calderón,BWT Arden,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:32.679,56.487,10.481,171.176,1:49.931,4.0,16,11,C. Ilott,Sauber Junior Team by Charouz,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:36.240,60.048,3.561,170.943,1:48.299,19.0,17,14,D. Boccolacci,Campos Racing,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,44:08.777,92.585,11.470,168.843,1:48.920,10.0,18,12,J. Correa,Sauber Junior Team by Charouz,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+22,42:41.591,1 LAP,1 LAP,166.984,1:50.368,2.0,19,17,M. Raghunathan,MP Motorsport,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+32,59:19.517,-,-,174.904,1:47.989,21.0,1,6,N. Latifi,DAMS,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:28.261,8.744,8.744,174.476,1:47.833,19.0,2,8,L. Ghiotto,UNI-Virtuosi,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:34.343,14.826,6.082,174.179,1:48.463,22.0,3,5,S. Sette Câmara,DAMS,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:36.790,17.273,2.447,174.06,1:48.483,19.0,4,19,A. Hubert,BWT Arden,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:46.203,26.686,9.413,173.603,1:48.523,16.0,5,1,L. Delétraz,Carlin,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:48.014,28.497,1.811,173.515,1:48.850,3.0,6,4,N. de Vries,ART Grand Prix,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:51.062,31.545,3.048,173.368,1:48.518,20.0,7,15,J. Aitken,Campos Racing,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:54.225,34.708,3.163,173.215,1:49.536,26.0,8,9,M. Schumacher,PREMA Racing,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:56.912,37.395,2.687,173.086,1:48.710,18.0,9,2,N. Matsushita,Carlin,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:00.648,41.131,3.736,172.906,1:47.645,18.0,10,7,G. Zhou,UNI-Virtuosi,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:01.609,42.092,0.961,172.86,1:49.144,19.0,11,21,R. Boschung,Trident,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:07.228,47.711,5.619,172.591,1:48.808,17.0,12,20,G. Alesi,Trident,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:15.292,55.775,8.064,172.206,1:48.911,24.0,13,18,T. Calderón,BWT Arden,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:15.810,56.293,0.518,172.181,1:48.487,17.0,14,11,C. Ilott,Sauber Junior Team by Charouz,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:33.764,74.247,17.954,171.331,1:48.893,19.0,15,14,D. Boccolacci,Campos Racing,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:44.505,84.988,10.741,170.826,1:49.057,17.0,16,12,J. Correa,Sauber Junior Team by Charouz,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:46.028,86.511,1.523,170.754,1:48.772,19.0,17,16,J. King,MP Motorsport,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:52.667,93.150,6.639,170.444,1:49.123,20.0,18,17,M. Raghunathan,MP Motorsport,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:57.085,97.568,4.418,170.238,1:49.277,16.0,19,3,N. Mazepin,ART Grand Prix,Sakhir,Feature Race,,Round 1 ,2019-03-31
+9,1:40.504,-,-,193.854,,,1,8,L. Ghiotto,UNI-Virtuosi,Sakhir,Qualifying Session,17:25:10,Round 1 ,2019-03-31
+9,1:40.871,0.367,0.367,193.149,,,2,1,L. Delétraz,Carlin,Sakhir,Qualifying Session,17:24:17,Round 1 ,2019-03-31
+9,1:40.889,0.385,0.018,193.115,,,3,4,N. de Vries,ART Grand Prix,Sakhir,Qualifying Session,17:24:10,Round 1 ,2019-03-31
+9,1:40.964,0.460,0.075,192.971,,,4,6,N. Latifi,DAMS,Sakhir,Qualifying Session,17:15:08,Round 1 ,2019-03-31
+9,1:41.115,0.611,0.151,192.683,,,5,15,J. Aitken,Campos Racing,Sakhir,Qualifying Session,17:15:55,Round 1 ,2019-03-31
+9,1:41.137,0.633,0.022,192.641,,,6,2,N. Matsushita,Carlin,Sakhir,Qualifying Session,17:24:23,Round 1 ,2019-03-31
+8,1:41.254,0.750,0.117,192.419,,,7,10,S. Gelael,PREMA Racing,Sakhir,Qualifying Session,17:24:42,Round 1 ,2019-03-31
+11,1:41.310,0.806,0.056,192.312,,,8,5,S. Sette Câmara,DAMS,Sakhir,Qualifying Session,17:17:00,Round 1 ,2019-03-31
+9,1:41.505,1.001,0.195,191.943,,,9,21,R. Boschung,Trident,Sakhir,Qualifying Session,17:24:31,Round 1 ,2019-03-31
+8,1:41.583,1.079,0.078,191.795,,,10,9,M. Schumacher,PREMA Racing,Sakhir,Qualifying Session,17:24:57,Round 1 ,2019-03-31
+9,1:41.596,1.092,0.013,191.771,,,11,19,A. Hubert,BWT Arden,Sakhir,Qualifying Session,17:24:28,Round 1 ,2019-03-31
+10,1:41.722,1.218,0.126,191.533,,,12,12,J. Correa,Sauber Junior Team by Charouz,Sakhir,Qualifying Session,17:23:47,Round 1 ,2019-03-31
+9,1:41.848,1.344,0.126,191.296,,,13,3,N. Mazepin,ART Grand Prix,Sakhir,Qualifying Session,17:24:15,Round 1 ,2019-03-31
+9,1:41.857,1.353,0.009,191.279,,,14,16,J. King,MP Motorsport,Sakhir,Qualifying Session,17:24:36,Round 1 ,2019-03-31
+9,1:41.864,1.360,0.007,191.266,,,15,20,G. Alesi,Trident,Sakhir,Qualifying Session,17:24:34,Round 1 ,2019-03-31
+9,1:41.918,1.414,0.054,191.165,,,16,14,D. Boccolacci,Campos Racing,Sakhir,Qualifying Session,17:16:01,Round 1 ,2019-03-31
+8,1:42.123,1.619,0.205,190.781,,,17,7,G. Zhou,UNI-Virtuosi,Sakhir,Qualifying Session,17:15:02,Round 1 ,2019-03-31
+5,1:42.280,1.776,0.157,190.488,,,18,11,C. Ilott,Sauber Junior Team by Charouz,Sakhir,Qualifying Session,16:56:34,Round 1 ,2019-03-31
+9,1:42.810,2.306,0.530,189.506,,,19,18,T. Calderón,BWT Arden,Sakhir,Qualifying Session,17:25:03,Round 1 ,2019-03-31
+10,1:43.343,2.839,0.533,188.529,,,20,17,M. Raghunathan,MP Motorsport,Sakhir,Qualifying Session,17:00:57,Round 1 ,2019-03-31
+12,1:43.618,-,-,188.029,,,1,5,S. Sette Câmara,DAMS,Sakhir,Free Practice,11:48:52,Round 1 ,2019-03-31
+14,1:43.912,0.294,0.294,187.497,,,2,6,N. Latifi,DAMS,Sakhir,Free Practice,11:48:39,Round 1 ,2019-03-31
+12,1:44.178,0.560,0.266,187.018,,,3,21,R. Boschung,Trident,Sakhir,Free Practice,11:49:01,Round 1 ,2019-03-31
+13,1:44.232,0.614,0.054,186.921,,,4,8,L. Ghiotto,UNI-Virtuosi,Sakhir,Free Practice,11:52:27,Round 1 ,2019-03-31
+14,1:44.311,0.693,0.079,186.779,,,5,11,C. Ilott,Sauber Junior Team by Charouz,Sakhir,Free Practice,11:48:58,Round 1 ,2019-03-31
+12,1:44.323,0.705,0.012,186.758,,,6,7,G. Zhou,UNI-Virtuosi,Sakhir,Free Practice,11:48:55,Round 1 ,2019-03-31
+17,1:44.362,0.744,0.039,186.688,,,7,4,N. de Vries,ART Grand Prix,Sakhir,Free Practice,11:45:46,Round 1 ,2019-03-31
+13,1:44.375,0.757,0.013,186.665,,,8,1,L. Delétraz,Carlin,Sakhir,Free Practice,11:50:00,Round 1 ,2019-03-31
+14,1:44.546,0.928,0.171,186.36,,,9,12,J. Correa,Sauber Junior Team by Charouz,Sakhir,Free Practice,11:49:06,Round 1 ,2019-03-31
+16,1:44.548,0.930,0.002,186.356,,,10,2,N. Matsushita,Carlin,Sakhir,Free Practice,11:49:16,Round 1 ,2019-03-31
+13,1:44.573,0.955,0.025,186.311,,,11,10,S. Gelael,PREMA Racing,Sakhir,Free Practice,11:49:18,Round 1 ,2019-03-31
+12,1:44.595,0.977,0.022,186.272,,,12,9,M. Schumacher,PREMA Racing,Sakhir,Free Practice,11:49:22,Round 1 ,2019-03-31
+17,1:44.834,1.216,0.239,185.848,,,13,19,A. Hubert,BWT Arden,Sakhir,Free Practice,11:39:53,Round 1 ,2019-03-31
+15,1:45.006,1.388,0.172,185.543,,,14,15,J. Aitken,Campos Racing,Sakhir,Free Practice,11:47:46,Round 1 ,2019-03-31
+15,1:45.173,1.555,0.167,185.249,,,15,20,G. Alesi,Trident,Sakhir,Free Practice,11:51:34,Round 1 ,2019-03-31
+16,1:45.324,1.706,0.151,184.983,,,16,16,J. King,MP Motorsport,Sakhir,Free Practice,11:37:52,Round 1 ,2019-03-31
+17,1:45.572,1.954,0.248,184.548,,,17,3,N. Mazepin,ART Grand Prix,Sakhir,Free Practice,11:40:43,Round 1 ,2019-03-31
+17,1:45.768,2.150,0.196,184.206,,,18,14,D. Boccolacci,Campos Racing,Sakhir,Free Practice,11:41:20,Round 1 ,2019-03-31
+14,1:46.363,2.745,0.595,183.176,,,19,18,T. Calderón,BWT Arden,Sakhir,Free Practice,12:00:44,Round 1 ,2019-03-31
+15,1:46.637,3.019,0.274,182.705,,,20,17,M. Raghunathan,MP Motorsport,Sakhir,Free Practice,11:42:44,Round 1 ,2019-03-31
+19,48:43.284,-,-,140.332,1:57.949,5.0,1,6,N. Latifi,DAMS,Baku,Sprint Race,,Round 2 ,2019-04-28
+19,48:44.245,0.961,0.961,140.286,1:58.306,19.0,2,12,J. Correa,Sauber Junior Team by Charouz,Baku,Sprint Race,,Round 2 ,2019-04-28
+19,48:44.805,1.521,0.560,140.259,1:58.137,19.0,3,15,J. Aitken,Campos Racing,Baku,Sprint Race,,Round 2 ,2019-04-28
+19,48:45.886,2.602,1.081,140.207,1:58.114,5.0,4,4,N. de Vries,ART Grand Prix,Baku,Sprint Race,,Round 2 ,2019-04-28
+19,48:46.531,3.247,0.645,140.176,1:57.945,19.0,5,9,M. Schumacher,PREMA Racing,Baku,Sprint Race,,Round 2 ,2019-04-28
+19,48:47.344,4.060,0.813,140.137,1:57.941,19.0,6,5,S. Sette Câmara,DAMS,Baku,Sprint Race,,Round 2 ,2019-04-28
+19,48:49.787,6.503,2.443,140.02,1:58.918,4.0,7,14,D. Boccolacci,Campos Racing,Baku,Sprint Race,,Round 2 ,2019-04-28
+19,48:51.008,7.724,1.221,139.962,1:58.645,5.0,8,10,S. Gelael,PREMA Racing,Baku,Sprint Race,,Round 2 ,2019-04-28
+19,48:51.013,7.729,0.005,139.962,1:59.443,6.0,9,11,C. Ilott,Sauber Junior Team by Charouz,Baku,Sprint Race,,Round 2 ,2019-04-28
+19,48:52.577,9.293,1.564,139.887,1:59.431,6.0,10,7,G. Zhou,UNI-Virtuosi,Baku,Sprint Race,,Round 2 ,2019-04-28
+19,48:54.358,11.074,1.781,139.802,1:58.970,6.0,11,19,A. Hubert,BWT Arden,Baku,Sprint Race,,Round 2 ,2019-04-28
+19,48:54.519,11.235,0.161,139.794,1:58.336,19.0,12,2,N. Matsushita,Carlin,Baku,Sprint Race,,Round 2 ,2019-04-28
+19,49:00.868,17.584,6.349,139.493,2:02.480,8.0,13,17,M. Raghunathan,MP Motorsport,Baku,Sprint Race,,Round 2 ,2019-04-28
+26,1:02:27.628,-,-,149.829,1:56.961,25.0,1,15,J. Aitken,Campos Racing,Baku,Feature Race,,Round 2 ,2019-04-28
+26,1:02:29.849,2.221,2.221,149.741,1:57.449,25.0,2,4,N. de Vries,ART Grand Prix,Baku,Feature Race,,Round 2 ,2019-04-28
+26,1:02:31.762,4.134,1.913,149.664,1:57.616,25.0,3,16,J. King,MP Motorsport,Baku,Feature Race,,Round 2 ,2019-04-28
+26,1:02:32.232,4.604,0.470,149.645,1:57.331,26.0,4,6,N. Latifi,DAMS,Baku,Feature Race,,Round 2 ,2019-04-28
+26,1:02:37.127,9.499,4.895,149.451,1:58.879,12.0,5,14,D. Boccolacci,Campos Racing,Baku,Feature Race,,Round 2 ,2019-04-28
+26,1:02:39.941,12.313,2.700,149.339,1:59.064,14.0,6,10,S. Gelael,PREMA Racing,Baku,Feature Race,,Round 2 ,2019-04-28
+26,1:02:40.782,13.154,0.841,149.305,1:58.964,26.0,7,12,J. Correa,Sauber Junior Team by Charouz,Baku,Feature Race,,Round 2 ,2019-04-28
+26,1:02:41.304,13.676,0.522,149.285,1:58.647,26.0,8,3,N. Mazepin,ART Grand Prix,Baku,Feature Race,,Round 2 ,2019-04-28
+26,1:02:37.241,9.613,0.114,149.446,1:57.489,26.0,9,8,L. Ghiotto,UNI-Virtuosi,Baku,Feature Race,,Round 2 ,2019-04-28
+26,1:02:45.828,18.200,4.524,149.105,1:58.289,26.0,10,19,A. Hubert,BWT Arden,Baku,Feature Race,,Round 2 ,2019-04-28
+26,1:02:57.426,29.798,11.598,148.647,2:03.946,12.0,11,17,M. Raghunathan,MP Motorsport,Baku,Feature Race,,Round 2 ,2019-04-28
+26,1:03:28.135,60.507,30.709,147.449,1:58.827,26.0,12,21,R. Boschung,Trident,Baku,Feature Race,,Round 2 ,2019-04-28
+25,1:03:23.672,1 LAP,1 LAP,141.94,1:56.778,25.0,13,2,N. Matsushita,Carlin,Baku,Feature Race,,Round 2 ,2019-04-28
+10,1:54.555,-,-,188.649,,,1,2,N. Matsushita,Carlin,Baku,Qualifying Session,16:05:22,Round 2 ,2019-04-28
+11,1:54.999,0.444,0.444,187.921,,,2,4,N. de Vries,ART Grand Prix,Baku,Qualifying Session,16:05:02,Round 2 ,2019-04-28
+10,1:55.037,0.482,0.038,187.859,,,3,8,L. Ghiotto,UNI-Virtuosi,Baku,Qualifying Session,16:05:21,Round 2 ,2019-04-28
+12,1:55.677,1.122,0.640,186.820,,,4,5,S. Sette Câmara,DAMS,Baku,Qualifying Session,16:05:45,Round 2 ,2019-04-28
+10,1:55.704,1.149,0.027,186.776,,,5,16,J. King,MP Motorsport,Baku,Qualifying Session,16:05:59,Round 2 ,2019-04-28
+10,1:55.797,1.242,0.093,186.626,,,6,9,M. Schumacher,PREMA Racing,Baku,Qualifying Session,16:05:56,Round 2 ,2019-04-28
+12,1:55.835,1.280,0.038,186.565,,,7,6,N. Latifi,DAMS,Baku,Qualifying Session,16:05:05,Round 2 ,2019-04-28
+10,1:55.949,1.394,0.114,186.381,,,8,15,J. Aitken,Campos Racing,Baku,Qualifying Session,16:05:49,Round 2 ,2019-04-28
+11,1:56.138,1.583,0.189,186.078,,,9,19,A. Hubert,BWT Arden,Baku,Qualifying Session,16:06:21,Round 2 ,2019-04-28
+11,1:56.153,1.598,0.015,186.054,,,10,21,R. Boschung,Trident,Baku,Qualifying Session,16:05:35,Round 2 ,2019-04-28
+10,1:56.215,1.660,0.062,185.955,,,11,11,C. Ilott,Sauber Junior Team by Charouz,Baku,Qualifying Session,16:05:31,Round 2 ,2019-04-28
+10,1:56.326,1.771,0.111,185.777,,,12,1,L. Delétraz,Carlin,Baku,Qualifying Session,16:05:28,Round 2 ,2019-04-28
+10,1:56.454,1.899,0.128,185.573,,,13,7,G. Zhou,UNI-Virtuosi,Baku,Qualifying Session,16:05:34,Round 2 ,2019-04-28
+11,1:56.555,2.000,0.101,185.412,,,14,20,G. Alesi,Trident,Baku,Qualifying Session,16:05:51,Round 2 ,2019-04-28
+12,1:56.568,2.013,0.013,185.392,,,15,3,N. Mazepin,ART Grand Prix,Baku,Qualifying Session,16:07:18,Round 2 ,2019-04-28
+10,1:56.653,2.098,0.085,185.257,,,16,14,D. Boccolacci,Campos Racing,Baku,Qualifying Session,16:06:02,Round 2 ,2019-04-28
+10,1:56.936,2.381,0.283,184.808,,,17,12,J. Correa,Sauber Junior Team by Charouz,Baku,Qualifying Session,16:05:48,Round 2 ,2019-04-28
+11,1:58.164,3.609,1.228,182.888,,,18,18,T. Calderón,BWT Arden,Baku,Qualifying Session,16:06:09,Round 2 ,2019-04-28
+11,2:00.747,6.192,2.583,178.975,,,19,17,M. Raghunathan,MP Motorsport,Baku,Qualifying Session,16:06:17,Round 2 ,2019-04-28
+1,-,-,-,-,,,20,10,S. Gelael,PREMA Racing,Baku,Qualifying Session,-,Round 2 ,2019-04-28
+15,1:56.637,-,-,185.282,,,1,8,L. Ghiotto,UNI-Virtuosi,Baku,Free Practice,11:45:47,Round 2 ,2019-04-28
+15,1:56.919,0.282,0.282,184.835,,,2,2,N. Matsushita,Carlin,Baku,Free Practice,11:40:55,Round 2 ,2019-04-28
+15,1:57.023,0.386,0.104,184.671,,,3,16,J. King,MP Motorsport,Baku,Free Practice,11:45:54,Round 2 ,2019-04-28
+17,1:57.441,0.804,0.418,184.014,,,4,4,N. de Vries,ART Grand Prix,Baku,Free Practice,11:40:46,Round 2 ,2019-04-28
+16,1:57.446,0.809,0.005,184.006,,,5,6,N. Latifi,DAMS,Baku,Free Practice,11:45:50,Round 2 ,2019-04-28
+17,1:57.576,0.939,0.130,183.802,,,6,9,M. Schumacher,PREMA Racing,Baku,Free Practice,11:42:37,Round 2 ,2019-04-28
+17,1:57.887,1.250,0.311,183.317,,,7,11,C. Ilott,Sauber Junior Team by Charouz,Baku,Free Practice,11:41:48,Round 2 ,2019-04-28
+16,1:58.029,1.392,0.142,183.097,,,8,5,S. Sette Câmara,DAMS,Baku,Free Practice,11:45:46,Round 2 ,2019-04-28
+16,1:58.273,1.636,0.244,182.719,,,9,12,J. Correa,Sauber Junior Team by Charouz,Baku,Free Practice,11:44:40,Round 2 ,2019-04-28
+17,1:58.377,1.740,0.104,182.559,,,10,10,S. Gelael,PREMA Racing,Baku,Free Practice,11:41:59,Round 2 ,2019-04-28
+16,1:58.647,2.010,0.270,182.143,,,11,15,J. Aitken,Campos Racing,Baku,Free Practice,11:36:57,Round 2 ,2019-04-28
+14,1:58.685,2.048,0.038,182.085,,,12,1,L. Delétraz,Carlin,Baku,Free Practice,11:24:01,Round 2 ,2019-04-28
+14,1:59.010,2.373,0.325,181.588,,,13,21,R. Boschung,Trident,Baku,Free Practice,11:29:45,Round 2 ,2019-04-28
+16,1:59.699,3.062,0.689,180.542,,,14,3,N. Mazepin,ART Grand Prix,Baku,Free Practice,11:43:09,Round 2 ,2019-04-28
+17,1:59.753,3.116,0.054,180.461,,,15,7,G. Zhou,UNI-Virtuosi,Baku,Free Practice,11:40:02,Round 2 ,2019-04-28
+19,1:59.801,3.164,0.048,180.389,,,16,19,A. Hubert,BWT Arden,Baku,Free Practice,11:23:45,Round 2 ,2019-04-28
+17,1:59.994,3.357,0.193,180.099,,,17,20,G. Alesi,Trident,Baku,Free Practice,11:23:50,Round 2 ,2019-04-28
+17,2:01.994,5.357,2.000,177.146,,,18,18,T. Calderón,BWT Arden,Baku,Free Practice,11:42:19,Round 2 ,2019-04-28
+13,2:02.474,5.837,0.480,176.452,,,19,14,D. Boccolacci,Campos Racing,Baku,Free Practice,11:17:48,Round 2 ,2019-04-28
+7,2:09.848,13.211,7.374,166.431,,,20,17,M. Raghunathan,MP Motorsport,Baku,Free Practice,11:16:39,Round 2 ,2019-04-28
+26,42:25.916,-,-,170.961,1:32.673,8.0,1,4,N. de Vries,ART Grand Prix,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,42:28.315,2.399,2.399,170.8,1:32.546,17.0,2,8,L. Ghiotto,UNI-Virtuosi,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,42:30.298,4.382,1.983,170.668,1:32.911,11.0,3,11,C. Ilott,Sauber Junior Team by Charouz,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,42:37.099,11.183,6.801,170.214,1:33.150,15.0,4,7,G. Zhou,UNI-Virtuosi,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,42:38.483,12.567,1.384,170.122,1:33.320,15.0,5,19,A. Hubert,BWT Arden,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,42:39.004,13.088,0.521,170.087,1:32.444,17.0,6,6,N. Latifi,DAMS,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,42:47.335,21.419,8.331,169.535,1:33.698,23.0,7,16,J. King,MP Motorsport,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,42:52.560,26.644,5.225,169.191,1:33.608,14.0,8,15,J. Aitken,Campos Racing,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,42:53.361,27.445,0.801,169.138,1:33.842,20.0,9,10,S. Gelael,PREMA Racing,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,42:54.085,28.169,0.724,169.09,1:33.772,25.0,10,21,R. Boschung,Trident,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,42:54.451,28.535,0.366,169.066,1:33.227,23.0,11,1,L. Delétraz,Carlin,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,42:56.824,30.908,2.373,168.911,1:33.632,21.0,12,9,M. Schumacher,PREMA Racing,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,42:58.185,32.269,1.361,168.822,1:33.986,16.0,13,18,T. Calderón,BWT Arden,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,43:00.977,35.061,2.792,168.639,1:33.976,14.0,14,3,N. Mazepin,ART Grand Prix,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,43:03.768,37.852,2.791,168.457,1:34.068,14.0,15,12,J. Correa,Sauber Junior Team by Charouz,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,43:06.310,40.394,2.542,168.291,1:33.990,21.0,16,20,G. Alesi,Trident,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,43:06.454,40.538,0.144,168.282,1:33.612,17.0,17,5,S. Sette Câmara,DAMS,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,43:10.126,44.210,3.672,168.043,1:33.899,23.0,18,14,D. Boccolacci,Campos Racing,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+26,43:34.617,68.701,24.491,166.469,1:34.971,19.0,19,17,M. Raghunathan,MP Motorsport,Barcelona,Sprint Race,,Round 3 ,2019-05-12
+37,1:01:10.688,-,-,168.794,1:34.031,26.0,1,6,N. Latifi,DAMS,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:12.623,1.935,1.935,168.705,1:34.076,33.0,2,15,J. Aitken,Campos Racing,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:14.013,3.325,1.390,168.641,1:34.401,25.0,3,7,G. Zhou,UNI-Virtuosi,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:15.049,4.361,1.036,168.594,1:32.999,33.0,4,8,L. Ghiotto,UNI-Virtuosi,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:20.156,9.468,5.107,168.36,1:34.430,29.0,5,4,N. de Vries,ART Grand Prix,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:23.177,12.489,3.021,168.222,1:32.942,35.0,6,19,A. Hubert,BWT Arden,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:24.965,14.277,1.788,168.14,1:32.266,35.0,7,16,J. King,MP Motorsport,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:28.073,17.385,3.108,167.998,1:34.487,27.0,8,11,C. Ilott,Sauber Junior Team by Charouz,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:29.760,19.072,1.687,167.922,1:34.196,29.0,9,10,S. Gelael,PREMA Racing,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:36.410,25.722,6.650,167.62,1:33.985,32.0,10,21,R. Boschung,Trident,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:44.290,33.602,7.880,167.263,1:34.939,26.0,11,2,N. Matsushita,Carlin,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:49.234,38.546,4.944,167.04,1:35.060,11.0,12,1,L. Delétraz,Carlin,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:56.477,45.789,7.243,166.714,1:34.736,27.0,13,18,T. Calderón,BWT Arden,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:01:58.337,47.649,1.860,166.631,1:34.326,10.0,14,14,D. Boccolacci,Campos Racing,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:02:22.682,71.994,24.345,165.547,1:32.816,36.0,15,9,M. Schumacher,PREMA Racing,Barcelona,Feature Race,,Round 3 ,2019-05-12
+37,1:02:44.461,93.773,21.779,164.589,1:34.459,31.0,16,17,M. Raghunathan,MP Motorsport,Barcelona,Feature Race,,Round 3 ,2019-05-12
+33,1:01:37.627,4 LAPS,4 LAPS,149.436,1:34.641,32.0,17,3,N. Mazepin,ART Grand Prix,Barcelona,Feature Race,,Round 3 ,2019-05-12
+11,1:28.031,-,-,190.364,,,1,8,L. Ghiotto,UNI-Virtuosi,Barcelona,Qualifying Session,17:24:31,Round 3 ,2019-05-12
+10,1:28.212,0.181,0.181,189.974,,,2,6,N. Latifi,DAMS,Barcelona,Qualifying Session,17:19:57,Round 3 ,2019-05-12
+10,1:28.249,0.218,0.037,189.894,,,3,7,G. Zhou,UNI-Virtuosi,Barcelona,Qualifying Session,17:21:00,Round 3 ,2019-05-12
+9,1:28.266,0.235,0.017,189.857,,,4,4,N. de Vries,ART Grand Prix,Barcelona,Qualifying Session,17:20:10,Round 3 ,2019-05-12
+10,1:28.355,0.324,0.089,189.666,,,5,15,J. Aitken,Campos Racing,Barcelona,Qualifying Session,17:15:02,Round 3 ,2019-05-12
+11,1:28.470,0.439,0.115,189.42,,,6,11,C. Ilott,Sauber Junior Team by Charouz,Barcelona,Qualifying Session,17:20:17,Round 3 ,2019-05-12
+10,1:28.550,0.519,0.080,189.249,,,7,5,S. Sette Câmara,DAMS,Barcelona,Qualifying Session,17:20:04,Round 3 ,2019-05-12
+11,1:28.580,0.549,0.030,189.184,,,8,21,R. Boschung,Trident,Barcelona,Qualifying Session,17:20:43,Round 3 ,2019-05-12
+10,1:28.581,0.550,0.001,189.182,,,9,14,D. Boccolacci,Campos Racing,Barcelona,Qualifying Session,17:15:36,Round 3 ,2019-05-12
+11,1:28.605,0.574,0.024,189.131,,,10,9,M. Schumacher,PREMA Racing,Barcelona,Qualifying Session,17:20:28,Round 3 ,2019-05-12
+10,1:28.683,0.652,0.078,188.965,,,11,2,N. Matsushita,Carlin,Barcelona,Qualifying Session,17:20:39,Round 3 ,2019-05-12
+10,1:28.758,0.727,0.075,188.805,,,12,3,N. Mazepin,ART Grand Prix,Barcelona,Qualifying Session,17:20:33,Round 3 ,2019-05-12
+11,1:28.761,0.730,0.003,188.799,,,13,10,S. Gelael,PREMA Racing,Barcelona,Qualifying Session,17:23:40,Round 3 ,2019-05-12
+10,1:28.869,0.838,0.108,188.569,,,14,1,L. Delétraz,Carlin,Barcelona,Qualifying Session,17:20:36,Round 3 ,2019-05-12
+11,1:28.980,0.949,0.111,188.334,,,15,19,A. Hubert,BWT Arden,Barcelona,Qualifying Session,17:04:25,Round 3 ,2019-05-12
+11,1:29.023,0.992,0.043,188.243,,,16,16,J. King,MP Motorsport,Barcelona,Qualifying Session,17:20:41,Round 3 ,2019-05-12
+11,1:29.346,1.315,0.323,187.562,,,17,20,G. Alesi,Trident,Barcelona,Qualifying Session,17:20:46,Round 3 ,2019-05-12
+11,1:29.590,1.559,0.244,187.052,,,18,18,T. Calderón,BWT Arden,Barcelona,Qualifying Session,17:20:51,Round 3 ,2019-05-12
+10,1:30.171,2.140,0.581,185.846,,,19,12,J. Correa,Sauber Junior Team by Charouz,Barcelona,Qualifying Session,17:20:24,Round 3 ,2019-05-12
+11,1:30.691,2.660,0.520,184.781,,,20,17,M. Raghunathan,MP Motorsport,Barcelona,Qualifying Session,17:20:58,Round 3 ,2019-05-12
+16,1:29.462,-,-,187.319,,,1,8,L. Ghiotto,UNI-Virtuosi,Barcelona,Free Practice,13:25:06,Round 3 ,2019-05-12
+15,1:29.866,0.404,0.404,186.477,,,2,6,N. Latifi,DAMS,Barcelona,Free Practice,13:23:46,Round 3 ,2019-05-12
+18,1:29.955,0.493,0.089,186.293,,,3,10,S. Gelael,PREMA Racing,Barcelona,Free Practice,13:27:59,Round 3 ,2019-05-12
+13,1:30.008,0.546,0.053,186.183,,,4,7,G. Zhou,UNI-Virtuosi,Barcelona,Free Practice,13:22:35,Round 3 ,2019-05-12
+17,1:30.073,0.611,0.065,186.049,,,5,5,S. Sette Câmara,DAMS,Barcelona,Free Practice,13:23:51,Round 3 ,2019-05-12
+17,1:30.118,0.656,0.045,185.956,,,6,15,J. Aitken,Campos Racing,Barcelona,Free Practice,13:25:47,Round 3 ,2019-05-12
+18,1:30.228,0.766,0.110,185.729,,,7,2,N. Matsushita,Carlin,Barcelona,Free Practice,13:25:01,Round 3 ,2019-05-12
+20,1:30.361,0.899,0.133,185.456,,,8,9,M. Schumacher,PREMA Racing,Barcelona,Free Practice,13:10:31,Round 3 ,2019-05-12
+12,1:30.371,0.909,0.010,185.435,,,9,4,N. de Vries,ART Grand Prix,Barcelona,Free Practice,13:43:34,Round 3 ,2019-05-12
+19,1:30.402,0.940,0.031,185.372,,,10,19,A. Hubert,BWT Arden,Barcelona,Free Practice,13:29:40,Round 3 ,2019-05-12
+16,1:30.624,1.162,0.222,184.917,,,11,21,R. Boschung,Trident,Barcelona,Free Practice,13:42:29,Round 3 ,2019-05-12
+19,1:30.682,1.220,0.058,184.799,,,12,11,C. Ilott,Sauber Junior Team by Charouz,Barcelona,Free Practice,13:19:49,Round 3 ,2019-05-12
+19,1:30.719,1.257,0.037,184.724,,,13,16,J. King,MP Motorsport,Barcelona,Free Practice,13:22:56,Round 3 ,2019-05-12
+16,1:30.742,1.280,0.023,184.677,,,14,3,N. Mazepin,ART Grand Prix,Barcelona,Free Practice,13:22:49,Round 3 ,2019-05-12
+19,1:30.935,1.473,0.193,184.285,,,15,14,D. Boccolacci,Campos Racing,Barcelona,Free Practice,13:22:13,Round 3 ,2019-05-12
+7,1:31.060,1.598,0.125,184.032,,,16,1,L. Delétraz,Carlin,Barcelona,Free Practice,13:08:41,Round 3 ,2019-05-12
+19,1:31.701,2.239,0.641,182.746,,,17,20,G. Alesi,Trident,Barcelona,Free Practice,13:19:34,Round 3 ,2019-05-12
+20,1:32.362,2.900,0.661,181.438,,,18,18,T. Calderón,BWT Arden,Barcelona,Free Practice,13:23:43,Round 3 ,2019-05-12
+17,1:33.402,3.940,1.040,179.417,,,19,17,M. Raghunathan,MP Motorsport,Barcelona,Free Practice,13:25:17,Round 3 ,2019-05-12
+3,1:45.830,16.368,12.428,158.348,,,20,12,J. Correa,Sauber Junior Team by Charouz,Barcelona,Free Practice,13:09:44,Round 3 ,2019-05-12
+30,44:23.388,-,-,135.314,1:24.280,6.0,1,19,A. Hubert,BWT Arden,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:23.447,0.059,0.059,135.311,1:24.387,10.0,2,1,L. Delétraz,Carlin,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:24.310,0.922,0.863,135.268,1:24.436,10.0,3,7,G. Zhou,UNI-Virtuosi,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:25.847,2.459,1.537,135.19,1:24.368,10.0,4,16,A. Markelov,MP Motorsport,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:37.077,13.689,11.230,134.622,1:25.141,18.0,5,14,D. Boccolacci,Campos Racing,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:39.710,16.322,2.633,134.49,1:25.032,16.0,6,5,S. Sette Câmara,DAMS,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:40.340,16.952,0.630,134.459,1:25.223,16.0,7,4,N. de Vries,ART Grand Prix,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:40.725,17.337,0.385,134.439,1:25.332,17.0,8,3,N. Mazepin,ART Grand Prix,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:42.158,18.770,1.433,134.367,1:25.361,27.0,9,2,N. Matsushita,Carlin,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:42.723,19.335,0.565,134.339,1:23.868,30.0,10,6,N. Latifi,DAMS,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:44.947,21.559,2.224,134.228,1:24.708,24.0,11,9,M. Schumacher,PREMA Racing,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:46.027,22.639,1.080,134.174,1:25.143,18.0,12,12,J. Correa,Sauber Junior Team by Charouz,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:46.672,23.284,0.645,134.142,1:25.237,26.0,13,15,J. Aitken,Campos Racing,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+30,44:48.201,24.813,1.529,134.065,1:24.410,25.0,14,11,C. Ilott,Sauber Junior Team by Charouz,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+29,44:27.053,1 LAP,1 LAP,130.624,1:23.318,27.0,15,10,S. Gelael,PREMA Racing,Monte Carlo,Sprint Race,,Round 4 ,2019-05-25
+41,1:30:56.153,-,-,90.272,1:22.280,28.0,1,4,N. de Vries,ART Grand Prix,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+41,1:31:00.199,4.046,0.997,90.205,1:22.243,38.0,2,2,N. Matsushita,Carlin,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+41,1:31:01.623,5.470,1.424,90.182,1:23.142,25.0,3,5,S. Sette Câmara,DAMS,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+41,1:31:05.273,9.120,3.650,90.121,1:23.032,38.0,4,14,D. Boccolacci,Campos Racing,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+41,1:31:58.701,62.548,53.428,89.249,1:24.736,25.0,5,7,G. Zhou,UNI-Virtuosi,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+40,1:31:02.154,1 LAP,1 LAP,87.974,1:23.394,24.0,6,16,A. Markelov,MP Motorsport,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+40,1:31:19.126,1 LAP,16.972,87.701,1:24.449,23.0,7,1,L. Delétraz,Carlin,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+40,1:31:31.567,1 LAP,12.441,87.502,1:24.718,23.0,8,19,A. Hubert,BWT Arden,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+40,1:31:37.408,1 LAP,5.841,87.409,1:24.715,24.0,9,21,R. Boschung,Trident,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+40,1:31:37.519,1 LAP,0.111,87.408,1:25.419,36.0,10,3,N. Mazepin,ART Grand Prix,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+40,1:31:38.584,1 LAP,1.065,87.391,1:25.759,27.0,11,20,G. Alesi,Trident,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+40,1:31:39.247,1 LAP,0.663,87.38,1:24.068,18.0,12,6,N. Latifi,DAMS,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+40,1:31:42.849,1 LAP,3.602,87.323,1:24.185,25.0,13,9,M. Schumacher,PREMA Racing,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+39,1:32:15.851,2 LAPS,11.028,84.632,1:25.667,26.0,14,18,T. Calderón,BWT Arden,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+39,1:32:04.823,2 LAPS,1 LAP,84.801,1:26.690,34.0,15,17,M. Raghunathan,MP Motorsport,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+37,1:24:50.048,DNF,-,87.324,1:24.973,24.0,16,12,J. Correa,Sauber Junior Team by Charouz,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+36,1:25:18.196,DNF,-,84.497,1:25.771,23.0,17,15,J. Aitken,Campos Racing,Monte Carlo,Feature Race,,Round 4 ,2019-05-25
+11,1:20.676,-,-,148.906,,,1,4,N. de Vries,ART Grand Prix,Monte Carlo,Qualifying Group B,13:58:04,Round 4 ,2019-05-25
+10,1:20.924,0.248,0.248,148.45,,,2,8,L. Ghiotto,UNI-Virtuosi,Monte Carlo,Qualifying Group B,14:01:15,Round 4 ,2019-05-25
+9,1:21.130,0.454,0.206,148.073,,,3,6,N. Latifi,DAMS,Monte Carlo,Qualifying Group B,13:58:34,Round 4 ,2019-05-25
+10,1:21.598,0.922,0.468,147.224,,,4,10,S. Gelael,PREMA Racing,Monte Carlo,Qualifying Group B,13:59:08,Round 4 ,2019-05-25
+11,1:21.807,1.131,0.209,146.848,,,5,2,N. Matsushita,Carlin,Monte Carlo,Qualifying Group B,13:58:23,Round 4 ,2019-05-25
+11,1:22.086,1.410,0.279,146.348,,,6,16,A. Markelov,MP Motorsport,Monte Carlo,Qualifying Group B,13:58:41,Round 4 ,2019-05-25
+8,1:22.290,1.614,0.204,145.986,,,7,14,D. Boccolacci,Campos Racing,Monte Carlo,Qualifying Group B,13:54:41,Round 4 ,2019-05-25
+11,1:22.437,1.761,0.147,145.725,,,8,12,J. Correa,Sauber Junior Team by Charouz,Monte Carlo,Qualifying Group B,14:01:10,Round 4 ,2019-05-25
+11,1:22.785,2.109,0.348,145.113,,,9,20,G. Alesi,Trident,Monte Carlo,Qualifying Group B,14:00:58,Round 4 ,2019-05-25
+10,1:24.791,4.115,2.006,141.68,,,10,18,T. Calderón,BWT Arden,Monte Carlo,Qualifying Group B,14:00:39,Round 4 ,2019-05-25
+10,1:21.462,-,-,147.469,,,1,11,C. Ilott,Sauber Junior Team by Charouz,Monte Carlo,Qualifying Group A,13:34:14,Round 4 ,2019-05-25
+11,1:21.469,0.007,0.007,147.457,,,2,9,M. Schumacher,PREMA Racing,Monte Carlo,Qualifying Group A,13:37:21,Round 4 ,2019-05-25
+10,1:21.537,0.075,0.068,147.334,,,3,5,S. Sette Câmara,DAMS,Monte Carlo,Qualifying Group A,13:36:09,Round 4 ,2019-05-25
+9,1:21.675,0.213,0.138,147.085,,,4,19,A. Hubert,BWT Arden,Monte Carlo,Qualifying Group A,13:34:38,Round 4 ,2019-05-25
+11,1:21.936,0.474,0.261,146.616,,,5,1,L. Delétraz,Carlin,Monte Carlo,Qualifying Group A,13:36:57,Round 4 ,2019-05-25
+11,1:22.089,0.627,0.153,146.343,,,6,3,N. Mazepin,ART Grand Prix,Monte Carlo,Qualifying Group A,13:37:07,Round 4 ,2019-05-25
+11,1:22.233,0.771,0.144,146.087,,,7,21,R. Boschung,Trident,Monte Carlo,Qualifying Group A,13:34:08,Round 4 ,2019-05-25
+10,1:22.772,1.310,0.539,145.136,,,8,7,G. Zhou,UNI-Virtuosi,Monte Carlo,Qualifying Group A,13:33:42,Round 4 ,2019-05-25
+10,1:22.877,1.415,0.105,144.952,,,9,15,J. Aitken,Campos Racing,Monte Carlo,Qualifying Group A,13:31:20,Round 4 ,2019-05-25
+11,1:26.522,5.060,3.645,138.845,,,10,17,M. Raghunathan,MP Motorsport,Monte Carlo,Qualifying Group A,13:37:19,Round 4 ,2019-05-25
+25,1:21.887,-,-,146.704,,,1,6,N. Latifi,DAMS,Monte Carlo,Free Practice,09:54:29,Round 4 ,2019-05-25
+24,1:22.001,0.114,0.114,146.5,,,2,4,N. de Vries,ART Grand Prix,Monte Carlo,Free Practice,09:52:20,Round 4 ,2019-05-25
+24,1:22.327,0.440,0.326,145.92,,,3,8,L. Ghiotto,UNI-Virtuosi,Monte Carlo,Free Practice,09:55:24,Round 4 ,2019-05-25
+26,1:22.470,0.583,0.143,145.667,,,4,5,S. Sette Câmara,DAMS,Monte Carlo,Free Practice,09:55:31,Round 4 ,2019-05-25
+24,1:22.569,0.682,0.099,145.492,,,5,15,J. Aitken,Campos Racing,Monte Carlo,Free Practice,09:55:49,Round 4 ,2019-05-25
+26,1:22.838,0.951,0.269,145.02,,,6,11,C. Ilott,Sauber Junior Team by Charouz,Monte Carlo,Free Practice,09:55:44,Round 4 ,2019-05-25
+23,1:22.872,0.985,0.034,144.96,,,7,14,D. Boccolacci,Campos Racing,Monte Carlo,Free Practice,09:54:51,Round 4 ,2019-05-25
+26,1:22.980,1.093,0.108,144.772,,,8,1,L. Delétraz,Carlin,Monte Carlo,Free Practice,09:36:58,Round 4 ,2019-05-25
+26,1:23.135,1.248,0.155,144.502,,,9,10,S. Gelael,PREMA Racing,Monte Carlo,Free Practice,09:56:54,Round 4 ,2019-05-25
+25,1:23.167,1.280,0.032,144.446,,,10,19,A. Hubert,BWT Arden,Monte Carlo,Free Practice,09:54:43,Round 4 ,2019-05-25
+25,1:23.530,1.643,0.363,143.818,,,11,21,R. Boschung,Trident,Monte Carlo,Free Practice,09:38:01,Round 4 ,2019-05-25
+24,1:23.834,1.947,0.304,143.297,,,12,12,J. Correa,Sauber Junior Team by Charouz,Monte Carlo,Free Practice,09:54:40,Round 4 ,2019-05-25
+28,1:23.854,1.967,0.020,143.263,,,13,9,M. Schumacher,PREMA Racing,Monte Carlo,Free Practice,09:55:37,Round 4 ,2019-05-25
+27,1:24.199,2.312,0.345,142.676,,,14,20,G. Alesi,Trident,Monte Carlo,Free Practice,09:57:38,Round 4 ,2019-05-25
+25,1:24.315,2.428,0.116,142.479,,,15,3,N. Mazepin,ART Grand Prix,Monte Carlo,Free Practice,09:51:22,Round 4 ,2019-05-25
+26,1:24.640,2.753,0.325,141.932,,,16,7,G. Zhou,UNI-Virtuosi,Monte Carlo,Free Practice,09:55:18,Round 4 ,2019-05-25
+22,1:24.821,2.934,0.181,141.63,,,17,16,A. Markelov,MP Motorsport,Monte Carlo,Free Practice,09:38:57,Round 4 ,2019-05-25
+9,1:25.023,3.136,0.202,141.293,,,18,2,N. Matsushita,Carlin,Monte Carlo,Free Practice,09:28:13,Round 4 ,2019-05-25
+24,1:26.050,4.163,1.027,139.607,,,19,18,T. Calderón,BWT Arden,Monte Carlo,Free Practice,09:53:30,Round 4 ,2019-05-25
+25,1:26.784,4.897,0.734,138.426,,,20,17,M. Raghunathan,MP Motorsport,Monte Carlo,Free Practice,09:56:39,Round 4 ,2019-05-25
+21,37:19.524,-,-,197.312,1:45.633,18.0,1,19,A. Hubert,BWT Arden,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:21.726,2.202,2.202,197.118,1:45.584,18.0,2,12,J. Correa,Sauber Junior Team by Charouz,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:23.744,4.220,2.018,196.941,1:45.590,18.0,3,7,G. Zhou,UNI-Virtuosi,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:25.655,6.131,1.911,196.773,1:45.578,21.0,4,15,J. Aitken,Campos Racing,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:27.312,7.788,1.657,196.628,1:45.297,18.0,5,5,S. Sette Câmara,DAMS,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:30.319,10.795,3.007,196.365,1:45.758,18.0,6,6,N. Latifi,DAMS,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:32.646,13.122,2.327,196.162,1:45.193,19.0,7,1,L. Delétraz,Carlin,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:34.931,15.407,2.285,195.964,1:45.708,20.0,8,11,C. Ilott,Sauber Junior Team by Charouz,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:35.724,16.200,0.793,195.895,1:44.702,18.0,9,2,N. Matsushita,Carlin,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:37.212,17.688,1.488,195.766,1:45.863,18.0,10,4,N. de Vries,ART Grand Prix,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:40.618,21.094,3.406,195.471,1:45.774,19.0,11,16,J. King,MP Motorsport,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:45.778,26.254,5.160,195.025,1:45.289,19.0,12,8,L. Ghiotto,UNI-Virtuosi,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:46.592,27.068,0.814,194.955,1:45.896,19.0,13,14,D. Boccolacci,Campos Racing,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:51.501,31.977,4.909,194.534,1:45.965,17.0,14,20,G. Alesi,Trident,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:53.125,33.601,1.624,194.395,1:45.843,17.0,15,21,R. Boschung,Trident,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:53.377,33.853,0.252,194.374,1:45.855,16.0,16,3,N. Mazepin,ART Grand Prix,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,37:53.955,34.431,0.578,194.324,1:45.670,19.0,17,10,S. Gelael,PREMA Racing,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+21,38:32.977,73.453,39.022,191.046,1:47.484,21.0,18,17,M. Raghunathan,MP Motorsport,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+18,32:51.508,DNF,-,192.133,1:47.736,13.0,19,18,T. Calderón,BWT Arden,Le Castellet,Sprint Race,,Round 5 ,2019-06-23
+30,1:15:35.425,-,-,139.163,1:44.584,30.0,1,4,N. de Vries,ART Grand Prix,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:15:43.813,8.388,8.388,138.906,1:45.113,22.0,2,5,S. Sette Câmara,DAMS,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:15:45.200,9.775,1.387,138.864,1:45.207,21.0,3,15,J. Aitken,Campos Racing,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:15:55.578,20.153,10.378,138.548,1:45.741,23.0,4,7,G. Zhou,UNI-Virtuosi,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:15:58.024,22.599,2.446,138.473,1:45.605,28.0,5,6,N. Latifi,DAMS,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:15:59.556,24.131,1.532,138.427,1:45.263,29.0,6,16,J. King,MP Motorsport,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:16:04.093,28.668,4.537,138.289,1:46.132,28.0,7,12,J. Correa,Sauber Junior Team by Charouz,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:16:05.384,29.959,1.291,138.25,1:45.300,27.0,8,19,A. Hubert,BWT Arden,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:16:08.245,32.820,2.861,138.163,1:45.418,27.0,9,2,N. Matsushita,Carlin,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:16:15.182,39.757,6.937,137.954,1:45.135,27.0,10,20,G. Alesi,Trident,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+30,1:16:44.796,69.371,29.614,137.067,1:47.182,29.0,11,18,T. Calderón,BWT Arden,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+29,1:15:48.982,1 LAP,1 LAP,134.125,1:48.811,28.0,12,17,M. Raghunathan,MP Motorsport,Le Castellet,Feature Race,,Round 5 ,2019-06-23
+12,1:43.024,-,-,204.138,,,1,5,S. Sette Câmara,DAMS,Le Castellet,Qualifying Session,17:14:32,Round 5 ,2019-06-23
+13,1:43.344,0.320,0.320,203.506,,,2,7,G. Zhou,UNI-Virtuosi,Le Castellet,Qualifying Session,17:36:14,Round 5 ,2019-06-23
+13,1:43.401,0.377,0.057,203.394,,,3,15,J. Aitken,Campos Racing,Le Castellet,Qualifying Session,17:36:04,Round 5 ,2019-06-23
+14,1:43.453,0.429,0.052,203.292,,,4,4,N. de Vries,ART Grand Prix,Le Castellet,Qualifying Session,17:36:11,Round 5 ,2019-06-23
+13,1:43.565,0.541,0.112,203.072,,,5,11,C. Ilott,Sauber Junior Team by Charouz,Le Castellet,Qualifying Session,17:27:16,Round 5 ,2019-06-23
+13,1:43.650,0.626,0.085,202.905,,,6,6,N. Latifi,DAMS,Le Castellet,Qualifying Session,17:13:40,Round 5 ,2019-06-23
+13,1:43.763,0.739,0.113,202.684,,,7,2,N. Matsushita,Carlin,Le Castellet,Qualifying Session,17:14:03,Round 5 ,2019-06-23
+12,1:43.768,0.744,0.005,202.675,,,8,9,M. Schumacher,PREMA Racing,Le Castellet,Qualifying Session,17:35:57,Round 5 ,2019-06-23
+14,1:43.812,0.788,0.044,202.589,,,9,14,D. Boccolacci,Campos Racing,Le Castellet,Qualifying Session,17:14:00,Round 5 ,2019-06-23
+13,1:43.895,0.871,0.083,202.427,,,10,10,S. Gelael,PREMA Racing,Le Castellet,Qualifying Session,17:13:29,Round 5 ,2019-06-23
+12,1:43.983,0.959,0.088,202.256,,,11,8,L. Ghiotto,UNI-Virtuosi,Le Castellet,Qualifying Session,17:10:39,Round 5 ,2019-06-23
+13,1:44.025,1.001,0.042,202.174,,,12,1,L. Delétraz,Carlin,Le Castellet,Qualifying Session,17:36:08,Round 5 ,2019-06-23
+13,1:44.120,1.096,0.095,201.99,,,13,12,J. Correa,Sauber Junior Team by Charouz,Le Castellet,Qualifying Session,17:13:57,Round 5 ,2019-06-23
+10,1:44.371,1.347,0.251,201.504,,,14,21,R. Boschung,Trident,Le Castellet,Qualifying Session,17:13:50,Round 5 ,2019-06-23
+12,1:44.612,1.588,0.241,201.04,,,15,19,A. Hubert,BWT Arden,Le Castellet,Qualifying Session,17:18:07,Round 5 ,2019-06-23
+13,1:44.882,1.858,0.270,200.522,,,16,16,J. King,MP Motorsport,Le Castellet,Qualifying Session,17:36:35,Round 5 ,2019-06-23
+12,1:47.006,3.982,2.124,196.542,,,17,18,T. Calderón,BWT Arden,Le Castellet,Qualifying Session,17:14:11,Round 5 ,2019-06-23
+13,1:48.374,5.350,1.368,194.061,,,18,17,M. Raghunathan,MP Motorsport,Le Castellet,Qualifying Session,17:36:41,Round 5 ,2019-06-23
+17,1:44.009,-,-,202.205,,,1,5,S. Sette Câmara,DAMS,Le Castellet,Free Practice,13:36:48,Round 5 ,2019-06-23
+19,1:44.609,0.600,0.600,201.045,,,2,4,N. de Vries,ART Grand Prix,Le Castellet,Free Practice,13:12:49,Round 5 ,2019-06-23
+16,1:44.669,0.660,0.060,200.93,,,3,8,L. Ghiotto,UNI-Virtuosi,Le Castellet,Free Practice,13:17:53,Round 5 ,2019-06-23
+17,1:44.778,0.769,0.109,200.721,,,4,9,M. Schumacher,PREMA Racing,Le Castellet,Free Practice,13:15:41,Round 5 ,2019-06-23
+21,1:44.829,0.820,0.051,200.623,,,5,11,C. Ilott,Sauber Junior Team by Charouz,Le Castellet,Free Practice,13:16:48,Round 5 ,2019-06-23
+18,1:44.908,0.899,0.079,200.472,,,6,7,G. Zhou,UNI-Virtuosi,Le Castellet,Free Practice,13:21:44,Round 5 ,2019-06-23
+18,1:45.037,1.028,0.129,200.226,,,7,10,S. Gelael,PREMA Racing,Le Castellet,Free Practice,13:35:30,Round 5 ,2019-06-23
+18,1:45.054,1.045,0.017,200.194,,,8,6,N. Latifi,DAMS,Le Castellet,Free Practice,13:12:06,Round 5 ,2019-06-23
+19,1:45.112,1.103,0.058,200.083,,,9,21,R. Boschung,Trident,Le Castellet,Free Practice,13:15:38,Round 5 ,2019-06-23
+18,1:45.127,1.118,0.015,200.055,,,10,2,N. Matsushita,Carlin,Le Castellet,Free Practice,13:17:56,Round 5 ,2019-06-23
+20,1:45.134,1.125,0.007,200.041,,,11,1,L. Delétraz,Carlin,Le Castellet,Free Practice,13:36:15,Round 5 ,2019-06-23
+20,1:45.296,1.287,0.162,199.734,,,12,20,G. Alesi,Trident,Le Castellet,Free Practice,13:34:05,Round 5 ,2019-06-23
+19,1:45.417,1.408,0.121,199.504,,,13,14,D. Boccolacci,Campos Racing,Le Castellet,Free Practice,13:16:44,Round 5 ,2019-06-23
+17,1:45.499,1.490,0.082,199.349,,,14,3,N. Mazepin,ART Grand Prix,Le Castellet,Free Practice,13:27:24,Round 5 ,2019-06-23
+19,1:45.506,1.497,0.007,199.336,,,15,15,J. Aitken,Campos Racing,Le Castellet,Free Practice,13:10:29,Round 5 ,2019-06-23
+19,1:45.520,1.511,0.014,199.31,,,16,12,J. Correa,Sauber Junior Team by Charouz,Le Castellet,Free Practice,13:15:19,Round 5 ,2019-06-23
+18,1:45.886,1.877,0.366,198.621,,,17,16,J. King,MP Motorsport,Le Castellet,Free Practice,13:39:59,Round 5 ,2019-06-23
+19,1:46.043,2.034,0.157,198.327,,,18,19,A. Hubert,BWT Arden,Le Castellet,Free Practice,13:31:36,Round 5 ,2019-06-23
+20,1:47.822,3.813,1.779,195.054,,,19,18,T. Calderón,BWT Arden,Le Castellet,Free Practice,13:39:14,Round 5 ,2019-06-23
+18,1:51.923,7.914,4.101,187.907,,,20,17,M. Raghunathan,MP Motorsport,Le Castellet,Free Practice,13:37:51,Round 5 ,2019-06-23
+28,38:45.691,-,-,186.955,1:18.159,7.0,1,5,S. Sette Câmara,DAMS,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,38:46.254,0.563,0.563,186.91,1:18.476,3.0,2,8,L. Ghiotto,UNI-Virtuosi,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,38:51.227,5.536,4.973,186.511,1:18.159,3.0,3,4,N. de Vries,ART Grand Prix,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,38:51.472,5.781,0.245,186.491,1:18.722,4.0,4,9,M. Schumacher,PREMA Racing,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,38:51.960,6.269,0.488,186.452,1:18.597,28.0,5,2,N. Matsushita,Carlin,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,38:58.921,13.230,6.961,185.898,1:18.797,4.0,6,6,N. Latifi,DAMS,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,38:59.786,14.095,0.865,185.829,1:18.713,8.0,7,16,J. King,MP Motorsport,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,39:00.777,15.086,0.991,185.75,1:18.195,3.0,8,7,G. Zhou,UNI-Virtuosi,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,39:01.350,15.659,0.573,185.705,1:18.703,4.0,9,11,C. Ilott,Sauber Junior Team by Charouz,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,39:02.298,16.607,0.948,185.63,1:18.768,4.0,10,12,J. Correa,Sauber Junior Team by Charouz,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,39:03.981,18.290,1.683,185.496,1:18.665,6.0,11,3,N. Mazepin,ART Grand Prix,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,39:05.177,19.486,1.196,185.402,1:18.837,8.0,12,10,S. Gelael,PREMA Racing,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,39:06.827,21.136,1.650,185.271,1:19.440,7.0,13,18,T. Calderón,BWT Arden,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,39:07.985,22.294,1.158,185.18,1:18.932,7.0,14,17,P. O'Ward,MP Motorsport,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,39:08.547,22.856,0.562,185.136,1:19.097,9.0,15,14,A. Maini,Campos Racing,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,39:10.993,25.302,1.245,184.943,1:18.974,7.0,16,21,R. Tveter,Trident,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,39:09.748,24.057,1.201,185.041,1:18.829,4.0,17,19,A. Hubert,BWT Arden,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+28,39:21.228,35.537,10.235,184.141,1:18.844,3.0,18,15,J. Aitken,Campos Racing,Spielberg,Sprint Race,,Round 6 ,2019-06-30
+40,53:32.606,-,-,193.406,1:18.735,30.0,1,2,N. Matsushita,Carlin,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,53:35.569,2.963,2.963,193.228,1:18.602,9.0,2,8,L. Ghiotto,UNI-Virtuosi,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,53:43.034,10.428,7.465,192.78,1:18.625,12.0,3,4,N. de Vries,ART Grand Prix,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,53:43.392,10.786,0.358,192.759,1:18.573,10.0,4,19,A. Hubert,BWT Arden,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,53:45.326,12.720,1.934,192.643,1:18.209,34.0,5,5,S. Sette Câmara,DAMS,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,53:48.120,15.514,2.794,192.476,1:18.468,15.0,6,7,G. Zhou,UNI-Virtuosi,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,53:49.147,16.541,1.027,192.415,1:18.833,14.0,7,1,L. Delétraz,Carlin,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,53:54.927,22.321,5.780,192.071,1:18.640,15.0,8,16,J. King,MP Motorsport,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,53:55.790,23.184,0.863,192.02,1:18.336,32.0,9,6,N. Latifi,DAMS,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,54:05.525,32.919,9.735,191.444,1:19.086,22.0,10,15,J. Aitken,Campos Racing,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,54:08.498,35.892,2.973,191.269,1:18.811,15.0,11,12,J. Correa,Sauber Junior Team by Charouz,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,54:08.594,35.988,0.096,191.263,1:18.938,38.0,12,3,N. Mazepin,ART Grand Prix,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,54:12.496,39.890,3.902,191.034,1:18.608,13.0,13,20,G. Alesi,Trident,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,54:18.744,46.138,6.248,190.668,1:18.617,11.0,14,11,C. Ilott,Sauber Junior Team by Charouz,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,54:42.663,70.057,20.603,189.278,1:19.483,20.0,15,21,R. Tveter,Trident,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,54:48.348,75.742,5.685,188.951,1:19.128,10.0,16,10,S. Gelael,PREMA Racing,Spielberg,Feature Race,,Round 6 ,2019-06-30
+40,54:49.192,76.586,0.844,188.903,1:19.837,34.0,17,18,T. Calderón,BWT Arden,Spielberg,Feature Race,,Round 6 ,2019-06-30
+39,53:37.351,1 LAP,1 LAP,188.289,1:18.638,11.0,18,9,M. Schumacher,PREMA Racing,Spielberg,Feature Race,,Round 6 ,2019-06-30
+39,53:38.637,1 LAP,1.286,188.214,1:19.879,35.0,19,17,P. O'Ward,MP Motorsport,Spielberg,Feature Race,,Round 6 ,2019-06-30
+12,1:14.143,-,-,209.659,,,1,4,N. de Vries,ART Grand Prix,Spielberg,Qualifying Session,17:22:29,Round 6 ,2019-06-30
+12,1:14.309,0.166,0.166,209.191,,,2,19,A. Hubert,BWT Arden,Spielberg,Qualifying Session,17:14:40,Round 6 ,2019-06-30
+12,1:14.371,0.228,0.062,209.016,,,3,7,G. Zhou,UNI-Virtuosi,Spielberg,Qualifying Session,17:22:35,Round 6 ,2019-06-30
+12,1:14.399,0.256,0.028,208.938,,,4,2,N. Matsushita,Carlin,Spielberg,Qualifying Session,17:22:48,Round 6 ,2019-06-30
+12,1:14.429,0.286,0.030,208.854,,,5,8,L. Ghiotto,UNI-Virtuosi,Spielberg,Qualifying Session,17:25:47,Round 6 ,2019-06-30
+13,1:14.483,0.340,0.054,208.702,,,6,6,N. Latifi,DAMS,Spielberg,Qualifying Session,17:22:26,Round 6 ,2019-06-30
+11,1:14.488,0.345,0.005,208.688,,,7,9,M. Schumacher,PREMA Racing,Spielberg,Qualifying Session,17:22:40,Round 6 ,2019-06-30
+12,1:14.625,0.482,0.137,208.305,,,8,1,L. Delétraz,Carlin,Spielberg,Qualifying Session,17:22:38,Round 6 ,2019-06-30
+13,1:14.709,0.566,0.084,208.071,,,9,5,S. Sette Câmara,DAMS,Spielberg,Qualifying Session,17:22:33,Round 6 ,2019-06-30
+13,1:14.755,0.612,0.046,207.943,,,10,11,C. Ilott,Sauber Junior Team by Charouz,Spielberg,Qualifying Session,17:22:51,Round 6 ,2019-06-30
+11,1:14.808,0.665,0.053,207.795,,,11,10,S. Gelael,PREMA Racing,Spielberg,Qualifying Session,17:01:56,Round 6 ,2019-06-30
+12,1:14.882,0.739,0.074,207.59,,,12,3,N. Mazepin,ART Grand Prix,Spielberg,Qualifying Session,17:22:44,Round 6 ,2019-06-30
+13,1:14.887,0.744,0.005,207.576,,,13,12,J. Correa,Sauber Junior Team by Charouz,Spielberg,Qualifying Session,17:01:43,Round 6 ,2019-06-30
+13,1:14.986,0.843,0.099,207.302,,,14,15,J. Aitken,Campos Racing,Spielberg,Qualifying Session,17:01:21,Round 6 ,2019-06-30
+13,1:15.139,0.996,0.153,206.88,,,15,16,J. King,MP Motorsport,Spielberg,Qualifying Session,17:23:07,Round 6 ,2019-06-30
+13,1:15.212,1.069,0.073,206.679,,,16,20,G. Alesi,Trident,Spielberg,Qualifying Session,17:23:02,Round 6 ,2019-06-30
+13,1:15.327,1.184,0.115,206.364,,,17,17,P. O'Ward,MP Motorsport,Spielberg,Qualifying Session,17:01:33,Round 6 ,2019-06-30
+14,1:15.363,1.220,0.036,206.265,,,18,14,A. Maini,Campos Racing,Spielberg,Qualifying Session,17:23:10,Round 6 ,2019-06-30
+11,1:15.435,1.292,0.072,206.068,,,19,21,R. Tveter,Trident,Spielberg,Qualifying Session,17:10:36,Round 6 ,2019-06-30
+15,1:16.164,2.021,0.729,204.096,,,20,18,T. Calderón,BWT Arden,Spielberg,Qualifying Session,17:23:21,Round 6 ,2019-06-30
+26,1:14.782,-,-,207.868,,,1,1,L. Delétraz,Carlin,Spielberg,Free Practice,13:11:27,Round 6 ,2019-06-30
+24,1:14.840,0.058,0.058,207.707,,,2,4,N. de Vries,ART Grand Prix,Spielberg,Free Practice,13:13:52,Round 6 ,2019-06-30
+24,1:14.869,0.087,0.029,207.626,,,3,8,L. Ghiotto,UNI-Virtuosi,Spielberg,Free Practice,13:25:27,Round 6 ,2019-06-30
+23,1:15.040,0.258,0.171,207.153,,,4,6,N. Latifi,DAMS,Spielberg,Free Practice,13:24:38,Round 6 ,2019-06-30
+25,1:15.053,0.271,0.013,207.117,,,5,15,J. Aitken,Campos Racing,Spielberg,Free Practice,13:25:45,Round 6 ,2019-06-30
+24,1:15.083,0.301,0.030,207.034,,,6,5,S. Sette Câmara,DAMS,Spielberg,Free Practice,13:14:35,Round 6 ,2019-06-30
+27,1:15.151,0.369,0.068,206.847,,,7,11,C. Ilott,Sauber Junior Team by Charouz,Spielberg,Free Practice,13:25:05,Round 6 ,2019-06-30
+25,1:15.177,0.395,0.026,206.776,,,8,2,N. Matsushita,Carlin,Spielberg,Free Practice,13:25:53,Round 6 ,2019-06-30
+24,1:15.199,0.417,0.022,206.715,,,9,7,G. Zhou,UNI-Virtuosi,Spielberg,Free Practice,13:19:26,Round 6 ,2019-06-30
+25,1:15.261,0.479,0.062,206.545,,,10,10,S. Gelael,PREMA Racing,Spielberg,Free Practice,13:09:55,Round 6 ,2019-06-30
+25,1:15.277,0.495,0.016,206.501,,,11,3,N. Mazepin,ART Grand Prix,Spielberg,Free Practice,13:25:02,Round 6 ,2019-06-30
+25,1:15.288,0.506,0.011,206.471,,,12,9,M. Schumacher,PREMA Racing,Spielberg,Free Practice,13:31:19,Round 6 ,2019-06-30
+27,1:15.323,0.541,0.035,206.375,,,13,12,J. Correa,Sauber Junior Team by Charouz,Spielberg,Free Practice,13:26:00,Round 6 ,2019-06-30
+27,1:15.529,0.747,0.206,205.812,,,14,20,G. Alesi,Trident,Spielberg,Free Practice,13:10:04,Round 6 ,2019-06-30
+27,1:15.714,0.932,0.185,205.309,,,15,19,A. Hubert,BWT Arden,Spielberg,Free Practice,13:14:43,Round 6 ,2019-06-30
+28,1:15.949,1.167,0.235,204.674,,,16,14,A. Maini,Campos Racing,Spielberg,Free Practice,13:19:07,Round 6 ,2019-06-30
+16,1:16.009,1.227,0.060,204.512,,,17,16,J. King,MP Motorsport,Spielberg,Free Practice,13:13:29,Round 6 ,2019-06-30
+24,1:16.264,1.482,0.255,203.828,,,18,17,P. O'Ward,MP Motorsport,Spielberg,Free Practice,13:33:01,Round 6 ,2019-06-30
+26,1:16.388,1.606,0.124,203.497,,,19,21,R. Tveter,Trident,Spielberg,Free Practice,13:17:57,Round 6 ,2019-06-30
+24,1:17.159,2.377,0.771,201.464,,,20,18,T. Calderón,BWT Arden,Spielberg,Free Practice,13:25:20,Round 6 ,2019-06-30
+21,36:47.822,-,-,201.5,1:39.993,20.0,1,15,J. Aitken,Campos Racing,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,36:52.819,4.997,4.997,201.045,1:40.976,19.0,2,1,L. Delétraz,Carlin,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,36:56.016,8.194,3.197,200.755,1:40.966,20.0,3,4,N. de Vries,ART Grand Prix,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,36:56.672,8.850,0.656,200.695,1:41.078,20.0,4,11,C. Ilott,Sauber Junior Team by Charouz,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:04.025,16.203,7.353,200.032,1:41.364,19.0,5,6,N. Latifi,DAMS,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:07.044,19.222,3.019,199.761,1:41.612,20.0,6,9,M. Schumacher,PREMA Racing,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:07.488,19.666,0.444,199.721,1:41.370,20.0,7,2,N. Matsushita,Carlin,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:08.003,20.181,0.515,199.675,1:41.218,21.0,8,7,G. Zhou,UNI-Virtuosi,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:09.553,21.731,1.550,199.536,1:41.580,20.0,9,16,J. King,MP Motorsport,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:13.642,25.820,4.089,199.171,1:41.358,20.0,10,12,J. Correa,Sauber Junior Team by Charouz,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:22.131,34.309,8.489,198.417,1:41.666,19.0,11,19,A. Hubert,BWT Arden,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:25.248,37.426,3.117,198.141,1:42.384,21.0,12,3,N. Mazepin,ART Grand Prix,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:28.403,40.581,3.155,197.863,1:40.715,21.0,13,14,A. Maini,Campos Racing,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:35.081,47.259,6.678,197.277,1:42.310,17.0,14,21,D. Boccolacci,Trident,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:45.518,57.696,10.437,196.368,1:40.902,18.0,15,8,L. Ghiotto,UNI-Virtuosi,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:47.820,59.998,2.302,196.169,1:42.850,18.0,16,18,T. Calderón,BWT Arden,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:57.813,69.991,9.993,195.308,1:40.330,19.0,17,5,S. Sette Câmara,DAMS,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+21,37:57.979,70.157,0.166,195.294,1:43.010,20.0,18,17,M. Raghunathan,MP Motorsport,Silverstone,Sprint Race,,Round 7 ,2019-07-14
+29,50:21.114,-,-,203.414,1:41.073,26.0,1,8,L. Ghiotto,UNI-Virtuosi,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,50:24.428,3.314,3.314,203.191,1:41.220,29.0,2,6,N. Latifi,DAMS,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,50:28.300,7.186,3.872,202.931,1:41.249,29.0,3,7,G. Zhou,UNI-Virtuosi,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,50:32.955,11.841,4.655,202.62,1:40.858,24.0,4,5,S. Sette Câmara,DAMS,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,50:34.858,13.744,1.903,202.493,1:41.182,28.0,5,15,J. Aitken,Campos Racing,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,50:40.083,18.969,5.225,202.145,1:41.895,22.0,6,4,N. de Vries,ART Grand Prix,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,50:40.580,19.466,0.497,202.112,1:41.395,27.0,7,1,L. Delétraz,Carlin,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,50:44.258,23.144,3.678,201.867,1:41.683,25.0,8,11,C. Ilott,Sauber Junior Team by Charouz,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,50:45.377,24.263,1.119,201.793,1:41.161,29.0,9,2,N. Matsushita,Carlin,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,50:51.290,30.176,5.913,201.402,1:41.707,28.0,10,16,J. King,MP Motorsport,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,50:52.214,31.100,0.924,201.341,1:41.654,28.0,11,9,M. Schumacher,PREMA Racing,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,51:08.822,47.708,0.636,200.252,1:42.318,23.0,12,12,J. Correa,Sauber Junior Team by Charouz,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,51:13.186,47.072,15.972,200.293,1:41.874,27.0,13,14,A. Maini,Campos Racing,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,51:40.269,79.155,31.447,198.22,1:43.650,26.0,14,18,T. Calderón,BWT Arden,Silverstone,Feature Race,,Round 7 ,2019-07-14
+29,51:52.230,91.116,11.961,197.459,1:43.211,27.0,15,17,M. Raghunathan,MP Motorsport,Silverstone,Feature Race,,Round 7 ,2019-07-14
+28,49:26.040,DNF,-,200.379,1:42.798,20.0,16,3,N. Mazepin,ART Grand Prix,Silverstone,Feature Race,,Round 7 ,2019-07-14
+28,50:54.317,1 LAP,93.277,194.259,1:42.455,21.0,17,20,G. Alesi,Trident,Silverstone,Feature Race,,Round 7 ,2019-07-14
+28,51:45.723,1 LAP,51.406,191.044,1:41.258,28.0,18,19,A. Hubert,BWT Arden,Silverstone,Feature Race,,Round 7 ,2019-07-14
+11,1:38.182,-,-,216.002,,,1,7,G. Zhou,UNI-Virtuosi,Silverstone,Qualifying Session,16:21:36,Round 7 ,2019-07-14
+11,1:38.410,0.228,0.228,215.502,,,2,8,L. Ghiotto,UNI-Virtuosi,Silverstone,Qualifying Session,16:21:47,Round 7 ,2019-07-14
+11,1:38.511,0.329,0.101,215.281,,,3,5,S. Sette Câmara,DAMS,Silverstone,Qualifying Session,16:02:18,Round 7 ,2019-07-14
+10,1:38.519,0.337,0.008,215.264,,,4,6,N. Latifi,DAMS,Silverstone,Qualifying Session,16:01:58,Round 7 ,2019-07-14
+11,1:38.547,0.365,0.028,215.202,,,5,1,L. Delétraz,Carlin,Silverstone,Qualifying Session,16:20:47,Round 7 ,2019-07-14
+10,1:38.549,0.367,0.002,215.198,,,6,11,C. Ilott,Sauber Junior Team by Charouz,Silverstone,Qualifying Session,16:20:23,Round 7 ,2019-07-14
+12,1:38.613,0.431,0.064,215.058,,,7,4,N. de Vries,ART Grand Prix,Silverstone,Qualifying Session,16:20:11,Round 7 ,2019-07-14
+11,1:38.686,0.504,0.073,214.899,,,8,15,J. Aitken,Campos Racing,Silverstone,Qualifying Session,16:20:41,Round 7 ,2019-07-14
+11,1:38.877,0.695,0.191,214.484,,,9,2,N. Matsushita,Carlin,Silverstone,Qualifying Session,16:20:55,Round 7 ,2019-07-14
+11,1:39.046,0.864,0.169,214.118,,,10,19,A. Hubert,BWT Arden,Silverstone,Qualifying Session,16:02:04,Round 7 ,2019-07-14
+11,1:39.071,0.889,0.025,214.064,,,11,12,J. Correa,Sauber Junior Team by Charouz,Silverstone,Qualifying Session,16:20:44,Round 7 ,2019-07-14
+11,1:39.225,1.043,0.154,213.732,,,12,16,J. King,MP Motorsport,Silverstone,Qualifying Session,16:17:18,Round 7 ,2019-07-14
+12,1:39.227,1.045,0.002,213.728,,,13,9,M. Schumacher,PREMA Racing,Silverstone,Qualifying Session,16:06:29,Round 7 ,2019-07-14
+12,1:39.512,1.330,0.285,213.116,,,14,14,A. Maini,Campos Racing,Silverstone,Qualifying Session,16:24:46,Round 7 ,2019-07-14
+10,1:39.574,1.392,0.062,212.983,,,15,20,G. Alesi,Trident,Silverstone,Qualifying Session,16:01:18,Round 7 ,2019-07-14
+12,1:39.615,1.433,0.041,212.895,,,16,3,N. Mazepin,ART Grand Prix,Silverstone,Qualifying Session,16:20:21,Round 7 ,2019-07-14
+12,1:39.622,1.440,0.007,212.88,,,17,21,D. Boccolacci,Trident,Silverstone,Qualifying Session,16:20:35,Round 7 ,2019-07-14
+11,1:39.790,1.608,0.168,212.522,,,18,10,S. Gelael,PREMA Racing,Silverstone,Qualifying Session,16:21:15,Round 7 ,2019-07-14
+12,1:40.530,2.348,0.740,210.957,,,19,18,T. Calderón,BWT Arden,Silverstone,Qualifying Session,16:20:28,Round 7 ,2019-07-14
+11,1:41.725,3.543,1.195,208.479,,,20,17,M. Raghunathan,MP Motorsport,Silverstone,Qualifying Session,16:05:31,Round 7 ,2019-07-14
+18,1:39.166,-,-,213.859,,,1,8,L. Ghiotto,UNI-Virtuosi,Silverstone,Free Practice,12:15:05,Round 7 ,2019-07-14
+20,1:39.281,0.115,0.115,213.611,,,2,6,N. Latifi,DAMS,Silverstone,Free Practice,12:27:11,Round 7 ,2019-07-14
+18,1:39.327,0.161,0.046,213.512,,,3,7,G. Zhou,UNI-Virtuosi,Silverstone,Free Practice,12:34:45,Round 7 ,2019-07-14
+17,1:39.554,0.388,0.227,213.026,,,4,15,J. Aitken,Campos Racing,Silverstone,Free Practice,12:24:57,Round 7 ,2019-07-14
+20,1:39.622,0.456,0.068,212.88,,,5,5,S. Sette Câmara,DAMS,Silverstone,Free Practice,12:08:15,Round 7 ,2019-07-14
+22,1:39.692,0.526,0.070,212.731,,,6,4,N. de Vries,ART Grand Prix,Silverstone,Free Practice,12:08:06,Round 7 ,2019-07-14
+20,1:39.899,0.733,0.207,212.29,,,7,14,A. Maini,Campos Racing,Silverstone,Free Practice,12:30:06,Round 7 ,2019-07-14
+21,1:40.034,0.868,0.135,212.003,,,8,1,L. Delétraz,Carlin,Silverstone,Free Practice,12:27:46,Round 7 ,2019-07-14
+22,1:40.039,0.873,0.005,211.993,,,9,2,N. Matsushita,Carlin,Silverstone,Free Practice,12:29:53,Round 7 ,2019-07-14
+21,1:40.062,0.896,0.023,211.944,,,10,16,J. King,MP Motorsport,Silverstone,Free Practice,12:19:26,Round 7 ,2019-07-14
+17,1:40.141,0.975,0.079,211.777,,,11,9,M. Schumacher,PREMA Racing,Silverstone,Free Practice,12:16:42,Round 7 ,2019-07-14
+21,1:40.154,0.988,0.013,211.749,,,12,3,N. Mazepin,ART Grand Prix,Silverstone,Free Practice,12:12:34,Round 7 ,2019-07-14
+19,1:40.452,1.286,0.298,211.121,,,13,20,G. Alesi,Trident,Silverstone,Free Practice,12:09:36,Round 7 ,2019-07-14
+22,1:40.735,1.569,0.283,210.528,,,14,11,C. Ilott,Sauber Junior Team by Charouz,Silverstone,Free Practice,12:09:12,Round 7 ,2019-07-14
+17,1:40.779,1.613,0.044,210.436,,,15,21,D. Boccolacci,Trident,Silverstone,Free Practice,12:32:50,Round 7 ,2019-07-14
+21,1:40.789,1.623,0.010,210.415,,,16,19,A. Hubert,BWT Arden,Silverstone,Free Practice,12:21:49,Round 7 ,2019-07-14
+21,1:40.878,1.712,0.089,210.23,,,17,12,J. Correa,Sauber Junior Team by Charouz,Silverstone,Free Practice,12:09:09,Round 7 ,2019-07-14
+20,1:41.841,2.675,0.963,208.242,,,18,18,T. Calderón,BWT Arden,Silverstone,Free Practice,12:40:00,Round 7 ,2019-07-14
+19,1:42.792,3.626,0.951,206.315,,,19,17,M. Raghunathan,MP Motorsport,Silverstone,Free Practice,12:36:50,Round 7 ,2019-07-14
+3,2:00.608,21.442,17.816,175.839,,,20,10,S. Gelael,PREMA Racing,Silverstone,Free Practice,12:01:09,Round 7 ,2019-07-14
+28,43:59.841,-,-,167.23,1:33.490,19.0,1,9,M. Schumacher,PREMA Racing,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:01.294,1.453,1.453,167.138,1:33.056,4.0,2,2,N. Matsushita,Carlin,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:03.237,3.396,1.943,167.015,1:33.542,16.0,3,5,S. Sette Câmara,DAMS,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:04.018,4.177,0.781,166.965,1:33.663,9.0,4,16,J. King,MP Motorsport,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:04.801,4.960,0.783,166.916,1:33.560,17.0,5,15,J. Aitken,Campos Racing,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:11.269,11.428,6.468,166.509,1:34.030,17.0,6,4,N. de Vries,ART Grand Prix,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:12.155,12.314,0.886,166.453,1:33.704,18.0,7,6,N. Latifi,DAMS,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:12.771,12.930,0.616,166.414,1:33.287,9.0,8,8,L. Ghiotto,UNI-Virtuosi,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:13.662,13.821,0.891,166.359,1:33.673,11.0,9,7,G. Zhou,UNI-Virtuosi,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:23.718,23.877,10.056,165.731,1:33.714,10.0,10,11,C. Ilott,Sauber Junior Team by Charouz,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:26.732,26.891,3.014,165.543,1:33.871,11.0,11,19,A. Hubert,BWT Arden,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:29.368,29.527,2.636,165.38,1:33.905,11.0,12,20,G. Alesi,Trident,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:35.582,35.741,6.214,164.996,1:33.797,11.0,13,1,L. Delétraz,Carlin,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:38.355,38.514,2.773,164.825,1:33.996,11.0,14,12,J. Correa,Sauber Junior Team by Charouz,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:39.773,39.932,1.418,164.738,1:33.933,10.0,15,3,N. Mazepin,ART Grand Prix,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:39.934,40.093,0.161,164.728,1:33.734,13.0,16,14,A. Maini,Campos Racing,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:40.578,40.737,0.644,164.688,1:33.808,12.0,17,10,S. Gelael,PREMA Racing,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:42.698,42.857,2.120,164.558,1:33.812,11.0,18,21,R. Boschung,Trident,Budapest,Sprint Race,,Round 8 ,2019-08-04
+28,44:59.529,59.688,16.831,163.532,1:34.757,5.0,19,17,M. Raghunathan,MP Motorsport,Budapest,Sprint Race,,Round 8 ,2019-08-04
+37,1:02:40.675,-,-,155.133,1:33.021,2.0,1,6,N. Latifi,DAMS,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:02:41.427,0.752,0.752,155.102,1:32.882,8.0,2,4,N. de Vries,ART Grand Prix,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:02:41.720,1.045,0.293,155.09,1:33.538,12.0,3,15,J. Aitken,Campos Racing,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:02:48.670,7.995,2.713,154.804,1:33.224,11.0,4,8,L. Ghiotto,UNI-Virtuosi,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:02:44.819,4.144,3.099,154.962,1:33.520,26.0,5,5,S. Sette Câmara,DAMS,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:02:50.723,10.048,2.053,154.719,1:32.436,33.0,6,16,J. King,MP Motorsport,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:02:45.957,5.282,1.138,154.915,1:33.787,23.0,7,2,N. Matsushita,Carlin,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:02:56.482,15.807,5.759,154.483,1:33.752,12.0,8,9,M. Schumacher,PREMA Racing,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:02:58.470,17.795,1.988,154.402,1:33.748,27.0,9,7,G. Zhou,UNI-Virtuosi,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:02:59.237,18.562,0.767,154.371,1:33.724,27.0,10,11,C. Ilott,Sauber Junior Team by Charouz,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:03:00.693,20.018,1.456,154.311,1:32.438,32.0,11,19,A. Hubert,BWT Arden,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:03:02.747,22.072,2.054,154.227,1:33.619,11.0,12,3,N. Mazepin,ART Grand Prix,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:03:03.429,22.754,0.682,154.2,1:34.380,32.0,13,20,G. Alesi,Trident,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:03:04.431,23.756,1.002,154.159,1:33.014,27.0,14,12,J. Correa,Sauber Junior Team by Charouz,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:03:08.858,28.183,4.427,153.979,1:33.441,26.0,15,10,S. Gelael,PREMA Racing,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:03:56.498,75.823,47.640,152.067,1:35.161,11.0,16,18,T. Calderón,BWT Arden,Budapest,Feature Race,,Round 8 ,2019-08-04
+37,1:03:57.387,76.712,0.889,152.031,1:34.752,10.0,17,17,M. Raghunathan,MP Motorsport,Budapest,Feature Race,,Round 8 ,2019-08-04
+33,55:16.280,DNF,-,156.898,1:33.716,32.0,18,21,R. Boschung,Trident,Budapest,Feature Race,,Round 8 ,2019-08-04
+13,1:49.809,-,-,143.627,,,1,4,N. de Vries,ART Grand Prix,Budapest,Qualifying Session,17:25:37,Round 8 ,2019-08-04
+13,1:50.036,0.227,0.227,143.331,,,2,8,L. Ghiotto,UNI-Virtuosi,Budapest,Qualifying Session,17:27:46,Round 8 ,2019-08-04
+13,1:50.578,0.769,0.542,142.628,,,3,6,N. Latifi,DAMS,Budapest,Qualifying Session,17:16:33,Round 8 ,2019-08-04
+12,1:50.748,0.939,0.170,142.409,,,4,9,M. Schumacher,PREMA Racing,Budapest,Qualifying Session,17:26:35,Round 8 ,2019-08-04
+14,1:50.853,1.044,0.105,142.274,,,5,1,L. Delétraz,Carlin,Budapest,Qualifying Session,17:27:54,Round 8 ,2019-08-04
+13,1:50.871,1.062,0.018,142.251,,,6,11,C. Ilott,Sauber Junior Team by Charouz,Budapest,Qualifying Session,17:27:02,Round 8 ,2019-08-04
+13,1:50.962,1.153,0.091,142.135,,,7,15,J. Aitken,Campos Racing,Budapest,Qualifying Session,17:18:37,Round 8 ,2019-08-04
+14,1:51.408,1.599,0.446,141.566,,,8,2,N. Matsushita,Carlin,Budapest,Qualifying Session,17:31:01,Round 8 ,2019-08-04
+12,1:51.513,1.704,0.105,141.432,,,9,19,A. Hubert,BWT Arden,Budapest,Qualifying Session,17:30:08,Round 8 ,2019-08-04
+13,1:51.573,1.764,0.060,141.356,,,10,7,G. Zhou,UNI-Virtuosi,Budapest,Qualifying Session,17:30:20,Round 8 ,2019-08-04
+13,1:51.717,1.908,0.144,141.174,,,11,16,J. King,MP Motorsport,Budapest,Qualifying Session,17:25:31,Round 8 ,2019-08-04
+13,1:51.788,1.979,0.071,141.084,,,12,12,J. Correa,Sauber Junior Team by Charouz,Budapest,Qualifying Session,17:30:42,Round 8 ,2019-08-04
+12,1:51.817,2.008,0.029,141.048,,,13,5,S. Sette Câmara,DAMS,Budapest,Qualifying Session,17:25:22,Round 8 ,2019-08-04
+13,1:52.644,2.835,0.827,140.012,,,14,20,G. Alesi,Trident,Budapest,Qualifying Session,17:28:39,Round 8 ,2019-08-04
+12,1:52.718,2.909,0.074,139.92,,,15,14,A. Maini,Campos Racing,Budapest,Qualifying Session,17:15:44,Round 8 ,2019-08-04
+13,1:52.956,3.147,0.238,139.626,,,16,21,R. Boschung,Trident,Budapest,Qualifying Session,17:25:59,Round 8 ,2019-08-04
+12,1:52.995,3.186,0.039,139.577,,,17,10,S. Gelael,PREMA Racing,Budapest,Qualifying Session,17:30:06,Round 8 ,2019-08-04
+12,1:53.997,4.188,1.002,138.351,,,18,18,T. Calderón,BWT Arden,Budapest,Qualifying Session,17:18:18,Round 8 ,2019-08-04
+12,1:55.217,5.408,1.220,136.886,,,19,17,M. Raghunathan,MP Motorsport,Budapest,Qualifying Session,17:24:47,Round 8 ,2019-08-04
+17,1:29.236,-,-,176.74,,,1,4,N. de Vries,ART Grand Prix,Budapest,Free Practice,13:15:24,Round 8 ,2019-08-04
+17,1:29.520,0.284,0.284,176.179,,,2,9,M. Schumacher,PREMA Racing,Budapest,Free Practice,13:15:53,Round 8 ,2019-08-04
+18,1:29.544,0.308,0.024,176.132,,,3,19,A. Hubert,BWT Arden,Budapest,Free Practice,13:11:21,Round 8 ,2019-08-04
+15,1:29.552,0.316,0.008,176.116,,,4,16,J. King,MP Motorsport,Budapest,Free Practice,13:22:20,Round 8 ,2019-08-04
+16,1:29.621,0.385,0.069,175.981,,,5,7,G. Zhou,UNI-Virtuosi,Budapest,Free Practice,13:16:08,Round 8 ,2019-08-04
+16,1:29.705,0.469,0.084,175.816,,,6,15,J. Aitken,Campos Racing,Budapest,Free Practice,13:19:08,Round 8 ,2019-08-04
+17,1:29.801,0.565,0.096,175.628,,,7,5,S. Sette Câmara,DAMS,Budapest,Free Practice,13:15:03,Round 8 ,2019-08-04
+17,1:29.821,0.585,0.020,175.589,,,8,8,L. Ghiotto,UNI-Virtuosi,Budapest,Free Practice,13:11:16,Round 8 ,2019-08-04
+18,1:29.842,0.606,0.021,175.548,,,9,2,N. Matsushita,Carlin,Budapest,Free Practice,13:25:36,Round 8 ,2019-08-04
+17,1:29.854,0.618,0.012,175.524,,,10,11,C. Ilott,Sauber Junior Team by Charouz,Budapest,Free Practice,13:16:03,Round 8 ,2019-08-04
+19,1:29.888,0.652,0.034,175.458,,,11,1,L. Delétraz,Carlin,Budapest,Free Practice,13:15:28,Round 8 ,2019-08-04
+18,1:29.954,0.718,0.066,175.329,,,12,6,N. Latifi,DAMS,Budapest,Free Practice,13:26:46,Round 8 ,2019-08-04
+18,1:30.039,0.803,0.085,175.164,,,13,12,J. Correa,Sauber Junior Team by Charouz,Budapest,Free Practice,13:18:21,Round 8 ,2019-08-04
+17,1:30.154,0.918,0.115,174.94,,,14,20,G. Alesi,Trident,Budapest,Free Practice,13:15:32,Round 8 ,2019-08-04
+17,1:30.189,0.953,0.035,174.872,,,15,3,N. Mazepin,ART Grand Prix,Budapest,Free Practice,13:19:21,Round 8 ,2019-08-04
+18,1:30.350,1.114,0.161,174.561,,,16,14,A. Maini,Campos Racing,Budapest,Free Practice,13:24:20,Round 8 ,2019-08-04
+4,1:30.857,1.621,0.507,173.587,,,17,10,S. Gelael,PREMA Racing,Budapest,Free Practice,13:08:03,Round 8 ,2019-08-04
+10,1:30.898,1.662,0.041,173.508,,,18,21,R. Boschung,Trident,Budapest,Free Practice,13:16:14,Round 8 ,2019-08-04
+18,1:31.062,1.826,0.164,173.196,,,19,17,M. Raghunathan,MP Motorsport,Budapest,Free Practice,13:40:27,Round 8 ,2019-08-04
+18,1:31.668,2.432,0.606,172.051,,,20,18,T. Calderón,BWT Arden,Budapest,Free Practice,13:26:13,Round 8 ,2019-08-04
+8,1:58.304,-,-,213.132,,,1,4,N. de Vries,ART Grand Prix,Spa-Francorchamps,Qualifying Session,17:29:24,Round 9 ,2019-08-31
+8,1:58.576,0.272,0.272,212.643,,,2,5,S. Sette Câmara,DAMS,Spa-Francorchamps,Qualifying Session,17:29:38,Round 9 ,2019-08-31
+8,1:58.785,0.481,0.209,212.269,,,3,15,J. Aitken,Campos Racing,Spa-Francorchamps,Qualifying Session,17:29:51,Round 9 ,2019-08-31
+8,1:58.832,0.528,0.047,212.185,,,4,2,N. Matsushita,Carlin,Spa-Francorchamps,Qualifying Session,17:29:32,Round 9 ,2019-08-31
+8,1:58.910,0.606,0.078,212.046,,,5,1,L. Delétraz,Carlin,Spa-Francorchamps,Qualifying Session,17:29:27,Round 9 ,2019-08-31
+7,1:59.141,0.837,0.231,211.634,,,6,9,M. Schumacher,PREMA Racing,Spa-Francorchamps,Qualifying Session,17:29:40,Round 9 ,2019-08-31
+8,1:59.142,0.838,0.001,211.633,,,7,3,N. Mazepin,ART Grand Prix,Spa-Francorchamps,Qualifying Session,17:29:28,Round 9 ,2019-08-31
+7,1:59.425,1.121,0.059,211.131,,,8,7,G. Zhou,UNI-Virtuosi,Spa-Francorchamps,Qualifying Session,17:12:47,Round 9 ,2019-08-31
+7,1:59.614,1.310,0.189,210.798,,,9,8,L. Ghiotto,UNI-Virtuosi,Spa-Francorchamps,Qualifying Session,17:12:10,Round 9 ,2019-08-31
+7,1:59.747,1.443,0.133,210.563,,,10,6,N. Latifi,DAMS,Spa-Francorchamps,Qualifying Session,17:12:58,Round 9 ,2019-08-31
+9,1:59.366,1.062,0.224,211.236,,,11,16,J. King,MP Motorsport,Spa-Francorchamps,Qualifying Session,17:30:00,Round 9 ,2019-08-31
+8,1:59.961,1.657,0.214,210.188,,,12,20,G. Alesi,Trident,Spa-Francorchamps,Qualifying Session,17:11:46,Round 9 ,2019-08-31
+7,2:00.005,1.701,0.044,210.111,,,13,19,A. Hubert,BWT Arden,Spa-Francorchamps,Qualifying Session,17:12:38,Round 9 ,2019-08-31
+7,2:00.030,1.726,0.025,210.067,,,14,21,R. Boschung,Trident,Spa-Francorchamps,Qualifying Session,17:12:14,Round 9 ,2019-08-31
+9,2:00.250,1.946,0.220,209.683,,,15,12,J. Correa,Sauber Junior Team by Charouz,Spa-Francorchamps,Qualifying Session,17:11:40,Round 9 ,2019-08-31
+6,2:00.327,2.023,0.077,209.548,,,16,10,S. Gelael,PREMA Racing,Spa-Francorchamps,Qualifying Session,17:11:42,Round 9 ,2019-08-31
+10,2:01.185,2.881,0.858,208.065,,,17,14,M. Sato,Campos Racing,Spa-Francorchamps,Qualifying Session,17:16:24,Round 9 ,2019-08-31
+8,2:03.224,4.920,1.998,204.622,,,18,18,T. Calderón,BWT Arden,Spa-Francorchamps,Qualifying Session,17:14:37,Round 9 ,2019-08-31
+10,2:01.226,2.922,0.041,207.994,,,19,17,M. Raghunathan,MP Motorsport,Spa-Francorchamps,Qualifying Session,17:30:06,Round 9 ,2019-08-31
+12,1:59.509,-,-,210.983,,,1,4,N. de Vries,ART Grand Prix,Spa-Francorchamps,Free Practice,13:11:49,Round 9 ,2019-08-31
+11,1:59.892,0.383,0.383,210.309,,,2,6,N. Latifi,DAMS,Spa-Francorchamps,Free Practice,13:08:08,Round 9 ,2019-08-31
+12,2:00.008,0.499,0.116,210.105,,,3,1,L. Delétraz,Carlin,Spa-Francorchamps,Free Practice,13:07:04,Round 9 ,2019-08-31
+12,2:00.258,0.749,0.250,209.669,,,4,5,S. Sette Câmara,DAMS,Spa-Francorchamps,Free Practice,13:08:23,Round 9 ,2019-08-31
+9,2:00.460,0.951,0.202,209.317,,,5,15,J. Aitken,Campos Racing,Spa-Francorchamps,Free Practice,13:13:19,Round 9 ,2019-08-31
+11,2:00.607,1.098,0.147,209.062,,,6,8,L. Ghiotto,UNI-Virtuosi,Spa-Francorchamps,Free Practice,13:07:57,Round 9 ,2019-08-31
+9,2:00.932,1.423,0.325,208.5,,,7,9,M. Schumacher,PREMA Racing,Spa-Francorchamps,Free Practice,13:08:11,Round 9 ,2019-08-31
+11,2:00.980,1.471,0.048,208.417,,,8,21,R. Boschung,Trident,Spa-Francorchamps,Free Practice,13:07:32,Round 9 ,2019-08-31
+13,2:00.987,1.478,0.007,208.405,,,9,20,G. Alesi,Trident,Spa-Francorchamps,Free Practice,13:07:18,Round 9 ,2019-08-31
+11,2:01.027,1.518,0.040,208.336,,,10,2,N. Matsushita,Carlin,Spa-Francorchamps,Free Practice,13:07:02,Round 9 ,2019-08-31
+13,2:01.301,1.792,0.274,207.866,,,11,19,A. Hubert,BWT Arden,Spa-Francorchamps,Free Practice,13:07:16,Round 9 ,2019-08-31
+11,2:01.301,1.792,0.000,207.866,,,12,7,G. Zhou,UNI-Virtuosi,Spa-Francorchamps,Free Practice,13:13:13,Round 9 ,2019-08-31
+13,2:01.423,1.914,0.122,207.657,,,13,10,S. Gelael,PREMA Racing,Spa-Francorchamps,Free Practice,13:12:07,Round 9 ,2019-08-31
+14,2:01.562,2.053,0.139,207.42,,,14,11,C. Ilott,Sauber Junior Team by Charouz,Spa-Francorchamps,Free Practice,13:12:15,Round 9 ,2019-08-31
+12,2:01.645,2.136,0.083,207.278,,,15,16,J. King,MP Motorsport,Spa-Francorchamps,Free Practice,13:07:51,Round 9 ,2019-08-31
+13,2:01.795,2.286,0.150,207.023,,,16,3,N. Mazepin,ART Grand Prix,Spa-Francorchamps,Free Practice,13:16:51,Round 9 ,2019-08-31
+7,2:02.014,2.505,0.219,206.651,,,17,12,J. Correa,Sauber Junior Team by Charouz,Spa-Francorchamps,Free Practice,13:35:38,Round 9 ,2019-08-31
+15,2:02.819,3.310,0.805,205.297,,,18,18,T. Calderón,BWT Arden,Spa-Francorchamps,Free Practice,13:12:11,Round 9 ,2019-08-31
+12,2:02.962,3.453,0.143,205.058,,,19,14,M. Sato,Campos Racing,Spa-Francorchamps,Free Practice,13:12:32,Round 9 ,2019-08-31
+12,2:05.746,6.237,2.784,200.518,,,20,17,M. Raghunathan,MP Motorsport,Spa-Francorchamps,Free Practice,13:07:42,Round 9 ,2019-08-31
+21,34:26.288,-,-,211.412,1:35.849,4.0,1,15,J. Aitken,Campos Racing,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:29.052,2.764,2.764,211.129,1:35.812,4.0,2,16,J. King,MP Motorsport,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:32.818,6.530,3.766,210.746,1:35.770,10.0,3,4,N. de Vries,ART Grand Prix,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:33.900,7.612,1.082,210.636,1:35.813,4.0,4,7,G. Zhou,UNI-Virtuosi,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:34.476,8.189,0.577,210.577,1:35.689,12.0,5,2,N. Matsushita,Carlin,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:34.829,8.541,0.352,210.541,1:35.422,4.0,6,9,M. Schumacher,PREMA Racing,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:39.139,12.851,4.310,210.105,1:36.060,4.0,7,20,G. Alesi,Trident,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:39.677,13.389,0.538,210.051,1:36.016,10.0,8,1,L. Delétraz,Carlin,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:40.228,13.941,0.552,209.995,1:36.039,4.0,9,3,N. Mazepin,ART Grand Prix,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:49.379,23.091,9.150,209.075,1:36.135,4.0,10,6,N. Latifi,DAMS,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,34:55.851,29.564,6.473,208.429,1:36.635,12.0,11,14,M. Sato,Campos Racing,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,35:07.678,41.390,11.826,207.26,1:35.816,5.0,12,11,C. Ilott,Sauber Junior Team by Charouz,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,35:18.766,52.478,11.088,206.175,1:37.252,14.0,13,17,M. Raghunathan,MP Motorsport,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,35:19.309,53.021,0.543,206.123,1:36.993,19.0,14,18,T. Calderón,BWT Arden,Monza,Sprint Race,,Round 10 ,2019-09-08
+21,35:58.979,92.691,39.670,202.335,1:35.854,4.0,15,8,L. Ghiotto,UNI-Virtuosi,Monza,Sprint Race,,Round 10 ,2019-09-08
+30,48:56.512,-,-,212.678,1:36.009,10.0,1,2,N. Matsushita,Carlin,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:02.264,5.752,5.752,212.262,1:34.900,28.0,2,8,L. Ghiotto,UNI-Virtuosi,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:05.719,9.207,3.455,212.013,1:35.411,11.0,3,4,N. de Vries,ART Grand Prix,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:13.725,17.213,8.006,211.438,1:35.935,11.0,4,11,C. Ilott,Sauber Junior Team by Charouz,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:16.999,20.487,3.274,211.204,1:35.889,10.0,5,5,S. Sette Câmara,DAMS,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:21.322,24.810,4.323,210.896,1:35.597,24.0,6,16,J. King,MP Motorsport,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:28.847,32.335,7.525,210.361,1:36.337,22.0,7,20,G. Alesi,Trident,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:29.571,33.059,0.724,210.31,1:35.540,26.0,8,15,J. Aitken,Campos Racing,Monza,Feature Race,,Round 10 ,2019-09-08
+30,49:35.402,38.890,5.831,209.898,1:36.597,8.0,9,10,S. Gelael,PREMA Racing,Monza,Feature Race,,Round 10 ,2019-09-08
+30,50:09.297,72.785,33.895,207.534,1:37.491,10.0,10,17,M. Raghunathan,MP Motorsport,Monza,Feature Race,,Round 10 ,2019-09-08
+29,49:13.922,1 LAP,1 LAP,204.364,1:36.369,23.0,11,3,N. Mazepin,ART Grand Prix,Monza,Feature Race,,Round 10 ,2019-09-08
+29,49:14.167,1 LAP,0.245,204.347,1:35.760,28.0,12,14,M. Sato,Campos Racing,Monza,Feature Race,,Round 10 ,2019-09-08
+29,50:20.668,1 LAP,66.501,199.848,1:35.719,11.0,13,6,N. Latifi,DAMS,Monza,Feature Race,,Round 10 ,2019-09-08
+13,1:33.887,-,-,222.126,,,1,11,C. Ilott,Sauber Junior Team by Charouz,Monza,Qualifying Session,17:04:11,Round 10 ,2019-09-08
+13,1:34.030,0.143,0.143,221.788,,,2,7,G. Zhou,UNI-Virtuosi,Monza,Qualifying Session,17:04:04,Round 10 ,2019-09-08
+14,1:34.063,0.176,0.033,221.71,,,3,3,N. Mazepin,ART Grand Prix,Monza,Qualifying Session,17:04:10,Round 10 ,2019-09-08
+15,1:34.156,0.269,0.093,221.491,,,4,4,N. de Vries,ART Grand Prix,Monza,Qualifying Session,17:32:33,Round 10 ,2019-09-08
+14,1:34.272,0.385,0.116,221.219,,,5,5,S. Sette Câmara,DAMS,Monza,Qualifying Session,17:04:08,Round 10 ,2019-09-08
+5,1:34.419,0.532,0.147,220.875,,,6,2,N. Matsushita,Carlin,Monza,Qualifying Session,17:02:39,Round 10 ,2019-09-08
+14,1:34.885,0.998,0.466,219.79,,,7,6,N. Latifi,DAMS,Monza,Qualifying Session,17:03:53,Round 10 ,2019-09-08
+11,1:34.944,1.057,0.059,219.653,,,8,16,J. King,MP Motorsport,Monza,Qualifying Session,17:32:43,Round 10 ,2019-09-08
+13,1:35.082,1.195,0.138,219.334,,,9,9,M. Schumacher,PREMA Racing,Monza,Qualifying Session,17:02:45,Round 10 ,2019-09-08
+13,1:35.101,1.214,0.019,219.291,,,10,1,L. Delétraz,Carlin,Monza,Qualifying Session,17:04:00,Round 10 ,2019-09-08
+13,1:35.148,1.261,0.047,219.182,,,11,10,S. Gelael,PREMA Racing,Monza,Qualifying Session,17:04:03,Round 10 ,2019-09-08
+14,1:35.310,1.423,0.162,218.81,,,12,20,G. Alesi,Trident,Monza,Qualifying Session,17:04:08,Round 10 ,2019-09-08
+13,1:35.547,1.660,0.237,218.267,,,13,15,J. Aitken,Campos Racing,Monza,Qualifying Session,17:04:59,Round 10 ,2019-09-08
+15,1:35.641,1.754,0.094,218.052,,,14,8,L. Ghiotto,UNI-Virtuosi,Monza,Qualifying Session,17:33:05,Round 10 ,2019-09-08
+13,1:36.709,2.822,1.068,215.644,,,15,14,M. Sato,Campos Racing,Monza,Qualifying Session,17:04:50,Round 10 ,2019-09-08
+14,1:37.027,3.140,0.318,214.938,,,16,17,M. Raghunathan,MP Motorsport,Monza,Qualifying Session,17:04:32,Round 10 ,2019-09-08
+13,1:33.017,-,-,224.204,,,1,8,L. Ghiotto,UNI-Virtuosi,Monza,Free Practice,13:39:32,Round 10 ,2019-09-08
+12,1:33.120,0.103,0.103,223.956,,,2,4,N. de Vries,ART Grand Prix,Monza,Free Practice,13:35:35,Round 10 ,2019-09-08
+13,1:33.298,0.281,0.178,223.528,,,3,1,L. Delétraz,Carlin,Monza,Free Practice,13:35:54,Round 10 ,2019-09-08
+13,1:33.388,0.371,0.090,223.313,,,4,2,N. Matsushita,Carlin,Monza,Free Practice,13:38:44,Round 10 ,2019-09-08
+12,1:33.676,0.659,0.288,222.626,,,5,15,J. Aitken,Campos Racing,Monza,Free Practice,13:45:48,Round 10 ,2019-09-08
+12,1:33.680,0.663,0.004,222.617,,,6,6,N. Latifi,DAMS,Monza,Free Practice,13:39:15,Round 10 ,2019-09-08
+12,1:33.707,0.690,0.027,222.553,,,7,7,G. Zhou,UNI-Virtuosi,Monza,Free Practice,13:38:19,Round 10 ,2019-09-08
+12,1:33.768,0.751,0.061,222.408,,,8,9,M. Schumacher,PREMA Racing,Monza,Free Practice,13:36:06,Round 10 ,2019-09-08
+11,1:33.791,0.774,0.023,222.353,,,9,10,S. Gelael,PREMA Racing,Monza,Free Practice,13:39:37,Round 10 ,2019-09-08
+17,1:33.955,0.938,0.164,221.965,,,10,11,C. Ilott,Sauber Junior Team by Charouz,Monza,Free Practice,13:39:36,Round 10 ,2019-09-08
+12,1:33.973,0.956,0.018,221.923,,,11,5,S. Sette Câmara,DAMS,Monza,Free Practice,13:32:14,Round 10 ,2019-09-08
+8,1:34.023,1.006,0.050,221.805,,,12,20,G. Alesi,Trident,Monza,Free Practice,13:41:57,Round 10 ,2019-09-08
+12,1:34.064,1.047,0.041,221.708,,,13,3,N. Mazepin,ART Grand Prix,Monza,Free Practice,13:39:43,Round 10 ,2019-09-08
+13,1:34.556,1.539,0.492,220.555,,,14,16,J. King,MP Motorsport,Monza,Free Practice,13:46:22,Round 10 ,2019-09-08
+15,1:35.076,2.059,0.520,219.348,,,15,14,M. Sato,Campos Racing,Monza,Free Practice,13:45:03,Round 10 ,2019-09-08
+11,1:36.691,3.674,1.615,215.685,,,16,18,T. Calderón,BWT Arden,Monza,Free Practice,13:35:59,Round 10 ,2019-09-08
+18,1:36.909,3.892,0.218,215.199,,,17,17,M. Raghunathan,MP Motorsport,Monza,Free Practice,13:42:04,Round 10 ,2019-09-08
+15,1:18:21.329,-,-,67.018,1:52.354,4.0,1,8,L. Ghiotto,UNI-Virtuosi,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:22.041,0.712,0.712,67.008,1:52.381,5.0,2,4,N. de Vries,ART Grand Prix,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:23.001,1.672,0.960,66.994,1:52.532,4.0,3,11,C. Ilott,Sauber Junior Team by Charouz,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:24.712,3.383,1.711,66.97,1:52.272,12.0,4,6,N. Latifi,DAMS,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:25.149,3.820,0.437,66.964,1:52.334,10.0,5,7,G. Zhou,UNI-Virtuosi,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:28.665,7.336,3.516,66.913,1:52.360,12.0,6,5,S. Sette Câmara,DAMS,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:31.672,10.343,3.007,66.871,1:53.051,13.0,7,10,S. Gelael,PREMA Racing,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:34.437,13.108,2.765,66.832,1:52.923,12.0,8,20,G. Alesi,Trident,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:36.180,14.851,1.743,66.807,1:52.834,15.0,9,16,J. King,MP Motorsport,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:38.098,16.769,1.918,66.78,1:52.822,15.0,10,22,A. Markelov,BWT Arden,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:45.227,23.898,7.129,66.679,1:53.077,11.0,11,15,J. Aitken,Campos Racing,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:47.887,26.558,2.660,66.641,1:53.089,7.0,12,21,R. Boschung,Trident,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:48.743,27.414,0.856,66.629,1:53.061,12.0,13,12,M. Isaakyan,Sauber Junior Team by Charouz,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:53.262,31.933,4.519,66.566,1:52.347,12.0,14,1,L. Delétraz,Carlin,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:57.801,36.472,4.539,66.502,1:53.849,12.0,15,14,M. Sato,Campos Racing,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:19:04.386,43.057,6.585,66.41,1:54.201,10.0,16,18,T. Calderón,BWT Arden,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:19:22.835,61.506,18.449,66.152,1:55.632,9.0,17,17,M. Raghunathan,MP Motorsport,Sochi,Sprint Race,,Round 11 ,2019-09-29
+28,54:12.087,-,-,181.041,1:52.174,25.0,1,4,N. de Vries,ART Grand Prix,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:17.005,4.918,4.918,180.767,1:52.069,23.0,2,6,N. Latifi,DAMS,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:18.082,5.995,1.077,180.708,1:51.844,24.0,3,1,L. Delétraz,Carlin,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:19.694,7.607,1.612,180.618,1:51.104,26.0,4,8,L. Ghiotto,UNI-Virtuosi,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:23.465,11.378,3.771,180.41,1:51.620,26.0,5,5,S. Sette Câmara,DAMS,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:32.451,20.364,8.986,179.914,1:51.185,25.0,6,2,N. Matsushita,Carlin,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:39.490,27.403,7.039,179.528,1:52.548,24.0,7,15,J. Aitken,Campos Racing,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:40.659,28.572,1.169,179.464,1:52.317,26.0,8,3,N. Mazepin,ART Grand Prix,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:44.481,32.394,3.822,179.255,1:53.040,9.0,9,11,C. Ilott,Sauber Junior Team by Charouz,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:45.843,33.756,1.362,179.181,1:52.750,28.0,10,7,G. Zhou,UNI-Virtuosi,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:55.452,43.365,9.609,178.658,1:53.450,11.0,11,10,S. Gelael,PREMA Racing,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:59.580,47.493,4.128,178.435,1:52.107,22.0,12,16,J. King,MP Motorsport,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,55:00.707,48.620,1.127,178.374,1:51.612,24.0,13,20,G. Alesi,Trident,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,55:11.108,59.021,10.401,177.814,1:52.380,24.0,14,21,R. Boschung,Trident,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,55:21.971,69.884,10.863,177.232,1:53.351,24.0,15,18,T. Calderón,BWT Arden,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,55:58.305,106.218,36.334,175.315,1:54.531,22.0,16,14,M. Sato,Campos Racing,Sochi,Feature Race,,Round 11 ,2019-09-29
+27,54:13.250,1 LAP,1 LAP,174.505,1:54.500,24.0,17,17,M. Raghunathan,MP Motorsport,Sochi,Feature Race,,Round 11 ,2019-09-29
+27,54:21.039,1 LAP,7.789,174.088,1:53.236,12.0,18,12,M. Isaakyan,Sauber Junior Team by Charouz,Sochi,Feature Race,,Round 11 ,2019-09-29
+11,1:47.440,-,-,195.949,,,1,4,N. de Vries,ART Grand Prix,Sochi,Qualifying Session,17:26:04,Round 11 ,2019-09-29
+12,1:47.700,0.260,0.260,195.476,,,2,6,N. Latifi,DAMS,Sochi,Qualifying Session,17:26:23,Round 11 ,2019-09-29
+11,1:47.737,0.297,0.037,195.409,,,3,11,C. Ilott,Sauber Junior Team by Charouz,Sochi,Qualifying Session,17:26:31,Round 11 ,2019-09-29
+12,1:47.767,0.327,0.030,195.354,,,4,8,L. Ghiotto,UNI-Virtuosi,Sochi,Qualifying Session,17:26:28,Round 11 ,2019-09-29
+10,1:47.843,0.403,0.076,195.217,,,5,7,G. Zhou,UNI-Virtuosi,Sochi,Qualifying Session,17:26:58,Round 11 ,2019-09-29
+12,1:48.031,0.591,0.188,194.877,,,6,5,S. Sette Câmara,DAMS,Sochi,Qualifying Session,17:26:15,Round 11 ,2019-09-29
+12,1:48.188,0.748,0.157,194.594,,,7,1,L. Delétraz,Carlin,Sochi,Qualifying Session,17:26:09,Round 11 ,2019-09-29
+12,1:48.226,0.786,0.038,194.526,,,8,3,N. Mazepin,ART Grand Prix,Sochi,Qualifying Session,17:30:22,Round 11 ,2019-09-29
+10,1:48.320,0.880,0.094,194.357,,,9,16,J. King,MP Motorsport,Sochi,Qualifying Session,17:26:46,Round 11 ,2019-09-29
+8,1:48.396,0.956,0.076,194.221,,,10,2,N. Matsushita,Carlin,Sochi,Qualifying Session,17:15:35,Round 11 ,2019-09-29
+10,1:48.444,1.004,0.048,194.135,,,11,9,M. Schumacher,PREMA Racing,Sochi,Qualifying Session,17:27:08,Round 11 ,2019-09-29
+11,1:48.477,1.037,0.033,194.076,,,12,15,J. Aitken,Campos Racing,Sochi,Qualifying Session,17:12:22,Round 11 ,2019-09-29
+10,1:48.567,1.127,0.090,193.915,,,13,10,S. Gelael,PREMA Racing,Sochi,Qualifying Session,17:26:38,Round 11 ,2019-09-29
+10,1:48.850,1.410,0.283,193.411,,,14,20,G. Alesi,Trident,Sochi,Qualifying Session,17:26:35,Round 11 ,2019-09-29
+10,1:48.880,1.440,0.030,193.357,,,15,21,R. Boschung,Trident,Sochi,Qualifying Session,17:26:34,Round 11 ,2019-09-29
+11,1:49.244,1.804,0.364,192.713,,,16,22,A. Markelov,BWT Arden,Sochi,Qualifying Session,17:27:17,Round 11 ,2019-09-29
+11,1:49.497,2.057,0.253,192.268,,,17,12,M. Isaakyan,Sauber Junior Team by Charouz,Sochi,Qualifying Session,17:26:43,Round 11 ,2019-09-29
+11,1:50.255,2.815,0.758,190.946,,,18,18,T. Calderón,BWT Arden,Sochi,Qualifying Session,17:27:03,Round 11 ,2019-09-29
+10,1:50.311,2.871,0.056,190.849,,,19,14,M. Sato,Campos Racing,Sochi,Qualifying Session,17:11:51,Round 11 ,2019-09-29
+12,1:51.949,4.509,1.638,188.057,,,20,17,M. Raghunathan,MP Motorsport,Sochi,Qualifying Session,17:26:56,Round 11 ,2019-09-29
+17,1:48.885,-,-,193.348,,,1,6,N. Latifi,DAMS,Sochi,Free Practice,10:00:12,Round 11 ,2019-09-29
+17,1:49.215,0.330,0.330,192.764,,,2,5,S. Sette Câmara,DAMS,Sochi,Free Practice,09:48:12,Round 11 ,2019-09-29
+16,1:49.410,0.525,0.195,192.421,,,3,4,N. de Vries,ART Grand Prix,Sochi,Free Practice,10:02:32,Round 11 ,2019-09-29
+16,1:49.574,0.689,0.164,192.133,,,4,8,L. Ghiotto,UNI-Virtuosi,Sochi,Free Practice,09:53:50,Round 11 ,2019-09-29
+20,1:49.587,0.702,0.013,192.11,,,5,2,N. Matsushita,Carlin,Sochi,Free Practice,09:51:19,Round 11 ,2019-09-29
+20,1:49.775,0.890,0.188,191.781,,,6,1,L. Delétraz,Carlin,Sochi,Free Practice,10:02:09,Round 11 ,2019-09-29
+18,1:49.833,0.948,0.058,191.68,,,7,15,J. Aitken,Campos Racing,Sochi,Free Practice,09:52:03,Round 11 ,2019-09-29
+17,1:50.011,1.126,0.178,191.369,,,8,11,C. Ilott,Sauber Junior Team by Charouz,Sochi,Free Practice,10:00:22,Round 11 ,2019-09-29
+15,1:50.090,1.205,0.079,191.232,,,9,3,N. Mazepin,ART Grand Prix,Sochi,Free Practice,09:44:22,Round 11 ,2019-09-29
+19,1:50.126,1.241,0.036,191.17,,,10,9,M. Schumacher,PREMA Racing,Sochi,Free Practice,09:52:06,Round 11 ,2019-09-29
+15,1:50.307,1.422,0.181,190.856,,,11,16,J. King,MP Motorsport,Sochi,Free Practice,10:07:55,Round 11 ,2019-09-29
+19,1:50.481,1.596,0.174,190.555,,,12,21,R. Boschung,Trident,Sochi,Free Practice,10:01:41,Round 11 ,2019-09-29
+18,1:50.497,1.612,0.016,190.528,,,13,10,S. Gelael,PREMA Racing,Sochi,Free Practice,09:51:13,Round 11 ,2019-09-29
+17,1:50.652,1.767,0.155,190.261,,,14,7,G. Zhou,UNI-Virtuosi,Sochi,Free Practice,10:06:28,Round 11 ,2019-09-29
+18,1:50.676,1.791,0.024,190.22,,,15,20,G. Alesi,Trident,Sochi,Free Practice,10:00:07,Round 11 ,2019-09-29
+15,1:51.244,2.359,0.568,189.248,,,16,12,M. Isaakyan,Sauber Junior Team by Charouz,Sochi,Free Practice,10:02:38,Round 11 ,2019-09-29
+13,1:51.758,2.873,0.514,188.378,,,17,18,T. Calderón,BWT Arden,Sochi,Free Practice,09:51:56,Round 11 ,2019-09-29
+18,1:52.164,3.279,0.406,187.696,,,18,14,M. Sato,Campos Racing,Sochi,Free Practice,10:04:34,Round 11 ,2019-09-29
+19,1:52.988,4.103,0.824,186.327,,,19,17,M. Raghunathan,MP Motorsport,Sochi,Free Practice,10:07:02,Round 11 ,2019-09-29
+10,1:53.244,4.359,0.256,185.906,,,20,22,A. Markelov,BWT Arden,Sochi,Free Practice,09:46:34,Round 11 ,2019-09-29
+22,44:22.552,-,-,165.053,1:55.746,3.0,1,8,L. Ghiotto,UNI-Virtuosi,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:29.826,7.274,7.274,164.603,1:55.526,6.0,2,6,N. Latifi,DAMS,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:32.787,10.235,2.961,164.421,1:56.038,6.0,3,5,S. Sette Câmara,DAMS,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:38.658,16.106,5.871,164.06,1:56.256,3.0,4,11,C. Ilott,Sauber Junior Team by Charouz,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:39.825,17.273,1.167,163.989,1:56.194,2.0,5,20,G. Alesi,Trident,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:42.003,19.451,2.178,163.856,1:56.421,3.0,6,1,L. Delétraz,Carlin,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:50.782,28.230,8.779,163.321,1:56.491,4.0,7,2,N. Matsushita,Carlin,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:51.664,29.112,0.882,163.268,1:56.741,4.0,8,7,G. Zhou,UNI-Virtuosi,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:54.084,31.532,2.420,163.121,1:56.644,3.0,9,16,J. King,MP Motorsport,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:54.627,32.075,0.543,163.088,1:56.677,3.0,10,15,J. Aitken,Campos Racing,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:56.130,33.578,1.503,162.997,1:56.506,3.0,11,9,M. Schumacher,PREMA Racing,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:59.570,37.018,3.440,162.789,1:57.145,3.0,12,21,C. Lundgaard,Trident,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,45:02.988,40.436,3.418,162.584,1:56.930,3.0,13,4,N. de Vries,ART Grand Prix,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,45:05.701,43.149,2.713,162.421,1:57.355,4.0,14,18,T. Calderón,BWT Arden,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,45:15.145,52.593,9.444,161.856,1:58.024,5.0,15,17,M. Raghunathan,MP Motorsport,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,45:22.271,59.719,7.126,161.432,1:56.678,3.0,16,14,M. Sato,Campos Racing,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+19,39:10.298,DNF,-,161.46,1:57.187,3.0,17,3,N. Mazepin,ART Grand Prix,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+31,1:02:17.011,-,-,165.75,1:57.189,8.0,1,5,S. Sette Câmara,DAMS,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:22.160,5.149,5.149,165.522,1:55.226,29.0,2,2,N. Matsushita,Carlin,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:24.776,7.765,2.616,165.407,1:54.077,30.0,3,7,G. Zhou,UNI-Virtuosi,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:27.930,10.919,3.154,165.267,1:56.162,8.0,4,1,L. Delétraz,Carlin,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:32.992,15.981,5.062,165.044,1:56.606,8.0,5,11,C. Ilott,Sauber Junior Team by Charouz,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:37.396,20.385,4.404,164.851,1:54.593,29.0,6,8,L. Ghiotto,UNI-Virtuosi,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:42.796,25.785,5.400,164.614,1:56.378,10.0,7,6,N. Latifi,DAMS,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:49.260,32.249,6.464,164.332,1:54.706,28.0,8,20,G. Alesi,Trident,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:58.913,41.902,9.653,163.912,1:56.709,10.0,9,9,M. Schumacher,PREMA Racing,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:05.691,48.680,6.778,163.619,1:56.658,27.0,10,3,N. Mazepin,ART Grand Prix,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:06.571,49.560,0.880,163.581,1:57.311,10.0,11,15,J. Aitken,Campos Racing,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:07.490,50.479,0.919,163.541,1:56.427,10.0,12,16,J. King,MP Motorsport,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:10.466,53.455,2.976,163.413,1:56.727,10.0,13,4,N. de Vries,ART Grand Prix,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:10.974,53.963,0.508,163.391,1:57.674,27.0,14,21,C. Lundgaard,Trident,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:13.604,56.593,2.630,163.278,1:57.471,11.0,15,12,M. Isaakyan,Sauber Junior Team by Charouz,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:15.613,58.602,2.009,163.191,1:57.356,11.0,16,18,T. Calderón,BWT Arden,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:19.911,62.900,4.298,163.007,1:56.924,12.0,17,10,S. Gelael,PREMA Racing,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:54.481,97.470,34.570,161.537,1:56.988,29.0,18,14,M. Sato,Campos Racing,Yas Island,Feature Race,,Round 12 ,2019-12-01
+10,1:49.751,-,-,182.179,,,1,5,S. Sette Câmara,DAMS,Yas Island,Qualifying Session,19:28:08,Round 12 ,2019-12-01
+10,1:49.840,0.089,0.089,182.032,,,2,11,C. Ilott,Sauber Junior Team by Charouz,Yas Island,Qualifying Session,19:28:29,Round 12 ,2019-12-01
+9,1:49.931,0.180,0.091,181.881,,,3,1,L. Delétraz,Carlin,Yas Island,Qualifying Session,19:28:18,Round 12 ,2019-12-01
+10,1:50.157,0.406,0.226,181.508,,,4,2,N. Matsushita,Carlin,Yas Island,Qualifying Session,19:28:16,Round 12 ,2019-12-01
+9,1:50.190,0.439,0.033,181.453,,,5,7,G. Zhou,UNI-Virtuosi,Yas Island,Qualifying Session,19:28:37,Round 12 ,2019-12-01
+8,1:50.288,0.537,0.098,181.292,,,6,4,N. de Vries,ART Grand Prix,Yas Island,Qualifying Session,19:28:02,Round 12 ,2019-12-01
+9,1:50.303,0.552,0.015,181.267,,,7,6,N. Latifi,DAMS,Yas Island,Qualifying Session,19:16:49,Round 12 ,2019-12-01
+8,1:50.520,0.769,0.217,180.912,,,8,15,J. Aitken,Campos Racing,Yas Island,Qualifying Session,19:16:54,Round 12 ,2019-12-01
+5,1:50.618,0.867,0.098,180.751,,,9,3,N. Mazepin,ART Grand Prix,Yas Island,Qualifying Session,19:28:13,Round 12 ,2019-12-01
+7,1:50.652,0.901,0.034,180.696,,,10,9,M. Schumacher,PREMA Racing,Yas Island,Qualifying Session,19:17:05,Round 12 ,2019-12-01
+10,1:50.858,1.107,0.206,180.36,,,11,8,L. Ghiotto,UNI-Virtuosi,Yas Island,Qualifying Session,19:07:41,Round 12 ,2019-12-01
+10,1:50.920,1.169,0.062,180.259,,,12,20,G. Alesi,Trident,Yas Island,Qualifying Session,19:28:22,Round 12 ,2019-12-01
+10,1:51.174,1.423,0.254,179.847,,,13,16,J. King,MP Motorsport,Yas Island,Qualifying Session,19:29:06,Round 12 ,2019-12-01
+10,1:51.412,1.661,0.238,179.463,,,14,22,A. Markelov,BWT Arden,Yas Island,Qualifying Session,19:08:08,Round 12 ,2019-12-01
+10,1:51.522,1.771,0.110,179.286,,,15,12,M. Isaakyan,Sauber Junior Team by Charouz,Yas Island,Qualifying Session,19:07:19,Round 12 ,2019-12-01
+10,1:51.829,2.078,0.307,178.794,,,16,14,M. Sato,Campos Racing,Yas Island,Qualifying Session,19:07:24,Round 12 ,2019-12-01
+8,1:51.884,2.133,0.055,178.706,,,17,10,S. Gelael,PREMA Racing,Yas Island,Qualifying Session,19:06:58,Round 12 ,2019-12-01
+10,1:52.140,2.389,0.256,178.298,,,18,21,C. Lundgaard,Trident,Yas Island,Qualifying Session,19:11:44,Round 12 ,2019-12-01
+10,1:52.412,2.661,0.272,177.867,,,19,18,T. Calderón,BWT Arden,Yas Island,Qualifying Session,19:07:47,Round 12 ,2019-12-01
+6,1:53.363,3.612,0.951,176.375,,,20,17,M. Raghunathan,MP Motorsport,Yas Island,Qualifying Session,19:07:34,Round 12 ,2019-12-01
+11,1:51.941,-,-,178.615,,,1,5,S. Sette Câmara,DAMS,Yas Island,Free Practice,11:46:07,Round 12 ,2019-12-01
+11,1:52.112,0.171,0.171,178.343,,,2,6,N. Latifi,DAMS,Yas Island,Free Practice,11:47:32,Round 12 ,2019-12-01
+11,1:52.113,0.172,0.001,178.341,,,3,7,G. Zhou,UNI-Virtuosi,Yas Island,Free Practice,11:51:18,Round 12 ,2019-12-01
+11,1:52.140,0.199,0.027,178.298,,,4,11,C. Ilott,Sauber Junior Team by Charouz,Yas Island,Free Practice,11:45:16,Round 12 ,2019-12-01
+11,1:52.156,0.215,0.016,178.273,,,5,1,L. Delétraz,Carlin,Yas Island,Free Practice,11:45:43,Round 12 ,2019-12-01
+12,1:52.200,0.259,0.044,178.203,,,6,8,L. Ghiotto,UNI-Virtuosi,Yas Island,Free Practice,11:50:59,Round 12 ,2019-12-01
+10,1:52.303,0.362,0.103,178.039,,,7,2,N. Matsushita,Carlin,Yas Island,Free Practice,11:46:53,Round 12 ,2019-12-01
+10,1:52.361,0.420,0.058,177.947,,,8,3,N. Mazepin,ART Grand Prix,Yas Island,Free Practice,11:45:20,Round 12 ,2019-12-01
+8,1:52.378,0.437,0.017,177.92,,,9,9,M. Schumacher,PREMA Racing,Yas Island,Free Practice,11:54:55,Round 12 ,2019-12-01
+12,1:52.653,0.712,0.275,177.486,,,10,4,N. de Vries,ART Grand Prix,Yas Island,Free Practice,11:45:26,Round 12 ,2019-12-01
+10,1:52.657,0.716,0.004,177.48,,,11,15,J. Aitken,Campos Racing,Yas Island,Free Practice,11:46:34,Round 12 ,2019-12-01
+9,1:52.807,0.866,0.150,177.244,,,12,16,J. King,MP Motorsport,Yas Island,Free Practice,11:52:12,Round 12 ,2019-12-01
+12,1:53.051,1.110,0.244,176.861,,,13,22,A. Markelov,BWT Arden,Yas Island,Free Practice,11:45:35,Round 12 ,2019-12-01
+8,1:53.410,1.469,0.359,176.301,,,14,10,S. Gelael,PREMA Racing,Yas Island,Free Practice,11:54:13,Round 12 ,2019-12-01
+13,1:54.136,2.195,0.726,175.18,,,15,14,M. Sato,Campos Racing,Yas Island,Free Practice,11:46:00,Round 12 ,2019-12-01
+9,1:54.296,2.355,0.160,174.935,,,16,12,M. Isaakyan,Sauber Junior Team by Charouz,Yas Island,Free Practice,12:00:24,Round 12 ,2019-12-01
+12,1:54.501,2.560,0.205,174.622,,,17,20,G. Alesi,Trident,Yas Island,Free Practice,11:45:41,Round 12 ,2019-12-01
+12,1:54.865,2.924,0.364,174.068,,,18,21,C. Lundgaard,Trident,Yas Island,Free Practice,11:50:10,Round 12 ,2019-12-01
+11,1:54.901,2.960,0.036,174.014,,,19,18,T. Calderón,BWT Arden,Yas Island,Free Practice,11:51:39,Round 12 ,2019-12-01
+12,1:55.210,3.269,0.309,173.547,,,20,17,M. Raghunathan,MP Motorsport,Yas Island,Free Practice,11:59:52,Round 12 ,2019-12-01

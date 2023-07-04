@@ -1,0 +1,83 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+5,10:01.184,-,-,173.902,1:52.150,5.0,1,3,G. Zhou,UNI-Virtuosi,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:02.002,0.818,0.818,173.666,1:51.873,5.0,2,24,N. Mazepin,Hitech Grand Prix,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:06.000,4.816,3.998,172.52,1:52.625,5.0,3,20,M. Schumacher,PREMA Racing,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:07.643,6.459,1.643,172.054,1:52.844,5.0,4,9,J. Aitken,Campos Racing,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:08.854,7.670,1.211,171.712,1:52.499,5.0,5,25,L. Ghiotto,Hitech Grand Prix,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:09.466,8.282,0.612,171.539,1:52.506,5.0,6,7,Y. Tsunoda,Carlin,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:10.325,9.141,0.859,171.298,1:52.737,5.0,7,4,C. Ilott,UNI-Virtuosi,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:10.953,9.769,0.628,171.122,1:52.880,5.0,8,2,D. Ticktum,DAMS,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:11.690,10.506,0.737,170.915,1:52.585,5.0,9,12,P. Piquet,Charouz Racing System,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:12.428,11.244,0.738,170.71,1:52.911,5.0,10,21,R. Shwartzman,PREMA Racing,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:13.172,11.988,0.744,170.502,1:52.652,5.0,11,8,J. Daruvala,Carlin,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:13.622,12.438,0.450,170.377,1:53.631,5.0,12,16,A. Markelov,BWT HWA RACELAB,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:14.720,13.536,1.098,170.073,1:53.832,4.0,13,6,C. Lundgaard,ART Grand Prix,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:15.237,14.053,0.517,169.93,1:54.071,4.0,14,5,M. Armstrong,ART Grand Prix,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:15.795,14.611,0.558,169.776,1:53.805,4.0,15,23,M. Sato,Trident,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:16.216,15.032,0.421,169.66,1:53.857,4.0,16,14,G. Alesi,MP Motorsport,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:16.901,15.717,0.685,169.472,1:54.121,4.0,17,11,L. Delétraz,Charouz Racing System,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:18.284,17.100,1.383,169.093,1:53.771,5.0,18,1,J. Vips,DAMS,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:18.941,17.757,0.657,168.913,1:53.666,5.0,19,22,R. Nissany,Trident,Sochi,Sprint Race,,Round 10 ,2020-09-27
+5,10:39.186,38.002,20.245,163.563,1:53.988,5.0,20,15,F. Drugovich,MP Motorsport,Sochi,Sprint Race,,Round 10 ,2020-09-27
+28,55:02.871,-,-,178.257,1:52.304,28.0,1,20,M. Schumacher,PREMA Racing,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:09.229,6.358,6.358,177.915,1:52.303,25.0,2,7,Y. Tsunoda,Carlin,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:12.353,9.482,3.124,177.747,1:52.593,21.0,3,4,C. Ilott,UNI-Virtuosi,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:12.378,9.507,0.025,177.746,1:52.541,25.0,4,25,L. Ghiotto,Hitech Grand Prix,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:18.096,15.225,5.718,177.439,1:52.521,26.0,5,8,J. Daruvala,Carlin,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:25.054,22.183,6.958,177.068,1:52.197,26.0,6,9,J. Aitken,Campos Racing,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:26.000,23.129,0.946,177.018,1:51.963,22.0,7,24,N. Mazepin,Hitech Grand Prix,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:28.263,25.392,2.263,176.897,1:52.255,20.0,8,3,G. Zhou,UNI-Virtuosi,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:29.811,26.940,1.548,176.815,1:52.540,25.0,9,5,M. Armstrong,ART Grand Prix,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:32.396,29.525,2.585,176.678,1:51.700,28.0,10,2,D. Ticktum,DAMS,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:38.453,35.582,6.057,176.357,1:52.779,14.0,11,21,R. Shwartzman,PREMA Racing,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:40.406,37.535,1.953,176.254,1:53.103,11.0,12,17,J. Hughes,BWT HWA RACELAB,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:49.197,46.326,8.791,175.791,1:52.914,21.0,13,23,M. Sato,Trident,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:50.916,48.045,1.719,175.701,1:53.252,12.0,14,14,G. Alesi,MP Motorsport,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,55:54.978,52.107,4.062,175.489,1:52.639,28.0,15,16,A. Markelov,BWT HWA RACELAB,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,56:09.877,67.006,14.899,174.713,1:52.784,23.0,16,10,G. Samaia,Campos Racing,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,56:11.575,68.704,1.698,174.625,1:51.894,28.0,17,12,P. Piquet,Charouz Racing System,Sochi,Feature Race,,Round 10 ,2020-09-27
+28,56:37.178,94.30,25.603,173.309,1:51.009,28.0,18,11,L. Delétraz,Charouz Racing System,Sochi,Feature Race,,Round 10 ,2020-09-27
+12,1:48.688,-,-,193.699,,,1,7,Y. Tsunoda,Carlin,Sochi,Qualifying Session,14:29:42,Round 10 ,2020-09-27
+12,1:48.694,0.006,0.006,193.688,,,2,8,J. Daruvala,Carlin,Sochi,Qualifying Session,14:29:59,Round 10 ,2020-09-27
+12,1:48.883,0.195,0.189,193.352,,,3,20,M. Schumacher,PREMA Racing,Sochi,Qualifying Session,14:29:49,Round 10 ,2020-09-27
+10,1:49.047,0.359,0.164,193.061,,,4,4,C. Ilott,UNI-Virtuosi,Sochi,Qualifying Session,14:30:01,Round 10 ,2020-09-27
+11,1:49.230,0.542,0.183,192.738,,,5,25,L. Ghiotto,Hitech Grand Prix,Sochi,Qualifying Session,14:29:57,Round 10 ,2020-09-27
+11,1:49.252,0.564,0.022,192.699,,,6,6,C. Lundgaard,ART Grand Prix,Sochi,Qualifying Session,14:30:31,Round 10 ,2020-09-27
+11,1:49.284,0.596,0.032,192.643,,,7,21,R. Shwartzman,PREMA Racing,Sochi,Qualifying Session,14:29:31,Round 10 ,2020-09-27
+12,1:49.306,0.618,0.022,192.604,,,8,9,J. Aitken,Campos Racing,Sochi,Qualifying Session,14:29:35,Round 10 ,2020-09-27
+11,1:49.311,0.623,0.005,192.595,,,9,3,G. Zhou,UNI-Virtuosi,Sochi,Qualifying Session,14:26:26,Round 10 ,2020-09-27
+11,1:49.474,0.786,0.163,192.308,,,10,24,N. Mazepin,Hitech Grand Prix,Sochi,Qualifying Session,14:11:04,Round 10 ,2020-09-27
+11,1:49.639,0.951,0.165,192.019,,,11,1,J. Vips,DAMS,Sochi,Qualifying Session,14:29:52,Round 10 ,2020-09-27
+11,1:49.680,0.992,0.041,191.947,,,12,12,P. Piquet,Charouz Racing System,Sochi,Qualifying Session,14:29:39,Round 10 ,2020-09-27
+11,1:49.699,1.011,0.019,191.914,,,13,11,L. Delétraz,Charouz Racing System,Sochi,Qualifying Session,14:29:13,Round 10 ,2020-09-27
+10,1:49.869,1.181,0.170,191.617,,,14,5,M. Armstrong,ART Grand Prix,Sochi,Qualifying Session,14:25:14,Round 10 ,2020-09-27
+10,1:49.962,1.274,0.093,191.455,,,15,17,J. Hughes,BWT HWA RACELAB,Sochi,Qualifying Session,14:26:02,Round 10 ,2020-09-27
+9,1:49.976,1.288,0.014,191.43,,,16,15,F. Drugovich,MP Motorsport,Sochi,Qualifying Session,14:30:44,Round 10 ,2020-09-27
+11,1:50.214,1.526,0.238,191.017,,,17,2,D. Ticktum,DAMS,Sochi,Qualifying Session,14:30:39,Round 10 ,2020-09-27
+11,1:50.349,1.661,0.135,190.783,,,18,23,M. Sato,Trident,Sochi,Qualifying Session,14:30:05,Round 10 ,2020-09-27
+11,1:50.456,1.768,0.107,190.598,,,19,22,R. Nissany,Trident,Sochi,Qualifying Session,14:25:18,Round 10 ,2020-09-27
+10,1:50.488,1.800,0.032,190.543,,,20,16,A. Markelov,BWT HWA RACELAB,Sochi,Qualifying Session,14:26:36,Round 10 ,2020-09-27
+8,1:50.943,2.255,0.455,189.762,,,21,14,G. Alesi,MP Motorsport,Sochi,Qualifying Session,14:30:47,Round 10 ,2020-09-27
+11,1:51.375,2.687,0.432,189.026,,,22,10,G. Samaia,Campos Racing,Sochi,Qualifying Session,14:12:01,Round 10 ,2020-09-27
+16,1:49.631,-,-,192.033,,,1,25,L. Ghiotto,Hitech Grand Prix,Sochi,Free Practice,09:54:40,Round 10 ,2020-09-27
+16,1:49.712,0.081,0.081,191.891,,,2,7,Y. Tsunoda,Carlin,Sochi,Free Practice,09:59:49,Round 10 ,2020-09-27
+16,1:49.741,0.110,0.029,191.84,,,3,8,J. Daruvala,Carlin,Sochi,Free Practice,09:49:36,Round 10 ,2020-09-27
+14,1:49.858,0.227,0.117,191.636,,,4,6,C. Lundgaard,ART Grand Prix,Sochi,Free Practice,09:59:14,Round 10 ,2020-09-27
+16,1:49.953,0.322,0.095,191.47,,,5,4,C. Ilott,UNI-Virtuosi,Sochi,Free Practice,09:57:30,Round 10 ,2020-09-27
+17,1:49.959,0.328,0.006,191.46,,,6,24,N. Mazepin,Hitech Grand Prix,Sochi,Free Practice,09:53:07,Round 10 ,2020-09-27
+16,1:49.999,0.368,0.040,191.39,,,7,12,P. Piquet,Charouz Racing System,Sochi,Free Practice,10:00:56,Round 10 ,2020-09-27
+14,1:50.331,0.700,0.332,190.814,,,8,20,M. Schumacher,PREMA Racing,Sochi,Free Practice,10:09:20,Round 10 ,2020-09-27
+13,1:50.387,0.756,0.056,190.718,,,9,5,M. Armstrong,ART Grand Prix,Sochi,Free Practice,09:55:11,Round 10 ,2020-09-27
+16,1:50.491,0.860,0.104,190.538,,,10,2,D. Ticktum,DAMS,Sochi,Free Practice,10:11:55,Round 10 ,2020-09-27
+17,1:50.643,1.012,0.152,190.276,,,11,15,F. Drugovich,MP Motorsport,Sochi,Free Practice,10:09:25,Round 10 ,2020-09-27
+14,1:50.661,1.030,0.018,190.245,,,12,21,R. Shwartzman,PREMA Racing,Sochi,Free Practice,10:08:32,Round 10 ,2020-09-27
+16,1:50.719,1.088,0.058,190.146,,,13,1,J. Vips,DAMS,Sochi,Free Practice,09:53:52,Round 10 ,2020-09-27
+15,1:50.801,1.170,0.082,190.005,,,14,3,G. Zhou,UNI-Virtuosi,Sochi,Free Practice,10:01:50,Round 10 ,2020-09-27
+11,1:50.872,1.241,0.071,189.883,,,15,23,M. Sato,Trident,Sochi,Free Practice,10:01:33,Round 10 ,2020-09-27
+14,1:50.882,1.251,0.010,189.866,,,16,9,J. Aitken,Campos Racing,Sochi,Free Practice,09:53:45,Round 10 ,2020-09-27
+14,1:50.894,1.263,0.012,189.846,,,17,22,R. Nissany,Trident,Sochi,Free Practice,09:56:09,Round 10 ,2020-09-27
+16,1:51.212,1.581,0.318,189.303,,,18,14,G. Alesi,MP Motorsport,Sochi,Free Practice,09:53:48,Round 10 ,2020-09-27
+15,1:51.409,1.778,0.197,188.968,,,19,16,A. Markelov,BWT HWA RACELAB,Sochi,Free Practice,09:46:03,Round 10 ,2020-09-27
+16,1:51.521,1.890,0.112,188.778,,,20,17,J. Hughes,BWT HWA RACELAB,Sochi,Free Practice,09:54:21,Round 10 ,2020-09-27
+15,1:51.607,1.976,0.086,188.633,,,21,11,L. Delétraz,Charouz Racing System,Sochi,Free Practice,09:56:41,Round 10 ,2020-09-27
+16,1:52.311,2.680,0.704,187.45,,,22,10,G. Samaia,Campos Racing,Sochi,Free Practice,09:54:14,Round 10 ,2020-09-27

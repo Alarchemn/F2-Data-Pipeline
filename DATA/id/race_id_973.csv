@@ -1,0 +1,74 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+22,41:36.188,-,-,176.053,1:52.573,18.0,1,1,C. Leclerc,PREMA Racing,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,41:37.481,1.293,-,175.962,1:51.901,4.0,2,8,A. Albon,ART Grand Prix,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,41:39.395,3.207,1.914,175.827,1:51.875,4.0,3,10,N. Latifi,DAMS,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,41:40.293,4.105,0.898,175.764,1:52.122,3.0,4,7,N. Matsushita,ART Grand Prix,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,41:41.140,4.952,0.847,175.704,1:52.760,9.0,5,5,L. Ghiotto,RUSSIAN TIME,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,41:50.946,14.758,9.806,175.018,1:53.022,12.0,6,6,A. Markelov,RUSSIAN TIME,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,41:51.634,15.446,0.688,174.97,1:52.792,3.0,7,9,O. Rowland,DAMS,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:00.983,24.795,9.349,174.321,1:53.286,3.0,8,14,S. Sette Câmara,MP Motorsport,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:05.449,29.261,4.466,174.013,1:52.348,4.0,9,3,N. de Vries,Racing Engineering,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:05.877,29.689,0.428,173.984,1:52.926,17.0,10,19,R. Merhi,Rapax,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:06.100,29.912,0.223,173.968,1:52.529,18.0,11,2,A. Fuoco,PREMA Racing,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:07.187,30.999,1.087,173.894,1:53.365,10.0,12,12,Á. Palou,Campos Racing,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:07.752,31.564,0.565,173.855,1:53.067,17.0,13,11,L. Norris,Campos Racing,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:14.902,38.714,7.150,173.364,1:53.424,5.0,14,21,S. Gelael,Pertamina Arden,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:15.793,39.605,0.891,173.303,1:53.597,9.0,15,17,S. Ferrucci,Trident,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:19.498,43.310,3.705,173.051,1:53.605,13.0,16,16,N. Jeffri,Trident,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:25.847,49.659,6.349,172.619,1:53.183,3.0,17,4,G. Malja,Racing Engineering,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+19,36:42.542,DNF,-,172.291,1:53.340,5.0,18,20,N. Nato,Pertamina Arden,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+31,59:34.767,6.679,-,173.273,1:53.014,9.0,1,6,A. Markelov,RUSSIAN TIME,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,59:51.032,22.944,0.015,172.488,1:51.437,25.0,2,1,C. Leclerc,PREMA Racing,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:00.205,32.117,9.173,172.049,1:53.485,29.0,3,5,L. Ghiotto,RUSSIAN TIME,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:01.948,33.860,1.743,171.965,1:52.037,25.0,4,3,N. de Vries,Racing Engineering,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:04.464,36.376,2.516,171.845,1:53.394,27.0,5,10,N. Latifi,DAMS,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:06.741,38.653,2.277,171.737,1:53.123,11.0,6,7,N. Matsushita,ART Grand Prix,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:09.385,41.297,2.644,171.611,1:50.314,27.0,7,8,A. Albon,ART Grand Prix,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:15.406,47.318,6.021,171.325,1:54.218,26.0,8,15,J. King,MP Motorsport,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:18.072,49.984,2.666,171.199,1:50.880,26.0,9,14,S. Sette Câmara,MP Motorsport,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:27.123,59.035,9.051,170.772,1:51.674,27.0,10,18,L. Delétraz,Rapax,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:35.965,67.877,8.842,170.357,1:51.282,26.0,11,4,G. Malja,Racing Engineering,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:39.363,71.275,3.398,170.197,1:54.400,12.0,12,12,Á. Palou,Campos Racing,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:46.976,78.888,7.613,169.842,1:54.283,28.0,13,20,N. Nato,Pertamina Arden,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:56.263,88.175,9.287,169.411,1:54.845,12.0,14,17,S. Ferrucci,Trident,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:58.562,90.474,2.299,169.304,1:54.699,27.0,15,21,S. Gelael,Pertamina Arden,Yas Island,Feature Race,,Round 11 ,2017-11-26
+30,1:00:36.523,1 LAP,1 LAP,164.832,1:53.667,19.0,16,19,R. Merhi,Rapax,Yas Island,Feature Race,,Round 11 ,2017-11-26
+10,1:47.181,-,-,186.547,,,1,6,A. Markelov,RUSSIAN TIME,Yas Island,Qualifying Session,19:27:37,Round 11 ,2017-11-26
+10,1:47.387,0.206,-,186.19,,,2,3,N. de Vries,Racing Engineering,Yas Island,Qualifying Session,19:28:46,Round 11 ,2017-11-26
+11,1:47.575,0.394,0.188,185.864,,,3,2,A. Fuoco,PREMA Racing,Yas Island,Qualifying Session,19:27:51,Round 11 ,2017-11-26
+9,1:47.617,0.436,0.042,185.792,,,4,9,O. Rowland,DAMS,Yas Island,Qualifying Session,19:29:05,Round 11 ,2017-11-26
+10,1:47.676,0.495,0.059,185.69,,,5,20,N. Nato,Pertamina Arden,Yas Island,Qualifying Session,19:29:08,Round 11 ,2017-11-26
+10,1:47.692,0.511,0.016,185.662,,,6,1,C. Leclerc,PREMA Racing,Yas Island,Qualifying Session,19:28:24,Round 11 ,2017-11-26
+9,1:47.753,0.572,0.061,185.557,,,7,5,L. Ghiotto,RUSSIAN TIME,Yas Island,Qualifying Session,19:29:16,Round 11 ,2017-11-26
+8,1:47.759,0.578,0.006,185.547,,,8,7,N. Matsushita,ART Grand Prix,Yas Island,Qualifying Session,19:28:06,Round 11 ,2017-11-26
+10,1:47.824,0.643,0.065,185.435,,,9,14,S. Sette Câmara,MP Motorsport,Yas Island,Qualifying Session,19:28:04,Round 11 ,2017-11-26
+10,1:48.127,0.946,0.170,184.915,,,10,12,Á. Palou,Campos Racing,Yas Island,Qualifying Session,19:28:28,Round 11 ,2017-11-26
+9,1:48.201,1.020,0.074,184.789,,,11,10,N. Latifi,DAMS,Yas Island,Qualifying Session,19:30:21,Round 11 ,2017-11-26
+10,1:48.212,1.031,0.011,184.77,,,12,18,L. Delétraz,Rapax,Yas Island,Qualifying Session,19:27:48,Round 11 ,2017-11-26
+10,1:48.404,1.223,0.192,184.443,,,13,11,L. Norris,Campos Racing,Yas Island,Qualifying Session,19:28:15,Round 11 ,2017-11-26
+10,1:48.476,1.295,0.072,184.32,,,14,15,J. King,MP Motorsport,Yas Island,Qualifying Session,19:27:58,Round 11 ,2017-11-26
+10,1:48.538,1.357,0.062,184.215,,,15,17,S. Ferrucci,Trident,Yas Island,Qualifying Session,19:27:54,Round 11 ,2017-11-26
+11,1:48.609,1.428,0.071,184.095,,,16,21,S. Gelael,Pertamina Arden,Yas Island,Qualifying Session,19:27:42,Round 11 ,2017-11-26
+10,1:48.671,1.490,0.062,183.99,,,17,4,G. Malja,Racing Engineering,Yas Island,Qualifying Session,19:29:25,Round 11 ,2017-11-26
+12,1:48.794,1.613,0.123,183.782,,,18,19,R. Merhi,Rapax,Yas Island,Qualifying Session,19:27:46,Round 11 ,2017-11-26
+11,1:50.201,3.020,1.407,181.435,,,19,16,N. Jeffri,Trident,Yas Island,Qualifying Session,19:29:22,Round 11 ,2017-11-26
+16,1:48.974,-,-,183.478,,,1,8,A. Albon,ART Grand Prix,Yas Island,Free Practice,11:53:12,Round 11 ,2017-11-26
+17,1:49.109,0.135,-,183.251,,,2,20,N. Nato,Pertamina Arden,Yas Island,Free Practice,11:45:57,Round 11 ,2017-11-26
+18,1:49.211,0.237,0.102,183.08,,,3,3,N. de Vries,Racing Engineering,Yas Island,Free Practice,11:41:35,Round 11 ,2017-11-26
+17,1:49.243,0.269,0.032,183.026,,,4,7,N. Matsushita,ART Grand Prix,Yas Island,Free Practice,11:53:03,Round 11 ,2017-11-26
+19,1:49.285,0.311,0.042,182.956,,,5,2,A. Fuoco,PREMA Racing,Yas Island,Free Practice,11:45:01,Round 11 ,2017-11-26
+17,1:49.342,0.368,0.057,182.861,,,6,9,O. Rowland,DAMS,Yas Island,Free Practice,11:46:03,Round 11 ,2017-11-26
+19,1:49.403,0.429,0.061,182.759,,,7,6,A. Markelov,RUSSIAN TIME,Yas Island,Free Practice,12:02:48,Round 11 ,2017-11-26
+17,1:49.560,0.586,0.157,182.497,,,8,14,S. Sette Câmara,MP Motorsport,Yas Island,Free Practice,11:59:39,Round 11 ,2017-11-26
+19,1:49.651,0.677,0.091,182.345,,,9,1,C. Leclerc,PREMA Racing,Yas Island,Free Practice,12:02:50,Round 11 ,2017-11-26
+17,1:49.874,0.900,0.223,181.975,,,10,4,G. Malja,Racing Engineering,Yas Island,Free Practice,12:02:39,Round 11 ,2017-11-26
+18,1:49.892,0.918,0.018,181.945,,,11,18,L. Delétraz,Rapax,Yas Island,Free Practice,12:05:23,Round 11 ,2017-11-26
+18,1:50.025,1.051,0.133,181.725,,,12,12,Á. Palou,Campos Racing,Yas Island,Free Practice,11:40:40,Round 11 ,2017-11-26
+17,1:50.121,1.147,0.096,181.567,,,13,5,L. Ghiotto,RUSSIAN TIME,Yas Island,Free Practice,11:54:38,Round 11 ,2017-11-26
+18,1:50.169,1.195,0.048,181.488,,,14,19,R. Merhi,Rapax,Yas Island,Free Practice,12:04:15,Round 11 ,2017-11-26
+17,1:50.192,1.218,0.023,181.45,,,15,10,N. Latifi,DAMS,Yas Island,Free Practice,11:44:02,Round 11 ,2017-11-26
+21,1:50.378,1.404,0.186,181.144,,,16,15,J. King,MP Motorsport,Yas Island,Free Practice,11:40:31,Round 11 ,2017-11-26
+20,1:50.436,1.462,0.058,181.049,,,17,17,S. Ferrucci,Trident,Yas Island,Free Practice,11:41:43,Round 11 ,2017-11-26
+17,1:50.579,1.605,0.143,180.815,,,18,21,S. Gelael,Pertamina Arden,Yas Island,Free Practice,11:46:08,Round 11 ,2017-11-26
+17,1:51.030,2.056,0.451,180.081,,,19,11,L. Norris,Campos Racing,Yas Island,Free Practice,11:40:39,Round 11 ,2017-11-26
+17,1:51.926,2.952,0.896,178.639,,,20,16,N. Jeffri,Trident,Yas Island,Free Practice,11:57:19,Round 11 ,2017-11-26

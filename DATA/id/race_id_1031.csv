@@ -1,0 +1,96 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+30,56:39.491,-,-,183.713,1:35.396,14.0,1,2,O. Piastri,PREMA Racing,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:40.534,1.043,1.043,183.656,1:35.184,14.0,2,3,G. Zhou,UNI-Virtuosi,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:41.309,1.818,0.775,183.615,1:35.375,28.0,3,5,D. Ticktum,Carlin Racing,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:41.557,2.066,0.248,183.601,1:35.059,14.0,4,10,T. Pourchaire,ART Grand Prix,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:41.936,2.445,0.379,183.581,1:35.075,16.0,5,6,J. Daruvala,Carlin Racing,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:42.219,2.728,0.283,183.565,1:35.202,15.0,6,1,R. Shwartzman,PREMA Racing,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:43.051,3.560,0.230,183.521,1:35.866,28.0,7,12,L. Zendeli,MP Motorsport,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:43.455,3.964,0.404,183.499,1:35.552,15.0,8,16,R. Nissany,DAMS,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:43.968,4.477,0.513,183.471,1:35.645,28.0,9,17,M. Armstrong,DAMS,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:44.506,5.015,0.538,183.442,1:35.807,17.0,10,9,C. Lundgaard,ART Grand Prix,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:48.181,8.690,3.675,183.244,1:35.289,15.0,11,14,E. Fittipaldi,Charouz Racing System,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:48.284,8.793,0.103,183.239,1:35.873,18.0,12,4,F. Drugovich,UNI-Virtuosi,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:49.597,10.106,1.313,183.168,1:36.534,15.0,13,22,J. Hughes,HWA RACELAB,Monza,Feature Race,,Round 5 ,2021-09-12
+30,56:56.529,17.038,6.932,182.797,1:36.524,13.0,14,21,R. Boschung,Campos Racing,Monza,Feature Race,,Round 5 ,2021-09-12
+28,52:18.115,DNF,-,185.723,1:35.710,16.0,15,24,B. Viscaal,Trident,Monza,Feature Race,,Round 5 ,2021-09-12
+28,52:19.136,DNF,-,185.663,1:35.368,28.0,16,20,D. Beckmann,Campos Racing,Monza,Feature Race,,Round 5 ,2021-09-12
+21,34:37.701,-,-,210.25,1:35.563,7.0,1,6,J. Daruvala,Carlin Racing,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,34:43.815,6.114,6.114,209.633,1:35.497,7.0,2,24,B. Viscaal,Trident,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,34:47.089,9.388,3.274,209.305,1:35.701,8.0,3,1,R. Shwartzman,PREMA Racing,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,34:47.663,9.962,0.574,209.247,1:35.780,10.0,4,7,L. Lawson,Hitech Grand Prix,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,34:48.530,10.829,0.867,209.16,1:35.649,6.0,5,20,D. Beckmann,Campos Racing,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,34:48.873,11.172,0.343,209.126,1:35.682,7.0,6,8,J. Vips,Hitech Grand Prix,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,34:49.436,11.735,0.563,209.07,1:35.239,6.0,7,2,O. Piastri,PREMA Racing,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,34:49.916,12.215,0.480,209.021,1:35.366,7.0,8,3,G. Zhou,UNI-Virtuosi,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,34:50.646,12.945,0.730,208.949,1:35.412,7.0,9,21,R. Boschung,Campos Racing,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,34:53.126,15.425,2.480,208.701,1:35.904,7.0,10,10,T. Pourchaire,ART Grand Prix,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,34:53.350,15.649,0.224,208.679,1:35.571,10.0,11,5,D. Ticktum,Carlin Racing,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,34:55.501,17.800,2.151,208.464,1:36.060,6.0,12,12,L. Zendeli,MP Motorsport,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,34:59.408,21.707,3.907,208.076,1:35.986,17.0,13,11,R. Verschoor,MP Motorsport,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,35:03.168,25.467,3.760,207.704,1:35.913,15.0,14,9,C. Lundgaard,ART Grand Prix,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,35:04.512,26.811,1.344,207.572,1:35.944,10.0,15,17,M. Armstrong,DAMS,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,35:10.915,33.214,6.403,206.942,1:36.481,15.0,16,14,E. Fittipaldi,Charouz Racing System,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,35:13.055,35.354,2.140,206.733,1:36.635,16.0,17,4,F. Drugovich,UNI-Virtuosi,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,35:17.750,40.049,4.695,206.274,1:36.456,8.0,18,16,R. Nissany,DAMS,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,35:21.173,43.472,3.423,205.941,1:36.934,9.0,19,23,A. Deledda,HWA RACELAB,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,35:59.827,82.126,38.654,202.256,1:36.196,8.0,20,25,M. Sato,Trident,Monza,Sprint Race 2,,Round 5 ,2021-09-12
+21,39:12.495,-,-,185.691,1:34.314,16.0,1,10,T. Pourchaire,ART Grand Prix,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+21,39:16.855,4.360,4.360,185.348,1:34.627,8.0,2,3,G. Zhou,UNI-Virtuosi,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+21,39:19.424,6.929,2.569,185.146,1:34.572,9.0,3,9,C. Lundgaard,ART Grand Prix,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+21,39:20.189,7.694,0.765,185.086,1:34.905,16.0,4,2,O. Piastri,PREMA Racing,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+21,39:22.262,9.767,2.073,184.923,1:35.078,17.0,5,7,L. Lawson,Hitech Grand Prix,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+21,39:23.242,10.747,0.980,184.847,1:34.570,8.0,6,1,R. Shwartzman,PREMA Racing,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+21,39:23.999,11.504,0.757,184.787,1:35.333,17.0,7,24,B. Viscaal,Trident,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+21,39:25.284,12.789,1.285,184.687,1:35.029,8.0,8,8,J. Vips,Hitech Grand Prix,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+21,39:25.663,13.168,0.379,184.657,1:34.966,17.0,9,6,J. Daruvala,Carlin Racing,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+21,39:27.727,15.232,2.064,184.496,1:34.759,8.0,10,20,D. Beckmann,Campos Racing,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+21,39:28.141,15.646,0.414,184.464,1:35.124,9.0,11,17,M. Armstrong,DAMS,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+21,39:31.335,18.840,3.194,184.216,1:35.444,15.0,12,22,J. Hughes,HWA RACELAB,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+21,39:32.892,20.397,1.557,184.095,1:36.245,9.0,13,23,A. Deledda,HWA RACELAB,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+20,39:38.836,1 LAP,1 LAP,174.868,1:35.452,14.0,14,21,R. Boschung,Campos Racing,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+18,34:35.351,DNF,-,180.342,1:34.954,8.0,15,12,L. Zendeli,MP Motorsport,Monza,Sprint Race 1,,Round 5 ,2021-09-12
+12,1:32.199,-,-,226.193,,,1,2,O. Piastri,PREMA Racing,Monza,Qualifying Session,17:18:52,Round 5 ,2021-09-12
+12,1:32.240,0.041,0.041,226.092,,,2,6,J. Daruvala,Carlin Racing,Monza,Qualifying Session,17:18:46,Round 5 ,2021-09-12
+12,1:32.256,0.057,0.016,226.053,,,3,3,G. Zhou,UNI-Virtuosi,Monza,Qualifying Session,17:18:43,Round 5 ,2021-09-12
+12,1:32.383,0.184,0.127,225.742,,,4,7,L. Lawson,Hitech Grand Prix,Monza,Qualifying Session,17:18:32,Round 5 ,2021-09-12
+12,1:32.409,0.210,0.026,225.679,,,5,4,F. Drugovich,UNI-Virtuosi,Monza,Qualifying Session,17:18:44,Round 5 ,2021-09-12
+12,1:32.553,0.354,0.144,225.328,,,6,21,R. Boschung,Campos Racing,Monza,Qualifying Session,17:15:21,Round 5 ,2021-09-12
+12,1:32.586,0.387,0.033,225.247,,,7,10,T. Pourchaire,ART Grand Prix,Monza,Qualifying Session,17:18:30,Round 5 ,2021-09-12
+12,1:32.641,0.442,0.055,225.114,,,8,5,D. Ticktum,Carlin Racing,Monza,Qualifying Session,16:59:51,Round 5 ,2021-09-12
+12,1:32.675,0.476,0.034,225.031,,,9,8,J. Vips,Hitech Grand Prix,Monza,Qualifying Session,16:56:44,Round 5 ,2021-09-12
+12,1:32.699,0.500,0.024,224.973,,,10,20,D. Beckmann,Campos Racing,Monza,Qualifying Session,17:15:16,Round 5 ,2021-09-12
+12,1:32.885,0.686,0.186,224.522,,,11,12,L. Zendeli,MP Motorsport,Monza,Qualifying Session,17:18:51,Round 5 ,2021-09-12
+12,1:32.942,0.743,0.057,224.385,,,12,1,R. Shwartzman,PREMA Racing,Monza,Qualifying Session,16:59:53,Round 5 ,2021-09-12
+13,1:32.965,0.766,0.023,224.329,,,13,14,E. Fittipaldi,Charouz Racing System,Monza,Qualifying Session,17:18:41,Round 5 ,2021-09-12
+12,1:33.023,0.824,0.058,224.189,,,14,25,M. Sato,Trident,Monza,Qualifying Session,16:59:44,Round 5 ,2021-09-12
+12,1:33.031,0.832,0.008,224.17,,,15,16,R. Nissany,DAMS,Monza,Qualifying Session,17:18:36,Round 5 ,2021-09-12
+12,1:33.043,0.844,0.012,224.141,,,16,22,J. Hughes,HWA RACELAB,Monza,Qualifying Session,17:15:17,Round 5 ,2021-09-12
+13,1:33.054,0.855,0.011,224.115,,,17,17,M. Armstrong,DAMS,Monza,Qualifying Session,17:18:35,Round 5 ,2021-09-12
+12,1:33.080,0.881,0.026,224.052,,,18,24,B. Viscaal,Trident,Monza,Qualifying Session,16:59:46,Round 5 ,2021-09-12
+12,1:33.155,0.956,0.075,223.872,,,19,9,C. Lundgaard,ART Grand Prix,Monza,Qualifying Session,17:18:26,Round 5 ,2021-09-12
+12,1:33.193,0.994,0.038,223.78,,,20,11,R. Verschoor,MP Motorsport,Monza,Qualifying Session,17:15:05,Round 5 ,2021-09-12
+13,1:33.478,1.279,0.285,223.098,,,21,15,G. Samaia,Charouz Racing System,Monza,Qualifying Session,17:18:43,Round 5 ,2021-09-12
+12,1:34.194,1.995,0.716,221.402,,,22,23,A. Deledda,HWA RACELAB,Monza,Qualifying Session,17:18:59,Round 5 ,2021-09-12
+21,1:33.042,-,-,224.143,,,1,5,D. Ticktum,Carlin Racing,Monza,Free Practice,11:36:05,Round 5 ,2021-09-12
+20,1:33.267,0.225,0.225,223.603,,,2,10,T. Pourchaire,ART Grand Prix,Monza,Free Practice,11:36:00,Round 5 ,2021-09-12
+20,1:33.275,0.233,0.008,223.584,,,3,6,J. Daruvala,Carlin Racing,Monza,Free Practice,11:33:10,Round 5 ,2021-09-12
+21,1:33.409,0.367,0.134,223.263,,,4,20,D. Beckmann,Campos Racing,Monza,Free Practice,11:36:32,Round 5 ,2021-09-12
+19,1:33.425,0.383,0.016,223.225,,,5,2,O. Piastri,PREMA Racing,Monza,Free Practice,11:43:55,Round 5 ,2021-09-12
+20,1:33.504,0.462,0.079,223.036,,,6,25,M. Sato,Trident,Monza,Free Practice,11:36:40,Round 5 ,2021-09-12
+20,1:33.508,0.466,0.004,223.026,,,7,9,C. Lundgaard,ART Grand Prix,Monza,Free Practice,11:35:57,Round 5 ,2021-09-12
+20,1:33.662,0.620,0.154,222.66,,,8,24,B. Viscaal,Trident,Monza,Free Practice,11:35:52,Round 5 ,2021-09-12
+19,1:33.683,0.641,0.021,222.61,,,9,11,R. Verschoor,MP Motorsport,Monza,Free Practice,11:36:02,Round 5 ,2021-09-12
+19,1:33.721,0.679,0.038,222.52,,,10,7,L. Lawson,Hitech Grand Prix,Monza,Free Practice,11:32:18,Round 5 ,2021-09-12
+19,1:33.781,0.739,0.060,222.377,,,11,8,J. Vips,Hitech Grand Prix,Monza,Free Practice,11:50:03,Round 5 ,2021-09-12
+18,1:33.785,0.743,0.004,222.368,,,12,21,R. Boschung,Campos Racing,Monza,Free Practice,11:32:40,Round 5 ,2021-09-12
+19,1:33.840,0.798,0.055,222.237,,,13,3,G. Zhou,UNI-Virtuosi,Monza,Free Practice,12:02:37,Round 5 ,2021-09-12
+20,1:33.892,0.850,0.052,222.114,,,14,4,F. Drugovich,UNI-Virtuosi,Monza,Free Practice,11:36:53,Round 5 ,2021-09-12
+18,1:33.927,0.885,0.035,222.032,,,15,12,L. Zendeli,MP Motorsport,Monza,Free Practice,11:36:11,Round 5 ,2021-09-12
+19,1:34.052,1.010,0.125,221.736,,,16,22,J. Hughes,HWA RACELAB,Monza,Free Practice,11:46:30,Round 5 ,2021-09-12
+20,1:34.156,1.114,0.104,221.491,,,17,15,G. Samaia,Charouz Racing System,Monza,Free Practice,11:36:14,Round 5 ,2021-09-12
+14,1:34.229,1.187,0.073,221.32,,,18,1,R. Shwartzman,PREMA Racing,Monza,Free Practice,11:35:45,Round 5 ,2021-09-12
+15,1:34.386,1.344,0.157,220.952,,,19,16,R. Nissany,DAMS,Monza,Free Practice,11:51:34,Round 5 ,2021-09-12
+21,1:34.660,1.618,0.274,220.312,,,20,14,E. Fittipaldi,Charouz Racing System,Monza,Free Practice,12:05:10,Round 5 ,2021-09-12
+21,1:35.790,2.748,1.130,217.713,,,21,23,A. Deledda,HWA RACELAB,Monza,Free Practice,11:39:44,Round 5 ,2021-09-12
+4,1:52.651,19.609,16.861,185.127,,,22,17,M. Armstrong,DAMS,Monza,Free Practice,11:27:52,Round 5 ,2021-09-12

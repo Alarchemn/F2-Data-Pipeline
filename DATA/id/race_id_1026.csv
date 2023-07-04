@@ -1,0 +1,88 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+34,37:26.570,-,-,192.639,1:05.017,6.0,1,8,J. Daruvala,Carlin,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:30.131,3.561,3.561,192.334,1:04.812,6.0,2,7,Y. Tsunoda,Carlin,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:30.472,3.902,0.341,192.305,1:04.987,4.0,3,2,D. Ticktum,DAMS,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:32.185,5.615,1.713,192.158,1:04.854,6.0,4,3,G. Zhou,UNI-Virtuosi,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:34.155,7.585,1.970,191.991,1:04.843,6.0,5,21,R. Shwartzman,PREMA Racing,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:35.610,9.040,1.455,191.867,1:05.240,8.0,6,14,G. Alesi,MP Motorsport,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:37.663,11.093,2.053,191.692,1:05.036,12.0,7,25,L. Ghiotto,Hitech Grand Prix,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:40.448,13.878,2.785,191.456,1:04.928,7.0,8,15,F. Drugovich,MP Motorsport,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:41.106,14.536,0.658,191.4,1:05.081,4.0,9,24,N. Mazepin,Hitech Grand Prix,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:42.593,16.023,1.487,191.275,1:04.962,4.0,10,4,C. Ilott,UNI-Virtuosi,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:42.727,16.157,0.134,191.263,1:05.195,12.0,11,12,P. Piquet,Charouz Racing System,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:43.621,17.051,0.894,191.188,1:05.019,8.0,12,6,C. Lundgaard,ART Grand Prix,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:46.746,20.176,3.125,190.924,1:05.302,12.0,13,11,L. Delétraz,Charouz Racing System,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:48.414,21.844,1.668,190.784,1:05.238,9.0,14,5,M. Armstrong,ART Grand Prix,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:50.209,23.639,1.795,190.633,1:05.540,5.0,15,22,R. Nissany,Trident,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:52.659,26.089,2.450,190.427,1:05.407,21.0,16,23,M. Sato,Trident,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:53.329,26.759,0.670,190.371,1:05.673,6.0,17,1,S. Gelael,DAMS,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,37:55.099,28.529,1.770,190.223,1:04.383,24.0,18,20,M. Schumacher,PREMA Racing,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,38:02.506,35.936,7.407,189.606,1:05.692,6.0,19,10,G. Samaia,Campos Racing,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+34,38:26.339,59.769,23.833,187.647,1:04.811,21.0,20,16,A. Markelov,BWT HWA RACELAB,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+33,37:30.734,1 LAP,1 LAP,186.615,1:04.583,30.0,21,17,T. Pourchaire,BWT HWA RACELAB,Sakhir ,Sprint Race,,Round 12 ,2020-12-06
+48,52:59.396,-,-,192.283,1:04.737,22.0,1,7,Y. Tsunoda,Carlin,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:05.009,5.613,5.613,191.944,1:04.315,33.0,2,3,G. Zhou,UNI-Virtuosi,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:06.051,6.655,0.375,191.881,1:04.649,24.0,3,15,F. Drugovich,MP Motorsport,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:06.834,7.438,0.783,191.834,1:04.716,22.0,4,21,R. Shwartzman,PREMA Racing,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:07.539,8.143,0.705,191.792,1:04.849,23.0,5,4,C. Ilott,UNI-Virtuosi,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:09.735,10.339,2.196,191.66,1:04.087,33.0,6,20,M. Schumacher,PREMA Racing,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:11.214,11.818,1.479,191.571,1:04.811,23.0,7,8,J. Daruvala,Carlin,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:14.036,14.640,2.822,191.401,1:04.293,31.0,8,2,D. Ticktum,DAMS,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:15.676,6.280,0.667,191.904,1:04.746,22.0,9,24,N. Mazepin,Hitech Grand Prix,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:16.907,17.511,2.871,191.23,1:04.768,22.0,10,12,P. Piquet,Charouz Racing System,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:17.185,17.789,0.278,191.213,1:04.844,33.0,11,5,M. Armstrong,ART Grand Prix,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:18.770,19.374,1.585,191.118,1:04.584,23.0,12,11,L. Delétraz,Charouz Racing System,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:31.395,31.999,12.625,190.367,1:04.833,22.0,13,16,A. Markelov,BWT HWA RACELAB,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:33.784,34.388,2.389,190.225,1:04.878,21.0,14,9,R. Boschung,Campos Racing,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:34.478,35.082,0.694,190.184,1:05.119,33.0,15,14,G. Alesi,MP Motorsport,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:37.509,38.113,3.031,190.005,1:04.569,34.0,16,25,L. Ghiotto,Hitech Grand Prix,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:38.455,39.059,0.946,189.949,1:05.020,24.0,17,23,M. Sato,Trident,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:41.115,41.719,2.660,189.792,1:04.534,34.0,18,17,T. Pourchaire,BWT HWA RACELAB,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:45.243,45.847,4.128,189.549,1:05.016,25.0,19,1,S. Gelael,DAMS,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:49.701,50.305,4.458,189.288,1:05.163,27.0,20,22,R. Nissany,Trident,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+48,53:58.688,59.292,8.987,188.763,1:04.147,37.0,21,6,C. Lundgaard,ART Grand Prix,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+47,53:52.041,1 LAP,1 LAP,185.204,1:05.110,28.0,22,10,G. Samaia,Campos Racing,Sakhir ,Feature Race,,Round 12 ,2020-12-06
+20,1:02.676,-,-,203.503,,,1,7,Y. Tsunoda,Carlin,Sakhir ,Qualifying Session,18:55:49,Round 12 ,2020-12-06
+16,1:02.798,0.122,0.122,203.108,,,2,24,N. Mazepin,Hitech Grand Prix,Sakhir ,Qualifying Session,18:52:42,Round 12 ,2020-12-06
+17,1:02.807,0.131,0.009,203.079,,,3,8,J. Daruvala,Carlin,Sakhir ,Qualifying Session,18:53:33,Round 12 ,2020-12-06
+15,1:02.822,0.146,0.015,203.03,,,4,21,R. Shwartzman,PREMA Racing,Sakhir ,Qualifying Session,19:09:11,Round 12 ,2020-12-06
+18,1:02.841,0.165,0.019,202.969,,,5,15,F. Drugovich,MP Motorsport,Sakhir ,Qualifying Session,18:55:05,Round 12 ,2020-12-06
+18,1:02.849,0.173,0.008,202.943,,,6,6,C. Lundgaard,ART Grand Prix,Sakhir ,Qualifying Session,18:52:53,Round 12 ,2020-12-06
+13,1:02.947,0.271,0.098,202.627,,,7,16,A. Markelov,BWT HWA RACELAB,Sakhir ,Qualifying Session,19:02:46,Round 12 ,2020-12-06
+18,1:02.954,0.278,0.007,202.605,,,8,2,D. Ticktum,DAMS,Sakhir ,Qualifying Session,18:55:46,Round 12 ,2020-12-06
+17,1:03.014,0.338,0.060,202.412,,,9,4,C. Ilott,UNI-Virtuosi,Sakhir ,Qualifying Session,18:53:27,Round 12 ,2020-12-06
+20,1:03.062,0.386,0.048,202.258,,,10,11,L. Delétraz,Charouz Racing System,Sakhir ,Qualifying Session,18:57:27,Round 12 ,2020-12-06
+17,1:03.075,0.399,0.013,202.216,,,11,3,G. Zhou,UNI-Virtuosi,Sakhir ,Qualifying Session,18:55:51,Round 12 ,2020-12-06
+16,1:03.116,0.440,0.041,202.085,,,12,23,M. Sato,Trident,Sakhir ,Qualifying Session,18:52:50,Round 12 ,2020-12-06
+19,1:03.147,0.471,0.031,201.985,,,13,12,P. Piquet,Charouz Racing System,Sakhir ,Qualifying Session,19:09:33,Round 12 ,2020-12-06
+12,1:03.166,0.490,0.019,201.925,,,14,25,L. Ghiotto,Hitech Grand Prix,Sakhir ,Qualifying Session,19:09:07,Round 12 ,2020-12-06
+17,1:03.169,0.493,0.003,201.915,,,15,5,M. Armstrong,ART Grand Prix,Sakhir ,Qualifying Session,19:09:39,Round 12 ,2020-12-06
+18,1:03.194,0.518,0.025,201.835,,,16,14,G. Alesi,MP Motorsport,Sakhir ,Qualifying Session,18:55:08,Round 12 ,2020-12-06
+19,1:03.228,0.552,0.034,201.727,,,17,17,T. Pourchaire,BWT HWA RACELAB,Sakhir ,Qualifying Session,18:53:24,Round 12 ,2020-12-06
+15,1:03.270,0.594,0.042,201.593,,,18,20,M. Schumacher,PREMA Racing,Sakhir ,Qualifying Session,19:00:06,Round 12 ,2020-12-06
+16,1:03.317,0.641,0.047,201.443,,,19,22,R. Nissany,Trident,Sakhir ,Qualifying Session,19:19:25,Round 12 ,2020-12-06
+18,1:03.403,0.727,0.086,201.17,,,20,9,R. Boschung,Campos Racing,Sakhir ,Qualifying Session,19:09:35,Round 12 ,2020-12-06
+17,1:03.552,0.876,0.149,200.698,,,21,10,G. Samaia,Campos Racing,Sakhir ,Qualifying Session,19:09:42,Round 12 ,2020-12-06
+18,1:03.738,1.062,0.186,200.112,,,22,1,S. Gelael,DAMS,Sakhir ,Qualifying Session,18:55:09,Round 12 ,2020-12-06
+28,1:03.267,-,-,201.602,,,1,7,Y. Tsunoda,Carlin,Sakhir ,Free Practice,15:17:09,Round 12 ,2020-12-06
+28,1:03.495,0.228,0.228,200.878,,,2,8,J. Daruvala,Carlin,Sakhir ,Free Practice,15:19:40,Round 12 ,2020-12-06
+23,1:03.582,0.315,0.087,200.603,,,3,25,L. Ghiotto,Hitech Grand Prix,Sakhir ,Free Practice,15:17:02,Round 12 ,2020-12-06
+26,1:03.609,0.342,0.027,200.518,,,4,15,F. Drugovich,MP Motorsport,Sakhir ,Free Practice,15:15:03,Round 12 ,2020-12-06
+22,1:03.664,0.397,0.055,200.345,,,5,24,N. Mazepin,Hitech Grand Prix,Sakhir ,Free Practice,15:29:57,Round 12 ,2020-12-06
+25,1:03.872,0.605,0.208,199.693,,,6,5,M. Armstrong,ART Grand Prix,Sakhir ,Free Practice,15:20:49,Round 12 ,2020-12-06
+24,1:03.876,0.609,0.004,199.68,,,7,20,M. Schumacher,PREMA Racing,Sakhir ,Free Practice,15:15:37,Round 12 ,2020-12-06
+22,1:03.879,0.612,0.003,199.671,,,8,3,G. Zhou,UNI-Virtuosi,Sakhir ,Free Practice,15:19:26,Round 12 ,2020-12-06
+24,1:03.940,0.673,0.061,199.48,,,9,11,L. Delétraz,Charouz Racing System,Sakhir ,Free Practice,15:31:53,Round 12 ,2020-12-06
+22,1:03.966,0.699,0.026,199.399,,,10,21,R. Shwartzman,PREMA Racing,Sakhir ,Free Practice,15:13:12,Round 12 ,2020-12-06
+25,1:03.994,0.727,0.028,199.312,,,11,2,D. Ticktum,DAMS,Sakhir ,Free Practice,15:30:27,Round 12 ,2020-12-06
+23,1:04.012,0.745,0.018,199.256,,,12,6,C. Lundgaard,ART Grand Prix,Sakhir ,Free Practice,15:18:24,Round 12 ,2020-12-06
+24,1:04.014,0.747,0.002,199.25,,,13,9,R. Boschung,Campos Racing,Sakhir ,Free Practice,15:31:52,Round 12 ,2020-12-06
+26,1:04.060,0.793,0.046,199.107,,,14,17,T. Pourchaire,BWT HWA RACELAB,Sakhir ,Free Practice,15:13:08,Round 12 ,2020-12-06
+25,1:04.065,0.798,0.005,199.091,,,15,1,S. Gelael,DAMS,Sakhir ,Free Practice,15:17:04,Round 12 ,2020-12-06
+27,1:04.065,0.798,0.000,199.091,,,16,12,P. Piquet,Charouz Racing System,Sakhir ,Free Practice,15:26:58,Round 12 ,2020-12-06
+23,1:04.104,0.837,0.039,198.97,,,17,22,R. Nissany,Trident,Sakhir ,Free Practice,15:31:37,Round 12 ,2020-12-06
+25,1:04.117,0.850,0.013,198.93,,,18,4,C. Ilott,UNI-Virtuosi,Sakhir ,Free Practice,15:32:07,Round 12 ,2020-12-06
+26,1:04.166,0.899,0.049,198.778,,,19,23,M. Sato,Trident,Sakhir ,Free Practice,15:24:39,Round 12 ,2020-12-06
+26,1:04.252,0.985,0.086,198.512,,,20,16,A. Markelov,BWT HWA RACELAB,Sakhir ,Free Practice,15:16:06,Round 12 ,2020-12-06
+26,1:04.366,1.099,0.114,198.16,,,21,10,G. Samaia,Campos Racing,Sakhir ,Free Practice,15:19:21,Round 12 ,2020-12-06
+25,1:04.426,1.159,0.060,197.975,,,22,14,G. Alesi,MP Motorsport,Sakhir ,Free Practice,15:17:11,Round 12 ,2020-12-06

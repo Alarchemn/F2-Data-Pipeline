@@ -1,0 +1,121 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,ROUND,DATE
+23,46:19.610,-,-,160.895,1:46.202,19.0,1.0,2,O. Piastri,PREMA Racing,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:20.384,0.774,0.774,160.851,1:46.529,19.0,2.0,9,C. Lundgaard,ART Grand Prix,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:21.686,2.076,1.302,160.775,1:47.371,18.0,3.0,3,G. Zhou,UNI-Virtuosi,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:22.104,2.494,0.418,160.751,1:46.655,22.0,4.0,6,J. Daruvala,Carlin Racing,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:22.576,2.966,0.472,160.724,1:46.432,22.0,5.0,11,R. Verschoor,MP Motorsport,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:23.369,3.759,0.793,160.678,1:46.963,22.0,6.0,10,T. Pourchaire,ART Grand Prix,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:25.997,6.387,2.628,160.527,1:47.131,22.0,7.0,14,D. Beckmann,Charouz Racing System,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:27.706,8.096,1.709,160.428,1:47.818,18.0,8.0,25,M. Sato,Trident,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:29.343,9.733,1.637,160.334,1:47.272,23.0,9.0,22,M. Nannini,HWA RACELAB,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:31.790,12.180,2.447,160.193,1:48.158,7.0,10.0,17,M. Armstrong,DAMS,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:32.052,12.442,0.262,160.178,1:47.465,18.0,11.0,15,G. Samaia,Charouz Racing System,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:36.354,16.744,4.302,159.932,1:48.827,7.0,12.0,24,B. Viscaal,Trident,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:37.179,17.569,0.825,159.885,1:47.185,18.0,13.0,20,G. Petecof,Campos Racing,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:44.157,24.547,6.978,159.487,1:48.604,9.0,14.0,4,F. Drugovich,UNI-Virtuosi,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:47.081,27.471,2.924,159.321,1:48.804,12.0,15.0,16,R. Nissany,DAMS,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,46:56.590,36.980,9.509,158.783,1:46.287,19.0,16.0,8,J. Vips,Hitech Grand Prix,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+23,47:08.076,48.466,11.486,158.138,1:45.507,21.0,17.0,21,R. Boschung,Campos Racing,Sakhir,Sprint Race 2,Round 1 ,2021-03-28
+28,47:53.826,8.068,8.068,117.045,1:35.220,20.0,1.0,5,D. Ticktum,Carlin Racing,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+28,47:54.591,8.833,0.765,117.014,1:36.160,28.0,2.0,2,O. Piastri,PREMA Racing,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+28,47:54.998,9.240,0.407,116.998,1:35.192,20.0,3.0,8,J. Vips,Hitech Grand Prix,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+28,47:55.927,10.169,0.929,116.96,1:35.697,19.0,4.0,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+28,48:00.094,14.336,4.167,116.791,1:33.704,27.0,5.0,21,R. Boschung,Campos Racing,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+28,48:02.207,16.449,2.113,116.705,1:33.463,27.0,6.0,11,R. Verschoor,MP Motorsport,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+28,48:07.210,21.452,5.003,116.503,1:35.871,27.0,7.0,12,L. Zendeli,MP Motorsport,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+28,48:09.720,23.962,2.510,116.402,1:36.282,27.0,8.0,6,J. Daruvala,Carlin Racing,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+28,48:10.136,24.378,0.416,116.385,1:35.959,27.0,9.0,22,J. Aitken,HWA RACELAB,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+28,48:33.051,47.293,22.915,115.469,1:30.728,28.0,10.0,1,R. Shwartzman,PREMA Racing,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+28,48:57.715,71.957,24.664,114.5,1:36.716,27.0,11.0,24,B. Viscaal,Trident,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+27,48:02.293,1 LAP,1 LAP,112.534,1:38.637,26.0,12.0,23,A. Deledda,HWA RACELAB,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+27,49:15.621,1 LAP,73.328,109.742,1:39.305,18.0,13.0,15,G. Samaia,Charouz Racing System,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+26,48:03.300,2 LAPS,1 LAP,108.328,1:36.571,18.0,14.0,4,F. Drugovich,UNI-Virtuosi,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+26,48:17.618,2 LAPS,14.318,107.793,1:34.756,26.0,15.0,3,G. Zhou,UNI-Virtuosi,Monte Carlo,Sprint Race 2,Round 2 ,2021-05-22
+21,46:05.704,-,-,163.955,1:56.123,21.0,1.0,8,J. Vips,Hitech Grand Prix,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:08.964,3.260,3.260,163.762,1:56.518,18.0,2.0,14,D. Beckmann,Charouz Racing System,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:09.587,3.883,0.623,163.725,1:56.467,19.0,3.0,6,J. Daruvala,Carlin Racing,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:10.348,4.644,0.761,163.68,1:56.372,15.0,4.0,24,B. Viscaal,Trident,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:10.706,5.002,0.358,163.659,1:56.171,17.0,5.0,1,R. Shwartzman,PREMA Racing,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:11.917,6.213,1.211,163.588,1:56.132,19.0,6.0,5,D. Ticktum,Carlin Racing,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:12.455,6.751,0.538,163.556,1:56.189,20.0,7.0,7,L. Lawson,Hitech Grand Prix,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:14.842,9.138,2.387,163.415,1:56.020,16.0,8.0,2,O. Piastri,PREMA Racing,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:19.019,13.315,4.177,163.169,1:56.158,16.0,9.0,10,T. Pourchaire,ART Grand Prix,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:21.177,15.473,2.158,163.043,1:56.732,19.0,10.0,4,F. Drugovich,UNI-Virtuosi,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:23.679,17.975,2.502,162.896,1:56.989,12.0,11.0,20,M. Nannini,Campos Racing,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:28.532,22.828,4.853,162.613,1:57.200,12.0,12.0,22,J. Aitken,HWA RACELAB,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:31.379,25.675,2.847,162.447,1:57.133,21.0,13.0,25,M. Sato,Trident,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:55.685,49.981,24.306,161.045,1:57.804,13.0,14.0,15,G. Samaia,Charouz Racing System,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,46:57.741,52.037,2.056,160.927,1:58.993,21.0,15.0,23,A. Deledda,HWA RACELAB,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,47:37.522,91.818,39.781,158.687,1:57.372,16.0,16.0,16,R. Nissany,DAMS,Baku,Sprint Race 2,Round 3 ,2021-06-06
+21,42:38.809,-,-,173.861,1:43.768,21.0,1.0,11,R. Verschoor,MP Motorsport,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,42:40.011,1.202,1.202,173.779,1:43.609,21.0,2.0,17,M. Armstrong,DAMS,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,42:41.159,2.350,1.148,173.701,1:43.880,20.0,3.0,5,D. Ticktum,Carlin Racing,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,42:46.535,7.726,5.376,173.337,1:42.846,21.0,4.0,2,O. Piastri,PREMA Racing,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,42:50.970,12.161,4.435,173.038,1:44.601,14.0,5.0,7,L. Lawson,Hitech Grand Prix,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,42:53.688,14.879,2.718,172.855,1:44.688,13.0,6.0,8,J. Vips,Hitech Grand Prix,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,42:54.331,15.522,0.643,172.812,1:44.775,13.0,7.0,4,F. Drugovich,UNI-Virtuosi,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,42:55.371,16.562,1.040,172.742,1:45.020,13.0,8.0,14,D. Beckmann,Charouz Racing System,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,42:56.959,18.150,1.588,172.636,1:44.815,14.0,9.0,12,L. Zendeli,MP Motorsport,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,42:57.428,18.619,0.469,172.605,1:44.858,14.0,10.0,10,T. Pourchaire,ART Grand Prix,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,42:58.392,19.583,0.964,172.54,1:44.819,15.0,11.0,3,G. Zhou,UNI-Virtuosi,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,42:59.950,21.141,1.558,172.436,1:44.355,18.0,12.0,16,R. Nissany,DAMS,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,43:00.702,21.893,0.752,172.386,1:44.458,15.0,13.0,9,C. Lundgaard,ART Grand Prix,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,43:01.856,23.047,1.154,172.309,1:44.563,19.0,14.0,20,M. Nannini,Campos Racing,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,43:03.138,24.329,1.282,172.223,1:44.902,14.0,15.0,1,R. Shwartzman,PREMA Racing,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,43:05.510,26.701,2.372,172.065,1:45.080,16.0,16.0,25,M. Sato,Trident,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,43:11.892,33.083,6.382,171.641,1:45.852,19.0,17.0,15,G. Samaia,Charouz Racing System,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,43:14.746,35.937,2.854,171.453,1:45.305,21.0,18.0,22,J. Aitken,HWA RACELAB,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,43:21.199,42.390,6.453,171.027,1:44.099,17.0,19.0,6,J. Daruvala,Carlin Racing,Silverstone,Sprint Race 2,Round 4 ,2021-07-18
+21,34:37.701,-,-,210.25,1:35.563,7.0,1.0,6,J. Daruvala,Carlin Racing,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,34:43.815,6.114,6.114,209.633,1:35.497,7.0,2.0,24,B. Viscaal,Trident,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,34:47.089,9.388,3.274,209.305,1:35.701,8.0,3.0,1,R. Shwartzman,PREMA Racing,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,34:47.663,9.962,0.574,209.247,1:35.780,10.0,4.0,7,L. Lawson,Hitech Grand Prix,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,34:48.530,10.829,0.867,209.16,1:35.649,6.0,5.0,20,D. Beckmann,Campos Racing,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,34:48.873,11.172,0.343,209.126,1:35.682,7.0,6.0,8,J. Vips,Hitech Grand Prix,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,34:49.436,11.735,0.563,209.07,1:35.239,6.0,7.0,2,O. Piastri,PREMA Racing,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,34:49.916,12.215,0.480,209.021,1:35.366,7.0,8.0,3,G. Zhou,UNI-Virtuosi,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,34:50.646,12.945,0.730,208.949,1:35.412,7.0,9.0,21,R. Boschung,Campos Racing,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,34:53.126,15.425,2.480,208.701,1:35.904,7.0,10.0,10,T. Pourchaire,ART Grand Prix,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,34:53.350,15.649,0.224,208.679,1:35.571,10.0,11.0,5,D. Ticktum,Carlin Racing,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,34:55.501,17.800,2.151,208.464,1:36.060,6.0,12.0,12,L. Zendeli,MP Motorsport,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,34:59.408,21.707,3.907,208.076,1:35.986,17.0,13.0,11,R. Verschoor,MP Motorsport,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,35:03.168,25.467,3.760,207.704,1:35.913,15.0,14.0,9,C. Lundgaard,ART Grand Prix,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,35:04.512,26.811,1.344,207.572,1:35.944,10.0,15.0,17,M. Armstrong,DAMS,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,35:10.915,33.214,6.403,206.942,1:36.481,15.0,16.0,14,E. Fittipaldi,Charouz Racing System,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,35:13.055,35.354,2.140,206.733,1:36.635,16.0,17.0,4,F. Drugovich,UNI-Virtuosi,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,35:17.750,40.049,4.695,206.274,1:36.456,8.0,18.0,16,R. Nissany,DAMS,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,35:21.173,43.472,3.423,205.941,1:36.934,9.0,19.0,23,A. Deledda,HWA RACELAB,Monza,Sprint Race 2,Round 5 ,2021-09-12
+21,35:59.827,82.126,38.654,202.256,1:36.196,8.0,20.0,25,M. Sato,Trident,Monza,Sprint Race 2,Round 5 ,2021-09-12
+20,45:31.603,-,-,162.405,1:43.940,17.0,1.0,2,O. Piastri,PREMA Racing,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:34.124,2.521,2.521,162.255,1:44.353,13.0,2.0,24,B. Viscaal,Trident,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:34.974,3.371,0.850,162.205,1:44.049,12.0,3.0,1,R. Shwartzman,PREMA Racing,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:35.057,3.454,0.083,162.2,1:44.609,13.0,4.0,5,D. Ticktum,Carlin Racing,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:35.201,3.598,0.144,162.192,1:44.131,13.0,5.0,11,J. Doohan,MP Motorsport,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:35.264,3.661,0.063,162.188,1:44.347,12.0,6.0,10,T. Pourchaire,ART Grand Prix,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:35.482,3.879,0.218,162.175,1:44.211,13.0,7.0,14,E. Fittipaldi,Charouz Racing System,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:35.731,4.128,0.249,162.16,1:44.197,15.0,8.0,3,G. Zhou,UNI-Virtuosi,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:35.954,4.351,0.223,162.147,1:44.602,12.0,9.0,21,R. Boschung,Campos Racing,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:36.222,4.619,0.268,162.131,1:44.836,14.0,10.0,4,F. Drugovich,UNI-Virtuosi,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:36.416,4.813,0.194,162.12,1:44.573,12.0,11.0,16,R. Nissany,DAMS,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:37.751,6.148,1.335,162.041,1:45.339,12.0,12.0,20,O. Caldwell,Campos Racing,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:38.052,6.449,0.301,162.023,1:45.652,17.0,13.0,25,M. Sato,Trident,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:38.606,7.003,0.554,161.99,1:44.325,11.0,14.0,6,J. Daruvala,Carlin Racing,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+20,45:38.846,7.243,0.240,161.976,1:43.994,11.0,15.0,9,C. Lundgaard,ART Grand Prix,Jeddah,Sprint Race 2,Round 7 ,2021-12-05
+23,43:27.096,-,-,167.562,1:37.823,13.0,1.0,3,G. Zhou,UNI-Virtuosi,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:30.509,3.413,3.413,167.343,1:38.412,15.0,2.0,1,R. Shwartzman,PREMA Racing,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:36.868,9.772,6.359,166.937,1:38.700,14.0,3.0,21,R. Boschung,Campos Racing,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:41.392,14.296,4.524,166.649,1:38.875,14.0,4.0,5,D. Ticktum,Carlin Racing,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:41.597,14.501,0.205,166.636,1:39.094,14.0,5.0,4,F. Drugovich,UNI-Virtuosi,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:44.184,17.088,2.587,166.471,1:39.077,14.0,6.0,7,L. Lawson,Hitech Grand Prix,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:46.935,19.839,2.751,166.297,1:38.985,13.0,7.0,6,J. Daruvala,Carlin Racing,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:48.182,21.086,1.247,166.218,1:39.330,15.0,8.0,11,J. Doohan,MP Motorsport,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:49.038,21.942,0.856,166.164,1:39.451,3.0,9.0,10,T. Pourchaire,ART Grand Prix,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:49.818,22.722,0.780,166.115,1:39.359,20.0,10.0,24,B. Viscaal,Trident,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:52.977,25.881,3.159,165.915,1:39.640,13.0,11.0,14,R. Verschoor,Charouz Racing System,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:57.995,30.899,5.018,165.6,1:39.627,13.0,12.0,15,G. Samaia,Charouz Racing System,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:58.559,31.463,0.564,165.564,1:39.933,13.0,13.0,22,J. Hughes,HWA RACELAB,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:58.963,31.867,0.404,165.539,1:39.925,14.0,14.0,12,C. Novalak,MP Motorsport,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,43:59.332,32.236,0.369,165.516,1:39.974,22.0,15.0,20,O. Caldwell,Campos Racing,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,44:04.118,37.022,4.786,165.216,1:40.006,13.0,16.0,25,M. Sato,Trident,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+23,44:33.850,66.754,29.732,163.379,1:37.445,23.0,17.0,16,R. Nissany,DAMS,Yas Island,Sprint Race 2,Round 8 ,2021-12-12
+22,43:32.048,1 LAP,1 LAP,159.966,1:38.261,21.0,18.0,9,C. Lundgaard,ART Grand Prix,Yas Island,Sprint Race 2,Round 8 ,2021-12-12

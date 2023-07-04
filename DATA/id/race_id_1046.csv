@@ -1,0 +1,75 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+30,1:06:39.193,-,-,156.164,1:33.986,26.0,1,2,J. Daruvala,PREMA Racing,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:06:41.163,1.970,1.970,156.087,1:34.014,19.0,2,9,F. Vesti,ART Grand Prix,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:06:45.684,6.491,0.753,155.911,1:34.244,26.0,3,22,E. Fittipaldi,Charouz Racing System,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:06:46.442,7.249,0.758,155.881,1:34.100,19.0,4,1,D. Hauger,PREMA Racing,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:06:46.994,7.801,0.552,155.86,1:34.087,19.0,5,24,D. Beckmann,Van Amersfoort Racing,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:06:49.695,10.502,2.701,155.755,1:34.035,27.0,6,11,F. Drugovich,MP Motorsport,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:06:51.931,12.738,2.236,155.668,1:34.091,18.0,7,25,A. Cordeel,Van Amersfoort Racing,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:07:07.143,27.950,15.212,155.08,1:35.182,23.0,8,12,C. Novalak,MP Motorsport,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:07:14.377,35.184,7.234,154.802,1:33.155,29.0,9,20,R. Verschoor,Trident,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:07:24.88,45.692,10.508,154.4,1:33.858,29.0,10,8,J. Vips,Hitech Grand Prix,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:07:26.715,47.522,1.830,154.33,1:33.771,23.0,11,4,M. Sato,Virtuosi Racing,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:07:33.911,54.718,7.196,154.056,1:34.026,25.0,12,7,M. Armstrong,Hitech Grand Prix,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:08:10.727,91.534,36.816,152.67,1:34.203,28.0,13,5,L. Lawson,Carlin,Monza,Feature Race,,Round 13 ,2022-09-11
+21,35:29.646,-,-,205.122,1:33.817,18.0,1,8,J. Vips,Hitech Grand Prix,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:30.681,1.035,1.035,205.022,1:33.763,19.0,2,9,F. Vesti,ART Grand Prix,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:37.330,7.684,6.649,204.385,1:34.059,12.0,3,2,J. Daruvala,PREMA Racing,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:38.668,9.022,1.338,204.257,1:34.017,11.0,4,6,L. Sargeant,Carlin,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:42.775,13.129,3.667,203.865,1:34.039,20.0,5,5,L. Lawson,Carlin,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:42.952,13.306,0.177,203.848,1:33.930,21.0,6,3,J. Doohan,Virtuosi Racing,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:44.037,14.391,1.085,203.745,1:33.856,20.0,7,24,D. Beckmann,Van Amersfoort Racing,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:39.108,9.462,0.440,204.215,1:33.874,20.0,8,20,R. Verschoor,Trident,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:44.369,14.723,0.332,203.714,1:33.739,20.0,9,1,D. Hauger,PREMA Racing,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:47.267,17.621,2.898,203.439,1:33.935,20.0,10,7,M. Armstrong,Hitech Grand Prix,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:48.841,19.195,1.574,203.29,1:34.103,8.0,11,4,M. Sato,Virtuosi Racing,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:52.250,22.604,3.409,202.968,1:34.052,7.0,12,22,E. Fittipaldi,Charouz Racing System,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:53.832,24.186,1.582,202.819,1:33.911,8.0,13,16,L. Ghiotto,DAMS,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:54.333,24.687,0.501,202.771,1:33.912,12.0,14,21,C. Williams,Trident,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:55.553,25.907,1.220,202.657,1:34.065,8.0,15,25,A. Cordeel,Van Amersfoort Racing,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:57.801,28.155,2.248,202.446,1:34.447,7.0,16,17,A. Iwasa,DAMS,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,36:00.031,30.385,2.230,202.237,1:34.035,6.0,17,10,T. Pourchaire,ART Grand Prix,Monza,Sprint Race,,Round 13 ,2022-09-11
+13,1:31.641,-,-,227.57,,,1,3,J. Doohan,Virtuosi Racing,Monza,Qualifying Session,18:56:59,Round 13 ,2022-09-11
+12,1:31.767,0.126,0.126,227.258,,,2,5,L. Lawson,Carlin,Monza,Qualifying Session,18:56:51,Round 13 ,2022-09-11
+12,1:31.834,0.193,0.067,227.092,,,3,7,M. Armstrong,Hitech Grand Prix,Monza,Qualifying Session,18:56:46,Round 13 ,2022-09-11
+14,1:31.845,0.204,0.011,227.065,,,4,11,F. Drugovich,MP Motorsport,Monza,Qualifying Session,18:59:57,Round 13 ,2022-09-11
+14,1:31.859,0.218,0.014,227.03,,,5,20,R. Verschoor,Trident,Monza,Qualifying Session,18:59:55,Round 13 ,2022-09-11
+11,1:31.882,0.241,0.023,226.973,,,6,2,J. Daruvala,PREMA Racing,Monza,Qualifying Session,18:56:55,Round 13 ,2022-09-11
+12,1:31.920,0.279,0.038,226.879,,,7,17,A. Iwasa,DAMS,Monza,Qualifying Session,18:56:30,Round 13 ,2022-09-11
+12,1:31.969,0.328,0.049,226.759,,,8,8,J. Vips,Hitech Grand Prix,Monza,Qualifying Session,18:57:02,Round 13 ,2022-09-11
+13,1:32.023,0.382,0.054,226.625,,,9,6,L. Sargeant,Carlin,Monza,Qualifying Session,18:59:58,Round 13 ,2022-09-11
+14,1:32.027,0.386,0.004,226.616,,,10,9,F. Vesti,ART Grand Prix,Monza,Qualifying Session,18:59:59,Round 13 ,2022-09-11
+12,1:32.192,0.551,0.165,226.21,,,11,24,D. Beckmann,Van Amersfoort Racing,Monza,Qualifying Session,18:59:48,Round 13 ,2022-09-11
+12,1:32.348,0.707,0.156,225.828,,,12,25,A. Cordeel,Van Amersfoort Racing,Monza,Qualifying Session,18:59:53,Round 13 ,2022-09-11
+14,1:32.352,0.711,0.004,225.818,,,13,15,R. Boschung,Campos Racing,Monza,Qualifying Session,18:59:50,Round 13 ,2022-09-11
+13,1:32.424,0.783,0.072,225.642,,,14,10,T. Pourchaire,ART Grand Prix,Monza,Qualifying Session,18:56:50,Round 13 ,2022-09-11
+11,1:32.452,0.811,0.028,225.574,,,15,4,M. Sato,Virtuosi Racing,Monza,Qualifying Session,18:57:04,Round 13 ,2022-09-11
+13,1:32.455,0.814,0.003,225.567,,,16,22,E. Fittipaldi,Charouz Racing System,Monza,Qualifying Session,18:56:57,Round 13 ,2022-09-11
+14,1:32.652,1.011,0.197,225.087,,,17,21,C. Williams,Trident,Monza,Qualifying Session,18:59:43,Round 13 ,2022-09-11
+14,1:32.854,1.213,0.202,224.597,,,18,16,L. Ghiotto,DAMS,Monza,Qualifying Session,18:59:40,Round 13 ,2022-09-11
+11,1:32.913,1.272,0.059,224.455,,,19,1,D. Hauger,PREMA Racing,Monza,Qualifying Session,18:39:25,Round 13 ,2022-09-11
+14,1:33.195,1.554,0.282,223.775,,,20,14,O. Caldwell,Campos Racing,Monza,Qualifying Session,18:59:43,Round 13 ,2022-09-11
+12,1:33.345,1.704,0.150,223.416,,,21,12,C. Novalak,MP Motorsport,Monza,Qualifying Session,18:39:17,Round 13 ,2022-09-11
+13,1:33.625,1.984,0.280,222.748,,,22,23,T. Calderón,Charouz Racing System,Monza,Qualifying Session,18:57:06,Round 13 ,2022-09-11
+18,1:32.337,-,-,225.855,,,1,8,J. Vips,Hitech Grand Prix,Monza,Free Practice,11:09:07,Round 13 ,2022-09-11
+20,1:32.650,0.313,0.313,225.092,,,2,15,R. Boschung,Campos Racing,Monza,Free Practice,11:10:39,Round 13 ,2022-09-11
+18,1:32.722,0.385,0.072,224.917,,,3,7,M. Armstrong,Hitech Grand Prix,Monza,Free Practice,11:09:48,Round 13 ,2022-09-11
+17,1:32.807,0.470,0.085,224.711,,,4,10,T. Pourchaire,ART Grand Prix,Monza,Free Practice,11:08:42,Round 13 ,2022-09-11
+17,1:32.842,0.505,0.035,224.626,,,5,20,R. Verschoor,Trident,Monza,Free Practice,11:10:14,Round 13 ,2022-09-11
+20,1:32.897,0.560,0.055,224.493,,,6,11,F. Drugovich,MP Motorsport,Monza,Free Practice,11:09:50,Round 13 ,2022-09-11
+18,1:32.901,0.564,0.004,224.484,,,7,9,F. Vesti,ART Grand Prix,Monza,Free Practice,11:09:46,Round 13 ,2022-09-11
+17,1:32.975,0.638,0.074,224.305,,,8,5,L. Lawson,Carlin,Monza,Free Practice,11:09:44,Round 13 ,2022-09-11
+14,1:33.022,0.685,0.047,224.192,,,9,2,J. Daruvala,PREMA Racing,Monza,Free Practice,11:09:09,Round 13 ,2022-09-11
+14,1:33.100,0.763,0.078,224.004,,,10,1,D. Hauger,PREMA Racing,Monza,Free Practice,11:10:26,Round 13 ,2022-09-11
+15,1:33.146,0.809,0.046,223.893,,,11,3,J. Doohan,Virtuosi Racing,Monza,Free Practice,11:07:20,Round 13 ,2022-09-11
+16,1:33.189,0.852,0.043,223.79,,,12,24,D. Beckmann,Van Amersfoort Racing,Monza,Free Practice,11:10:45,Round 13 ,2022-09-11
+20,1:33.287,0.950,0.098,223.555,,,13,16,L. Ghiotto,DAMS,Monza,Free Practice,11:11:02,Round 13 ,2022-09-11
+18,1:33.376,1.039,0.089,223.342,,,14,21,C. Williams,Trident,Monza,Free Practice,11:09:57,Round 13 ,2022-09-11
+17,1:33.567,1.230,0.191,222.886,,,15,6,L. Sargeant,Carlin,Monza,Free Practice,11:10:37,Round 13 ,2022-09-11
+20,1:33.584,1.247,0.017,222.845,,,16,17,A. Iwasa,DAMS,Monza,Free Practice,11:10:01,Round 13 ,2022-09-11
+16,1:33.673,1.336,0.089,222.634,,,17,4,M. Sato,Virtuosi Racing,Monza,Free Practice,11:08:45,Round 13 ,2022-09-11
+18,1:33.748,1.411,0.075,222.455,,,18,25,A. Cordeel,Van Amersfoort Racing,Monza,Free Practice,11:10:03,Round 13 ,2022-09-11
+17,1:33.850,1.513,0.102,222.214,,,19,22,E. Fittipaldi,Charouz Racing System,Monza,Free Practice,11:08:21,Round 13 ,2022-09-11
+22,1:34.019,1.682,0.169,221.814,,,20,14,O. Caldwell,Campos Racing,Monza,Free Practice,11:11:08,Round 13 ,2022-09-11
+18,1:34.249,1.912,0.230,221.273,,,21,12,C. Novalak,MP Motorsport,Monza,Free Practice,11:09:44,Round 13 ,2022-09-11
+16,1:35.093,2.756,0.844,219.309,,,22,23,T. Calderón,Charouz Racing System,Monza,Free Practice,11:10:07,Round 13 ,2022-09-11

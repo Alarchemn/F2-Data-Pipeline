@@ -1,0 +1,103 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+33,58:14.400,-,-,179.421,1:38.993,27.0,1,2,O. Piastri,PREMA Racing,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:17.688,3.288,3.288,179.252,1:39.098,28.0,2,3,G. Zhou,UNI-Virtuosi,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:22.642,8.242,4.954,178.998,1:37.972,30.0,3,4,F. Drugovich,UNI-Virtuosi,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:24.377,9.977,1.735,178.91,1:37.789,29.0,4,10,T. Pourchaire,ART Grand Prix,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:27.733,13.333,3.356,178.739,1:39.282,27.0,5,1,R. Shwartzman,PREMA Racing,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:33.566,19.166,5.833,178.442,1:39.473,32.0,6,5,D. Ticktum,Carlin Racing,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:34.175,19.775,0.609,178.411,1:38.690,26.0,7,17,M. Armstrong,DAMS,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:36.955,22.555,2.780,178.27,1:38.301,28.0,8,8,J. Vips,Hitech Grand Prix,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:40.815,26.415,3.860,178.074,1:39.776,15.0,9,21,R. Boschung,Campos Racing,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:41.642,27.242,0.827,178.033,1:39.472,12.0,10,14,R. Verschoor,Charouz Racing System,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:44.407,30.007,2.765,177.893,1:38.831,30.0,11,6,J. Daruvala,Carlin Racing,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:47.019,32.619,2.612,177.761,1:39.345,29.0,12,24,B. Viscaal,Trident,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:51.705,37.305,4.686,177.525,1:39.483,32.0,13,16,R. Nissany,DAMS,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:52.236,37.836,0.531,177.499,1:39.043,25.0,14,12,C. Novalak,MP Motorsport,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:54.846,40.446,2.610,177.368,1:39.416,9.0,15,9,C. Lundgaard,ART Grand Prix,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:55.440,41.040,0.594,177.338,1:39.459,13.0,16,15,G. Samaia,Charouz Racing System,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:56.741,42.341,1.301,177.273,1:39.623,12.0,17,25,M. Sato,Trident,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,58:58.246,43.846,1.505,177.197,1:39.336,33.0,18,20,O. Caldwell,Campos Racing,Yas Island,Feature Race,,Round 8 ,2021-12-12
+33,59:34.739,80.339,36.493,175.388,1:40.027,26.0,19,23,A. Deledda,HWA RACELAB,Yas Island,Feature Race,,Round 8 ,2021-12-12
+29,51:43.323,DNF,-,177.526,1:39.276,9.0,20,7,L. Lawson,Hitech Grand Prix,Yas Island,Feature Race,,Round 8 ,2021-12-12
+23,43:27.096,-,-,167.562,1:37.823,13.0,1,3,G. Zhou,UNI-Virtuosi,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:30.509,3.413,3.413,167.343,1:38.412,15.0,2,1,R. Shwartzman,PREMA Racing,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:36.868,9.772,6.359,166.937,1:38.700,14.0,3,21,R. Boschung,Campos Racing,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:41.392,14.296,4.524,166.649,1:38.875,14.0,4,5,D. Ticktum,Carlin Racing,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:41.597,14.501,0.205,166.636,1:39.094,14.0,5,4,F. Drugovich,UNI-Virtuosi,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:44.184,17.088,2.587,166.471,1:39.077,14.0,6,7,L. Lawson,Hitech Grand Prix,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:46.935,19.839,2.751,166.297,1:38.985,13.0,7,6,J. Daruvala,Carlin Racing,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:48.182,21.086,1.247,166.218,1:39.330,15.0,8,11,J. Doohan,MP Motorsport,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:49.038,21.942,0.856,166.164,1:39.451,3.0,9,10,T. Pourchaire,ART Grand Prix,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:49.818,22.722,0.780,166.115,1:39.359,20.0,10,24,B. Viscaal,Trident,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:52.977,25.881,3.159,165.915,1:39.640,13.0,11,14,R. Verschoor,Charouz Racing System,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:57.995,30.899,5.018,165.6,1:39.627,13.0,12,15,G. Samaia,Charouz Racing System,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:58.559,31.463,0.564,165.564,1:39.933,13.0,13,22,J. Hughes,HWA RACELAB,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:58.963,31.867,0.404,165.539,1:39.925,14.0,14,12,C. Novalak,MP Motorsport,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,43:59.332,32.236,0.369,165.516,1:39.974,22.0,15,20,O. Caldwell,Campos Racing,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,44:04.118,37.022,4.786,165.216,1:40.006,13.0,16,25,M. Sato,Trident,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,44:33.850,66.754,29.732,163.379,1:37.445,23.0,17,16,R. Nissany,DAMS,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+22,43:32.048,1 LAP,1 LAP,159.966,1:38.261,21.0,18,9,C. Lundgaard,ART Grand Prix,Yas Island,Sprint Race 2,,Round 8 ,2021-12-12
+23,38:33.605,-,-,188.819,1:39.850,18.0,1,6,J. Daruvala,Carlin Racing,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,38:35.684,2.079,2.079,188.649,1:40.052,6.0,2,4,F. Drugovich,UNI-Virtuosi,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,38:36.520,2.915,0.836,188.581,1:39.797,23.0,3,2,O. Piastri,PREMA Racing,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,38:37.186,3.581,0.666,188.527,1:39.529,23.0,4,1,R. Shwartzman,PREMA Racing,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,38:44.848,11.243,7.662,187.905,1:40.274,21.0,5,7,L. Lawson,Hitech Grand Prix,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,38:46.583,12.978,1.735,187.765,1:40.177,23.0,6,5,D. Ticktum,Carlin Racing,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,38:47.725,14.120,1.142,187.673,1:40.368,22.0,7,10,T. Pourchaire,ART Grand Prix,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,38:49.200,15.595,1.475,187.554,1:40.413,5.0,8,3,G. Zhou,UNI-Virtuosi,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,38:50.686,17.081,1.486,187.435,1:40.482,21.0,9,21,R. Boschung,Campos Racing,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,38:51.144,17.539,0.458,187.398,1:40.412,5.0,10,17,M. Armstrong,DAMS,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,38:52.135,18.530,0.991,187.318,1:40.448,5.0,11,11,J. Doohan,MP Motorsport,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,38:52.875,19.270,0.740,187.259,1:40.197,18.0,12,8,J. Vips,Hitech Grand Prix,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,38:60.831,22.226,2.956,187.022,1:39.876,21.0,13,24,B. Viscaal,Trident,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,39:03.532,29.927,7.701,186.407,1:40.397,23.0,14,16,R. Nissany,DAMS,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,39:05.704,32.099,2.172,186.235,1:40.509,4.0,15,9,C. Lundgaard,ART Grand Prix,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,39:06.241,32.636,0.537,186.192,1:40.839,14.0,16,15,G. Samaia,Charouz Racing System,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,39:10.641,37.036,4.400,185.844,1:40.685,20.0,17,12,C. Novalak,MP Motorsport,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,39:22.553,48.948,11.912,184.907,1:41.271,8.0,18,23,A. Deledda,HWA RACELAB,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,39:27.938,54.333,5.385,184.486,1:40.665,4.0,19,25,M. Sato,Trident,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+23,40:17.166,103.561,49.228,180.729,1:39.070,22.0,20,20,O. Caldwell,Campos Racing,Yas Island,Sprint Race 1,,Round 8 ,2021-12-12
+12,1:35.077,-,-,199.96,,,1,2,O. Piastri,PREMA Racing,Yas Island,Qualifying Session,18:58:45,Round 8 ,2021-12-12
+11,1:35.290,0.213,0.213,199.513,,,2,11,J. Doohan,MP Motorsport,Yas Island,Qualifying Session,18:57:52,Round 8 ,2021-12-12
+12,1:35.348,0.271,0.058,199.391,,,3,3,G. Zhou,UNI-Virtuosi,Yas Island,Qualifying Session,18:57:49,Round 8 ,2021-12-12
+12,1:35.360,0.283,0.012,199.366,,,4,1,R. Shwartzman,PREMA Racing,Yas Island,Qualifying Session,18:58:41,Round 8 ,2021-12-12
+12,1:35.496,0.419,0.136,199.082,,,5,21,R. Boschung,Campos Racing,Yas Island,Qualifying Session,18:53:35,Round 8 ,2021-12-12
+12,1:35.504,0.427,0.008,199.066,,,6,10,T. Pourchaire,ART Grand Prix,Yas Island,Qualifying Session,18:58:36,Round 8 ,2021-12-12
+12,1:35.511,0.434,0.007,199.051,,,7,7,L. Lawson,Hitech Grand Prix,Yas Island,Qualifying Session,18:57:42,Round 8 ,2021-12-12
+12,1:35.612,0.535,0.101,198.841,,,8,4,F. Drugovich,UNI-Virtuosi,Yas Island,Qualifying Session,18:58:50,Round 8 ,2021-12-12
+12,1:35.618,0.541,0.006,198.828,,,9,5,D. Ticktum,Carlin Racing,Yas Island,Qualifying Session,18:57:30,Round 8 ,2021-12-12
+12,1:35.821,0.744,0.203,198.407,,,10,6,J. Daruvala,Carlin Racing,Yas Island,Qualifying Session,18:40:56,Round 8 ,2021-12-12
+12,1:35.855,0.778,0.034,198.337,,,11,17,M. Armstrong,DAMS,Yas Island,Qualifying Session,18:57:35,Round 8 ,2021-12-12
+12,1:36.016,0.939,0.161,198.004,,,12,9,C. Lundgaard,ART Grand Prix,Yas Island,Qualifying Session,18:58:33,Round 8 ,2021-12-12
+12,1:36.080,1.003,0.064,197.872,,,13,16,R. Nissany,DAMS,Yas Island,Qualifying Session,18:58:23,Round 8 ,2021-12-12
+12,1:36.241,1.164,0.161,197.541,,,14,25,M. Sato,Trident,Yas Island,Qualifying Session,18:58:01,Round 8 ,2021-12-12
+12,1:36.282,1.205,0.041,197.457,,,15,8,J. Vips,Hitech Grand Prix,Yas Island,Qualifying Session,18:39:52,Round 8 ,2021-12-12
+12,1:36.293,1.216,0.011,197.434,,,16,14,R. Verschoor,Charouz Racing System,Yas Island,Qualifying Session,18:57:19,Round 8 ,2021-12-12
+12,1:36.312,1.235,0.019,197.395,,,17,24,B. Viscaal,Trident,Yas Island,Qualifying Session,18:57:39,Round 8 ,2021-12-12
+12,1:36.462,1.385,0.150,197.089,,,18,22,J. Hughes,HWA RACELAB,Yas Island,Qualifying Session,18:54:22,Round 8 ,2021-12-12
+12,1:36.570,1.493,0.108,196.868,,,19,20,O. Caldwell,Campos Racing,Yas Island,Qualifying Session,18:57:57,Round 8 ,2021-12-12
+11,1:36.722,1.645,0.152,196.559,,,20,12,C. Novalak,MP Motorsport,Yas Island,Qualifying Session,18:40:41,Round 8 ,2021-12-12
+12,1:36.741,1.664,0.019,196.52,,,21,15,G. Samaia,Charouz Racing System,Yas Island,Qualifying Session,18:57:22,Round 8 ,2021-12-12
+12,1:38.657,3.580,1.916,192.704,,,22,23,A. Deledda,HWA RACELAB,Yas Island,Qualifying Session,18:54:25,Round 8 ,2021-12-12
+19,1:36.800,-,-,196.4,,,1,2,O. Piastri,PREMA Racing,Yas Island,Free Practice,12:37:11,Round 8 ,2021-12-12
+20,1:36.821,0.021,0.021,196.358,,,2,11,J. Doohan,MP Motorsport,Yas Island,Free Practice,12:36:19,Round 8 ,2021-12-12
+22,1:36.835,0.035,0.014,196.329,,,3,9,C. Lundgaard,ART Grand Prix,Yas Island,Free Practice,12:22:57,Round 8 ,2021-12-12
+22,1:37.299,0.499,0.464,195.393,,,4,21,R. Boschung,Campos Racing,Yas Island,Free Practice,12:26:16,Round 8 ,2021-12-12
+13,1:37.315,0.515,0.016,195.361,,,5,12,C. Novalak,MP Motorsport,Yas Island,Free Practice,12:38:54,Round 8 ,2021-12-12
+20,1:37.339,0.539,0.024,195.313,,,6,8,J. Vips,Hitech Grand Prix,Yas Island,Free Practice,12:22:54,Round 8 ,2021-12-12
+19,1:37.416,0.616,0.077,195.158,,,7,17,M. Armstrong,DAMS,Yas Island,Free Practice,12:36:38,Round 8 ,2021-12-12
+20,1:37.615,0.815,0.199,194.761,,,8,24,B. Viscaal,Trident,Yas Island,Free Practice,12:41:54,Round 8 ,2021-12-12
+19,1:37.633,0.833,0.018,194.725,,,9,1,R. Shwartzman,PREMA Racing,Yas Island,Free Practice,12:37:33,Round 8 ,2021-12-12
+21,1:37.701,0.901,0.068,194.589,,,10,25,M. Sato,Trident,Yas Island,Free Practice,12:33:44,Round 8 ,2021-12-12
+20,1:37.738,0.938,0.037,194.515,,,11,3,G. Zhou,UNI-Virtuosi,Yas Island,Free Practice,12:27:20,Round 8 ,2021-12-12
+21,1:37.817,1.017,0.079,194.358,,,12,5,D. Ticktum,Carlin Racing,Yas Island,Free Practice,12:50:55,Round 8 ,2021-12-12
+22,1:37.910,1.110,0.093,194.174,,,13,10,T. Pourchaire,ART Grand Prix,Yas Island,Free Practice,12:23:04,Round 8 ,2021-12-12
+20,1:37.915,1.115,0.005,194.164,,,14,7,L. Lawson,Hitech Grand Prix,Yas Island,Free Practice,12:25:29,Round 8 ,2021-12-12
+21,1:37.997,1.197,0.082,194.001,,,15,4,F. Drugovich,UNI-Virtuosi,Yas Island,Free Practice,12:23:19,Round 8 ,2021-12-12
+22,1:38.101,1.301,0.104,193.796,,,16,15,G. Samaia,Charouz Racing System,Yas Island,Free Practice,12:23:09,Round 8 ,2021-12-12
+17,1:38.202,1.402,0.101,193.596,,,17,16,R. Nissany,DAMS,Yas Island,Free Practice,12:22:36,Round 8 ,2021-12-12
+21,1:38.207,1.407,0.005,193.587,,,18,6,J. Daruvala,Carlin Racing,Yas Island,Free Practice,12:30:50,Round 8 ,2021-12-12
+23,1:38.387,1.587,0.180,193.232,,,19,14,R. Verschoor,Charouz Racing System,Yas Island,Free Practice,12:27:24,Round 8 ,2021-12-12
+22,1:38.538,1.738,0.151,192.936,,,20,20,O. Caldwell,Campos Racing,Yas Island,Free Practice,12:26:26,Round 8 ,2021-12-12
+20,1:39.155,2.355,0.617,191.736,,,21,22,J. Hughes,HWA RACELAB,Yas Island,Free Practice,12:34:08,Round 8 ,2021-12-12
+22,1:40.859,4.059,1.704,188.496,,,22,23,A. Deledda,HWA RACELAB,Yas Island,Free Practice,12:42:11,Round 8 ,2021-12-12

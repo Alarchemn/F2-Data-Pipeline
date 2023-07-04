@@ -1,0 +1,84 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+21,34:12.598,4.663,4.663,212.822,1:34.891,6.0,1,4,C. Ilott,UNI-Virtuosi,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:13.234,5.299,0.636,212.756,1:34.783,6.0,2,6,C. Lundgaard,ART Grand Prix,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:14.550,6.615,1.316,212.619,1:34.533,5.0,3,20,M. Schumacher,PREMA Racing,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:15.007,7.072,0.457,212.572,1:35.148,3.0,4,11,L. Delétraz,Charouz Racing System,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:15.273,7.338,0.266,212.545,1:35.081,15.0,5,21,R. Shwartzman,PREMA Racing,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:18.924,10.989,3.651,212.168,1:34.680,4.0,6,8,J. Daruvala,Carlin,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:24.897,16.962,5.973,211.554,1:35.450,13.0,7,9,J. Aitken,Campos Racing,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:26.717,18.782,1.820,211.368,1:35.177,4.0,8,24,N. Mazepin,Hitech Grand Prix,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:27.620,19.685,0.903,211.275,1:35.186,20.0,9,1,J. Vips,DAMS,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:38.779,30.844,11.159,210.141,1:35.116,15.0,10,22,R. Nissany,Trident,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:39.014,31.080,0.236,210.117,1:35.378,5.0,11,14,N. Matsushita,MP Motorsport,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:40.266,32.331,1.251,209.991,1:35.504,6.0,12,17,G. Alesi,BWT HWA RACELAB,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:41.047,33.113,0.782,209.912,1:35.811,20.0,13,23,M. Sato,Trident,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,34:49.701,41.766,8.653,209.043,1:35.688,5.0,14,10,G. Samaia,Campos Racing,Monza,Sprint Race,,Round 8 ,2020-09-06
+21,35:07.989,60.054,18.288,207.229,1:34.602,21.0,15,25,L. Ghiotto,Hitech Grand Prix,Monza,Sprint Race,,Round 8 ,2020-09-06
+20,34:33.713,1 LAP,1 LAP,200.598,1:34.966,4.0,16,16,A. Markelov,BWT HWA RACELAB,Monza,Sprint Race,,Round 8 ,2020-09-06
+20,34:34.291,1 LAP,0.578,200.542,1:34.204,20.0,17,12,P. Piquet,Charouz Racing System,Monza,Sprint Race,,Round 8 ,2020-09-06
+20,34:59.152,1 LAP,24.861,198.167,1:34.710,20.0,18,5,M. Armstrong,ART Grand Prix,Monza,Sprint Race,,Round 8 ,2020-09-06
+30,48:24.641,-,-,215.011,1:34.729,30.0,1,20,M. Schumacher,PREMA Racing,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:27.826,3.185,3.185,214.776,1:34.181,25.0,2,25,L. Ghiotto,Hitech Grand Prix,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:31.962,7.321,4.136,214.471,1:34.904,24.0,3,6,C. Lundgaard,ART Grand Prix,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:33.920,9.279,1.958,214.326,1:34.614,30.0,4,7,Y. Tsunoda,Carlin,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:37.194,12.553,3.274,214.086,1:34.360,24.0,5,3,G. Zhou,UNI-Virtuosi,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:39.786,15.145,2.592,213.896,1:34.192,15.0,6,4,C. Ilott,UNI-Virtuosi,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:39.932,15.291,0.146,213.885,1:34.222,30.0,7,2,D. Ticktum,DAMS,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:42.202,17.561,2.270,213.719,1:34.996,25.0,8,11,L. Delétraz,Charouz Racing System,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:42.879,18.238,0.677,213.67,1:35.186,21.0,9,21,R. Shwartzman,PREMA Racing,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:45.795,21.154,2.916,213.457,1:34.522,30.0,10,8,J. Daruvala,Carlin,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:48.588,23.947,2.793,213.253,1:34.694,25.0,11,1,J. Vips,DAMS,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:49.645,25.004,1.057,213.176,1:35.304,27.0,12,12,P. Piquet,Charouz Racing System,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:52.500,27.859,2.855,212.969,1:35.095,30.0,13,9,J. Aitken,Campos Racing,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:53.020,28.379,0.520,212.931,1:35.016,21.0,14,5,M. Armstrong,ART Grand Prix,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:53.307,28.666,0.287,212.91,1:34.844,30.0,15,14,N. Matsushita,MP Motorsport,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:53.898,29.257,0.591,212.867,1:34.741,30.0,16,15,F. Drugovich,MP Motorsport,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:54.568,29.927,0.670,212.818,1:34.999,30.0,17,16,A. Markelov,BWT HWA RACELAB,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:54.984,30.343,0.416,212.788,1:34.639,20.0,18,17,G. Alesi,BWT HWA RACELAB,Monza,Feature Race,,Round 8 ,2020-09-06
+30,48:57.722,33.081,2.738,212.59,1:34.647,24.0,19,22,R. Nissany,Trident,Monza,Feature Race,,Round 8 ,2020-09-06
+30,49:16.049,51.408,18.327,211.272,1:35.627,27.0,20,23,M. Sato,Trident,Monza,Feature Race,,Round 8 ,2020-09-06
+30,49:17.047,52.406,0.998,211.201,1:35.226,28.0,21,10,G. Samaia,Campos Racing,Monza,Feature Race,,Round 8 ,2020-09-06
+10,1:31.929,-,-,226.857,,,1,4,C. Ilott,UNI-Virtuosi,Monza,Qualifying Session,17:25:12,Round 8 ,2020-09-06
+11,1:31.959,0.030,0.030,226.783,,,2,7,Y. Tsunoda,Carlin,Monza,Qualifying Session,17:24:45,Round 8 ,2020-09-06
+10,1:32.127,0.198,0.168,226.37,,,3,25,L. Ghiotto,Hitech Grand Prix,Monza,Qualifying Session,17:24:54,Round 8 ,2020-09-06
+11,1:32.200,0.271,0.073,226.19,,,4,6,C. Lundgaard,ART Grand Prix,Monza,Qualifying Session,17:24:44,Round 8 ,2020-09-06
+10,1:32.226,0.297,0.026,226.127,,,5,22,R. Nissany,Trident,Monza,Qualifying Session,17:24:47,Round 8 ,2020-09-06
+11,1:32.267,0.338,0.041,226.026,,,6,24,N. Mazepin,Hitech Grand Prix,Monza,Qualifying Session,17:28:01,Round 8 ,2020-09-06
+10,1:32.277,0.348,0.010,226.002,,,7,20,M. Schumacher,PREMA Racing,Monza,Qualifying Session,17:08:56,Round 8 ,2020-09-06
+10,1:32.308,0.379,0.031,225.926,,,8,8,J. Daruvala,Carlin,Monza,Qualifying Session,17:25:05,Round 8 ,2020-09-06
+10,1:32.342,0.413,0.034,225.843,,,9,11,L. Delétraz,Charouz Racing System,Monza,Qualifying Session,17:24:59,Round 8 ,2020-09-06
+11,1:32.373,0.444,0.031,225.767,,,10,2,D. Ticktum,DAMS,Monza,Qualifying Session,17:10:04,Round 8 ,2020-09-06
+10,1:32.381,0.452,0.008,225.747,,,11,1,J. Vips,DAMS,Monza,Qualifying Session,17:25:03,Round 8 ,2020-09-06
+10,1:32.412,0.483,0.031,225.671,,,12,15,F. Drugovich,MP Motorsport,Monza,Qualifying Session,17:25:11,Round 8 ,2020-09-06
+10,1:32.420,0.491,0.008,225.652,,,13,14,N. Matsushita,MP Motorsport,Monza,Qualifying Session,17:25:01,Round 8 ,2020-09-06
+10,1:32.534,0.605,0.114,225.374,,,14,23,M. Sato,Trident,Monza,Qualifying Session,17:25:19,Round 8 ,2020-09-06
+10,1:32.592,0.663,0.058,225.233,,,15,5,M. Armstrong,ART Grand Prix,Monza,Qualifying Session,17:24:52,Round 8 ,2020-09-06
+10,1:32.597,0.668,0.005,225.221,,,16,21,R. Shwartzman,PREMA Racing,Monza,Qualifying Session,17:09:17,Round 8 ,2020-09-06
+10,1:32.602,0.673,0.005,225.208,,,17,3,G. Zhou,UNI-Virtuosi,Monza,Qualifying Session,17:25:10,Round 8 ,2020-09-06
+10,1:32.610,0.681,0.008,225.189,,,18,12,P. Piquet,Charouz Racing System,Monza,Qualifying Session,17:25:09,Round 8 ,2020-09-06
+10,1:32.623,0.694,0.013,225.157,,,19,9,J. Aitken,Campos Racing,Monza,Qualifying Session,17:09:46,Round 8 ,2020-09-06
+10,1:32.626,0.697,0.003,225.15,,,20,17,G. Alesi,BWT HWA RACELAB,Monza,Qualifying Session,17:09:22,Round 8 ,2020-09-06
+10,1:33.311,1.382,0.685,223.497,,,21,16,A. Markelov,BWT HWA RACELAB,Monza,Qualifying Session,17:09:52,Round 8 ,2020-09-06
+10,1:33.501,1.572,0.190,223.043,,,22,10,G. Samaia,Campos Racing,Monza,Qualifying Session,17:09:02,Round 8 ,2020-09-06
+21,1:32.169,-,-,226.266,,,1,7,Y. Tsunoda,Carlin,Monza,Free Practice,13:11:46,Round 8 ,2020-09-06
+19,1:32.227,0.058,0.058,226.124,,,2,6,C. Lundgaard,ART Grand Prix,Monza,Free Practice,13:30:33,Round 8 ,2020-09-06
+19,1:32.232,0.063,0.005,226.112,,,3,24,N. Mazepin,Hitech Grand Prix,Monza,Free Practice,13:10:43,Round 8 ,2020-09-06
+21,1:32.444,0.275,0.212,225.593,,,4,2,D. Ticktum,DAMS,Monza,Free Practice,13:12:12,Round 8 ,2020-09-06
+18,1:32.522,0.353,0.078,225.403,,,5,5,M. Armstrong,ART Grand Prix,Monza,Free Practice,13:10:46,Round 8 ,2020-09-06
+21,1:32.632,0.463,0.110,225.136,,,6,4,C. Ilott,UNI-Virtuosi,Monza,Free Practice,13:10:40,Round 8 ,2020-09-06
+15,1:32.637,0.468,0.005,225.123,,,7,20,M. Schumacher,PREMA Racing,Monza,Free Practice,13:08:23,Round 8 ,2020-09-06
+21,1:32.652,0.483,0.015,225.087,,,8,12,P. Piquet,Charouz Racing System,Monza,Free Practice,13:10:50,Round 8 ,2020-09-06
+17,1:32.695,0.526,0.043,224.983,,,9,25,L. Ghiotto,Hitech Grand Prix,Monza,Free Practice,13:11:31,Round 8 ,2020-09-06
+21,1:32.726,0.557,0.031,224.907,,,10,9,J. Aitken,Campos Racing,Monza,Free Practice,13:10:39,Round 8 ,2020-09-06
+18,1:32.852,0.683,0.126,224.602,,,11,17,G. Alesi,BWT HWA RACELAB,Monza,Free Practice,13:11:50,Round 8 ,2020-09-06
+19,1:32.917,0.748,0.065,224.445,,,12,21,R. Shwartzman,PREMA Racing,Monza,Free Practice,13:10:49,Round 8 ,2020-09-06
+22,1:32.929,0.760,0.012,224.416,,,13,11,L. Delétraz,Charouz Racing System,Monza,Free Practice,13:07:19,Round 8 ,2020-09-06
+20,1:32.946,0.777,0.017,224.375,,,14,14,N. Matsushita,MP Motorsport,Monza,Free Practice,13:28:43,Round 8 ,2020-09-06
+20,1:33.016,0.847,0.070,224.206,,,15,1,J. Vips,DAMS,Monza,Free Practice,13:07:31,Round 8 ,2020-09-06
+20,1:33.030,0.861,0.014,224.172,,,16,8,J. Daruvala,Carlin,Monza,Free Practice,13:10:36,Round 8 ,2020-09-06
+18,1:33.194,1.025,0.164,223.778,,,17,16,A. Markelov,BWT HWA RACELAB,Monza,Free Practice,13:07:50,Round 8 ,2020-09-06
+20,1:33.230,1.061,0.036,223.691,,,18,22,R. Nissany,Trident,Monza,Free Practice,13:07:01,Round 8 ,2020-09-06
+19,1:33.249,1.080,0.019,223.646,,,19,3,G. Zhou,UNI-Virtuosi,Monza,Free Practice,13:15:18,Round 8 ,2020-09-06
+21,1:33.465,1.296,0.216,223.129,,,20,15,F. Drugovich,MP Motorsport,Monza,Free Practice,13:15:36,Round 8 ,2020-09-06
+19,1:33.485,1.316,0.020,223.081,,,21,23,M. Sato,Trident,Monza,Free Practice,13:18:36,Round 8 ,2020-09-06
+10,1:34.090,1.921,0.605,221.647,,,22,10,G. Samaia,Campos Racing,Monza,Free Practice,13:11:16,Round 8 ,2020-09-06

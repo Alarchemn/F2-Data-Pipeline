@@ -1,0 +1,1131 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+31,1:01:54.454,-,-,162.363,1:47.183,15.0,1,10,T. Pourchaire,ART Grand Prix,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:01:55.379,0.925,0.925,162.323,1:47.750,15.0,2,5,L. Lawson,Carlin,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:01:56.168,1.714,0.789,162.289,1:46.845,17.0,3,8,J. Vips,Hitech Grand Prix,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:01:58.317,3.863,2.149,162.195,1:48.001,14.0,4,15,R. Boschung,Campos Racing,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:01:59.060,4.606,0.743,162.162,1:48.525,17.0,5,7,M. Armstrong,Hitech Grand Prix,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:02:00.176,5.722,1.116,162.114,1:47.341,11.0,6,11,F. Drugovich,MP Motorsport,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:02:00.993,6.539,0.817,162.078,1:47.370,14.0,7,6,L. Sargeant,Carlin,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:02:01.710,7.256,0.717,162.047,1:48.104,16.0,8,16,R. Nissany,DAMS,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:02:02.462,8.008,0.752,162.014,1:47.879,13.0,9,24,J. Hughes,Van Amersfoort Racing,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:02:03.308,8.854,0.846,161.977,1:48.600,19.0,10,3,J. Doohan,Virtuosi Racing,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:02:04.528,10.074,1.220,161.924,1:48.069,12.0,11,22,E. Fittipaldi,Charouz Racing System,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:02:05.807,11.353,1.279,161.869,1:48.036,16.0,12,4,M. Sato,Virtuosi Racing,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:02:07.158,12.704,1.351,161.81,1:47.672,16.0,13,25,A. Cordeel,Van Amersfoort Racing,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:02:08.815,14.361,1.657,161.738,1:47.833,16.0,14,2,J. Daruvala,PREMA Racing,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:02:10.419,15.965,1.604,161.669,1:48.320,11.0,15,23,C. Bölükbasi,Charouz Racing System,Sakhir,Feature Race,,Round 1 ,2022-03-20
+31,1:02:25.624,31.170,15.205,161.012,1:47.849,21.0,16,17,A. Iwasa,DAMS,Sakhir,Feature Race,,Round 1 ,2022-03-20
+30,1:02.01.52,1 LAP,1 LAP,157.031,1:48.425,24.0,17,14,O. Caldwell,Campos Racing,Sakhir,Feature Race,,Round 1 ,2022-03-20
+27,52:06.241,DNF,-,167.984,1:48.562,17.0,18,21,C. Williams,Trident,Sakhir,Feature Race,,Round 1 ,2022-03-20
+27,52:09.735,DNF,-,167.797,1:47.805,16.0,19,1,D. Hauger,PREMA Racing,Sakhir,Feature Race,,Round 1 ,2022-03-20
+23,43:34.983,-,-,171.025,1:45.832,7.0,1,20,R. Verschoor,Trident,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,43:36.836,1.853,1.853,170.904,1:46.311,2.0,2,2,J. Daruvala,PREMA Racing,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,43:39.958,4.975,3.122,170.7,1:46.669,2.0,3,5,L. Lawson,Carlin,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,43:41.964,6.981,2.006,170.569,1:46.126,7.0,4,15,R. Boschung,Campos Racing,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,43:43.784,8.801,1.820,170.451,1:46.773,7.0,5,11,F. Drugovich,MP Motorsport,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,43:44.246,9.263,0.462,170.421,1:47.100,18.0,6,6,L. Sargeant,Carlin,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,43:48.333,13.350,4.087,170.156,1:46.770,2.0,7,8,J. Vips,Hitech Grand Prix,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,43:50.732,15.749,2.399,170.001,1:46.779,9.0,8,17,A. Iwasa,DAMS,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,43:52.648,17.665,1.916,169.877,1:46.864,8.0,9,1,D. Hauger,PREMA Racing,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,43:56.455,21.472,3.807,169.632,1:46.805,2.0,10,3,J. Doohan,Virtuosi Racing,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,43:57.885,22.902,1.430,169.54,1:47.187,9.0,11,22,E. Fittipaldi,Charouz Racing System,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,44:01.557,26.574,3.672,169.304,1:46.939,8.0,12,16,R. Nissany,DAMS,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,44:02.473,27.490,0.916,169.246,1:47.699,13.0,13,9,F. Vesti,ART Grand Prix,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,44:06.904,31.921,4.431,168.962,1:47.412,10.0,14,23,C. Bölükbasi,Charouz Racing System,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,44:24.942,49.959,18.038,167.819,1:48.190,10.0,15,21,C. Williams,Trident,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,44:25.623,50.640,0.681,167.776,1:47.528,2.0,16,4,M. Sato,Virtuosi Racing,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,44:27.654,52.671,2.031,167.648,1:43.848,20.0,17,25,A. Cordeel,Van Amersfoort Racing,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+23,44:53.188,78.205,25.534,166.058,1:46.664,19.0,18,12,C. Novalak,MP Motorsport,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+22,42:20.232,DNF,-,168.388,1:48.546,9.0,19,14,O. Caldwell,Campos Racing,Sakhir,Sprint Race,,Round 1 ,2022-03-20
+9,1:40.542,-,-,193.781,,,1,3,J. Doohan,Virtuosi Racing,Sakhir,Qualifying Session,19:52:33,Round 1 ,2022-03-20
+12,1:40.683,0.141,0.141,193.51,,,2,10,T. Pourchaire,ART Grand Prix,Sakhir,Qualifying Session,20:03:01,Round 1 ,2022-03-20
+10,1:40.755,0.213,0.072,193.372,,,3,8,J. Vips,Hitech Grand Prix,Sakhir,Qualifying Session,19:59:50,Round 1 ,2022-03-20
+12,1:40.760,0.218,0.005,193.362,,,4,6,L. Sargeant,Carlin,Sakhir,Qualifying Session,20:03:06,Round 1 ,2022-03-20
+12,1:41.000,0.458,0.240,192.902,,,5,15,R. Boschung,Campos Racing,Sakhir,Qualifying Session,20:04:12,Round 1 ,2022-03-20
+11,1:41.100,0.558,0.100,192.712,,,6,5,L. Lawson,Carlin,Sakhir,Qualifying Session,20:03:10,Round 1 ,2022-03-20
+11,1:41.115,0.573,0.015,192.683,,,7,2,J. Daruvala,PREMA Racing,Sakhir,Qualifying Session,20:06:13,Round 1 ,2022-03-20
+12,1:41.121,0.579,0.006,192.672,,,8,24,J. Hughes,Van Amersfoort Racing,Sakhir,Qualifying Session,19:45:53,Round 1 ,2022-03-20
+10,1:41.178,0.636,0.057,192.563,,,9,20,R. Verschoor,Trident,Sakhir,Qualifying Session,20:00:31,Round 1 ,2022-03-20
+10,1:41.210,0.668,0.032,192.502,,,10,11,F. Drugovich,MP Motorsport,Sakhir,Qualifying Session,19:45:43,Round 1 ,2022-03-20
+11,1:41.218,0.676,0.008,192.487,,,11,16,R. Nissany,DAMS,Sakhir,Qualifying Session,20:03:04,Round 1 ,2022-03-20
+10,1:41.313,0.771,0.095,192.307,,,12,21,C. Williams,Trident,Sakhir,Qualifying Session,20:00:34,Round 1 ,2022-03-20
+10,1:41.354,0.812,0.041,192.229,,,13,7,M. Armstrong,Hitech Grand Prix,Sakhir,Qualifying Session,19:59:54,Round 1 ,2022-03-20
+12,1:41.374,0.832,0.020,192.191,,,14,4,M. Sato,Virtuosi Racing,Sakhir,Qualifying Session,20:00:51,Round 1 ,2022-03-20
+11,1:41.509,0.967,0.135,191.935,,,15,1,D. Hauger,PREMA Racing,Sakhir,Qualifying Session,20:04:16,Round 1 ,2022-03-20
+12,1:41.529,0.987,0.020,191.897,,,16,22,E. Fittipaldi,Charouz Racing System,Sakhir,Qualifying Session,20:03:25,Round 1 ,2022-03-20
+12,1:41.752,1.210,0.223,191.477,,,17,14,O. Caldwell,Campos Racing,Sakhir,Qualifying Session,20:00:00,Round 1 ,2022-03-20
+10,1:41.865,1.323,0.113,191.264,,,18,12,C. Novalak,MP Motorsport,Sakhir,Qualifying Session,19:59:34,Round 1 ,2022-03-20
+12,1:42.083,1.541,0.218,190.856,,,19,9,F. Vesti,ART Grand Prix,Sakhir,Qualifying Session,19:46:22,Round 1 ,2022-03-20
+12,1:42.089,1.547,0.006,190.845,,,20,23,C. Bölükbasi,Charouz Racing System,Sakhir,Qualifying Session,20:03:42,Round 1 ,2022-03-20
+4,1:42.880,2.338,0.791,189.377,,,21,25,A. Cordeel,Van Amersfoort Racing,Sakhir,Qualifying Session,19:42:05,Round 1 ,2022-03-20
+17,1:44.484,-,-,186.47,,,1,11,F. Drugovich,MP Motorsport,Sakhir,Free Practice,13:12:52,Round 1 ,2022-03-20
+15,1:44.679,0.195,0.195,186.123,,,2,17,A. Iwasa,DAMS,Sakhir,Free Practice,13:21:22,Round 1 ,2022-03-20
+13,1:44.754,0.270,0.075,185.99,,,3,16,R. Nissany,DAMS,Sakhir,Free Practice,13:17:27,Round 1 ,2022-03-20
+19,1:44.769,0.285,0.015,185.963,,,4,12,C. Novalak,MP Motorsport,Sakhir,Free Practice,13:12:33,Round 1 ,2022-03-20
+12,1:44.833,0.349,0.064,185.849,,,5,7,M. Armstrong,Hitech Grand Prix,Sakhir,Free Practice,13:19:24,Round 1 ,2022-03-20
+11,1:44.838,0.354,0.005,185.841,,,6,2,J. Daruvala,PREMA Racing,Sakhir,Free Practice,13:05:14,Round 1 ,2022-03-20
+15,1:44.886,0.402,0.048,185.755,,,7,5,L. Lawson,Carlin,Sakhir,Free Practice,13:19:55,Round 1 ,2022-03-20
+13,1:45.112,0.628,0.226,185.356,,,8,6,L. Sargeant,Carlin,Sakhir,Free Practice,13:09:09,Round 1 ,2022-03-20
+14,1:45.241,0.757,0.129,185.129,,,9,14,O. Caldwell,Campos Racing,Sakhir,Free Practice,13:14:03,Round 1 ,2022-03-20
+15,1:45.244,0.760,0.003,185.124,,,10,24,J. Hughes,Van Amersfoort Racing,Sakhir,Free Practice,12:57:00,Round 1 ,2022-03-20
+11,1:45.370,0.886,0.126,184.902,,,11,1,D. Hauger,PREMA Racing,Sakhir,Free Practice,13:05:10,Round 1 ,2022-03-20
+14,1:45.414,0.930,0.044,184.825,,,12,20,R. Verschoor,Trident,Sakhir,Free Practice,13:15:38,Round 1 ,2022-03-20
+12,1:45.476,0.992,0.062,184.716,,,13,8,J. Vips,Hitech Grand Prix,Sakhir,Free Practice,13:05:04,Round 1 ,2022-03-20
+14,1:45.548,1.064,0.072,184.59,,,14,3,J. Doohan,Virtuosi Racing,Sakhir,Free Practice,13:04:43,Round 1 ,2022-03-20
+15,1:45.845,1.361,0.297,184.072,,,15,10,T. Pourchaire,ART Grand Prix,Sakhir,Free Practice,13:04:15,Round 1 ,2022-03-20
+14,1:46.047,1.563,0.202,183.722,,,16,9,F. Vesti,ART Grand Prix,Sakhir,Free Practice,13:08:11,Round 1 ,2022-03-20
+14,1:46.200,1.716,0.153,183.457,,,17,15,R. Boschung,Campos Racing,Sakhir,Free Practice,13:19:34,Round 1 ,2022-03-20
+17,1:46.224,1.740,0.024,183.416,,,18,25,A. Cordeel,Van Amersfoort Racing,Sakhir,Free Practice,12:56:40,Round 1 ,2022-03-20
+15,1:46.393,1.909,0.169,183.124,,,19,21,C. Williams,Trident,Sakhir,Free Practice,13:14:12,Round 1 ,2022-03-20
+13,1:46.750,2.266,0.357,182.512,,,20,4,M. Sato,Virtuosi Racing,Sakhir,Free Practice,13:08:30,Round 1 ,2022-03-20
+17,1:46.842,2.358,0.092,182.355,,,21,22,E. Fittipaldi,Charouz Racing System,Sakhir,Free Practice,13:12:11,Round 1 ,2022-03-20
+16,1:47.905,3.421,1.063,180.558,,,22,23,C. Bölükbasi,Charouz Racing System,Sakhir,Free Practice,13:16:08,Round 1 ,2022-03-20
+27,47:41.485,-,-,209.406,1:43.578,26.0,1,11,F. Drugovich,MP Motorsport,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,47:43.864,2.379,2.379,209.232,1:43.696,25.0,2,20,R. Verschoor,Trident,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,47:56.843,15.358,12.979,208.288,1:43.847,25.0,3,2,J. Daruvala,PREMA Racing,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:00.602,19.117,3.759,208.016,1:43.888,10.0,4,24,J. Hughes,Van Amersfoort Racing,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:02.080,20.595,1.478,207.909,1:44.282,22.0,5,7,M. Armstrong,Hitech Grand Prix,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:02.556,21.071,0.476,207.875,1:43.539,27.0,6,1,D. Hauger,PREMA Racing,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:08.593,27.108,6.037,207.441,1:44.502,21.0,7,17,A. Iwasa,DAMS,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:09.913,28.428,1.320,207.346,1:43.924,22.0,8,16,R. Nissany,DAMS,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:10.346,28.861,0.433,207.315,1:43.098,26.0,9,3,J. Doohan,Virtuosi Racing,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:13.658,32.173,3.312,207.077,1:43.944,26.0,10,8,J. Vips,Hitech Grand Prix,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:14.132,32.647,0.474,207.044,1:43.667,26.0,11,22,E. Fittipaldi,Charouz Racing System,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:19.097,37.612,4.965,206.689,1:43.615,24.0,12,6,L. Sargeant,Carlin,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:19.767,38.282,0.670,206.641,1:43.922,25.0,13,21,C. Williams,Trident,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:23.855,42.370,4.088,206.35,1:44.635,26.0,14,12,C. Novalak,MP Motorsport,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:29.086,47.601,5.231,205.979,1:44.926,25.0,15,15,R. Boschung,Campos Racing,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:30.191,48.706,1.105,205.901,1:44.719,27.0,16,14,O. Caldwell,Campos Racing,Jeddah,Feature Race,,Round 2 ,2022-03-27
+27,48:31.869,50.384,1.678,205.782,1:44.776,26.0,17,4,M. Sato,Virtuosi Racing,Jeddah,Feature Race,,Round 2 ,2022-03-27
+26,46:39.080,DNF,-,206.134,1:44.280,26.0,18,9,F. Vesti,ART Grand Prix,Jeddah,Feature Race,,Round 2 ,2022-03-27
+20,47:55.487,-,-,154.279,1:43.378,17.0,1,5,L. Lawson,Carlin,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,47:58.653,3.166,3.166,154.109,1:43.284,20.0,2,8,J. Vips,Hitech Grand Prix,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:00.333,4.846,1.622,154.019,1:43.441,20.0,3,11,F. Drugovich,MP Motorsport,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:01.764,6.277,1.431,153.943,1:44.019,18.0,4,21,C. Williams,Trident,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:07.608,12.121,5.844,153.631,1:44.617,16.0,5,20,R. Verschoor,Trident,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:09.007,13.520,1.399,153.557,1:44.112,20.0,6,17,A. Iwasa,DAMS,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:10.724,15.237,0.783,153.466,1:45.003,18.0,7,2,J. Daruvala,PREMA Racing,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:11.527,16.040,0.803,153.423,1:45.067,16.0,8,4,M. Sato,Virtuosi Racing,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:12.877,17.390,1.350,153.351,1:45.130,17.0,9,16,R. Nissany,DAMS,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:12.928,17.441,0.051,153.349,1:45.287,18.0,10,22,E. Fittipaldi,Charouz Racing System,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:14.226,18.739,1.298,153.28,1:45.253,18.0,11,12,C. Novalak,MP Motorsport,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:15.785,20.298,1.559,153.197,1:45.531,16.0,12,9,F. Vesti,ART Grand Prix,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:16.056,20.569,0.271,153.183,1:45.460,20.0,13,10,T. Pourchaire,ART Grand Prix,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:20.982,25.495,4.926,152.923,1:45.877,17.0,14,14,O. Caldwell,Campos Racing,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:29.941,14.454,0.934,153.507,1:44.626,17.0,15,15,R. Boschung,Campos Racing,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+20,48:46.982,51.495,26.000,151.564,1:44.702,20.0,16,1,D. Hauger,PREMA Racing,Jeddah,Sprint Race,,Round 2 ,2022-03-27
+10,1:40.422,-,-,221.329,,,1,11,F. Drugovich,MP Motorsport,Jeddah,Qualifying Session,19:22:45,Round 2 ,2022-03-27
+13,1:40.648,0.226,0.226,220.833,,,2,20,R. Verschoor,Trident,Jeddah,Qualifying Session,19:23:53,Round 2 ,2022-03-27
+10,1:41.050,0.628,0.026,219.954,,,3,7,M. Armstrong,Hitech Grand Prix,Jeddah,Qualifying Session,19:11:28,Round 2 ,2022-03-27
+10,1:41.057,0.635,0.007,219.939,,,4,15,R. Boschung,Campos Racing,Jeddah,Qualifying Session,19:13:13,Round 2 ,2022-03-27
+9,1:41.142,0.720,0.085,219.754,,,5,5,L. Lawson,Carlin,Jeddah,Qualifying Session,19:13:16,Round 2 ,2022-03-27
+10,1:41.194,0.772,0.052,219.641,,,6,17,A. Iwasa,DAMS,Jeddah,Qualifying Session,19:10:51,Round 2 ,2022-03-27
+12,1:41.469,1.047,0.275,219.046,,,7,21,C. Williams,Trident,Jeddah,Qualifying Session,19:24:05,Round 2 ,2022-03-27
+11,1:41.533,1.111,0.064,218.908,,,8,8,J. Vips,Hitech Grand Prix,Jeddah,Qualifying Session,19:23:08,Round 2 ,2022-03-27
+9,1:41.538,1.116,0.005,218.897,,,9,24,J. Hughes,Van Amersfoort Racing,Jeddah,Qualifying Session,18:41:12,Round 2 ,2022-03-27
+9,1:41.710,1.288,0.172,218.527,,,10,1,D. Hauger,PREMA Racing,Jeddah,Qualifying Session,19:11:54,Round 2 ,2022-03-27
+10,1:41.710,1.288,0.000,218.527,,,11,12,C. Novalak,MP Motorsport,Jeddah,Qualifying Session,19:22:51,Round 2 ,2022-03-27
+10,1:41.971,1.549,0.261,217.967,,,12,16,R. Nissany,DAMS,Jeddah,Qualifying Session,19:12:38,Round 2 ,2022-03-27
+9,1:42.178,1.756,0.207,217.526,,,13,4,M. Sato,Virtuosi Racing,Jeddah,Qualifying Session,19:11:49,Round 2 ,2022-03-27
+9,1:42.181,1.759,0.003,217.519,,,14,2,J. Daruvala,PREMA Racing,Jeddah,Qualifying Session,19:11:58,Round 2 ,2022-03-27
+11,1:42.520,2.098,0.339,216.8,,,15,22,E. Fittipaldi,Charouz Racing System,Jeddah,Qualifying Session,19:11:41,Round 2 ,2022-03-27
+10,1:42.905,2.483,0.385,215.989,,,16,9,F. Vesti,ART Grand Prix,Jeddah,Qualifying Session,18:40:52,Round 2 ,2022-03-27
+10,1:43.120,2.698,0.215,215.539,,,17,14,O. Caldwell,Campos Racing,Jeddah,Qualifying Session,18:40:32,Round 2 ,2022-03-27
+6,1:43.260,2.838,0.140,215.246,,,18,6,L. Sargeant,Carlin,Jeddah,Qualifying Session,18:37:39,Round 2 ,2022-03-27
+11,1:44.437,4.015,1.177,212.821,,,19,25,A. Cordeel,Van Amersfoort Racing,Jeddah,Qualifying Session,19:11:38,Round 2 ,2022-03-27
+5,1:44.736,4.314,0.299,212.213,,,20,10,T. Pourchaire,ART Grand Prix,Jeddah,Qualifying Session,18:36:45,Round 2 ,2022-03-27
+10,1:44.100,-,-,213.51,,,1,11,F. Drugovich,MP Motorsport,Jeddah,Free Practice,14:38:37,Round 2 ,2022-03-27
+10,1:44.250,0.150,0.150,213.202,,,2,5,L. Lawson,Carlin,Jeddah,Free Practice,15:01:18,Round 2 ,2022-03-27
+8,1:44.434,0.334,0.184,212.827,,,3,7,M. Armstrong,Hitech Grand Prix,Jeddah,Free Practice,15:01:15,Round 2 ,2022-03-27
+10,1:44.486,0.386,0.052,212.721,,,4,17,A. Iwasa,DAMS,Jeddah,Free Practice,15:01:01,Round 2 ,2022-03-27
+9,1:44.581,0.481,0.095,212.528,,,5,15,R. Boschung,Campos Racing,Jeddah,Free Practice,14:39:53,Round 2 ,2022-03-27
+11,1:44.758,0.658,0.177,212.168,,,6,14,O. Caldwell,Campos Racing,Jeddah,Free Practice,15:01:06,Round 2 ,2022-03-27
+9,1:44.772,0.672,0.014,212.14,,,7,10,T. Pourchaire,ART Grand Prix,Jeddah,Free Practice,14:42:18,Round 2 ,2022-03-27
+9,1:45.016,0.916,0.244,211.647,,,8,12,C. Novalak,MP Motorsport,Jeddah,Free Practice,15:01:11,Round 2 ,2022-03-27
+9,1:45.080,0.980,0.064,211.518,,,9,16,R. Nissany,DAMS,Jeddah,Free Practice,14:42:03,Round 2 ,2022-03-27
+9,1:45.147,1.047,0.067,211.384,,,10,22,E. Fittipaldi,Charouz Racing System,Jeddah,Free Practice,14:39:35,Round 2 ,2022-03-27
+10,1:45.159,1.059,0.012,211.359,,,11,24,J. Hughes,Van Amersfoort Racing,Jeddah,Free Practice,14:42:14,Round 2 ,2022-03-27
+6,1:45.236,1.136,0.077,211.205,,,12,8,J. Vips,Hitech Grand Prix,Jeddah,Free Practice,14:43:08,Round 2 ,2022-03-27
+6,1:45.425,1.325,0.189,210.826,,,13,1,D. Hauger,PREMA Racing,Jeddah,Free Practice,14:42:36,Round 2 ,2022-03-27
+10,1:45.474,1.374,0.049,210.728,,,14,20,R. Verschoor,Trident,Jeddah,Free Practice,14:43:19,Round 2 ,2022-03-27
+7,1:45.951,1.851,0.477,209.779,,,15,4,M. Sato,Virtuosi Racing,Jeddah,Free Practice,14:42:32,Round 2 ,2022-03-27
+9,1:46.093,1.993,0.142,209.499,,,16,6,L. Sargeant,Carlin,Jeddah,Free Practice,14:42:13,Round 2 ,2022-03-27
+10,1:46.107,2.007,0.014,209.471,,,17,21,C. Williams,Trident,Jeddah,Free Practice,15:00:58,Round 2 ,2022-03-27
+6,1:46.726,2.626,0.619,208.256,,,18,2,J. Daruvala,PREMA Racing,Jeddah,Free Practice,14:42:44,Round 2 ,2022-03-27
+9,1:47.444,3.344,0.718,206.864,,,19,9,F. Vesti,ART Grand Prix,Jeddah,Free Practice,14:42:26,Round 2 ,2022-03-27
+8,1:47.881,3.781,0.437,206.027,,,20,23,C. Bölükbasi,Charouz Racing System,Jeddah,Free Practice,14:42:10,Round 2 ,2022-03-27
+4,2:02.410,18.310,14.529,181.573,,,21,3,J. Doohan,Virtuosi Racing,Jeddah,Free Practice,14:43:39,Round 2 ,2022-03-27
+4,2:12.204,28.104,9.794,168.121,,,22,25,A. Cordeel,Van Amersfoort Racing,Jeddah,Free Practice,14:30:30,Round 2 ,2022-03-27
+35,1:01:56.611,-,-,166.213,1:29.956,19.0,1,10,T. Pourchaire,ART Grand Prix,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:56.999,0.388,0.388,166.195,1:30.151,17.0,2,22,E. Fittipaldi,Charouz Racing System,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:57.340,0.729,0.341,166.18,1:30.159,17.0,3,15,R. Boschung,Campos Racing,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:58.108,1.497,0.768,166.146,1:30.164,15.0,4,12,C. Novalak,MP Motorsport,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:58.417,1.806,0.309,166.132,1:30.118,17.0,5,17,A. Iwasa,DAMS,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:58.733,2.122,0.316,166.118,1:29.968,14.0,6,9,F. Vesti,ART Grand Prix,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:59.203,2.592,0.470,166.097,1:30.107,16.0,7,6,L. Sargeant,Carlin,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:59.840,3.229,0.637,166.068,1:30.485,15.0,8,23,D. Beckmann,Charouz Racing System,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:00.802,4.191,0.962,166.025,1:28.353,31.0,9,2,J. Daruvala,PREMA Racing,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:01.007,4.396,0.205,166.016,1:29.668,30.0,10,11,F. Drugovich,MP Motorsport,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:01.504,4.893,0.497,165.994,1:29.465,15.0,11,4,M. Sato,Virtuosi Racing,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:01.655,5.044,0.151,165.987,1:28.938,30.0,12,24,J. Hughes,Van Amersfoort Racing,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:03.356,6.745,0.458,165.911,1:30.050,16.0,13,14,O. Caldwell,Campos Racing,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:03.882,7.271,0.526,165.888,1:28.654,29.0,14,20,R. Verschoor,Trident,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:04.374,7.763,0.492,165.866,1:29.135,30.0,15,21,C. Williams,Trident,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:0.898,6.287,1.243,165.932,1:28.972,31.0,16,7,M. Armstrong,Hitech Grand Prix,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:03:18.014,81.403,73.640,162.65,1:30.517,16.0,17,25,A. Cordeel,Van Amersfoort Racing,Imola,Feature Race,,Round 3 ,2022-04-24
+25,40:50.545,-,-,179.97,1:29.286,12.0,1,7,M. Armstrong,Hitech Grand Prix,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,40:51.976,1.431,1.431,179.865,1:29.196,9.0,2,2,J. Daruvala,PREMA Racing,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,40:52.788,2.243,0.812,179.805,1:29.106,12.0,3,1,D. Hauger,PREMA Racing,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,40:53.348,2.803,0.560,179.764,1:29.263,20.0,4,16,R. Nissany,DAMS,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,40:57.590,7.045,4.242,179.454,1:29.344,17.0,5,11,F. Drugovich,MP Motorsport,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:00.366,9.821,2.776,179.251,1:29.423,17.0,6,6,L. Sargeant,Carlin,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:02.917,12.372,2.551,179.066,1:29.447,17.0,7,10,T. Pourchaire,ART Grand Prix,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:03.371,12.826,0.454,179.033,1:29.505,17.0,8,5,L. Lawson,Carlin,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:03.981,13.436,0.610,178.988,1:29.456,14.0,9,17,A. Iwasa,DAMS,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:08.259,17.714,4.278,178.678,1:29.609,14.0,10,9,F. Vesti,ART Grand Prix,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:10.724,20.179,2.465,178.5,1:29.403,12.0,11,3,J. Doohan,Virtuosi Racing,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:11.604,21.059,0.880,178.436,1:29.597,14.0,12,22,E. Fittipaldi,Charouz Racing System,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:12.038,21.493,0.434,178.405,1:29.309,14.0,13,20,R. Verschoor,Trident,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:13.487,22.942,1.449,178.3,1:29.511,15.0,14,21,C. Williams,Trident,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:13.820,23.275,0.333,178.276,1:28.841,12.0,15,8,J. Vips,Hitech Grand Prix,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:14.761,24.216,0.941,178.209,1:29.893,12.0,16,4,M. Sato,Virtuosi Racing,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:15.182,24.637,0.421,178.178,1:29.663,15.0,17,14,O. Caldwell,Campos Racing,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:16.401,25.856,1.219,178.091,1:29.643,15.0,18,24,J. Hughes,Van Amersfoort Racing,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:16.844,26.299,0.443,178.059,1:29.670,17.0,19,12,C. Novalak,MP Motorsport,Imola,Sprint Race,,Round 3 ,2022-04-24
+14,1:40.221,-,-,176.334,,,1,8,J. Vips,Hitech Grand Prix,Imola,Qualifying Session,19:39:35,Round 3 ,2022-04-24
+13,1:40.378,0.157,0.157,176.058,,,2,17,A. Iwasa,DAMS,Imola,Qualifying Session,19:42:46,Round 3 ,2022-04-24
+15,1:40.431,0.210,0.053,175.965,,,3,3,J. Doohan,Virtuosi Racing,Imola,Qualifying Session,19:42:16,Round 3 ,2022-04-24
+13,1:40.496,0.275,0.065,175.851,,,4,15,R. Boschung,Campos Racing,Imola,Qualifying Session,19:40:43,Round 3 ,2022-04-24
+13,1:40.572,0.351,0.076,175.718,,,5,1,D. Hauger,PREMA Racing,Imola,Qualifying Session,19:42:55,Round 3 ,2022-04-24
+14,1:40.621,0.400,0.049,175.633,,,6,16,R. Nissany,DAMS,Imola,Qualifying Session,19:40:48,Round 3 ,2022-04-24
+14,1:40.862,0.641,0.241,175.213,,,7,10,T. Pourchaire,ART Grand Prix,Imola,Qualifying Session,19:40:52,Round 3 ,2022-04-24
+13,1:40.886,0.665,0.024,175.171,,,8,2,J. Daruvala,PREMA Racing,Imola,Qualifying Session,19:39:19,Round 3 ,2022-04-24
+15,1:41.004,0.783,0.118,174.967,,,9,7,M. Armstrong,Hitech Grand Prix,Imola,Qualifying Session,19:40:11,Round 3 ,2022-04-24
+14,1:41.062,0.841,0.058,174.866,,,10,6,L. Sargeant,Carlin,Imola,Qualifying Session,19:40:16,Round 3 ,2022-04-24
+13,1:41.129,0.908,0.067,174.751,,,11,23,D. Beckmann,Charouz Racing System,Imola,Qualifying Session,19:41:36,Round 3 ,2022-04-24
+14,1:41.131,0.910,0.002,174.747,,,12,11,F. Drugovich,MP Motorsport,Imola,Qualifying Session,19:40:08,Round 3 ,2022-04-24
+14,1:41.173,0.952,0.042,174.675,,,13,12,C. Novalak,MP Motorsport,Imola,Qualifying Session,19:41:10,Round 3 ,2022-04-24
+14,1:41.199,0.978,0.026,174.63,,,14,5,L. Lawson,Carlin,Imola,Qualifying Session,19:41:34,Round 3 ,2022-04-24
+13,1:41.235,1.014,0.036,174.568,,,15,22,E. Fittipaldi,Charouz Racing System,Imola,Qualifying Session,19:45:05,Round 3 ,2022-04-24
+11,1:41.434,1.213,0.199,174.225,,,16,9,F. Vesti,ART Grand Prix,Imola,Qualifying Session,19:45:31,Round 3 ,2022-04-24
+12,1:41.520,1.299,0.086,174.078,,,17,24,J. Hughes,Van Amersfoort Racing,Imola,Qualifying Session,19:41:38,Round 3 ,2022-04-24
+14,1:41.592,1.371,0.072,173.954,,,18,25,A. Cordeel,Van Amersfoort Racing,Imola,Qualifying Session,19:40:39,Round 3 ,2022-04-24
+11,1:42.144,1.923,0.552,173.014,,,19,20,R. Verschoor,Trident,Imola,Qualifying Session,19:41:31,Round 3 ,2022-04-24
+12,1:42.498,2.277,0.354,172.417,,,20,21,C. Williams,Trident,Imola,Qualifying Session,19:40:27,Round 3 ,2022-04-24
+4,1:42.954,2.733,0.456,171.653,,,21,14,O. Caldwell,Campos Racing,Imola,Qualifying Session,19:17:30,Round 3 ,2022-04-24
+15,1:43.311,3.090,0.357,171.06,,,22,4,M. Sato,Virtuosi Racing,Imola,Qualifying Session,19:16:20,Round 3 ,2022-04-24
+5,1:41.996,-,-,173.265,,,1,15,R. Boschung,Campos Racing,Imola,Free Practice,15:38:40,Round 3 ,2022-04-24
+5,1:42.277,0.281,0.281,172.789,,,2,8,J. Vips,Hitech Grand Prix,Imola,Free Practice,15:39:04,Round 3 ,2022-04-24
+4,1:43.362,1.366,1.085,170.975,,,3,2,J. Daruvala,PREMA Racing,Imola,Free Practice,15:39:20,Round 3 ,2022-04-24
+5,1:43.968,1.972,0.606,169.979,,,4,12,C. Novalak,MP Motorsport,Imola,Free Practice,15:38:55,Round 3 ,2022-04-24
+5,1:44.083,2.087,0.115,169.791,,,5,4,M. Sato,Virtuosi Racing,Imola,Free Practice,15:39:17,Round 3 ,2022-04-24
+5,1:44.316,2.320,0.233,169.412,,,6,11,F. Drugovich,MP Motorsport,Imola,Free Practice,15:38:52,Round 3 ,2022-04-24
+4,1:44.629,2.633,0.313,168.905,,,7,1,D. Hauger,PREMA Racing,Imola,Free Practice,15:39:24,Round 3 ,2022-04-24
+4,1:44.704,2.708,0.075,168.784,,,8,20,R. Verschoor,Trident,Imola,Free Practice,15:39:27,Round 3 ,2022-04-24
+5,1:44.741,2.745,0.037,168.724,,,9,23,D. Beckmann,Charouz Racing System,Imola,Free Practice,15:39:28,Round 3 ,2022-04-24
+5,1:44.838,2.842,0.097,168.568,,,10,5,L. Lawson,Carlin,Imola,Free Practice,15:39:10,Round 3 ,2022-04-24
+5,1:45.102,3.106,0.264,168.145,,,11,3,J. Doohan,Virtuosi Racing,Imola,Free Practice,15:39:15,Round 3 ,2022-04-24
+5,1:46.251,4.255,1.149,166.326,,,12,14,O. Caldwell,Campos Racing,Imola,Free Practice,15:38:50,Round 3 ,2022-04-24
+5,1:46.755,4.759,0.504,165.541,,,13,10,T. Pourchaire,ART Grand Prix,Imola,Free Practice,15:39:00,Round 3 ,2022-04-24
+4,1:47.104,5.108,0.349,165.002,,,14,16,R. Nissany,DAMS,Imola,Free Practice,15:39:30,Round 3 ,2022-04-24
+5,1:47.602,5.606,0.498,164.238,,,15,9,F. Vesti,ART Grand Prix,Imola,Free Practice,15:39:04,Round 3 ,2022-04-24
+3,1:50.410,8.414,2.808,160.061,,,16,21,C. Williams,Trident,Imola,Free Practice,15:27:55,Round 3 ,2022-04-24
+4,1:52.885,10.889,2.475,156.552,,,17,25,A. Cordeel,Van Amersfoort Racing,Imola,Free Practice,15:27:44,Round 3 ,2022-04-24
+4,1:54.422,12.426,1.537,154.449,,,18,24,J. Hughes,Van Amersfoort Racing,Imola,Free Practice,15:27:28,Round 3 ,2022-04-24
+3,-,-,-,-,,,19,22,E. Fittipaldi,Charouz Racing System,Imola,Free Practice,-,Round 3 ,2022-04-24
+3,-,-,-,-,,,20,17,A. Iwasa,DAMS,Imola,Free Practice,-,Round 3 ,2022-04-24
+2,-,-,-,-,,,21,6,L. Sargeant,Carlin,Imola,Free Practice,-,Round 3 ,2022-04-24
+1,-,-,-,-,,,22,7,M. Armstrong,Hitech Grand Prix,Imola,Free Practice,-,Round 3 ,2022-04-24
+37,1:02:14.874,-,-,166.607,1:34.511,10.0,1,11,F. Drugovich,MP Motorsport,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:02:20.504,5.630,5.630,166.356,1:34.231,7.0,2,3,J. Doohan,Virtuosi Racing,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:02:38.043,23.169,17.539,165.579,1:34.576,7.0,3,9,F. Vesti,ART Grand Prix,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:02:39.594,24.720,1.551,165.511,1:34.400,8.0,4,6,L. Sargeant,Carlin,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:02:39.934,25.060,0.340,165.496,1:34.823,31.0,5,12,C. Novalak,MP Motorsport,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:02:46.304,31.430,6.370,165.216,1:35.013,31.0,6,22,E. Fittipaldi,Charouz Racing System,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:02:47.073,32.199,0.769,165.182,1:34.890,33.0,7,7,M. Armstrong,Hitech Grand Prix,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:02:50.481,35.607,3.408,165.033,1:35.236,8.0,8,10,T. Pourchaire,ART Grand Prix,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:02:52.048,37.174,1.567,164.965,1:35.656,10.0,9,5,L. Lawson,Carlin,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:02:52.149,37.275,0.101,164.96,1:34.340,35.0,10,16,R. Nissany,DAMS,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:02:53.628,38.754,1.479,164.896,1:35.102,10.0,11,21,C. Williams,Trident,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:03:09.722,54.848,16.094,164.195,1:35.990,12.0,12,17,A. Iwasa,DAMS,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:03:09.923,55.049,0.201,164.187,1:34.960,37.0,13,1,D. Hauger,PREMA Racing,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:03:11.422,56.548,1.499,164.122,1:34.720,32.0,14,14,O. Caldwell,Campos Racing,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:03:14.501,59.627,3.079,163.988,1:35.697,19.0,15,25,A. Cordeel,Van Amersfoort Racing,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:03:18.227,63.353,3.726,163.828,1:35.203,9.0,16,24,J. Hughes,Van Amersfoort Racing,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:03:29.677,74.803,11.450,163.335,1:35.231,2.0,17,8,J. Vips,Hitech Grand Prix,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:03:34.936,80.062,5.259,163.11,1:34.552,31.0,18,20,R. Verschoor,Trident,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:03:45.392,90.518,10.456,162.664,1:36.160,12.0,19,4,M. Sato,Virtuosi Racing,Barcelona,Feature Race,,Round 4 ,2022-05-22
+37,1:03:48.709,93.835,3.317,162.523,1:37.045,8.0,20,23,C. Bölükbasi,Charouz Racing System,Barcelona,Feature Race,,Round 4 ,2022-05-22
+26,44:12.635,-,-,164.789,1:35.211,23.0,1,11,F. Drugovich,MP Motorsport,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:14.744,2.109,2.109,164.658,1:36.162,25.0,2,17,A. Iwasa,DAMS,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:16.800,4.165,2.056,164.531,1:36.270,21.0,3,6,L. Sargeant,Carlin,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:21.128,8.493,4.328,164.263,1:36.076,21.0,4,2,J. Daruvala,PREMA Racing,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:21.886,9.251,0.758,164.216,1:36.288,17.0,5,10,T. Pourchaire,ART Grand Prix,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:23.116,10.481,1.230,164.14,1:36.004,22.0,6,3,J. Doohan,Virtuosi Racing,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:29.065,16.430,5.949,163.775,1:36.329,16.0,7,9,F. Vesti,ART Grand Prix,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:29.891,17.256,0.826,163.724,1:36.158,16.0,8,22,E. Fittipaldi,Charouz Racing System,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:30.340,17.705,0.449,163.696,1:36.255,17.0,9,5,L. Lawson,Carlin,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:31.159,18.524,0.819,163.646,1:36.377,19.0,10,7,M. Armstrong,Hitech Grand Prix,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:37.956,25.321,6.797,163.231,1:36.794,20.0,11,20,R. Verschoor,Trident,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:38.632,25.997,0.676,163.19,1:36.817,14.0,12,1,D. Hauger,PREMA Racing,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:39.111,26.476,0.479,163.16,1:36.867,20.0,13,14,O. Caldwell,Campos Racing,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:41.950,29.315,2.839,162.988,1:35.865,15.0,14,12,C. Novalak,MP Motorsport,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:44.125,31.490,2.175,162.856,1:36.532,21.0,15,16,R. Nissany,DAMS,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:46.416,33.781,2.291,162.717,1:36.745,20.0,16,21,C. Williams,Trident,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,44:50.071,37.436,3.655,162.496,1:37.177,20.0,17,4,M. Sato,Virtuosi Racing,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,45:05.916,53.281,15.845,161.544,1:37.690,4.0,18,23,C. Bölükbasi,Charouz Racing System,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+26,45:18.561,65.926,12.645,160.793,1:36.869,19.0,19,25,A. Cordeel,Van Amersfoort Racing,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+24,41:30.794,DNF,-,161.983,1:36.310,17.0,20,24,J. Hughes,Van Amersfoort Racing,Barcelona,Sprint Race,,Round 4 ,2022-05-22
+9,1:28.612,-,-,189.929,,,1,3,J. Doohan,Virtuosi Racing,Barcelona,Qualifying Session,18:55:44,Round 4 ,2022-05-22
+8,1:28.635,0.023,0.023,189.879,,,2,8,J. Vips,Hitech Grand Prix,Barcelona,Qualifying Session,19:00:47,Round 4 ,2022-05-22
+11,1:28.852,0.240,0.217,189.416,,,3,9,F. Vesti,ART Grand Prix,Barcelona,Qualifying Session,18:55:52,Round 4 ,2022-05-22
+8,1:28.884,0.272,0.032,189.347,,,4,2,J. Daruvala,PREMA Racing,Barcelona,Qualifying Session,18:45:20,Round 4 ,2022-05-22
+11,1:28.967,0.355,0.083,189.171,,,5,6,L. Sargeant,Carlin,Barcelona,Qualifying Session,18:55:55,Round 4 ,2022-05-22
+11,1:28.977,0.365,0.010,189.15,,,6,17,A. Iwasa,DAMS,Barcelona,Qualifying Session,18:56:16,Round 4 ,2022-05-22
+11,1:29.001,0.389,0.024,189.098,,,7,10,T. Pourchaire,ART Grand Prix,Barcelona,Qualifying Session,18:55:48,Round 4 ,2022-05-22
+11,1:29.067,0.455,0.066,188.958,,,8,24,J. Hughes,Van Amersfoort Racing,Barcelona,Qualifying Session,18:55:59,Round 4 ,2022-05-22
+9,1:29.164,0.552,0.097,188.753,,,9,21,C. Williams,Trident,Barcelona,Qualifying Session,19:00:42,Round 4 ,2022-05-22
+7,1:29.190,0.578,0.026,188.698,,,10,11,F. Drugovich,MP Motorsport,Barcelona,Qualifying Session,18:44:34,Round 4 ,2022-05-22
+11,1:29.205,0.593,0.015,188.666,,,11,22,E. Fittipaldi,Charouz Racing System,Barcelona,Qualifying Session,18:56:05,Round 4 ,2022-05-22
+9,1:29.367,0.755,0.162,188.324,,,12,12,C. Novalak,MP Motorsport,Barcelona,Qualifying Session,19:01:24,Round 4 ,2022-05-22
+8,1:29.375,0.763,0.008,188.307,,,13,7,M. Armstrong,Hitech Grand Prix,Barcelona,Qualifying Session,19:00:31,Round 4 ,2022-05-22
+8,1:29.381,0.769,0.006,188.295,,,14,1,D. Hauger,PREMA Racing,Barcelona,Qualifying Session,18:46:05,Round 4 ,2022-05-22
+11,1:29.381,0.769,0.000,188.295,,,15,25,A. Cordeel,Van Amersfoort Racing,Barcelona,Qualifying Session,18:56:36,Round 4 ,2022-05-22
+11,1:29.488,0.876,0.107,188.069,,,16,5,L. Lawson,Carlin,Barcelona,Qualifying Session,18:56:02,Round 4 ,2022-05-22
+10,1:29.515,0.903,0.027,188.013,,,17,16,R. Nissany,DAMS,Barcelona,Qualifying Session,18:56:20,Round 4 ,2022-05-22
+10,1:29.885,1.273,0.370,187.239,,,18,14,O. Caldwell,Campos Racing,Barcelona,Qualifying Session,18:57:13,Round 4 ,2022-05-22
+10,1:29.927,1.315,0.042,187.151,,,19,4,M. Sato,Virtuosi Racing,Barcelona,Qualifying Session,18:50:54,Round 4 ,2022-05-22
+9,1:30.216,1.604,0.289,186.552,,,20,20,R. Verschoor,Trident,Barcelona,Qualifying Session,18:44:02,Round 4 ,2022-05-22
+12,1:30.356,1.744,0.140,186.263,,,21,23,C. Bölükbasi,Charouz Racing System,Barcelona,Qualifying Session,18:56:12,Round 4 ,2022-05-22
+11,1:30.886,-,-,185.177,,,1,11,F. Drugovich,MP Motorsport,Barcelona,Free Practice,12:07:43,Round 4 ,2022-05-22
+9,1:31.369,0.483,0.483,184.198,,,2,2,J. Daruvala,PREMA Racing,Barcelona,Free Practice,12:09:46,Round 4 ,2022-05-22
+12,1:31.417,0.531,0.048,184.101,,,3,6,L. Sargeant,Carlin,Barcelona,Free Practice,12:10:19,Round 4 ,2022-05-22
+11,1:31.532,0.646,0.115,183.87,,,4,3,J. Doohan,Virtuosi Racing,Barcelona,Free Practice,12:10:22,Round 4 ,2022-05-22
+12,1:31.563,0.677,0.031,183.807,,,5,5,L. Lawson,Carlin,Barcelona,Free Practice,12:13:41,Round 4 ,2022-05-22
+11,1:31.595,0.709,0.032,183.743,,,6,8,J. Vips,Hitech Grand Prix,Barcelona,Free Practice,12:10:09,Round 4 ,2022-05-22
+11,1:31.623,0.737,0.028,183.687,,,7,17,A. Iwasa,DAMS,Barcelona,Free Practice,12:10:42,Round 4 ,2022-05-22
+11,1:31.674,0.788,0.051,183.585,,,8,10,T. Pourchaire,ART Grand Prix,Barcelona,Free Practice,12:10:16,Round 4 ,2022-05-22
+9,1:31.707,0.821,0.033,183.519,,,9,1,D. Hauger,PREMA Racing,Barcelona,Free Practice,12:06:56,Round 4 ,2022-05-22
+10,1:31.751,0.865,0.044,183.431,,,10,21,C. Williams,Trident,Barcelona,Free Practice,12:10:59,Round 4 ,2022-05-22
+13,1:31.779,0.893,0.028,183.375,,,11,22,E. Fittipaldi,Charouz Racing System,Barcelona,Free Practice,12:13:59,Round 4 ,2022-05-22
+13,1:32.154,1.268,0.375,182.629,,,12,4,M. Sato,Virtuosi Racing,Barcelona,Free Practice,12:06:49,Round 4 ,2022-05-22
+13,1:32.446,1.560,0.292,182.052,,,13,9,F. Vesti,ART Grand Prix,Barcelona,Free Practice,12:10:05,Round 4 ,2022-05-22
+9,1:32.458,1.572,0.012,182.028,,,14,20,R. Verschoor,Trident,Barcelona,Free Practice,12:18:33,Round 4 ,2022-05-22
+10,1:32.561,1.675,0.103,181.826,,,15,12,C. Novalak,MP Motorsport,Barcelona,Free Practice,12:09:41,Round 4 ,2022-05-22
+14,1:32.609,1.723,0.048,181.731,,,16,25,A. Cordeel,Van Amersfoort Racing,Barcelona,Free Practice,11:41:28,Round 4 ,2022-05-22
+12,1:32.790,1.904,0.181,181.377,,,17,15,R. Boschung,Campos Racing,Barcelona,Free Practice,12:11:32,Round 4 ,2022-05-22
+11,1:32.883,1.997,0.093,181.195,,,18,16,R. Nissany,DAMS,Barcelona,Free Practice,12:07:09,Round 4 ,2022-05-22
+13,1:32.968,2.082,0.085,181.03,,,19,24,J. Hughes,Van Amersfoort Racing,Barcelona,Free Practice,11:41:04,Round 4 ,2022-05-22
+13,1:34.632,3.746,1.664,177.846,,,20,23,C. Bölükbasi,Charouz Racing System,Barcelona,Free Practice,12:14:12,Round 4 ,2022-05-22
+3,1:50.509,19.623,15.877,152.295,,,21,7,M. Armstrong,Hitech Grand Prix,Barcelona,Free Practice,11:57:08,Round 4 ,2022-05-22
+3,1:53.574,22.688,3.065,148.185,,,22,14,O. Caldwell,Campos Racing,Barcelona,Free Practice,11:42:45,Round 4 ,2022-05-22
+42,1:02:35.675,-,-,134.344,1:23.251,29.0,1,11,F. Drugovich,MP Motorsport,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:36.502,0.827,0.827,134.314,1:23.264,29.0,2,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:43.717,8.042,7.215,134.057,1:23.256,31.0,3,8,J. Vips,Hitech Grand Prix,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:48.629,12.954,4.912,133.882,1:23.376,17.0,4,3,J. Doohan,Virtuosi Racing,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:49.209,13.534,0.580,133.862,1:23.525,33.0,5,22,E. Fittipaldi,Charouz Racing System,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:50.421,14.746,1.212,133.819,1:23.737,29.0,6,7,M. Armstrong,Hitech Grand Prix,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:50.976,15.301,0.555,133.799,1:22.863,13.0,7,1,D. Hauger,PREMA Racing,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:51.396,15.721,0.420,133.784,1:22.900,15.0,8,2,J. Daruvala,PREMA Racing,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:51.839,16.164,0.443,133.768,1:23.344,17.0,9,6,L. Sargeant,Carlin,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:02:59.840,24.165,8.001,133.485,1:24.043,31.0,10,4,M. Sato,Virtuosi Racing,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:03:03.345,27.670,3.505,133.361,1:24.206,28.0,11,23,C. Bölükbasi,Charouz Racing System,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:03:03.430,27.755,0.085,133.358,1:22.862,35.0,12,20,R. Verschoor,Trident,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:03:06.188,30.513,2.758,133.261,1:24.185,16.0,13,24,J. Hughes,Van Amersfoort Racing,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:03:07.300,31.625,1.112,133.222,1:23.593,17.0,14,9,F. Vesti,ART Grand Prix,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+42,1:03:08.284,32.609,0.984,133.188,1:23.689,17.0,15,14,O. Caldwell,Campos Racing,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+41,1:01:30.459,DNF,-,133.463,1:23.559,14.0,16,21,C. Williams,Trident,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+41,1:01:30.688,DNF,-,133.455,1:23.409,17.0,17,17,A. Iwasa,DAMS,Monte Carlo,Feature Race,,Round 5 ,2022-05-29
+30,44:28.491,-,-,135.056,1:23.033,28.0,1,1,D. Hauger,PREMA Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:35.202,6.711,6.711,134.717,1:23.549,26.0,2,2,J. Daruvala,PREMA Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:35.758,7.267,0.556,134.689,1:23.086,30.0,3,7,M. Armstrong,Hitech Grand Prix,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:41.655,13.164,5.897,134.393,1:24.087,16.0,4,22,E. Fittipaldi,Charouz Racing System,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:43.057,14.566,1.402,134.322,1:24.213,17.0,5,8,J. Vips,Hitech Grand Prix,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:44.320,15.829,1.263,134.259,1:22.941,30.0,6,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:45.856,17.365,1.536,134.182,1:22.832,30.0,7,3,J. Doohan,Virtuosi Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:50.161,21.670,4.305,133.968,1:23.661,27.0,8,5,L. Lawson,Carlin,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:51.329,22.838,1.168,133.91,1:24.363,9.0,9,16,R. Nissany,DAMS,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:51.522,23.031,0.193,133.9,1:23.085,30.0,10,6,L. Sargeant,Carlin,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:54.847,26.356,3.325,133.735,1:24.538,20.0,11,9,F. Vesti,ART Grand Prix,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,44:59.829,31.338,4.982,133.488,1:24.579,9.0,12,23,C. Bölükbasi,Charouz Racing System,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:00.905,32.414,1.076,133.435,1:23.286,29.0,13,20,R. Verschoor,Trident,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:12.717,44.226,11.812,132.854,1:24.750,7.0,14,21,C. Williams,Trident,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:13.143,44.652,0.426,132.833,1:24.879,6.0,15,4,M. Sato,Virtuosi Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:13.736,45.245,0.593,132.804,1:24.883,7.0,16,14,O. Caldwell,Campos Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:15.761,47.270,2.025,132.705,1:23.815,8.0,17,25,A. Cordeel,Van Amersfoort Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:23.894,55.403,8.133,132.309,1:23.594,15.0,18,24,J. Hughes,Van Amersfoort Racing,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+30,45:24.242,55.751,0.348,132.292,1:23.846,15.0,19,17,A. Iwasa,DAMS,Monte Carlo,Sprint Race,,Round 5 ,2022-05-29
+9,1:21.535,-,-,147.337,,,1,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Qualifying Group B,12:17:42,Round 5 ,2022-05-29
+9,1:21.618,0.083,0.083,147.188,,,2,8,J. Vips,Hitech Grand Prix,Monte Carlo,Qualifying Group B,12:17:37,Round 5 ,2022-05-29
+10,1:21.719,0.184,0.101,147.006,,,3,22,E. Fittipaldi,Charouz Racing System,Monte Carlo,Qualifying Group B,12:17:00,Round 5 ,2022-05-29
+9,1:21.928,0.393,0.209,146.631,,,4,2,J. Daruvala,PREMA Racing,Monte Carlo,Qualifying Group B,12:15:56,Round 5 ,2022-05-29
+9,1:22.011,0.476,0.083,146.482,,,5,24,J. Hughes,Van Amersfoort Racing,Monte Carlo,Qualifying Group B,12:15:47,Round 5 ,2022-05-29
+9,1:22.017,0.482,0.006,146.472,,,6,16,R. Nissany,DAMS,Monte Carlo,Qualifying Group B,12:17:47,Round 5 ,2022-05-29
+9,1:22.072,0.537,0.055,146.373,,,7,6,L. Sargeant,Carlin,Monte Carlo,Qualifying Group B,12:17:34,Round 5 ,2022-05-29
+10,1:23.180,1.645,1.108,144.424,,,8,12,C. Novalak,MP Motorsport,Monte Carlo,Qualifying Group B,12:16:56,Round 5 ,2022-05-29
+9,1:23.241,1.706,0.061,144.318,,,9,4,M. Sato,Virtuosi Racing,Monte Carlo,Qualifying Group B,12:17:52,Round 5 ,2022-05-29
+9,1:23.498,1.963,0.257,143.874,,,10,14,O. Caldwell,Campos Racing,Monte Carlo,Qualifying Group B,12:17:30,Round 5 ,2022-05-29
+10,1:21.348,-,-,147.676,,,1,11,F. Drugovich,MP Motorsport,Monte Carlo,Qualifying Group A,11:53:24,Round 5 ,2022-05-29
+11,1:21.432,0.084,0.084,147.524,,,2,3,J. Doohan,Virtuosi Racing,Monte Carlo,Qualifying Group A,11:56:39,Round 5 ,2022-05-29
+11,1:21.499,0.151,0.067,147.403,,,3,5,L. Lawson,Carlin,Monte Carlo,Qualifying Group A,11:53:39,Round 5 ,2022-05-29
+11,1:21.734,0.386,0.235,146.979,,,4,7,M. Armstrong,Hitech Grand Prix,Monte Carlo,Qualifying Group A,11:53:59,Round 5 ,2022-05-29
+11,1:21.817,0.469,0.083,146.83,,,5,1,D. Hauger,PREMA Racing,Monte Carlo,Qualifying Group A,11:53:29,Round 5 ,2022-05-29
+10,1:21.859,0.511,0.042,146.754,,,6,15,R. Boschung,Campos Racing,Monte Carlo,Qualifying Group A,11:50:48,Round 5 ,2022-05-29
+11,1:21.902,0.554,0.043,146.677,,,7,17,A. Iwasa,DAMS,Monte Carlo,Qualifying Group A,11:54:06,Round 5 ,2022-05-29
+11,1:21.985,0.637,0.083,146.529,,,8,21,C. Williams,Trident,Monte Carlo,Qualifying Group A,11:53:48,Round 5 ,2022-05-29
+10,1:22.703,1.355,0.718,145.257,,,9,9,F. Vesti,ART Grand Prix,Monte Carlo,Qualifying Group A,11:50:46,Round 5 ,2022-05-29
+11,1:22.762,1.414,0.059,145.153,,,10,25,A. Cordeel,Van Amersfoort Racing,Monte Carlo,Qualifying Group A,11:56:25,Round 5 ,2022-05-29
+10,1:24.150,2.802,1.388,142.759,,,11,23,C. Bölükbasi,Charouz Racing System,Monte Carlo,Qualifying Group A,11:51:05,Round 5 ,2022-05-29
+26,1:21.589,-,-,147.24,,,1,11,F. Drugovich,MP Motorsport,Monte Carlo,Free Practice,17:46:55,Round 5 ,2022-05-29
+25,1:21.591,0.002,0.002,147.236,,,2,15,R. Boschung,Campos Racing,Monte Carlo,Free Practice,17:47:31,Round 5 ,2022-05-29
+29,1:21.637,0.048,0.046,147.153,,,3,1,D. Hauger,PREMA Racing,Monte Carlo,Free Practice,17:46:42,Round 5 ,2022-05-29
+28,1:21.659,0.070,0.022,147.114,,,4,24,J. Hughes,Van Amersfoort Racing,Monte Carlo,Free Practice,17:49:53,Round 5 ,2022-05-29
+27,1:21.953,0.364,0.294,146.586,,,5,5,L. Lawson,Carlin,Monte Carlo,Free Practice,17:44:40,Round 5 ,2022-05-29
+28,1:22.033,0.444,0.080,146.443,,,6,3,J. Doohan,Virtuosi Racing,Monte Carlo,Free Practice,17:50:20,Round 5 ,2022-05-29
+28,1:22.052,0.463,0.019,146.409,,,7,2,J. Daruvala,PREMA Racing,Monte Carlo,Free Practice,17:44:15,Round 5 ,2022-05-29
+27,1:22.171,0.582,0.119,146.197,,,8,6,L. Sargeant,Carlin,Monte Carlo,Free Practice,17:47:39,Round 5 ,2022-05-29
+23,1:22.181,0.592,0.010,146.179,,,9,20,R. Verschoor,Trident,Monte Carlo,Free Practice,17:44:18,Round 5 ,2022-05-29
+27,1:22.187,0.598,0.006,146.169,,,10,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Free Practice,17:49:34,Round 5 ,2022-05-29
+26,1:22.286,0.697,0.099,145.993,,,11,16,R. Nissany,DAMS,Monte Carlo,Free Practice,17:47:28,Round 5 ,2022-05-29
+26,1:22.330,0.741,0.044,145.915,,,12,17,A. Iwasa,DAMS,Monte Carlo,Free Practice,17:46:38,Round 5 ,2022-05-29
+24,1:22.518,0.929,0.188,145.582,,,13,7,M. Armstrong,Hitech Grand Prix,Monte Carlo,Free Practice,17:40:45,Round 5 ,2022-05-29
+27,1:22.860,1.271,0.342,144.981,,,14,22,E. Fittipaldi,Charouz Racing System,Monte Carlo,Free Practice,17:43:39,Round 5 ,2022-05-29
+27,1:23.055,1.466,0.195,144.641,,,15,9,F. Vesti,ART Grand Prix,Monte Carlo,Free Practice,17:46:46,Round 5 ,2022-05-29
+25,1:23.614,2.025,0.559,143.674,,,16,8,J. Vips,Hitech Grand Prix,Monte Carlo,Free Practice,17:43:07,Round 5 ,2022-05-29
+27,1:23.672,2.083,0.058,143.574,,,17,25,A. Cordeel,Van Amersfoort Racing,Monte Carlo,Free Practice,17:50:57,Round 5 ,2022-05-29
+28,1:24.843,3.254,0.797,141.593,,,18,14,O. Caldwell,Campos Racing,Monte Carlo,Free Practice,17:44:51,Round 5 ,2022-05-29
+26,1:23.861,2.272,0.189,143.251,,,19,21,C. Williams,Trident,Monte Carlo,Free Practice,17:41:50,Round 5 ,2022-05-29
+26,1:23.862,2.273,0.001,143.249,,,20,23,C. Bölükbasi,Charouz Racing System,Monte Carlo,Free Practice,17:50:17,Round 5 ,2022-05-29
+25,1:24.018,2.429,0.156,142.983,,,21,4,M. Sato,Virtuosi Racing,Monte Carlo,Free Practice,17:29:10,Round 5 ,2022-05-29
+26,1:24.046,2.457,0.028,142.936,,,22,12,C. Novalak,MP Motorsport,Monte Carlo,Free Practice,17:40:53,Round 5 ,2022-05-29
+26,1:03:29.334,-,-,147.402,1:56.633,21.0,1,1,D. Hauger,PREMA Racing,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:29.826,0.492,0.492,147.383,1:56.720,20.0,2,6,L. Sargeant,Carlin,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:30.280,0.946,0.454,147.366,1:57.277,21.0,3,11,F. Drugovich,MP Motorsport,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:30.998,1.664,0.718,147.338,1:57.247,22.0,4,2,J. Daruvala,PREMA Racing,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:32.110,2.776,1.112,147.295,1:57.412,19.0,5,20,R. Verschoor,Trident,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:32.304,2.970,0.194,147.287,1:57.620,20.0,6,22,E. Fittipaldi,Charouz Racing System,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:32.483,3.149,0.179,147.281,1:56.857,20.0,7,9,F. Vesti,ART Grand Prix,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:34.125,4.791,1.642,147.217,1:58.156,20.0,8,4,M. Sato,Virtuosi Racing,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:34.245,4.911,0.120,147.212,1:58.729,19.0,9,15,R. Boschung,Campos Racing,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:34.597,5.263,0.352,147.199,1:58.534,20.0,10,24,J. Hughes,Van Amersfoort Racing,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:34.641,5.307,0.044,147.197,1:56.767,20.0,11,10,T. Pourchaire,ART Grand Prix,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:35.349,6.015,0.708,147.17,1:57.086,18.0,12,7,M. Armstrong,Hitech Grand Prix,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:36.236,6.902,0.887,147.136,1:57.343,20.0,13,3,J. Doohan,Virtuosi Racing,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:36.613,7.279,0.377,147.121,1:57.832,22.0,14,17,A. Iwasa,DAMS,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:40.909,11.575,4.296,146.956,1:58.332,11.0,15,5,L. Lawson,Carlin,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:41.532,12.198,0.623,146.932,1:57.529,21.0,16,21,C. Williams,Trident,Baku,Feature Race,,Round 6 ,2022-06-12
+21,48:36.014,-,-,155.504,1:57.581,11.0,1,9,F. Vesti,ART Grand Prix,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:36.394,0.380,0.380,155.483,1:57.540,10.0,2,2,J. Daruvala,PREMA Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:37.116,1.102,0.722,155.445,1:57.553,13.0,3,5,L. Lawson,Carlin,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:37.531,1.517,0.415,155.423,1:57.627,11.0,4,7,M. Armstrong,Hitech Grand Prix,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:37.778,1.764,0.247,155.41,1:57.637,11.0,5,11,F. Drugovich,MP Motorsport,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:38.192,2.178,0.414,155.388,1:57.561,11.0,6,6,L. Sargeant,Carlin,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:38.682,2.668,0.490,155.362,1:57.683,5.0,7,10,T. Pourchaire,ART Grand Prix,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:39.260,3.246,0.578,155.331,1:58.083,5.0,8,17,A. Iwasa,DAMS,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:41.510,5.496,2.250,155.211,1:58.351,4.0,9,24,J. Hughes,Van Amersfoort Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:43.395,7.381,1.885,155.111,1:58.361,6.0,10,16,R. Nissany,DAMS,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:43.587,7.573,0.192,155.101,1:57.798,13.0,11,3,J. Doohan,Virtuosi Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:44.041,8.027,0.454,155.077,1:57.867,12.0,12,8,J. Vips,Hitech Grand Prix,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:45.011,8.997,0.970,155.025,1:59.372,7.0,13,25,A. Cordeel,Van Amersfoort Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:45.304,9.290,0.293,155.01,1:59.279,12.0,14,12,C. Novalak,MP Motorsport,Baku,Sprint Race,,Round 6 ,2022-06-12
+20,46:36.325,DNF,-,154.431,1:58.371,7.0,15,15,R. Boschung,Campos Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+20,46:36.598,DNF,-,154.416,1:57.911,13.0,16,21,C. Williams,Trident,Baku,Sprint Race,,Round 6 ,2022-06-12
+20,46:37.164,DNF,-,154.385,1:58.497,9.0,17,4,M. Sato,Virtuosi Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+20,46:37.229,DNF,-,154.381,1:58.493,11.0,18,23,C. Bölükbasi,Charouz Racing System,Baku,Sprint Race,,Round 6 ,2022-06-12
+20,48:46.667,1 LAP,129.438,147.554,1:58.354,9.0,19,14,O. Caldwell,Campos Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+18,40:44.593,DNF,-,158.971,1:57.353,13.0,20,20,R. Verschoor,Trident,Baku,Sprint Race,,Round 6 ,2022-06-12
+12,1:53.762,-,-,189.965,,,1,8,J. Vips,Hitech Grand Prix,Baku,Qualifying Session,17:08:55,Round 6 ,2022-06-12
+12,1:53.925,0.163,0.163,189.693,,,2,5,L. Lawson,Carlin,Baku,Qualifying Session,17:10:56,Round 6 ,2022-06-12
+11,1:53.973,0.211,0.048,189.613,,,3,1,D. Hauger,PREMA Racing,Baku,Qualifying Session,17:08:32,Round 6 ,2022-06-12
+12,1:53.977,0.215,0.004,189.606,,,4,7,M. Armstrong,Hitech Grand Prix,Baku,Qualifying Session,17:10:48,Round 6 ,2022-06-12
+11,1:54.000,0.238,0.023,189.568,,,5,11,F. Drugovich,MP Motorsport,Baku,Qualifying Session,17:08:43,Round 6 ,2022-06-12
+13,1:54.029,0.267,0.029,189.52,,,6,20,R. Verschoor,Trident,Baku,Qualifying Session,17:10:22,Round 6 ,2022-06-12
+12,1:54.194,0.432,0.165,189.246,,,7,6,L. Sargeant,Carlin,Baku,Qualifying Session,17:11:00,Round 6 ,2022-06-12
+12,1:54.201,0.439,0.007,189.234,,,8,2,J. Daruvala,PREMA Racing,Baku,Qualifying Session,17:10:33,Round 6 ,2022-06-12
+12,1:54.247,0.485,0.046,189.158,,,9,9,F. Vesti,ART Grand Prix,Baku,Qualifying Session,17:10:46,Round 6 ,2022-06-12
+13,1:54.356,0.594,0.109,188.978,,,10,24,J. Hughes,Van Amersfoort Racing,Baku,Qualifying Session,17:10:29,Round 6 ,2022-06-12
+12,1:54.363,0.601,0.007,188.966,,,11,3,J. Doohan,Virtuosi Racing,Baku,Qualifying Session,17:10:52,Round 6 ,2022-06-12
+12,1:54.440,0.678,0.077,188.839,,,12,10,T. Pourchaire,ART Grand Prix,Baku,Qualifying Session,17:10:42,Round 6 ,2022-06-12
+8,1:54.483,0.721,0.043,188.768,,,13,17,A. Iwasa,DAMS,Baku,Qualifying Session,16:36:57,Round 6 ,2022-06-12
+12,1:54.727,0.965,0.244,188.367,,,14,16,R. Nissany,DAMS,Baku,Qualifying Session,17:10:25,Round 6 ,2022-06-12
+12,1:54.732,0.970,0.005,188.358,,,15,4,M. Sato,Virtuosi Racing,Baku,Qualifying Session,17:10:54,Round 6 ,2022-06-12
+12,1:54.738,0.976,0.006,188.349,,,16,22,E. Fittipaldi,Charouz Racing System,Baku,Qualifying Session,17:10:18,Round 6 ,2022-06-12
+13,1:55.010,1.248,0.272,187.903,,,17,21,C. Williams,Trident,Baku,Qualifying Session,17:08:31,Round 6 ,2022-06-12
+11,1:55.140,1.378,0.130,187.691,,,18,15,R. Boschung,Campos Racing,Baku,Qualifying Session,17:10:33,Round 6 ,2022-06-12
+12,1:55.321,1.559,0.181,187.396,,,19,25,A. Cordeel,Van Amersfoort Racing,Baku,Qualifying Session,17:08:27,Round 6 ,2022-06-12
+13,1:55.456,1.694,0.135,187.177,,,20,12,C. Novalak,MP Motorsport,Baku,Qualifying Session,17:10:45,Round 6 ,2022-06-12
+12,1:55.732,1.970,0.276,186.731,,,21,23,C. Bölükbasi,Charouz Racing System,Baku,Qualifying Session,17:10:20,Round 6 ,2022-06-12
+12,1:56.247,2.485,0.515,185.904,,,22,14,O. Caldwell,Campos Racing,Baku,Qualifying Session,17:10:39,Round 6 ,2022-06-12
+11,1:55.924,-,-,186.422,,,1,8,J. Vips,Hitech Grand Prix,Baku,Free Practice,13:20:57,Round 6 ,2022-06-12
+14,1:56.001,0.077,0.077,186.298,,,2,5,L. Lawson,Carlin,Baku,Free Practice,13:21:01,Round 6 ,2022-06-12
+11,1:56.238,0.314,0.237,185.918,,,3,7,M. Armstrong,Hitech Grand Prix,Baku,Free Practice,13:20:55,Round 6 ,2022-06-12
+12,1:56.414,0.490,0.176,185.637,,,4,3,J. Doohan,Virtuosi Racing,Baku,Free Practice,13:21:04,Round 6 ,2022-06-12
+14,1:56.532,0.608,0.118,185.449,,,5,9,F. Vesti,ART Grand Prix,Baku,Free Practice,13:20:51,Round 6 ,2022-06-12
+12,1:56.698,0.774,0.166,185.185,,,6,2,J. Daruvala,PREMA Racing,Baku,Free Practice,13:20:16,Round 6 ,2022-06-12
+12,1:56.698,0.774,0.000,185.185,,,7,11,F. Drugovich,MP Motorsport,Baku,Free Practice,13:20:45,Round 6 ,2022-06-12
+9,1:56.911,0.987,0.213,184.848,,,8,15,R. Boschung,Campos Racing,Baku,Free Practice,12:54:16,Round 6 ,2022-06-12
+14,1:56.920,0.996,0.009,184.834,,,9,20,R. Verschoor,Trident,Baku,Free Practice,13:20:34,Round 6 ,2022-06-12
+12,1:56.953,1.029,0.033,184.781,,,10,1,D. Hauger,PREMA Racing,Baku,Free Practice,13:20:13,Round 6 ,2022-06-12
+12,1:57.183,1.259,0.230,184.419,,,11,17,A. Iwasa,DAMS,Baku,Free Practice,13:20:48,Round 6 ,2022-06-12
+14,1:57.247,1.323,0.064,184.318,,,12,6,L. Sargeant,Carlin,Baku,Free Practice,13:21:00,Round 6 ,2022-06-12
+12,1:57.353,1.429,0.106,184.152,,,13,4,M. Sato,Virtuosi Racing,Baku,Free Practice,13:21:09,Round 6 ,2022-06-12
+14,1:57.481,1.557,0.128,183.951,,,14,22,E. Fittipaldi,Charouz Racing System,Baku,Free Practice,13:20:26,Round 6 ,2022-06-12
+14,1:57.548,1.624,0.067,183.846,,,15,10,T. Pourchaire,ART Grand Prix,Baku,Free Practice,13:20:49,Round 6 ,2022-06-12
+13,1:57.643,1.719,0.095,183.698,,,16,21,C. Williams,Trident,Baku,Free Practice,13:21:15,Round 6 ,2022-06-12
+12,1:57.724,1.800,0.081,183.571,,,17,16,R. Nissany,DAMS,Baku,Free Practice,13:20:37,Round 6 ,2022-06-12
+12,1:58.083,2.159,0.359,183.013,,,18,25,A. Cordeel,Van Amersfoort Racing,Baku,Free Practice,13:20:32,Round 6 ,2022-06-12
+13,1:58.236,2.312,0.153,182.776,,,19,23,C. Bölükbasi,Charouz Racing System,Baku,Free Practice,13:20:40,Round 6 ,2022-06-12
+12,1:58.820,2.896,0.584,181.878,,,20,24,J. Hughes,Van Amersfoort Racing,Baku,Free Practice,13:20:25,Round 6 ,2022-06-12
+13,1:59.820,3.896,1.000,180.36,,,21,14,O. Caldwell,Campos Racing,Baku,Free Practice,13:20:48,Round 6 ,2022-06-12
+7,1:59.823,3.899,0.003,180.356,,,22,12,C. Novalak,MP Motorsport,Baku,Free Practice,12:50:37,Round 6 ,2022-06-12
+29,53:50.586,-,-,190.224,1:42.487,26.0,1,6,L. Sargeant,Carlin,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,53:52.267,1.681,1.681,190.126,1:42.538,26.0,2,10,T. Pourchaire,ART Grand Prix,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,53:59.580,8.994,7.313,189.696,1:43.123,13.0,3,5,L. Lawson,Carlin,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:01.898,11.312,2.318,189.561,1:43.068,27.0,4,11,F. Drugovich,MP Motorsport,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:02.547,11.961,0.649,189.523,1:43.223,25.0,5,9,F. Vesti,ART Grand Prix,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:02.862,12.276,0.315,189.504,1:42.033,24.0,6,8,J. Vips,Hitech Grand Prix,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:04.485,13.899,1.623,189.41,1:41.581,25.0,7,2,J. Daruvala,PREMA Racing,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:07.906,17.320,3.421,189.21,1:43.102,27.0,8,7,M. Armstrong,Hitech Grand Prix,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:11.619,21.033,3.713,188.994,1:41.134,29.0,9,3,J. Doohan,Virtuosi Racing,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:18.883,28.297,7.264,188.573,1:41.195,26.0,10,24,J. Hughes,Van Amersfoort Racing,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:19.703,29.117,0.820,188.525,1:43.961,13.0,11,22,E. Fittipaldi,Charouz Racing System,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:21.172,30.586,1.469,188.44,1:43.265,13.0,12,17,A. Iwasa,DAMS,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:24.747,34.161,3.575,188.234,1:43.668,28.0,13,12,C. Novalak,MP Motorsport,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:25.590,35.004,0.843,188.185,1:43.372,27.0,14,20,R. Verschoor,Trident,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:26.012,35.426,0.422,188.161,1:42.130,25.0,15,4,M. Sato,Virtuosi Racing,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:26.977,36.391,0.965,188.106,1:41.970,26.0,16,21,C. Williams,Trident,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:41.752,51.166,14.775,187.259,1:44.148,24.0,17,14,O. Caldwell,Campos Racing,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:51.664,61.078,9.912,186.695,1:44.468,12.0,18,23,C. Bölükbasi,Charouz Racing System,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:53.793,63.207,2.129,186.574,1:40.842,27.0,19,25,D. Beckmann,Van Amersfoort Racing,Silverstone,Feature Race,,Round 7 ,2022-07-03
+20,40:42.488,-,-,173.458,2:00.164,19.0,1,3,J. Doohan,Virtuosi Racing,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,40:43.420,0.932,0.932,173.392,1:58.954,20.0,2,17,A. Iwasa,DAMS,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,40:59.210,16.722,15.790,172.278,2:01.157,19.0,3,22,E. Fittipaldi,Charouz Racing System,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:00.376,17.888,1.166,172.197,2:01.204,19.0,4,10,T. Pourchaire,ART Grand Prix,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:04.205,21.717,3.829,171.929,1:59.295,20.0,5,11,F. Drugovich,MP Motorsport,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:09.318,26.830,5.113,171.573,1:59.964,20.0,6,9,F. Vesti,ART Grand Prix,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:10.772,28.284,1.454,171.472,1:59.774,19.0,7,6,L. Sargeant,Carlin,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:18.779,36.291,8.007,170.918,2:01.532,2.0,8,2,J. Daruvala,PREMA Racing,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:21.187,38.699,2.408,170.752,2:00.719,20.0,9,7,M. Armstrong,Hitech Grand Prix,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:26.258,43.770,5.071,170.404,2:01.564,17.0,10,20,R. Verschoor,Trident,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:27.099,44.611,0.841,170.346,2:00.996,18.0,11,24,J. Hughes,Van Amersfoort Racing,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:30.601,48.113,3.502,170.107,2:01.974,19.0,12,8,J. Vips,Hitech Grand Prix,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:31.936,49.448,1.335,170.016,2:01.664,20.0,13,12,C. Novalak,MP Motorsport,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:36.997,54.509,5.061,169.671,2:01.970,18.0,14,16,R. Nissany,DAMS,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:37.723,55.235,0.726,169.622,2:02.608,2.0,15,1,D. Hauger,PREMA Racing,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:41.191,58.703,3.468,169.387,2:01.236,20.0,16,25,D. Beckmann,Van Amersfoort Racing,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:48.565,66.077,7.374,168.889,2:02.256,19.0,17,21,C. Williams,Trident,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:48.899,66.411,0.334,168.866,2:03.055,2.0,18,14,O. Caldwell,Campos Racing,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,42:04.199,81.711,15.300,167.843,2:03.039,2.0,19,23,C. Bölükbasi,Charouz Racing System,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,42:17.513,95.025,13.314,166.962,2:01.680,18.0,20,5,L. Lawson,Carlin,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+13,1:38.432,-,-,215.454,,,1,6,L. Sargeant,Carlin,Silverstone,Qualifying Session,17:53:07,Round 7 ,2022-07-03
+12,1:38.539,0.107,0.107,215.22,,,2,9,F. Vesti,ART Grand Prix,Silverstone,Qualifying Session,17:53:37,Round 7 ,2022-07-03
+12,1:38.553,0.121,0.014,215.189,,,3,11,F. Drugovich,MP Motorsport,Silverstone,Qualifying Session,17:53:24,Round 7 ,2022-07-03
+12,1:38.553,0.121,0.000,215.189,,,4,10,T. Pourchaire,ART Grand Prix,Silverstone,Qualifying Session,17:54:04,Round 7 ,2022-07-03
+13,1:38.625,0.193,0.072,215.032,,,5,5,L. Lawson,Carlin,Silverstone,Qualifying Session,17:56:55,Round 7 ,2022-07-03
+12,1:38.734,0.302,0.109,214.795,,,6,17,A. Iwasa,DAMS,Silverstone,Qualifying Session,17:57:39,Round 7 ,2022-07-03
+12,1:38.901,0.469,0.167,214.432,,,7,3,J. Doohan,Virtuosi Racing,Silverstone,Qualifying Session,17:56:45,Round 7 ,2022-07-03
+10,1:39.013,0.581,0.112,214.19,,,8,8,J. Vips,Hitech Grand Prix,Silverstone,Qualifying Session,17:58:23,Round 7 ,2022-07-03
+14,1:39.077,0.645,0.064,214.051,,,9,22,E. Fittipaldi,Charouz Racing System,Silverstone,Qualifying Session,17:57:14,Round 7 ,2022-07-03
+8,1:39.115,0.683,0.038,213.969,,,10,2,J. Daruvala,PREMA Racing,Silverstone,Qualifying Session,17:47:28,Round 7 ,2022-07-03
+12,1:39.222,0.790,0.107,213.738,,,11,16,R. Nissany,DAMS,Silverstone,Qualifying Session,17:57:31,Round 7 ,2022-07-03
+12,1:39.266,0.834,0.044,213.644,,,12,7,M. Armstrong,Hitech Grand Prix,Silverstone,Qualifying Session,17:56:53,Round 7 ,2022-07-03
+11,1:39.429,0.997,0.163,213.293,,,13,1,D. Hauger,PREMA Racing,Silverstone,Qualifying Session,18:01:12,Round 7 ,2022-07-03
+12,1:39.448,1.016,0.019,213.253,,,14,24,J. Hughes,Van Amersfoort Racing,Silverstone,Qualifying Session,17:57:59,Round 7 ,2022-07-03
+12,1:39.492,1.060,0.044,213.158,,,15,20,R. Verschoor,Trident,Silverstone,Qualifying Session,17:53:27,Round 7 ,2022-07-03
+12,1:39.580,1.148,0.088,212.97,,,16,14,O. Caldwell,Campos Racing,Silverstone,Qualifying Session,17:57:44,Round 7 ,2022-07-03
+12,1:39.597,1.165,0.017,212.934,,,17,15,R. Boschung,Campos Racing,Silverstone,Qualifying Session,17:53:20,Round 7 ,2022-07-03
+12,1:39.660,1.228,0.063,212.799,,,18,12,C. Novalak,MP Motorsport,Silverstone,Qualifying Session,17:57:19,Round 7 ,2022-07-03
+12,1:39.677,1.245,0.017,212.763,,,19,4,M. Sato,Virtuosi Racing,Silverstone,Qualifying Session,17:53:17,Round 7 ,2022-07-03
+14,1:39.691,1.259,0.014,212.733,,,20,23,C. Bölükbasi,Charouz Racing System,Silverstone,Qualifying Session,17:54:08,Round 7 ,2022-07-03
+12,1:39.912,1.480,0.221,212.262,,,21,21,C. Williams,Trident,Silverstone,Qualifying Session,17:58:07,Round 7 ,2022-07-03
+9,1:40.291,1.859,0.379,211.46,,,22,25,D. Beckmann,Van Amersfoort Racing,Silverstone,Qualifying Session,17:41:16,Round 7 ,2022-07-03
+15,1:40.902,-,-,210.18,,,1,6,L. Sargeant,Carlin,Silverstone,Free Practice,11:27:20,Round 7 ,2022-07-03
+13,1:40.939,0.037,0.037,210.103,,,2,11,F. Drugovich,MP Motorsport,Silverstone,Free Practice,11:27:08,Round 7 ,2022-07-03
+13,1:41.082,0.180,0.143,209.805,,,3,3,J. Doohan,Virtuosi Racing,Silverstone,Free Practice,11:07:16,Round 7 ,2022-07-03
+13,1:41.090,0.188,0.008,209.789,,,4,17,A. Iwasa,DAMS,Silverstone,Free Practice,11:27:02,Round 7 ,2022-07-03
+14,1:41.149,0.247,0.059,209.666,,,5,10,T. Pourchaire,ART Grand Prix,Silverstone,Free Practice,11:06:53,Round 7 ,2022-07-03
+14,1:41.176,0.274,0.027,209.61,,,6,5,L. Lawson,Carlin,Silverstone,Free Practice,11:27:18,Round 7 ,2022-07-03
+13,1:41.277,0.375,0.101,209.401,,,7,16,R. Nissany,DAMS,Silverstone,Free Practice,11:26:53,Round 7 ,2022-07-03
+10,1:41.294,0.392,0.017,209.366,,,8,2,J. Daruvala,PREMA Racing,Silverstone,Free Practice,11:27:24,Round 7 ,2022-07-03
+12,1:41.339,0.437,0.045,209.273,,,9,8,J. Vips,Hitech Grand Prix,Silverstone,Free Practice,11:06:35,Round 7 ,2022-07-03
+13,1:41.562,0.660,0.223,208.814,,,10,7,M. Armstrong,Hitech Grand Prix,Silverstone,Free Practice,11:13:30,Round 7 ,2022-07-03
+14,1:41.697,0.795,0.135,208.537,,,11,15,R. Boschung,Campos Racing,Silverstone,Free Practice,11:27:12,Round 7 ,2022-07-03
+14,1:41.945,1.043,0.248,208.029,,,12,9,F. Vesti,ART Grand Prix,Silverstone,Free Practice,11:06:44,Round 7 ,2022-07-03
+13,1:42.032,1.130,0.087,207.852,,,13,22,E. Fittipaldi,Charouz Racing System,Silverstone,Free Practice,11:01:53,Round 7 ,2022-07-03
+13,1:42.060,1.158,0.028,207.795,,,14,12,C. Novalak,MP Motorsport,Silverstone,Free Practice,11:27:15,Round 7 ,2022-07-03
+14,1:42.704,1.802,0.644,206.492,,,15,14,O. Caldwell,Campos Racing,Silverstone,Free Practice,11:06:21,Round 7 ,2022-07-03
+10,1:42.876,1.974,0.172,206.147,,,16,21,C. Williams,Trident,Silverstone,Free Practice,11:10:46,Round 7 ,2022-07-03
+12,1:43.016,2.114,0.140,205.867,,,17,20,R. Verschoor,Trident,Silverstone,Free Practice,10:58:10,Round 7 ,2022-07-03
+11,1:43.032,2.130,0.016,205.835,,,18,24,J. Hughes,Van Amersfoort Racing,Silverstone,Free Practice,10:55:01,Round 7 ,2022-07-03
+13,1:43.446,2.544,0.414,205.011,,,19,23,C. Bölükbasi,Charouz Racing System,Silverstone,Free Practice,11:06:27,Round 7 ,2022-07-03
+11,1:43.806,2.904,0.360,204.3,,,20,4,M. Sato,Virtuosi Racing,Silverstone,Free Practice,11:10:20,Round 7 ,2022-07-03
+12,1:44.323,3.421,0.517,203.287,,,21,25,D. Beckmann,Van Amersfoort Racing,Silverstone,Free Practice,11:08:37,Round 7 ,2022-07-03
+10,2:05.632,24.730,21.309,168.807,,,22,1,D. Hauger,PREMA Racing,Silverstone,Free Practice,10:56:57,Round 7 ,2022-07-03
+40,55:44.500,14.101,0.365,185.779,1:17.638,22.0,1,6,L. Sargeant,Carlin,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:45.014,14.615,0.514,185.75,1:17.585,22.0,2,22,E. Fittipaldi,Charouz Racing System,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:46.118,15.719,1.104,185.689,1:17.868,18.0,3,15,R. Merhi,Campos Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:50.499,20.100,4.381,185.446,1:17.801,20.0,4,1,D. Hauger,PREMA Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:54.637,24.238,4.138,185.217,1:17.677,20.0,5,24,J. Hughes,Van Amersfoort Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:56.652,26.253,2.015,185.106,1:17.929,22.0,6,14,O. Caldwell,Campos Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:57.645,27.246,0.993,185.051,1:18.083,25.0,7,17,A. Iwasa,DAMS,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:58.372,27.973,0.727,185.011,1:18.022,27.0,8,8,J. Vips,Hitech Grand Prix,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:58.942,28.543,0.570,184.98,1:17.780,22.0,9,16,R. Nissany,DAMS,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:00.464,30.065,1.522,184.896,1:17.517,20.0,10,5,L. Lawson,Carlin,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:03.506,33.107,3.042,184.729,1:18.252,23.0,11,11,F. Drugovich,MP Motorsport,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:44.135,13.736,13.736,185.799,1:17.547,19.0,12,2,J. Daruvala,PREMA Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:04.342,33.943,0.836,184.683,1:18.113,26.0,13,10,T. Pourchaire,ART Grand Prix,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:11.260,40.861,6.918,184.304,1:17.900,20.0,14,9,F. Vesti,ART Grand Prix,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:13.449,43.050,2.189,184.184,1:18.213,25.0,15,21,C. Williams,Trident,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:16.556,46.157,3.107,184.015,1:18.438,26.0,16,4,M. Sato,Virtuosi Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:43.106,72.707,26.550,182.579,1:18.237,19.0,17,12,C. Novalak,MP Motorsport,Spielberg,Feature Race,,Round 8 ,2022-07-10
+39,55:39.467,1 LAP,1 LAP,181.404,1:16.650,28.0,18,25,A. Cordeel,Van Amersfoort Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+39,55:46.082,1 LAP,6.615,181.045,1:16.536,39.0,19,3,J. Doohan,Virtuosi Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+28,36:38.856,-,-,197.739,1:17.338,7.0,1,7,M. Armstrong,Hitech Grand Prix,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:39.954,1.098,1.098,197.64,1:17.406,7.0,2,10,T. Pourchaire,ART Grand Prix,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:41.025,2.169,1.071,197.544,1:17.419,22.0,3,3,J. Doohan,Virtuosi Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:43.909,5.053,2.884,197.286,1:17.328,9.0,4,11,F. Drugovich,MP Motorsport,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:50.828,11.972,6.919,196.668,1:17.519,7.0,5,8,J. Vips,Hitech Grand Prix,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:53.688,14.832,2.860,196.414,1:17.646,8.0,6,20,R. Verschoor,Trident,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:54.147,15.291,0.459,196.373,1:17.735,5.0,7,6,L. Sargeant,Carlin,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:56.394,17.538,1.647,196.174,1:17.617,4.0,8,22,E. Fittipaldi,Charouz Racing System,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:58.193,19.337,1.799,196.015,1:17.426,14.0,9,1,D. Hauger,PREMA Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:54.747,15.891,0.600,196.32,1:17.662,6.0,10,17,A. Iwasa,DAMS,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:00.500,21.644,2.307,195.812,1:17.825,4.0,11,2,J. Daruvala,PREMA Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:00.892,22.036,0.392,195.777,1:17.738,16.0,12,9,F. Vesti,ART Grand Prix,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:10.556,31.700,9.664,194.929,1:17.800,20.0,13,16,R. Nissany,DAMS,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:13.421,34.565,2.865,194.679,1:18.064,20.0,14,21,C. Williams,Trident,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:17.529,38.673,4.108,194.321,1:18.252,11.0,15,12,C. Novalak,MP Motorsport,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:19.101,40.245,0.124,194.185,1:18.209,10.0,16,24,J. Hughes,Van Amersfoort Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:32.415,53.559,13.314,193.037,1:18.415,8.0,17,14,O. Caldwell,Campos Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:18.977,40.121,1.448,194.196,1:18.361,20.0,18,25,A. Cordeel,Van Amersfoort Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+26,34:42.061,2 LAPS,-,193.899,1:18.170,19.0,19,15,R. Merhi,Campos Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+15,1:14.123,-,-,209.716,,,1,9,F. Vesti,ART Grand Prix,Spielberg,Qualifying Session,16:20:30,Round 8 ,2022-07-10
+14,1:14.158,0.035,0.035,209.617,,,2,8,J. Vips,Hitech Grand Prix,Spielberg,Qualifying Session,16:23:02,Round 8 ,2022-07-10
+15,1:14.288,0.165,0.130,209.25,,,3,6,L. Sargeant,Carlin,Spielberg,Qualifying Session,16:23:07,Round 8 ,2022-07-10
+17,1:14.307,0.184,0.019,209.196,,,4,17,A. Iwasa,DAMS,Spielberg,Qualifying Session,16:25:37,Round 8 ,2022-07-10
+16,1:14.315,0.192,0.008,209.174,,,5,11,F. Drugovich,MP Motorsport,Spielberg,Qualifying Session,16:20:09,Round 8 ,2022-07-10
+16,1:14.318,0.195,0.003,209.166,,,6,3,J. Doohan,Virtuosi Racing,Spielberg,Qualifying Session,16:23:08,Round 8 ,2022-07-10
+15,1:14.457,0.334,0.139,208.775,,,7,25,A. Cordeel,Van Amersfoort Racing,Spielberg,Qualifying Session,16:14:57,Round 8 ,2022-07-10
+16,1:14.568,0.445,0.111,208.464,,,8,20,R. Verschoor,Trident,Spielberg,Qualifying Session,16:23:31,Round 8 ,2022-07-10
+15,1:14.616,0.493,0.048,208.33,,,9,10,T. Pourchaire,ART Grand Prix,Spielberg,Qualifying Session,16:20:12,Round 8 ,2022-07-10
+14,1:14.670,0.547,0.054,208.179,,,10,7,M. Armstrong,Hitech Grand Prix,Spielberg,Qualifying Session,16:20:24,Round 8 ,2022-07-10
+15,1:14.702,0.579,0.032,208.09,,,11,2,J. Daruvala,PREMA Racing,Spielberg,Qualifying Session,16:23:29,Round 8 ,2022-07-10
+17,1:14.740,0.617,0.038,207.985,,,12,22,E. Fittipaldi,Charouz Racing System,Spielberg,Qualifying Session,16:20:37,Round 8 ,2022-07-10
+16,1:14.765,0.642,0.025,207.915,,,13,23,C. Bölükbasi,Charouz Racing System,Spielberg,Qualifying Session,16:23:15,Round 8 ,2022-07-10
+15,1:14.792,0.669,0.027,207.84,,,14,5,L. Lawson,Carlin,Spielberg,Qualifying Session,16:20:21,Round 8 ,2022-07-10
+16,1:14.794,0.671,0.002,207.834,,,15,1,D. Hauger,PREMA Racing,Spielberg,Qualifying Session,16:20:33,Round 8 ,2022-07-10
+18,1:14.836,0.713,0.042,207.718,,,16,21,C. Williams,Trident,Spielberg,Qualifying Session,16:23:34,Round 8 ,2022-07-10
+17,1:14.895,0.772,0.059,207.554,,,17,16,R. Nissany,DAMS,Spielberg,Qualifying Session,16:25:47,Round 8 ,2022-07-10
+14,1:14.936,0.813,0.041,207.441,,,18,4,M. Sato,Virtuosi Racing,Spielberg,Qualifying Session,16:23:26,Round 8 ,2022-07-10
+16,1:15.005,0.882,0.069,207.25,,,19,24,J. Hughes,Van Amersfoort Racing,Spielberg,Qualifying Session,16:20:23,Round 8 ,2022-07-10
+16,1:15.123,1.000,0.118,206.924,,,20,12,C. Novalak,MP Motorsport,Spielberg,Qualifying Session,16:22:59,Round 8 ,2022-07-10
+16,1:15.200,1.077,0.077,206.712,,,21,15,R. Merhi,Campos Racing,Spielberg,Qualifying Session,16:23:00,Round 8 ,2022-07-10
+16,1:15.656,1.533,0.456,205.466,,,22,14,O. Caldwell,Campos Racing,Spielberg,Qualifying Session,16:20:54,Round 8 ,2022-07-10
+26,1:15.038,-,-,207.159,,,1,24,J. Hughes,Van Amersfoort Racing,Spielberg,Free Practice,11:47:02,Round 8 ,2022-07-10
+25,1:15.468,0.430,0.430,205.978,,,2,10,T. Pourchaire,ART Grand Prix,Spielberg,Free Practice,11:47:54,Round 8 ,2022-07-10
+26,1:15.558,0.520,0.090,205.733,,,3,9,F. Vesti,ART Grand Prix,Spielberg,Free Practice,11:50:39,Round 8 ,2022-07-10
+24,1:15.582,0.544,0.024,205.668,,,4,7,M. Armstrong,Hitech Grand Prix,Spielberg,Free Practice,11:45:13,Round 8 ,2022-07-10
+24,1:15.601,0.563,0.019,205.616,,,5,17,A. Iwasa,DAMS,Spielberg,Free Practice,11:42:03,Round 8 ,2022-07-10
+25,1:15.626,0.588,0.025,205.548,,,6,1,D. Hauger,PREMA Racing,Spielberg,Free Practice,11:45:53,Round 8 ,2022-07-10
+26,1:15.630,0.592,0.004,205.537,,,7,25,A. Cordeel,Van Amersfoort Racing,Spielberg,Free Practice,11:47:15,Round 8 ,2022-07-10
+25,1:15.637,0.599,0.007,205.518,,,8,5,L. Lawson,Carlin,Spielberg,Free Practice,11:45:15,Round 8 ,2022-07-10
+24,1:15.659,0.621,0.022,205.458,,,9,11,F. Drugovich,MP Motorsport,Spielberg,Free Practice,11:48:52,Round 8 ,2022-07-10
+25,1:15.698,0.660,0.039,205.352,,,10,6,L. Sargeant,Carlin,Spielberg,Free Practice,11:50:44,Round 8 ,2022-07-10
+24,1:15.810,0.772,0.112,205.049,,,11,16,R. Nissany,DAMS,Spielberg,Free Practice,11:50:28,Round 8 ,2022-07-10
+23,1:15.975,0.937,0.165,204.604,,,12,20,R. Verschoor,Trident,Spielberg,Free Practice,11:51:10,Round 8 ,2022-07-10
+24,1:16.043,1.005,0.068,204.421,,,13,15,R. Merhi,Campos Racing,Spielberg,Free Practice,11:50:30,Round 8 ,2022-07-10
+23,1:16.055,1.017,0.012,204.388,,,14,3,J. Doohan,Virtuosi Racing,Spielberg,Free Practice,11:47:49,Round 8 ,2022-07-10
+23,1:16.301,1.263,0.246,203.729,,,15,2,J. Daruvala,PREMA Racing,Spielberg,Free Practice,11:44:29,Round 8 ,2022-07-10
+23,1:16.315,1.277,0.014,203.692,,,16,8,J. Vips,Hitech Grand Prix,Spielberg,Free Practice,11:22:01,Round 8 ,2022-07-10
+14,1:16.506,1.468,0.191,203.184,,,17,22,E. Fittipaldi,Charouz Racing System,Spielberg,Free Practice,11:20:17,Round 8 ,2022-07-10
+25,1:16.528,1.490,0.022,203.125,,,18,14,O. Caldwell,Campos Racing,Spielberg,Free Practice,11:32:06,Round 8 ,2022-07-10
+25,1:16.568,1.530,0.040,203.019,,,19,23,C. Bölükbasi,Charouz Racing System,Spielberg,Free Practice,11:50:52,Round 8 ,2022-07-10
+25,1:16.659,1.621,0.091,202.778,,,20,4,M. Sato,Virtuosi Racing,Spielberg,Free Practice,11:48:06,Round 8 ,2022-07-10
+20,1:16.793,1.755,0.134,202.424,,,21,12,C. Novalak,MP Motorsport,Spielberg,Free Practice,11:17:34,Round 8 ,2022-07-10
+3,1:28.139,13.101,11.346,176.366,,,22,21,C. Williams,Trident,Spielberg,Free Practice,11:12:17,Round 8 ,2022-07-10
+30,57:54.568,-,-,181.653,1:47.520,21.0,1,17,A. Iwasa,DAMS,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:03.217,8.649,8.649,181.202,1:47.643,19.0,2,10,T. Pourchaire,ART Grand Prix,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:04.455,9.887,1.238,181.137,1:47.740,18.0,3,9,F. Vesti,ART Grand Prix,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:04.821,10.253,0.366,181.118,1:46.901,29.0,4,11,F. Drugovich,MP Motorsport,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:10.618,16.050,5.797,180.817,1:47.631,18.0,5,3,J. Doohan,Virtuosi Racing,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:14.248,19.680,3.630,180.63,1:47.929,25.0,6,5,L. Lawson,Carlin,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:22.126,27.558,7.878,180.223,1:47.315,20.0,7,2,J. Daruvala,PREMA Racing,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:27.420,32.852,5.294,179.951,1:48.321,17.0,8,12,C. Novalak,MP Motorsport,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:31.082,36.514,3.662,179.764,1:48.411,28.0,9,16,R. Nissany,DAMS,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:32.254,37.686,1.172,179.704,1:48.392,28.0,10,22,E. Fittipaldi,Charouz Racing System,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:34.782,40.214,2.528,179.574,1:47.766,20.0,11,21,C. Williams,Trident,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:40.152,45.584,5.370,179.3,1:48.295,20.0,12,8,J. Vips,Hitech Grand Prix,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:41.044,46.476,0.892,179.255,1:48.445,23.0,13,14,O. Caldwell,Campos Racing,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:43.069,48.501,2.025,179.152,1:48.797,10.0,14,24,D. Beckmann,Van Amersfoort Racing,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:43.660,49.092,0.591,179.122,1:47.755,23.0,15,25,A. Cordeel,Van Amersfoort Racing,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,59:19.704,85.136,36.044,177.308,1:47.226,28.0,16,1,D. Hauger,PREMA Racing,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+28,54:47.917,DNF,-,179.172,1:48.192,17.0,17,20,R. Verschoor,Trident,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+21,41:22.995,-,-,177.964,1:47.984,21.0,1,5,L. Lawson,Carlin,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:26.201,3.206,3.206,177.735,1:48.395,21.0,2,2,J. Daruvala,PREMA Racing,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:27.830,4.835,0.283,177.618,1:48.310,21.0,3,11,F. Drugovich,MP Motorsport,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:28.704,5.709,0.874,177.556,1:48.433,21.0,4,3,J. Doohan,Virtuosi Racing,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:30.943,7.948,0.861,177.396,1:48.724,15.0,5,9,F. Vesti,ART Grand Prix,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:31.255,8.260,0.312,177.374,1:48.757,18.0,6,17,A. Iwasa,DAMS,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:27.547,4.552,1.346,177.639,1:48.453,21.0,7,10,T. Pourchaire,ART Grand Prix,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:32.649,9.654,0.221,177.275,1:48.784,18.0,8,6,L. Sargeant,Carlin,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:33.581,10.586,0.932,177.209,1:48.823,16.0,9,4,M. Sato,Virtuosi Racing,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:33.974,10.979,0.393,177.181,1:48.731,16.0,10,24,D. Beckmann,Van Amersfoort Racing,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:30.082,7.087,1.378,177.458,1:48.722,21.0,11,8,J. Vips,Hitech Grand Prix,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:35.472,12.477,1.498,177.074,1:48.926,18.0,12,1,D. Hauger,PREMA Racing,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:35.525,12.530,0.053,177.071,1:48.228,16.0,13,21,C. Williams,Trident,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:32.428,9.433,1.173,177.291,1:48.731,15.0,14,7,M. Armstrong,Hitech Grand Prix,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:38.856,15.861,3.331,176.835,1:49.148,4.0,15,23,C. Bölükbasi,Charouz Racing System,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:39.531,16.536,0.675,176.787,1:48.679,16.0,16,16,R. Nissany,DAMS,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:39.638,16.643,0.107,176.779,1:48.408,17.0,17,12,C. Novalak,MP Motorsport,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:40.333,17.338,0.695,176.73,1:48.384,17.0,18,14,O. Caldwell,Campos Racing,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+14,1:43.871,-,-,202.474,,,1,6,L. Sargeant,Carlin,Le Castellet,Qualifying Session,19:07:47,Round 9 ,2022-07-24
+12,1:43.877,0.006,0.006,202.462,,,2,17,A. Iwasa,DAMS,Le Castellet,Qualifying Session,19:03:58,Round 9 ,2022-07-24
+14,1:43.900,0.029,0.023,202.417,,,3,9,F. Vesti,ART Grand Prix,Le Castellet,Qualifying Session,19:07:32,Round 9 ,2022-07-24
+13,1:44.034,0.163,0.003,202.156,,,4,3,J. Doohan,Virtuosi Racing,Le Castellet,Qualifying Session,19:03:43,Round 9 ,2022-07-24
+13,1:44.161,0.290,0.127,201.91,,,5,10,T. Pourchaire,ART Grand Prix,Le Castellet,Qualifying Session,19:07:36,Round 9 ,2022-07-24
+13,1:44.241,0.370,0.067,201.755,,,6,11,F. Drugovich,MP Motorsport,Le Castellet,Qualifying Session,19:07:25,Round 9 ,2022-07-24
+13,1:44.308,0.437,0.147,201.625,,,7,8,J. Vips,Hitech Grand Prix,Le Castellet,Qualifying Session,19:07:40,Round 9 ,2022-07-24
+13,1:44.377,0.506,0.069,201.492,,,8,7,M. Armstrong,Hitech Grand Prix,Le Castellet,Qualifying Session,19:07:42,Round 9 ,2022-07-24
+14,1:44.483,0.612,0.106,201.288,,,9,5,L. Lawson,Carlin,Le Castellet,Qualifying Session,19:03:39,Round 9 ,2022-07-24
+13,1:44.626,0.755,0.143,201.013,,,10,2,J. Daruvala,PREMA Racing,Le Castellet,Qualifying Session,19:07:50,Round 9 ,2022-07-24
+14,1:44.758,0.887,0.132,200.759,,,11,20,R. Verschoor,Trident,Le Castellet,Qualifying Session,19:07:54,Round 9 ,2022-07-24
+13,1:44.839,0.968,0.081,200.604,,,12,4,M. Sato,Virtuosi Racing,Le Castellet,Qualifying Session,19:07:52,Round 9 ,2022-07-24
+14,1:44.918,1.047,0.079,200.453,,,13,21,C. Williams,Trident,Le Castellet,Qualifying Session,19:07:56,Round 9 ,2022-07-24
+6,1:45.035,1.164,0.117,200.23,,,14,22,E. Fittipaldi,Charouz Racing System,Le Castellet,Qualifying Session,18:41:52,Round 9 ,2022-07-24
+13,1:45.101,1.230,0.066,200.104,,,15,15,R. Merhi,Campos Racing,Le Castellet,Qualifying Session,19:07:58,Round 9 ,2022-07-24
+13,1:45.117,1.246,0.016,200.074,,,16,12,C. Novalak,MP Motorsport,Le Castellet,Qualifying Session,19:07:30,Round 9 ,2022-07-24
+12,1:45.303,1.432,0.186,199.72,,,17,24,D. Beckmann,Van Amersfoort Racing,Le Castellet,Qualifying Session,19:03:53,Round 9 ,2022-07-24
+8,1:45.397,1.526,0.094,199.542,,,18,1,D. Hauger,PREMA Racing,Le Castellet,Qualifying Session,18:41:39,Round 9 ,2022-07-24
+12,1:45.505,1.634,0.108,199.338,,,19,25,A. Cordeel,Van Amersfoort Racing,Le Castellet,Qualifying Session,18:42:05,Round 9 ,2022-07-24
+13,1:45.742,1.871,0.237,198.891,,,20,16,R. Nissany,DAMS,Le Castellet,Qualifying Session,18:42:15,Round 9 ,2022-07-24
+12,1:45.743,1.872,0.001,198.889,,,21,14,O. Caldwell,Campos Racing,Le Castellet,Qualifying Session,19:04:05,Round 9 ,2022-07-24
+12,1:45.773,1.902,0.030,198.833,,,22,23,C. Bölükbasi,Charouz Racing System,Le Castellet,Qualifying Session,19:04:02,Round 9 ,2022-07-24
+21,1:46.501,-,-,197.474,,,1,8,J. Vips,Hitech Grand Prix,Le Castellet,Free Practice,12:16:04,Round 9 ,2022-07-24
+18,1:46.667,0.166,0.166,197.166,,,2,17,A. Iwasa,DAMS,Le Castellet,Free Practice,12:09:26,Round 9 ,2022-07-24
+19,1:46.723,0.222,0.056,197.063,,,3,10,T. Pourchaire,ART Grand Prix,Le Castellet,Free Practice,11:58:38,Round 9 ,2022-07-24
+20,1:46.849,0.348,0.126,196.831,,,4,11,F. Drugovich,MP Motorsport,Le Castellet,Free Practice,12:20:22,Round 9 ,2022-07-24
+18,1:46.899,0.398,0.050,196.738,,,5,2,J. Daruvala,PREMA Racing,Le Castellet,Free Practice,12:20:09,Round 9 ,2022-07-24
+19,1:46.917,0.416,0.018,196.705,,,6,20,R. Verschoor,Trident,Le Castellet,Free Practice,12:13:47,Round 9 ,2022-07-24
+21,1:46.957,0.456,0.040,196.632,,,7,7,M. Armstrong,Hitech Grand Prix,Le Castellet,Free Practice,12:21:35,Round 9 ,2022-07-24
+18,1:46.994,0.493,0.037,196.564,,,8,3,J. Doohan,Virtuosi Racing,Le Castellet,Free Practice,11:57:15,Round 9 ,2022-07-24
+21,1:47.091,0.590,0.097,196.386,,,9,6,L. Sargeant,Carlin,Le Castellet,Free Practice,12:13:10,Round 9 ,2022-07-24
+21,1:47.162,0.661,0.071,196.256,,,10,22,E. Fittipaldi,Charouz Racing System,Le Castellet,Free Practice,12:12:26,Round 9 ,2022-07-24
+16,1:47.268,0.767,0.106,196.062,,,11,1,D. Hauger,PREMA Racing,Le Castellet,Free Practice,12:09:51,Round 9 ,2022-07-24
+20,1:47.410,0.909,0.142,195.802,,,12,14,O. Caldwell,Campos Racing,Le Castellet,Free Practice,12:06:38,Round 9 ,2022-07-24
+21,1:47.545,1.044,0.135,195.557,,,13,5,L. Lawson,Carlin,Le Castellet,Free Practice,12:07:29,Round 9 ,2022-07-24
+19,1:47.569,1.068,0.024,195.513,,,14,21,C. Williams,Trident,Le Castellet,Free Practice,12:21:38,Round 9 ,2022-07-24
+18,1:47.599,1.098,0.030,195.459,,,15,24,D. Beckmann,Van Amersfoort Racing,Le Castellet,Free Practice,12:06:10,Round 9 ,2022-07-24
+18,1:47.607,1.106,0.008,195.444,,,16,25,A. Cordeel,Van Amersfoort Racing,Le Castellet,Free Practice,12:01:58,Round 9 ,2022-07-24
+22,1:47.644,1.143,0.037,195.377,,,17,15,R. Merhi,Campos Racing,Le Castellet,Free Practice,12:20:36,Round 9 ,2022-07-24
+17,1:47.735,1.234,0.091,195.212,,,18,16,R. Nissany,DAMS,Le Castellet,Free Practice,12:07:16,Round 9 ,2022-07-24
+19,1:48.120,1.619,0.385,194.517,,,19,12,C. Novalak,MP Motorsport,Le Castellet,Free Practice,11:58:31,Round 9 ,2022-07-24
+20,1:48.141,1.640,0.021,194.479,,,20,4,M. Sato,Virtuosi Racing,Le Castellet,Free Practice,12:13:17,Round 9 ,2022-07-24
+22,1:48.860,2.359,0.719,193.194,,,21,23,C. Bölükbasi,Charouz Racing System,Le Castellet,Free Practice,12:19:56,Round 9 ,2022-07-24
+1,-,-,-,-,,,22,9,F. Vesti,ART Grand Prix,Le Castellet,Free Practice,-,Round 9 ,2022-07-24
+37,58:56.681,-,-,164.958,1:33.212,11.0,1,10,T. Pourchaire,ART Grand Prix,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:00.322,3.641,3.641,164.788,1:33.071,14.0,2,22,E. Fittipaldi,Charouz Racing System,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:02.608,5.927,2.286,164.682,1:33.206,14.0,3,17,A. Iwasa,DAMS,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:03.441,6.760,0.833,164.643,1:31.973,30.0,4,9,F. Vesti,ART Grand Prix,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:06.305,9.624,2.864,164.51,1:32.991,30.0,5,8,J. Vips,Hitech Grand Prix,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:10.223,13.542,3.918,164.329,1:33.192,3.0,6,7,M. Armstrong,Hitech Grand Prix,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:11.436,14.755,1.213,164.273,1:31.893,33.0,7,5,L. Lawson,Carlin,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:16.837,20.156,5.401,164.023,1:32.393,31.0,8,20,R. Verschoor,Trident,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:25.308,28.627,8.471,163.633,1:33.081,4.0,9,11,F. Drugovich,MP Motorsport,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:25.911,29.230,0.603,163.606,1:32.834,31.0,10,6,L. Sargeant,Carlin,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:39.180,42.499,13.269,162.999,1:33.145,10.0,11,2,J. Daruvala,PREMA Racing,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:39.486,42.805,0.306,162.985,1:31.913,28.0,12,12,C. Novalak,MP Motorsport,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:42.417,45.736,2.931,162.852,1:33.321,13.0,13,23,C. Bölükbasi,Charouz Racing System,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:44.140,47.459,1.723,162.774,1:32.432,31.0,14,24,D. Beckmann,Van Amersfoort Racing,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:44.350,47.669,0.210,162.764,1:33.649,14.0,15,4,M. Sato,Virtuosi Racing,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:47.881,51.200,2.812,162.604,1:33.108,13.0,16,21,C. Williams,Trident,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:52.765,56.084,4.884,162.383,1:31.352,34.0,17,25,A. Cordeel,Van Amersfoort Racing,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,59:45.069,48.388,0.719,162.731,1:32.747,24.0,18,16,R. Nissany,DAMS,Budapest,Feature Race,,Round 10 ,2022-07-31
+37,1:00:14.662,77.981,21.897,161.399,1:31.204,36.0,19,1,D. Hauger,PREMA Racing,Budapest,Feature Race,,Round 10 ,2022-07-31
+36,58:06.361,1 LAP,-,162.815,1:33.982,14.0,20,14,O. Caldwell,Campos Racing,Budapest,Feature Race,,Round 10 ,2022-07-31
+34,54:54.798,DNF,-,162.708,1:33.287,13.0,21,15,R. Merhi,Campos Racing,Budapest,Feature Race,,Round 10 ,2022-07-31
+28,45:42.642,-,-,160.961,1:33.017,9.0,1,3,J. Doohan,Virtuosi Racing,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,45:47.917,5.275,5.275,160.652,1:32.837,8.0,2,8,J. Vips,Hitech Grand Prix,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,45:48.967,6.325,1.050,160.591,1:32.934,10.0,3,22,E. Fittipaldi,Charouz Racing System,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,45:50.434,7.792,1.467,160.505,1:33.065,9.0,4,11,F. Drugovich,MP Motorsport,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,45:51.908,9.266,1.474,160.419,1:33.060,9.0,5,9,F. Vesti,ART Grand Prix,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,45:56.192,13.550,4.284,160.17,1:33.299,9.0,6,5,L. Lawson,Carlin,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,46:02.827,20.185,6.635,159.785,1:33.148,9.0,7,7,M. Armstrong,Hitech Grand Prix,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,46:03.365,20.723,0.538,159.754,1:33.380,7.0,8,17,A. Iwasa,DAMS,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,46:04.357,21.715,0.992,159.697,1:33.034,8.0,9,10,T. Pourchaire,ART Grand Prix,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,46:12.436,29.794,8.079,159.232,1:33.269,8.0,10,14,O. Caldwell,Campos Racing,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,46:13.698,31.056,1.262,159.159,1:33.419,7.0,11,21,C. Williams,Trident,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,46:14.481,31.839,0.783,159.114,1:33.703,8.0,12,24,D. Beckmann,Van Amersfoort Racing,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,46:14.932,32.290,0.451,159.088,1:33.836,7.0,13,25,A. Cordeel,Van Amersfoort Racing,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,46:31.526,48.884,16.594,158.143,1:31.449,21.0,14,15,R. Merhi,Campos Racing,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,46:34.460,51.818,2.934,157.977,1:33.571,7.0,15,4,M. Sato,Virtuosi Racing,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,46:49.805,67.163,10.141,157.114,1:32.465,17.0,16,23,C. Bölükbasi,Charouz Racing System,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,46:59.910,77.268,10.105,156.551,1:30.452,28.0,17,2,J. Daruvala,PREMA Racing,Budapest,Sprint Race,,Round 10 ,2022-07-31
+28,46:39.664,57.022,5.204,157.683,1:30.414,26.0,18,20,R. Verschoor,Trident,Budapest,Sprint Race,,Round 10 ,2022-07-31
+27,46:26.888,1 LAP,1 LAP,152.747,1:32.824,10.0,19,16,R. Nissany,DAMS,Budapest,Sprint Race,,Round 10 ,2022-07-31
+27,46:54.431,1 LAP,27.543,151.252,1:32.218,9.0,20,12,C. Novalak,MP Motorsport,Budapest,Sprint Race,,Round 10 ,2022-07-31
+14,1:27.930,-,-,179.365,,,1,17,A. Iwasa,DAMS,Budapest,Qualifying Session,18:57:31,Round 10 ,2022-07-31
+12,1:28.311,0.381,0.381,178.591,,,2,7,M. Armstrong,Hitech Grand Prix,Budapest,Qualifying Session,18:53:07,Round 10 ,2022-07-31
+12,1:28.340,0.410,0.029,178.532,,,3,11,F. Drugovich,MP Motorsport,Budapest,Qualifying Session,18:56:50,Round 10 ,2022-07-31
+12,1:28.359,0.429,0.019,178.494,,,4,10,T. Pourchaire,ART Grand Prix,Budapest,Qualifying Session,18:57:02,Round 10 ,2022-07-31
+13,1:28.381,0.451,0.022,178.45,,,5,6,L. Sargeant,Carlin,Budapest,Qualifying Session,18:53:09,Round 10 ,2022-07-31
+12,1:28.391,0.461,0.010,178.429,,,6,8,J. Vips,Hitech Grand Prix,Budapest,Qualifying Session,18:56:45,Round 10 ,2022-07-31
+12,1:28.562,0.632,0.171,178.085,,,7,9,F. Vesti,ART Grand Prix,Budapest,Qualifying Session,18:53:32,Round 10 ,2022-07-31
+12,1:28.604,0.674,0.042,178.0,,,8,1,D. Hauger,PREMA Racing,Budapest,Qualifying Session,18:53:39,Round 10 ,2022-07-31
+13,1:28.686,0.756,0.082,177.836,,,9,22,E. Fittipaldi,Charouz Racing System,Budapest,Qualifying Session,18:53:43,Round 10 ,2022-07-31
+13,1:28.691,0.761,0.005,177.826,,,10,3,J. Doohan,Virtuosi Racing,Budapest,Qualifying Session,18:57:49,Round 10 ,2022-07-31
+13,1:28.750,0.820,0.059,177.708,,,11,5,L. Lawson,Carlin,Budapest,Qualifying Session,18:53:16,Round 10 ,2022-07-31
+12,1:28.786,0.856,0.036,177.636,,,12,2,J. Daruvala,PREMA Racing,Budapest,Qualifying Session,18:54:07,Round 10 ,2022-07-31
+10,1:28.803,0.873,0.017,177.602,,,13,14,O. Caldwell,Campos Racing,Budapest,Qualifying Session,18:47:45,Round 10 ,2022-07-31
+13,1:28.849,0.919,0.046,177.51,,,14,20,R. Verschoor,Trident,Budapest,Qualifying Session,19:00:26,Round 10 ,2022-07-31
+12,1:29.018,1.088,0.169,177.173,,,15,4,M. Sato,Virtuosi Racing,Budapest,Qualifying Session,18:57:52,Round 10 ,2022-07-31
+13,1:29.102,1.172,0.084,177.006,,,16,23,C. Bölükbasi,Charouz Racing System,Budapest,Qualifying Session,18:53:50,Round 10 ,2022-07-31
+15,1:29.343,1.413,0.241,176.528,,,17,24,D. Beckmann,Van Amersfoort Racing,Budapest,Qualifying Session,18:57:46,Round 10 ,2022-07-31
+14,1:29.346,1.416,0.003,176.522,,,18,21,C. Williams,Trident,Budapest,Qualifying Session,19:00:40,Round 10 ,2022-07-31
+13,1:29.481,1.551,0.135,176.256,,,19,12,C. Novalak,MP Motorsport,Budapest,Qualifying Session,18:57:14,Round 10 ,2022-07-31
+11,1:29.547,1.617,0.066,176.126,,,20,15,R. Merhi,Campos Racing,Budapest,Qualifying Session,18:53:55,Round 10 ,2022-07-31
+14,1:29.606,1.676,0.059,176.01,,,21,16,R. Nissany,DAMS,Budapest,Qualifying Session,18:53:31,Round 10 ,2022-07-31
+14,1:29.792,1.862,0.186,175.645,,,22,25,A. Cordeel,Van Amersfoort Racing,Budapest,Qualifying Session,19:01:10,Round 10 ,2022-07-31
+18,1:29.562,-,-,176.097,,,1,3,J. Doohan,Virtuosi Racing,Budapest,Free Practice,10:55:47,Round 10 ,2022-07-31
+20,1:29.563,0.001,0.001,176.095,,,2,17,A. Iwasa,DAMS,Budapest,Free Practice,10:59:56,Round 10 ,2022-07-31
+19,1:29.641,0.079,0.078,175.941,,,3,24,D. Beckmann,Van Amersfoort Racing,Budapest,Free Practice,11:25:00,Round 10 ,2022-07-31
+20,1:29.763,0.201,0.122,175.702,,,4,9,F. Vesti,ART Grand Prix,Budapest,Free Practice,10:56:48,Round 10 ,2022-07-31
+18,1:29.883,0.321,0.120,175.468,,,5,7,M. Armstrong,Hitech Grand Prix,Budapest,Free Practice,10:55:41,Round 10 ,2022-07-31
+20,1:29.894,0.332,0.011,175.446,,,6,10,T. Pourchaire,ART Grand Prix,Budapest,Free Practice,10:56:43,Round 10 ,2022-07-31
+17,1:29.941,0.379,0.047,175.354,,,7,1,D. Hauger,PREMA Racing,Budapest,Free Practice,10:52:21,Round 10 ,2022-07-31
+22,1:29.947,0.385,0.006,175.343,,,8,5,L. Lawson,Carlin,Budapest,Free Practice,11:05:55,Round 10 ,2022-07-31
+20,1:30.259,0.697,0.312,174.737,,,9,22,E. Fittipaldi,Charouz Racing System,Budapest,Free Practice,10:55:57,Round 10 ,2022-07-31
+18,1:30.270,0.708,0.011,174.715,,,10,8,J. Vips,Hitech Grand Prix,Budapest,Free Practice,10:52:04,Round 10 ,2022-07-31
+21,1:30.281,0.719,0.011,174.694,,,11,6,L. Sargeant,Carlin,Budapest,Free Practice,11:10:03,Round 10 ,2022-07-31
+18,1:30.306,0.744,0.025,174.646,,,12,2,J. Daruvala,PREMA Racing,Budapest,Free Practice,11:19:12,Round 10 ,2022-07-31
+22,1:30.348,0.786,0.042,174.565,,,13,11,F. Drugovich,MP Motorsport,Budapest,Free Practice,10:52:44,Round 10 ,2022-07-31
+19,1:30.415,0.853,0.067,174.435,,,14,14,O. Caldwell,Campos Racing,Budapest,Free Practice,10:59:44,Round 10 ,2022-07-31
+19,1:30.583,1.021,0.168,174.112,,,15,16,R. Nissany,DAMS,Budapest,Free Practice,11:22:44,Round 10 ,2022-07-31
+19,1:30.660,1.098,0.077,173.964,,,16,12,C. Novalak,MP Motorsport,Budapest,Free Practice,11:20:52,Round 10 ,2022-07-31
+20,1:30.678,1.116,0.018,173.929,,,17,21,C. Williams,Trident,Budapest,Free Practice,11:22:05,Round 10 ,2022-07-31
+19,1:30.699,1.137,0.021,173.889,,,18,4,M. Sato,Virtuosi Racing,Budapest,Free Practice,10:52:50,Round 10 ,2022-07-31
+21,1:30.720,1.158,0.021,173.849,,,19,25,A. Cordeel,Van Amersfoort Racing,Budapest,Free Practice,10:52:54,Round 10 ,2022-07-31
+20,1:30.738,1.176,0.018,173.814,,,20,20,R. Verschoor,Trident,Budapest,Free Practice,11:06:10,Round 10 ,2022-07-31
+20,1:30.824,1.262,0.086,173.65,,,21,15,R. Merhi,Campos Racing,Budapest,Free Practice,11:13:16,Round 10 ,2022-07-31
+21,1:31.071,1.509,0.247,173.179,,,22,23,C. Bölükbasi,Charouz Racing System,Budapest,Free Practice,10:59:41,Round 10 ,2022-07-31
+25,52:16.133,-,-,200.856,2:00.772,11.0,1,3,J. Doohan,Virtuosi Racing,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:18.075,1.942,1.942,200.732,2:01.684,13.0,2,11,F. Drugovich,MP Motorsport,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:24.847,8.714,6.772,200.3,2:01.354,11.0,3,5,L. Lawson,Carlin,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:28.612,12.479,3.765,200.06,2:01.132,18.0,4,20,R. Verschoor,Trident,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:37.399,21.266,8.787,199.503,2:02.126,11.0,5,6,L. Sargeant,Carlin,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:38.498,22.365,1.099,199.434,2:02.143,13.0,6,24,D. Beckmann,Van Amersfoort Racing,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:38.631,22.498,0.133,199.426,2:02.149,19.0,7,17,A. Iwasa,DAMS,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:40.032,23.899,1.401,199.337,2:01.032,16.0,8,8,J. Vips,Hitech Grand Prix,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:40.879,24.746,0.847,199.284,2:01.250,18.0,9,12,C. Novalak,MP Motorsport,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:41.614,2.481,0.735,199.553,2:01.948,11.0,10,22,E. Fittipaldi,Charouz Racing System,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:47.134,31.001,6.255,198.89,2:01.526,10.0,11,9,F. Vesti,ART Grand Prix,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:53.604,37.471,6.470,198.485,2:02.208,13.0,12,1,D. Hauger,PREMA Racing,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:55.889,39.756,2.285,198.342,2:02.528,9.0,13,7,M. Armstrong,Hitech Grand Prix,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:56.816,40.683,0.927,198.284,2:01.477,10.0,14,15,R. Boschung,Campos Racing,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,52:59.851,43.718,3.035,198.095,2:02.669,17.0,15,4,M. Sato,Virtuosi Racing,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,53:01.816,45.683,1.965,197.972,2:03.302,11.0,16,21,C. Williams,Trident,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,53:08.376,52.243,6.560,197.565,2:02.170,19.0,17,25,A. Cordeel,Van Amersfoort Racing,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,53:13.517,57.384,5.141,197.247,2:03.306,11.0,18,23,T. Calderón,Charouz Racing System,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,53:18.960,62.827,5.443,196.911,2:03.475,10.0,19,16,R. Nissany,DAMS,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+25,54:02.491,106.358,43.531,194.268,2:00.677,22.0,20,2,J. Daruvala,PREMA Racing,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+22,46:32.752,DNF,-,198.467,2:03.759,16.0,21,14,L. Zendeli,Campos Racing,Spa-Francorchamps,Feature Race,,Round 11 ,2022-08-28
+18,40:22.343,-,-,187.179,2:01.740,2.0,1,5,L. Lawson,Carlin,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:26.211,3.868,3.868,186.881,2:02.489,3.0,2,3,J. Doohan,Virtuosi Racing,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:28.061,5.718,1.850,186.738,2:01.845,3.0,3,15,R. Boschung,Campos Racing,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:28.703,6.360,0.642,186.689,2:01.981,3.0,4,11,F. Drugovich,MP Motorsport,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:30.750,8.407,2.047,186.532,2:02.319,3.0,5,20,R. Verschoor,Trident,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:31.029,8.686,0.279,186.51,2:02.409,3.0,6,10,T. Pourchaire,ART Grand Prix,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:31.765,9.422,0.736,186.454,2:02.188,3.0,7,7,M. Armstrong,Hitech Grand Prix,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:32.408,10.065,0.643,186.404,2:02.467,3.0,8,24,D. Beckmann,Van Amersfoort Racing,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:33.176,10.833,0.768,186.346,2:03.078,3.0,9,17,A. Iwasa,DAMS,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:33.477,11.134,0.301,186.323,2:02.527,3.0,10,1,D. Hauger,PREMA Racing,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:33.958,11.615,0.481,186.286,2:03.009,3.0,11,16,R. Nissany,DAMS,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:36.432,14.089,2.474,186.097,2:03.302,3.0,12,4,M. Sato,Virtuosi Racing,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:38.144,15.801,1.712,185.966,2:03.188,3.0,13,22,E. Fittipaldi,Charouz Racing System,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:38.736,16.393,0.592,185.921,2:02.820,3.0,14,8,J. Vips,Hitech Grand Prix,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:39.110,16.767,0.374,185.892,2:03.268,3.0,15,9,F. Vesti,ART Grand Prix,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:40.012,17.669,0.902,185.824,2:03.300,4.0,16,21,C. Williams,Trident,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:40.896,18.553,0.884,185.756,2:03.130,3.0,17,12,C. Novalak,MP Motorsport,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:40.937,18.594,0.041,185.753,2:03.381,3.0,18,25,A. Cordeel,Van Amersfoort Racing,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:41.387,19.044,0.450,185.719,2:04.136,4.0,19,23,T. Calderón,Charouz Racing System,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+18,40:45.550,23.207,4.163,185.403,2:03.461,4.0,20,14,L. Zendeli,Campos Racing,Spa-Francorchamps,Sprint Race,,Round 11 ,2022-08-28
+12,1:58.232,-,-,213.262,,,1,11,F. Drugovich,MP Motorsport,Spa-Francorchamps,Qualifying Session,19:06:07,Round 11 ,2022-08-28
+11,1:58.615,0.383,0.383,212.573,,,2,22,E. Fittipaldi,Charouz Racing System,Spa-Francorchamps,Qualifying Session,19:10:00,Round 11 ,2022-08-28
+10,1:58.781,0.549,0.166,212.276,,,3,6,L. Sargeant,Carlin,Spa-Francorchamps,Qualifying Session,19:10:09,Round 11 ,2022-08-28
+10,1:58.783,0.551,0.002,212.272,,,4,3,J. Doohan,Virtuosi Racing,Spa-Francorchamps,Qualifying Session,19:09:52,Round 11 ,2022-08-28
+11,1:58.797,0.565,0.014,212.247,,,5,24,D. Beckmann,Van Amersfoort Racing,Spa-Francorchamps,Qualifying Session,19:10:37,Round 11 ,2022-08-28
+10,1:58.976,0.744,0.179,211.928,,,6,5,L. Lawson,Carlin,Spa-Francorchamps,Qualifying Session,19:05:43,Round 11 ,2022-08-28
+12,1:59.018,0.786,0.042,211.853,,,7,20,R. Verschoor,Trident,Spa-Francorchamps,Qualifying Session,19:05:59,Round 11 ,2022-08-28
+11,1:59.061,0.829,0.043,211.777,,,8,10,T. Pourchaire,ART Grand Prix,Spa-Francorchamps,Qualifying Session,19:10:04,Round 11 ,2022-08-28
+10,1:59.114,0.882,0.053,211.682,,,9,2,J. Daruvala,PREMA Racing,Spa-Francorchamps,Qualifying Session,19:05:28,Round 11 ,2022-08-28
+12,1:59.126,0.894,0.012,211.661,,,10,15,R. Boschung,Campos Racing,Spa-Francorchamps,Qualifying Session,19:05:15,Round 11 ,2022-08-28
+10,1:59.161,0.929,0.035,211.599,,,11,1,D. Hauger,PREMA Racing,Spa-Francorchamps,Qualifying Session,19:05:26,Round 11 ,2022-08-28
+10,1:59.177,0.945,0.016,211.571,,,12,7,M. Armstrong,Hitech Grand Prix,Spa-Francorchamps,Qualifying Session,19:05:41,Round 11 ,2022-08-28
+10,1:59.179,0.947,0.002,211.567,,,13,17,A. Iwasa,DAMS,Spa-Francorchamps,Qualifying Session,19:09:47,Round 11 ,2022-08-28
+11,1:59.284,1.052,0.105,211.381,,,14,9,F. Vesti,ART Grand Prix,Spa-Francorchamps,Qualifying Session,19:05:34,Round 11 ,2022-08-28
+10,1:59.302,1.070,0.018,211.349,,,15,16,R. Nissany,DAMS,Spa-Francorchamps,Qualifying Session,19:05:19,Round 11 ,2022-08-28
+10,1:59.380,1.148,0.078,211.211,,,16,12,C. Novalak,MP Motorsport,Spa-Francorchamps,Qualifying Session,19:10:12,Round 11 ,2022-08-28
+10,1:59.523,1.291,0.143,210.958,,,17,4,M. Sato,Virtuosi Racing,Spa-Francorchamps,Qualifying Session,19:05:32,Round 11 ,2022-08-28
+12,1:59.526,1.294,0.003,210.953,,,18,21,C. Williams,Trident,Spa-Francorchamps,Qualifying Session,19:07:04,Round 11 ,2022-08-28
+12,1:59.704,1.472,0.178,210.639,,,19,14,L. Zendeli,Campos Racing,Spa-Francorchamps,Qualifying Session,19:10:34,Round 11 ,2022-08-28
+10,1:59.820,1.588,0.116,210.435,,,20,25,A. Cordeel,Van Amersfoort Racing,Spa-Francorchamps,Qualifying Session,19:05:13,Round 11 ,2022-08-28
+11,2:00.531,2.299,0.711,209.194,,,21,23,T. Calderón,Charouz Racing System,Spa-Francorchamps,Qualifying Session,19:10:18,Round 11 ,2022-08-28
+10,2:01.376,-,-,207.737,,,1,15,R. Boschung,Campos Racing,Spa-Francorchamps,Free Practice,12:02:46,Round 11 ,2022-08-28
+14,2:01.382,0.006,0.006,207.727,,,2,25,A. Cordeel,Van Amersfoort Racing,Spa-Francorchamps,Free Practice,12:02:42,Round 11 ,2022-08-28
+5,2:01.546,0.170,0.164,207.447,,,3,17,A. Iwasa,DAMS,Spa-Francorchamps,Free Practice,11:58:05,Round 11 ,2022-08-28
+7,2:01.573,0.197,0.027,207.401,,,4,7,M. Armstrong,Hitech Grand Prix,Spa-Francorchamps,Free Practice,11:58:47,Round 11 ,2022-08-28
+11,2:01.844,0.468,0.271,206.940,,,5,14,L. Zendeli,Campos Racing,Spa-Francorchamps,Free Practice,11:59:29,Round 11 ,2022-08-28
+9,2:01.910,0.534,0.066,206.827,,,6,6,L. Sargeant,Carlin,Spa-Francorchamps,Free Practice,12:02:18,Round 11 ,2022-08-28
+8,2:01.971,0.595,0.061,206.724,,,7,2,J. Daruvala,PREMA Racing,Spa-Francorchamps,Free Practice,11:59:11,Round 11 ,2022-08-28
+9,2:01.987,0.611,0.016,206.697,,,8,24,D. Beckmann,Van Amersfoort Racing,Spa-Francorchamps,Free Practice,11:58:44,Round 11 ,2022-08-28
+11,2:02.049,0.673,0.062,206.592,,,9,4,M. Sato,Virtuosi Racing,Spa-Francorchamps,Free Practice,11:52:39,Round 11 ,2022-08-28
+8,2:02.311,0.935,0.262,206.149,,,10,8,J. Vips,Hitech Grand Prix,Spa-Francorchamps,Free Practice,11:58:41,Round 11 ,2022-08-28
+9,2:02.431,1.055,0.120,205.947,,,11,5,L. Lawson,Carlin,Spa-Francorchamps,Free Practice,11:57:50,Round 11 ,2022-08-28
+13,2:02.535,1.159,0.104,205.773,,,12,23,T. Calderón,Charouz Racing System,Spa-Francorchamps,Free Practice,11:59:36,Round 11 ,2022-08-28
+6,2:02.541,1.165,0.006,205.762,,,13,1,D. Hauger,PREMA Racing,Spa-Francorchamps,Free Practice,11:59:08,Round 11 ,2022-08-28
+8,2:02.592,1.216,0.051,205.677,,,14,3,J. Doohan,Virtuosi Racing,Spa-Francorchamps,Free Practice,11:59:23,Round 11 ,2022-08-28
+7,2:03.198,1.822,0.606,204.665,,,15,10,T. Pourchaire,ART Grand Prix,Spa-Francorchamps,Free Practice,11:58:55,Round 11 ,2022-08-28
+9,2:04.776,3.400,1.578,202.077,,,16,22,E. Fittipaldi,Charouz Racing System,Spa-Francorchamps,Free Practice,11:58:40,Round 11 ,2022-08-28
+8,2:05.265,3.889,0.489,201.288,,,17,9,F. Vesti,ART Grand Prix,Spa-Francorchamps,Free Practice,11:59:01,Round 11 ,2022-08-28
+8,2:08.944,7.568,3.679,195.545,,,18,20,R. Verschoor,Trident,Spa-Francorchamps,Free Practice,12:02:39,Round 11 ,2022-08-28
+7,2:24.162,22.786,15.218,174.903,,,19,11,F. Drugovich,MP Motorsport,Spa-Francorchamps,Free Practice,12:01:37,Round 11 ,2022-08-28
+7,2:25.505,24.129,1.343,173.288,,,20,12,C. Novalak,MP Motorsport,Spa-Francorchamps,Free Practice,12:01:39,Round 11 ,2022-08-28
+7,2:26.956,25.580,1.451,171.577,,,21,21,C. Williams,Trident,Spa-Francorchamps,Free Practice,12:00:53,Round 11 ,2022-08-28
+3,-,-,-,-,,,22,16,R. Nissany,DAMS,Spa-Francorchamps,Free Practice,-,Round 11 ,2022-08-28
+38,1:25:22.484,-,-,113.697,1:24.879,29.0,1,11,F. Drugovich,MP Motorsport,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:24.889,2.405,2.405,113.643,1:25.064,30.0,2,20,R. Verschoor,Trident,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:26.129,3.645,1.240,113.616,1:24.995,34.0,3,17,A. Iwasa,DAMS,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:29.431,6.947,3.302,113.543,1:25.203,32.0,4,1,D. Hauger,PREMA Racing,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:30.471,7.987,1.040,113.52,1:25.200,37.0,5,22,E. Fittipaldi,Charouz Racing System,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:33.356,10.872,2.885,113.456,1:25.469,10.0,6,25,A. Cordeel,Van Amersfoort Racing,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:34.884,12.400,1.528,113.422,1:24.934,14.0,7,8,J. Vips,Hitech Grand Prix,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:37.093,14.609,1.413,113.373,1:25.510,29.0,8,14,O. Caldwell,Campos Racing,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:38.046,15.562,0.953,113.352,1:23.339,30.0,9,10,T. Pourchaire,ART Grand Prix,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:39.765,17.281,1.719,113.314,1:25.377,28.0,10,2,J. Daruvala,PREMA Racing,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:40.983,18.499,1.218,113.287,1:25.571,11.0,11,21,C. Williams,Trident,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:42.748,20.264,1.765,113.249,1:23.865,30.0,12,5,L. Lawson,Carlin,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:48.085,25.601,5.337,113.131,1:24.329,28.0,13,7,M. Armstrong,Hitech Grand Prix,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:51.869,29.385,2.241,113.048,1:23.078,31.0,14,9,F. Vesti,ART Grand Prix,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:26:13.123,50.639,21.254,112.584,1:24.648,29.0,15,15,R. Boschung,Campos Racing,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:35.680,13.196,0.796,113.404,1:25.044,15.0,16,24,D. Beckmann,Van Amersfoort Racing,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+38,1:25:49.628,27.144,1.543,113.097,1:24.314,38.0,17,16,R. Nissany,DAMS,Zandvoort,Feature Race,,Round 12 ,2022-09-04
+29,43:42.549,-,-,169.461,1:26.338,5.0,1,7,M. Armstrong,Hitech Grand Prix,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:43.429,0.880,0.880,169.404,1:26.253,5.0,2,12,C. Novalak,MP Motorsport,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:44.539,1.990,1.110,169.332,1:26.293,3.0,3,1,D. Hauger,PREMA Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:45.066,2.517,0.527,169.298,1:26.261,4.0,4,5,L. Lawson,Carlin,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:45.575,3.026,0.509,169.265,1:26.225,4.0,5,8,J. Vips,Hitech Grand Prix,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:45.867,3.318,0.292,169.246,1:26.287,5.0,6,17,A. Iwasa,DAMS,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:46.817,4.268,0.950,169.185,1:26.366,5.0,7,20,R. Verschoor,Trident,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:47.199,4.650,0.382,169.161,1:26.218,5.0,8,6,L. Sargeant,Carlin,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:47.389,4.840,0.190,169.148,1:25.987,18.0,9,3,J. Doohan,Virtuosi Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:48.007,5.458,0.618,169.109,1:25.808,25.0,10,11,F. Drugovich,MP Motorsport,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:48.836,6.287,0.829,169.055,1:26.439,5.0,11,9,F. Vesti,ART Grand Prix,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:49.268,6.719,0.432,169.028,1:26.377,6.0,12,25,A. Cordeel,Van Amersfoort Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:49.965,7.416,0.697,168.983,1:26.382,6.0,13,22,E. Fittipaldi,Charouz Racing System,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:50.652,8.103,0.687,168.939,1:26.237,4.0,14,24,D. Beckmann,Van Amersfoort Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:51.489,8.940,0.837,168.885,1:26.431,6.0,15,16,R. Nissany,DAMS,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:52.268,9.719,0.779,168.835,1:26.020,22.0,16,2,J. Daruvala,PREMA Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:52.367,9.818,0.099,168.829,1:26.708,11.0,17,15,R. Boschung,Campos Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:52.994,10.445,0.627,168.788,1:26.772,12.0,18,21,C. Williams,Trident,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:53.837,11.288,0.843,168.734,1:26.688,9.0,19,4,M. Sato,Virtuosi Racing,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+29,43:54.019,11.470,0.182,168.723,1:26.003,24.0,20,10,T. Pourchaire,ART Grand Prix,Zandvoort,Sprint Race,,Round 12 ,2022-09-04
+13,1:20.713,-,-,189.961,,,1,11,F. Drugovich,MP Motorsport,Zandvoort,Qualifying Session,15:37:09,Round 12 ,2022-09-04
+10,1:20.939,0.226,0.226,189.431,,,2,3,J. Doohan,Virtuosi Racing,Zandvoort,Qualifying Session,15:37:49,Round 12 ,2022-09-04
+12,1:21.241,0.528,0.302,188.727,,,3,6,L. Sargeant,Carlin,Zandvoort,Qualifying Session,15:37:02,Round 12 ,2022-09-04
+13,1:21.242,0.529,0.001,188.725,,,4,20,R. Verschoor,Trident,Zandvoort,Qualifying Session,15:37:34,Round 12 ,2022-09-04
+12,1:21.243,0.530,0.001,188.722,,,5,17,A. Iwasa,DAMS,Zandvoort,Qualifying Session,15:40:03,Round 12 ,2022-09-04
+12,1:21.281,0.568,0.038,188.634,,,6,5,L. Lawson,Carlin,Zandvoort,Qualifying Session,15:37:05,Round 12 ,2022-09-04
+11,1:21.347,0.634,0.066,188.481,,,7,1,D. Hauger,PREMA Racing,Zandvoort,Qualifying Session,15:37:42,Round 12 ,2022-09-04
+11,1:21.443,0.730,0.096,188.259,,,8,8,J. Vips,Hitech Grand Prix,Zandvoort,Qualifying Session,15:40:32,Round 12 ,2022-09-04
+11,1:21.454,0.741,0.011,188.233,,,9,7,M. Armstrong,Hitech Grand Prix,Zandvoort,Qualifying Session,15:37:28,Round 12 ,2022-09-04
+14,1:21.559,0.846,0.105,187.991,,,10,12,C. Novalak,MP Motorsport,Zandvoort,Qualifying Session,15:40:42,Round 12 ,2022-09-04
+13,1:21.580,0.867,0.021,187.943,,,11,9,F. Vesti,ART Grand Prix,Zandvoort,Qualifying Session,15:40:29,Round 12 ,2022-09-04
+12,1:21.619,0.906,0.039,187.853,,,12,25,A. Cordeel,Van Amersfoort Racing,Zandvoort,Qualifying Session,15:36:41,Round 12 ,2022-09-04
+12,1:21.733,1.020,0.114,187.591,,,13,22,E. Fittipaldi,Charouz Racing System,Zandvoort,Qualifying Session,15:36:44,Round 12 ,2022-09-04
+14,1:21.738,1.025,0.005,187.579,,,14,16,R. Nissany,DAMS,Zandvoort,Qualifying Session,15:37:17,Round 12 ,2022-09-04
+13,1:21.923,1.210,0.185,187.156,,,15,4,M. Sato,Virtuosi Racing,Zandvoort,Qualifying Session,15:37:39,Round 12 ,2022-09-04
+4,1:21.984,1.271,0.061,187.016,,,16,10,T. Pourchaire,ART Grand Prix,Zandvoort,Qualifying Session,15:05:46,Round 12 ,2022-09-04
+11,1:22.007,1.294,0.023,186.964,,,17,2,J. Daruvala,PREMA Racing,Zandvoort,Qualifying Session,15:06:17,Round 12 ,2022-09-04
+12,1:22.075,1.362,0.068,186.809,,,18,24,D. Beckmann,Van Amersfoort Racing,Zandvoort,Qualifying Session,15:36:47,Round 12 ,2022-09-04
+11,1:22.084,1.371,0.009,186.789,,,19,14,O. Caldwell,Campos Racing,Zandvoort,Qualifying Session,15:36:49,Round 12 ,2022-09-04
+14,1:22.122,1.409,0.038,186.702,,,20,21,C. Williams,Trident,Zandvoort,Qualifying Session,15:40:09,Round 12 ,2022-09-04
+11,1:22.399,1.686,0.277,186.075,,,21,15,R. Boschung,Campos Racing,Zandvoort,Qualifying Session,15:30:45,Round 12 ,2022-09-04
+12,1:23.113,2.400,0.714,184.476,,,22,23,T. Calderón,Charouz Racing System,Zandvoort,Qualifying Session,15:36:56,Round 12 ,2022-09-04
+15,1:22.967,-,-,184.801,,,1,3,J. Doohan,Virtuosi Racing,Zandvoort,Free Practice,10:44:11,Round 12 ,2022-09-04
+17,1:23.290,0.323,0.323,184.084,,,2,17,A. Iwasa,DAMS,Zandvoort,Free Practice,10:46:42,Round 12 ,2022-09-04
+17,1:23.369,0.402,0.079,183.91,,,3,11,F. Drugovich,MP Motorsport,Zandvoort,Free Practice,10:46:49,Round 12 ,2022-09-04
+16,1:23.402,0.435,0.033,183.837,,,4,5,L. Lawson,Carlin,Zandvoort,Free Practice,10:46:55,Round 12 ,2022-09-04
+15,1:23.414,0.447,0.012,183.81,,,5,1,D. Hauger,PREMA Racing,Zandvoort,Free Practice,10:47:28,Round 12 ,2022-09-04
+9,1:23.453,0.486,0.039,183.724,,,6,9,F. Vesti,ART Grand Prix,Zandvoort,Free Practice,10:29:53,Round 12 ,2022-09-04
+16,1:23.463,0.496,0.010,183.702,,,7,6,L. Sargeant,Carlin,Zandvoort,Free Practice,10:46:57,Round 12 ,2022-09-04
+18,1:23.537,0.570,0.074,183.54,,,8,25,A. Cordeel,Van Amersfoort Racing,Zandvoort,Free Practice,10:29:12,Round 12 ,2022-09-04
+16,1:23.584,0.617,0.047,183.437,,,9,10,T. Pourchaire,ART Grand Prix,Zandvoort,Free Practice,10:46:53,Round 12 ,2022-09-04
+17,1:23.595,0.628,0.011,183.412,,,10,20,R. Verschoor,Trident,Zandvoort,Free Practice,10:49:38,Round 12 ,2022-09-04
+15,1:23.839,0.872,0.244,182.879,,,11,2,J. Daruvala,PREMA Racing,Zandvoort,Free Practice,10:47:32,Round 12 ,2022-09-04
+12,1:23.955,0.988,0.116,182.626,,,12,24,D. Beckmann,Van Amersfoort Racing,Zandvoort,Free Practice,10:50:19,Round 12 ,2022-09-04
+16,1:23.970,1.003,0.015,182.593,,,13,4,M. Sato,Virtuosi Racing,Zandvoort,Free Practice,10:50:16,Round 12 ,2022-09-04
+15,1:23.987,1.020,0.017,182.556,,,14,8,J. Vips,Hitech Grand Prix,Zandvoort,Free Practice,10:50:13,Round 12 ,2022-09-04
+15,1:24.008,1.041,0.021,182.511,,,15,21,C. Williams,Trident,Zandvoort,Free Practice,10:46:36,Round 12 ,2022-09-04
+16,1:24.033,1.066,0.025,182.456,,,16,7,M. Armstrong,Hitech Grand Prix,Zandvoort,Free Practice,10:47:22,Round 12 ,2022-09-04
+16,1:24.077,1.110,0.044,182.361,,,17,12,C. Novalak,MP Motorsport,Zandvoort,Free Practice,10:47:25,Round 12 ,2022-09-04
+16,1:24.126,1.159,0.049,182.255,,,18,14,O. Caldwell,Campos Racing,Zandvoort,Free Practice,10:50:09,Round 12 ,2022-09-04
+16,1:24.297,1.330,0.171,181.885,,,19,16,R. Nissany,DAMS,Zandvoort,Free Practice,10:26:34,Round 12 ,2022-09-04
+17,1:24.476,1.509,0.179,181.5,,,20,15,R. Boschung,Campos Racing,Zandvoort,Free Practice,10:49:54,Round 12 ,2022-09-04
+17,1:24.608,1.641,0.132,181.216,,,21,22,E. Fittipaldi,Charouz Racing System,Zandvoort,Free Practice,10:43:19,Round 12 ,2022-09-04
+17,1:25.824,2.857,1.216,178.649,,,22,23,T. Calderón,Charouz Racing System,Zandvoort,Free Practice,10:50:56,Round 12 ,2022-09-04
+30,1:06:39.193,-,-,156.164,1:33.986,26.0,1,2,J. Daruvala,PREMA Racing,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:06:41.163,1.970,1.970,156.087,1:34.014,19.0,2,9,F. Vesti,ART Grand Prix,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:06:45.684,6.491,0.753,155.911,1:34.244,26.0,3,22,E. Fittipaldi,Charouz Racing System,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:06:46.442,7.249,0.758,155.881,1:34.100,19.0,4,1,D. Hauger,PREMA Racing,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:06:46.994,7.801,0.552,155.86,1:34.087,19.0,5,24,D. Beckmann,Van Amersfoort Racing,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:06:49.695,10.502,2.701,155.755,1:34.035,27.0,6,11,F. Drugovich,MP Motorsport,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:06:51.931,12.738,2.236,155.668,1:34.091,18.0,7,25,A. Cordeel,Van Amersfoort Racing,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:07:07.143,27.950,15.212,155.08,1:35.182,23.0,8,12,C. Novalak,MP Motorsport,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:07:14.377,35.184,7.234,154.802,1:33.155,29.0,9,20,R. Verschoor,Trident,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:07:24.88,45.692,10.508,154.4,1:33.858,29.0,10,8,J. Vips,Hitech Grand Prix,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:07:26.715,47.522,1.830,154.33,1:33.771,23.0,11,4,M. Sato,Virtuosi Racing,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:07:33.911,54.718,7.196,154.056,1:34.026,25.0,12,7,M. Armstrong,Hitech Grand Prix,Monza,Feature Race,,Round 13 ,2022-09-11
+30,1:08:10.727,91.534,36.816,152.67,1:34.203,28.0,13,5,L. Lawson,Carlin,Monza,Feature Race,,Round 13 ,2022-09-11
+21,35:29.646,-,-,205.122,1:33.817,18.0,1,8,J. Vips,Hitech Grand Prix,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:30.681,1.035,1.035,205.022,1:33.763,19.0,2,9,F. Vesti,ART Grand Prix,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:37.330,7.684,6.649,204.385,1:34.059,12.0,3,2,J. Daruvala,PREMA Racing,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:38.668,9.022,1.338,204.257,1:34.017,11.0,4,6,L. Sargeant,Carlin,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:42.775,13.129,3.667,203.865,1:34.039,20.0,5,5,L. Lawson,Carlin,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:42.952,13.306,0.177,203.848,1:33.930,21.0,6,3,J. Doohan,Virtuosi Racing,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:44.037,14.391,1.085,203.745,1:33.856,20.0,7,24,D. Beckmann,Van Amersfoort Racing,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:39.108,9.462,0.440,204.215,1:33.874,20.0,8,20,R. Verschoor,Trident,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:44.369,14.723,0.332,203.714,1:33.739,20.0,9,1,D. Hauger,PREMA Racing,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:47.267,17.621,2.898,203.439,1:33.935,20.0,10,7,M. Armstrong,Hitech Grand Prix,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:48.841,19.195,1.574,203.29,1:34.103,8.0,11,4,M. Sato,Virtuosi Racing,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:52.250,22.604,3.409,202.968,1:34.052,7.0,12,22,E. Fittipaldi,Charouz Racing System,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:53.832,24.186,1.582,202.819,1:33.911,8.0,13,16,L. Ghiotto,DAMS,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:54.333,24.687,0.501,202.771,1:33.912,12.0,14,21,C. Williams,Trident,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:55.553,25.907,1.220,202.657,1:34.065,8.0,15,25,A. Cordeel,Van Amersfoort Racing,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,35:57.801,28.155,2.248,202.446,1:34.447,7.0,16,17,A. Iwasa,DAMS,Monza,Sprint Race,,Round 13 ,2022-09-11
+21,36:00.031,30.385,2.230,202.237,1:34.035,6.0,17,10,T. Pourchaire,ART Grand Prix,Monza,Sprint Race,,Round 13 ,2022-09-11
+13,1:31.641,-,-,227.57,,,1,3,J. Doohan,Virtuosi Racing,Monza,Qualifying Session,18:56:59,Round 13 ,2022-09-11
+12,1:31.767,0.126,0.126,227.258,,,2,5,L. Lawson,Carlin,Monza,Qualifying Session,18:56:51,Round 13 ,2022-09-11
+12,1:31.834,0.193,0.067,227.092,,,3,7,M. Armstrong,Hitech Grand Prix,Monza,Qualifying Session,18:56:46,Round 13 ,2022-09-11
+14,1:31.845,0.204,0.011,227.065,,,4,11,F. Drugovich,MP Motorsport,Monza,Qualifying Session,18:59:57,Round 13 ,2022-09-11
+14,1:31.859,0.218,0.014,227.03,,,5,20,R. Verschoor,Trident,Monza,Qualifying Session,18:59:55,Round 13 ,2022-09-11
+11,1:31.882,0.241,0.023,226.973,,,6,2,J. Daruvala,PREMA Racing,Monza,Qualifying Session,18:56:55,Round 13 ,2022-09-11
+12,1:31.920,0.279,0.038,226.879,,,7,17,A. Iwasa,DAMS,Monza,Qualifying Session,18:56:30,Round 13 ,2022-09-11
+12,1:31.969,0.328,0.049,226.759,,,8,8,J. Vips,Hitech Grand Prix,Monza,Qualifying Session,18:57:02,Round 13 ,2022-09-11
+13,1:32.023,0.382,0.054,226.625,,,9,6,L. Sargeant,Carlin,Monza,Qualifying Session,18:59:58,Round 13 ,2022-09-11
+14,1:32.027,0.386,0.004,226.616,,,10,9,F. Vesti,ART Grand Prix,Monza,Qualifying Session,18:59:59,Round 13 ,2022-09-11
+12,1:32.192,0.551,0.165,226.21,,,11,24,D. Beckmann,Van Amersfoort Racing,Monza,Qualifying Session,18:59:48,Round 13 ,2022-09-11
+12,1:32.348,0.707,0.156,225.828,,,12,25,A. Cordeel,Van Amersfoort Racing,Monza,Qualifying Session,18:59:53,Round 13 ,2022-09-11
+14,1:32.352,0.711,0.004,225.818,,,13,15,R. Boschung,Campos Racing,Monza,Qualifying Session,18:59:50,Round 13 ,2022-09-11
+13,1:32.424,0.783,0.072,225.642,,,14,10,T. Pourchaire,ART Grand Prix,Monza,Qualifying Session,18:56:50,Round 13 ,2022-09-11
+11,1:32.452,0.811,0.028,225.574,,,15,4,M. Sato,Virtuosi Racing,Monza,Qualifying Session,18:57:04,Round 13 ,2022-09-11
+13,1:32.455,0.814,0.003,225.567,,,16,22,E. Fittipaldi,Charouz Racing System,Monza,Qualifying Session,18:56:57,Round 13 ,2022-09-11
+14,1:32.652,1.011,0.197,225.087,,,17,21,C. Williams,Trident,Monza,Qualifying Session,18:59:43,Round 13 ,2022-09-11
+14,1:32.854,1.213,0.202,224.597,,,18,16,L. Ghiotto,DAMS,Monza,Qualifying Session,18:59:40,Round 13 ,2022-09-11
+11,1:32.913,1.272,0.059,224.455,,,19,1,D. Hauger,PREMA Racing,Monza,Qualifying Session,18:39:25,Round 13 ,2022-09-11
+14,1:33.195,1.554,0.282,223.775,,,20,14,O. Caldwell,Campos Racing,Monza,Qualifying Session,18:59:43,Round 13 ,2022-09-11
+12,1:33.345,1.704,0.150,223.416,,,21,12,C. Novalak,MP Motorsport,Monza,Qualifying Session,18:39:17,Round 13 ,2022-09-11
+13,1:33.625,1.984,0.280,222.748,,,22,23,T. Calderón,Charouz Racing System,Monza,Qualifying Session,18:57:06,Round 13 ,2022-09-11
+18,1:32.337,-,-,225.855,,,1,8,J. Vips,Hitech Grand Prix,Monza,Free Practice,11:09:07,Round 13 ,2022-09-11
+20,1:32.650,0.313,0.313,225.092,,,2,15,R. Boschung,Campos Racing,Monza,Free Practice,11:10:39,Round 13 ,2022-09-11
+18,1:32.722,0.385,0.072,224.917,,,3,7,M. Armstrong,Hitech Grand Prix,Monza,Free Practice,11:09:48,Round 13 ,2022-09-11
+17,1:32.807,0.470,0.085,224.711,,,4,10,T. Pourchaire,ART Grand Prix,Monza,Free Practice,11:08:42,Round 13 ,2022-09-11
+17,1:32.842,0.505,0.035,224.626,,,5,20,R. Verschoor,Trident,Monza,Free Practice,11:10:14,Round 13 ,2022-09-11
+20,1:32.897,0.560,0.055,224.493,,,6,11,F. Drugovich,MP Motorsport,Monza,Free Practice,11:09:50,Round 13 ,2022-09-11
+18,1:32.901,0.564,0.004,224.484,,,7,9,F. Vesti,ART Grand Prix,Monza,Free Practice,11:09:46,Round 13 ,2022-09-11
+17,1:32.975,0.638,0.074,224.305,,,8,5,L. Lawson,Carlin,Monza,Free Practice,11:09:44,Round 13 ,2022-09-11
+14,1:33.022,0.685,0.047,224.192,,,9,2,J. Daruvala,PREMA Racing,Monza,Free Practice,11:09:09,Round 13 ,2022-09-11
+14,1:33.100,0.763,0.078,224.004,,,10,1,D. Hauger,PREMA Racing,Monza,Free Practice,11:10:26,Round 13 ,2022-09-11
+15,1:33.146,0.809,0.046,223.893,,,11,3,J. Doohan,Virtuosi Racing,Monza,Free Practice,11:07:20,Round 13 ,2022-09-11
+16,1:33.189,0.852,0.043,223.79,,,12,24,D. Beckmann,Van Amersfoort Racing,Monza,Free Practice,11:10:45,Round 13 ,2022-09-11
+20,1:33.287,0.950,0.098,223.555,,,13,16,L. Ghiotto,DAMS,Monza,Free Practice,11:11:02,Round 13 ,2022-09-11
+18,1:33.376,1.039,0.089,223.342,,,14,21,C. Williams,Trident,Monza,Free Practice,11:09:57,Round 13 ,2022-09-11
+17,1:33.567,1.230,0.191,222.886,,,15,6,L. Sargeant,Carlin,Monza,Free Practice,11:10:37,Round 13 ,2022-09-11
+20,1:33.584,1.247,0.017,222.845,,,16,17,A. Iwasa,DAMS,Monza,Free Practice,11:10:01,Round 13 ,2022-09-11
+16,1:33.673,1.336,0.089,222.634,,,17,4,M. Sato,Virtuosi Racing,Monza,Free Practice,11:08:45,Round 13 ,2022-09-11
+18,1:33.748,1.411,0.075,222.455,,,18,25,A. Cordeel,Van Amersfoort Racing,Monza,Free Practice,11:10:03,Round 13 ,2022-09-11
+17,1:33.850,1.513,0.102,222.214,,,19,22,E. Fittipaldi,Charouz Racing System,Monza,Free Practice,11:08:21,Round 13 ,2022-09-11
+22,1:34.019,1.682,0.169,221.814,,,20,14,O. Caldwell,Campos Racing,Monza,Free Practice,11:11:08,Round 13 ,2022-09-11
+18,1:34.249,1.912,0.230,221.273,,,21,12,C. Novalak,MP Motorsport,Monza,Free Practice,11:09:44,Round 13 ,2022-09-11
+16,1:35.093,2.756,0.844,219.309,,,22,23,T. Calderón,Charouz Racing System,Monza,Free Practice,11:10:07,Round 13 ,2022-09-11
+33,57:02.908,-,-,183.168,1:39.938,11.0,1,17,A. Iwasa,DAMS,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:03.738,0.830,0.830,183.124,1:39.831,11.0,2,11,F. Drugovich,MP Motorsport,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:04.256,1.348,0.518,183.096,1:39.884,9.0,3,5,L. Lawson,Carlin,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:16.348,13.440,12.092,182.452,1:39.786,11.0,4,1,D. Hauger,PREMA Racing,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:16.972,14.064,0.624,182.418,1:39.818,12.0,5,6,L. Sargeant,Carlin,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:18.627,15.719,1.655,182.331,1:39.485,14.0,6,25,A. Cordeel,Van Amersfoort Racing,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:21.070,18.162,2.443,182.201,1:39.350,25.0,7,20,R. Verschoor,Trident,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:23.187,20.279,2.117,182.089,1:39.771,14.0,8,8,J. Vips,Hitech Grand Prix,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:23.592,20.684,0.405,182.068,1:39.626,24.0,9,7,M. Armstrong,Hitech Grand Prix,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:25.089,22.181,1.497,181.989,1:39.930,12.0,10,16,R. Nissany,DAMS,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:25.640,22.732,0.551,181.96,1:39.910,14.0,11,9,F. Vesti,ART Grand Prix,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:26.397,23.489,0.757,181.92,1:39.146,24.0,12,12,C. Novalak,MP Motorsport,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:27.206,24.298,0.809,181.877,1:39.253,24.0,13,2,J. Daruvala,PREMA Racing,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:30.524,27.616,3.318,181.702,1:40.376,33.0,14,22,E. Fittipaldi,Charouz Racing System,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:31.154,28.246,0.630,181.669,1:39.307,24.0,15,4,M. Sato,Virtuosi Racing,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:34.662,31.754,3.508,181.484,1:40.135,14.0,16,21,Z. Maloney,Trident,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:40.354,37.44,5.692,181.186,1:39.996,20.0,17,24,J. Correa,Van Amersfoort Racing,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:48.024,45.116,12.670,180.785,1:40.396,21.0,18,23,T. Calderón,Charouz Racing System,Yas Island,Feature Race,,Round 14 ,2022-11-20
+31,55:13.253,DNF,-,177.754,1:40.010,23.0,19,10,T. Pourchaire,ART Grand Prix,Yas Island,Feature Race,,Round 14 ,2022-11-20
+29,51:04.060,DNF,-,179.801,1:40.081,29.0,20,14,O. Caldwell,Campos Racing,Yas Island,Feature Race,,Round 14 ,2022-11-20
+23,1:11:53.868,-,-,101.267,1:39.292,7.0,1,5,L. Lawson,Carlin,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:01.811,7.943,7.943,101.08,1:39.337,7.0,2,20,R. Verschoor,Trident,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:02.671,8.803,0.860,101.06,1:39.835,9.0,3,11,F. Drugovich,MP Motorsport,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:08.805,14.937,6.134,100.917,1:39.448,8.0,4,1,D. Hauger,PREMA Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:09.317,15.449,0.512,100.905,1:39.465,8.0,5,25,A. Cordeel,Van Amersfoort Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:09.806,15.938,0.489,100.894,1:39.987,8.0,6,6,L. Sargeant,Carlin,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:10.369,16.501,0.563,100.881,1:39.850,8.0,7,3,J. Doohan,Virtuosi Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:11.181,17.313,0.812,100.862,1:39.860,9.0,8,16,R. Nissany,DAMS,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:11.447,17.579,0.266,100.856,1:40.071,10.0,9,10,T. Pourchaire,ART Grand Prix,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:11.836,17.968,0.389,100.847,1:40.009,10.0,10,7,M. Armstrong,Hitech Grand Prix,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:13.081,19.213,1.245,100.818,1:40.115,16.0,11,9,F. Vesti,ART Grand Prix,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:15.899,22.031,2.818,100.752,1:39.999,8.0,12,8,J. Vips,Hitech Grand Prix,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:18.030,24.162,2.131,100.703,1:40.154,10.0,13,17,A. Iwasa,DAMS,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:20.963,27.095,2.933,100.634,1:40.020,13.0,14,12,C. Novalak,MP Motorsport,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:27.728,33.860,0.696,100.478,1:40.595,10.0,15,21,Z. Maloney,Trident,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:27.902,34.034,0.174,100.474,1:40.604,8.0,16,14,O. Caldwell,Campos Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:30.298,36.430,2.396,100.419,1:40.342,4.0,17,15,R. Boschung,Campos Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:27.032,33.164,6.069,100.494,1:40.324,12.0,18,24,J. Correa,Van Amersfoort Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:52.578,58.710,22.280,99.907,1:40.366,17.0,19,4,M. Sato,Virtuosi Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:13:08.758,74.890,16.180,99.539,1:41.720,8.0,20,23,T. Calderón,Charouz Racing System,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+10,1:36.290,-,-,197.441,,,1,17,A. Iwasa,DAMS,Yas Island,Qualifying Session,16:04:23,Round 14 ,2022-11-20
+10,1:36.326,0.036,0.036,197.367,,,2,16,R. Nissany,DAMS,Yas Island,Qualifying Session,16:04:17,Round 14 ,2022-11-20
+11,1:36.372,0.082,0.046,197.273,,,3,10,T. Pourchaire,ART Grand Prix,Yas Island,Qualifying Session,16:00:07,Round 14 ,2022-11-20
+12,1:36.482,0.192,0.110,197.048,,,4,11,F. Drugovich,MP Motorsport,Yas Island,Qualifying Session,16:03:31,Round 14 ,2022-11-20
+11,1:36.510,0.220,0.028,196.99,,,5,3,J. Doohan,Virtuosi Racing,Yas Island,Qualifying Session,16:04:01,Round 14 ,2022-11-20
+11,1:36.514,0.224,0.004,196.982,,,6,6,L. Sargeant,Carlin,Yas Island,Qualifying Session,16:00:23,Round 14 ,2022-11-20
+12,1:36.550,0.260,0.036,196.909,,,7,1,D. Hauger,PREMA Racing,Yas Island,Qualifying Session,16:00:29,Round 14 ,2022-11-20
+12,1:36.578,0.288,0.028,196.852,,,8,25,A. Cordeel,Van Amersfoort Racing,Yas Island,Qualifying Session,16:04:31,Round 14 ,2022-11-20
+11,1:36.588,0.298,0.010,196.831,,,9,5,L. Lawson,Carlin,Yas Island,Qualifying Session,16:04:07,Round 14 ,2022-11-20
+12,1:36.588,0.298,0.000,196.831,,,10,20,R. Verschoor,Trident,Yas Island,Qualifying Session,16:04:44,Round 14 ,2022-11-20
+11,1:36.619,0.329,0.031,196.768,,,11,7,M. Armstrong,Hitech Grand Prix,Yas Island,Qualifying Session,16:00:14,Round 14 ,2022-11-20
+12,1:36.630,0.340,0.011,196.746,,,12,2,J. Daruvala,PREMA Racing,Yas Island,Qualifying Session,16:00:32,Round 14 ,2022-11-20
+11,1:36.680,0.390,0.050,196.644,,,13,22,E. Fittipaldi,Charouz Racing System,Yas Island,Qualifying Session,16:04:13,Round 14 ,2022-11-20
+12,1:36.685,0.395,0.005,196.634,,,14,15,R. Boschung,Campos Racing,Yas Island,Qualifying Session,15:59:52,Round 14 ,2022-11-20
+11,1:36.794,0.504,0.109,196.413,,,15,8,J. Vips,Hitech Grand Prix,Yas Island,Qualifying Session,16:00:18,Round 14 ,2022-11-20
+11,1:37.023,0.733,0.229,195.949,,,16,9,F. Vesti,ART Grand Prix,Yas Island,Qualifying Session,16:03:43,Round 14 ,2022-11-20
+10,1:37.084,0.794,0.039,195.826,,,17,24,J. Correa,Van Amersfoort Racing,Yas Island,Qualifying Session,16:04:26,Round 14 ,2022-11-20
+11,1:37.100,0.810,0.016,195.794,,,18,21,Z. Maloney,Trident,Yas Island,Qualifying Session,16:01:04,Round 14 ,2022-11-20
+12,1:37.208,0.918,0.108,195.576,,,19,14,O. Caldwell,Campos Racing,Yas Island,Qualifying Session,16:03:36,Round 14 ,2022-11-20
+11,1:37.248,0.755,0.022,195.904,,,20,12,C. Novalak,MP Motorsport,Yas Island,Qualifying Session,16:03:33,Round 14 ,2022-11-20
+11,1:37.828,1.538,0.620,194.336,,,21,23,T. Calderón,Charouz Racing System,Yas Island,Qualifying Session,16:04:34,Round 14 ,2022-11-20
+16,1:38.168,-,-,193.663,,,1,17,A. Iwasa,DAMS,Yas Island,Free Practice,11:52:55,Round 14 ,2022-11-20
+17,1:38.223,0.055,0.055,193.555,,,2,10,T. Pourchaire,ART Grand Prix,Yas Island,Free Practice,12:06:11,Round 14 ,2022-11-20
+14,1:38.236,0.068,0.013,193.529,,,3,3,J. Doohan,Virtuosi Racing,Yas Island,Free Practice,12:21:15,Round 14 ,2022-11-20
+15,1:38.297,0.129,0.061,193.409,,,4,6,L. Sargeant,Carlin,Yas Island,Free Practice,12:07:59,Round 14 ,2022-11-20
+17,1:38.372,0.204,0.075,193.262,,,5,5,L. Lawson,Carlin,Yas Island,Free Practice,12:21:10,Round 14 ,2022-11-20
+16,1:38.417,0.249,0.045,193.173,,,6,12,C. Novalak,MP Motorsport,Yas Island,Free Practice,12:02:41,Round 14 ,2022-11-20
+14,1:38.469,0.301,0.052,193.071,,,7,7,M. Armstrong,Hitech Grand Prix,Yas Island,Free Practice,11:48:02,Round 14 ,2022-11-20
+15,1:38.490,0.322,0.021,193.03,,,8,8,J. Vips,Hitech Grand Prix,Yas Island,Free Practice,12:21:07,Round 14 ,2022-11-20
+17,1:38.609,0.441,0.119,192.797,,,9,9,F. Vesti,ART Grand Prix,Yas Island,Free Practice,12:20:59,Round 14 ,2022-11-20
+17,1:38.612,0.444,0.003,192.791,,,10,11,F. Drugovich,MP Motorsport,Yas Island,Free Practice,12:04:35,Round 14 ,2022-11-20
+15,1:38.765,0.597,0.153,192.493,,,11,16,R. Nissany,DAMS,Yas Island,Free Practice,11:48:58,Round 14 ,2022-11-20
+17,1:38.766,0.598,0.001,192.491,,,12,4,M. Sato,Virtuosi Racing,Yas Island,Free Practice,12:21:18,Round 14 ,2022-11-20
+17,1:38.773,0.605,0.007,192.477,,,13,25,A. Cordeel,Van Amersfoort Racing,Yas Island,Free Practice,12:05:57,Round 14 ,2022-11-20
+16,1:38.795,0.627,0.022,192.434,,,14,24,J. Correa,Van Amersfoort Racing,Yas Island,Free Practice,12:21:20,Round 14 ,2022-11-20
+16,1:38.895,0.727,0.100,192.24,,,15,1,D. Hauger,PREMA Racing,Yas Island,Free Practice,12:08:28,Round 14 ,2022-11-20
+15,1:39.055,0.887,0.160,191.929,,,16,2,J. Daruvala,PREMA Racing,Yas Island,Free Practice,11:47:53,Round 14 ,2022-11-20
+16,1:39.136,0.968,0.081,191.772,,,17,20,R. Verschoor,Trident,Yas Island,Free Practice,11:52:48,Round 14 ,2022-11-20
+14,1:39.349,1.181,0.213,191.361,,,18,15,R. Boschung,Campos Racing,Yas Island,Free Practice,12:00:52,Round 14 ,2022-11-20
+17,1:39.354,1.186,0.005,191.352,,,19,14,O. Caldwell,Campos Racing,Yas Island,Free Practice,12:20:39,Round 14 ,2022-11-20
+17,1:39.393,1.225,0.039,191.277,,,20,22,E. Fittipaldi,Charouz Racing System,Yas Island,Free Practice,12:08:18,Round 14 ,2022-11-20
+15,1:39.935,1.767,0.542,190.239,,,21,21,Z. Maloney,Trident,Yas Island,Free Practice,12:03:47,Round 14 ,2022-11-20
+17,1:40.276,2.108,0.341,189.592,,,22,23,T. Calderón,Charouz Racing System,Yas Island,Free Practice,12:05:44,Round 14 ,2022-11-20

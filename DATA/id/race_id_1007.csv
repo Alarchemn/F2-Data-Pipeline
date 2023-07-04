@@ -1,0 +1,79 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+23,42:36.192,-,-,174.958,1:47.184,14.0,1,8,L. Ghiotto,UNI-Virtuosi,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,42:41.666,5.474,5.474,174.584,1:48.760,3.0,2,5,S. Sette Câmara,DAMS,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,42:43.059,6.867,1.393,174.489,1:49.038,4.0,3,6,N. Latifi,DAMS,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,42:54.432,18.240,11.373,173.719,1:49.559,4.0,4,7,G. Zhou,UNI-Virtuosi,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,42:58.131,21.939,3.699,173.469,1:49.306,2.0,5,1,L. Delétraz,Carlin,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:00.871,24.679,2.740,173.285,1:49.930,5.0,6,9,M. Schumacher,PREMA Racing,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:01.346,25.154,0.475,173.253,1:47.145,14.0,7,4,N. de Vries,ART Grand Prix,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:01.712,25.520,0.366,173.229,1:47.797,13.0,8,16,J. King,MP Motorsport,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:06.706,30.514,4.994,172.894,1:48.785,16.0,9,19,A. Hubert,BWT Arden,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:06.724,30.532,0.018,172.893,1:48.079,12.0,10,10,S. Gelael,PREMA Racing,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:08.416,32.224,1.692,172.78,1:49.761,4.0,11,15,J. Aitken,Campos Racing,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:12.172,35.980,3.756,172.53,1:48.056,12.0,12,2,N. Matsushita,Carlin,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:16.733,40.541,4.561,172.227,1:49.356,20.0,13,3,N. Mazepin,ART Grand Prix,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:19.266,43.074,2.533,172.059,1:49.868,4.0,14,21,R. Boschung,Trident,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:22.198,46.006,2.932,171.865,1:50.248,4.0,15,18,T. Calderón,BWT Arden,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:32.679,56.487,10.481,171.176,1:49.931,4.0,16,11,C. Ilott,Sauber Junior Team by Charouz,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,43:36.240,60.048,3.561,170.943,1:48.299,19.0,17,14,D. Boccolacci,Campos Racing,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+23,44:08.777,92.585,11.470,168.843,1:48.920,10.0,18,12,J. Correa,Sauber Junior Team by Charouz,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+22,42:41.591,1 LAP,1 LAP,166.984,1:50.368,2.0,19,17,M. Raghunathan,MP Motorsport,Sakhir,Sprint Race,,Round 1 ,2019-03-31
+32,59:19.517,-,-,174.904,1:47.989,21.0,1,6,N. Latifi,DAMS,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:28.261,8.744,8.744,174.476,1:47.833,19.0,2,8,L. Ghiotto,UNI-Virtuosi,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:34.343,14.826,6.082,174.179,1:48.463,22.0,3,5,S. Sette Câmara,DAMS,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:36.790,17.273,2.447,174.06,1:48.483,19.0,4,19,A. Hubert,BWT Arden,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:46.203,26.686,9.413,173.603,1:48.523,16.0,5,1,L. Delétraz,Carlin,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:48.014,28.497,1.811,173.515,1:48.850,3.0,6,4,N. de Vries,ART Grand Prix,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:51.062,31.545,3.048,173.368,1:48.518,20.0,7,15,J. Aitken,Campos Racing,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:54.225,34.708,3.163,173.215,1:49.536,26.0,8,9,M. Schumacher,PREMA Racing,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,59:56.912,37.395,2.687,173.086,1:48.710,18.0,9,2,N. Matsushita,Carlin,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:00.648,41.131,3.736,172.906,1:47.645,18.0,10,7,G. Zhou,UNI-Virtuosi,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:01.609,42.092,0.961,172.86,1:49.144,19.0,11,21,R. Boschung,Trident,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:07.228,47.711,5.619,172.591,1:48.808,17.0,12,20,G. Alesi,Trident,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:15.292,55.775,8.064,172.206,1:48.911,24.0,13,18,T. Calderón,BWT Arden,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:15.810,56.293,0.518,172.181,1:48.487,17.0,14,11,C. Ilott,Sauber Junior Team by Charouz,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:33.764,74.247,17.954,171.331,1:48.893,19.0,15,14,D. Boccolacci,Campos Racing,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:44.505,84.988,10.741,170.826,1:49.057,17.0,16,12,J. Correa,Sauber Junior Team by Charouz,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:46.028,86.511,1.523,170.754,1:48.772,19.0,17,16,J. King,MP Motorsport,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:52.667,93.150,6.639,170.444,1:49.123,20.0,18,17,M. Raghunathan,MP Motorsport,Sakhir,Feature Race,,Round 1 ,2019-03-31
+32,1:00:57.085,97.568,4.418,170.238,1:49.277,16.0,19,3,N. Mazepin,ART Grand Prix,Sakhir,Feature Race,,Round 1 ,2019-03-31
+9,1:40.504,-,-,193.854,,,1,8,L. Ghiotto,UNI-Virtuosi,Sakhir,Qualifying Session,17:25:10,Round 1 ,2019-03-31
+9,1:40.871,0.367,0.367,193.149,,,2,1,L. Delétraz,Carlin,Sakhir,Qualifying Session,17:24:17,Round 1 ,2019-03-31
+9,1:40.889,0.385,0.018,193.115,,,3,4,N. de Vries,ART Grand Prix,Sakhir,Qualifying Session,17:24:10,Round 1 ,2019-03-31
+9,1:40.964,0.460,0.075,192.971,,,4,6,N. Latifi,DAMS,Sakhir,Qualifying Session,17:15:08,Round 1 ,2019-03-31
+9,1:41.115,0.611,0.151,192.683,,,5,15,J. Aitken,Campos Racing,Sakhir,Qualifying Session,17:15:55,Round 1 ,2019-03-31
+9,1:41.137,0.633,0.022,192.641,,,6,2,N. Matsushita,Carlin,Sakhir,Qualifying Session,17:24:23,Round 1 ,2019-03-31
+8,1:41.254,0.750,0.117,192.419,,,7,10,S. Gelael,PREMA Racing,Sakhir,Qualifying Session,17:24:42,Round 1 ,2019-03-31
+11,1:41.310,0.806,0.056,192.312,,,8,5,S. Sette Câmara,DAMS,Sakhir,Qualifying Session,17:17:00,Round 1 ,2019-03-31
+9,1:41.505,1.001,0.195,191.943,,,9,21,R. Boschung,Trident,Sakhir,Qualifying Session,17:24:31,Round 1 ,2019-03-31
+8,1:41.583,1.079,0.078,191.795,,,10,9,M. Schumacher,PREMA Racing,Sakhir,Qualifying Session,17:24:57,Round 1 ,2019-03-31
+9,1:41.596,1.092,0.013,191.771,,,11,19,A. Hubert,BWT Arden,Sakhir,Qualifying Session,17:24:28,Round 1 ,2019-03-31
+10,1:41.722,1.218,0.126,191.533,,,12,12,J. Correa,Sauber Junior Team by Charouz,Sakhir,Qualifying Session,17:23:47,Round 1 ,2019-03-31
+9,1:41.848,1.344,0.126,191.296,,,13,3,N. Mazepin,ART Grand Prix,Sakhir,Qualifying Session,17:24:15,Round 1 ,2019-03-31
+9,1:41.857,1.353,0.009,191.279,,,14,16,J. King,MP Motorsport,Sakhir,Qualifying Session,17:24:36,Round 1 ,2019-03-31
+9,1:41.864,1.360,0.007,191.266,,,15,20,G. Alesi,Trident,Sakhir,Qualifying Session,17:24:34,Round 1 ,2019-03-31
+9,1:41.918,1.414,0.054,191.165,,,16,14,D. Boccolacci,Campos Racing,Sakhir,Qualifying Session,17:16:01,Round 1 ,2019-03-31
+8,1:42.123,1.619,0.205,190.781,,,17,7,G. Zhou,UNI-Virtuosi,Sakhir,Qualifying Session,17:15:02,Round 1 ,2019-03-31
+5,1:42.280,1.776,0.157,190.488,,,18,11,C. Ilott,Sauber Junior Team by Charouz,Sakhir,Qualifying Session,16:56:34,Round 1 ,2019-03-31
+9,1:42.810,2.306,0.530,189.506,,,19,18,T. Calderón,BWT Arden,Sakhir,Qualifying Session,17:25:03,Round 1 ,2019-03-31
+10,1:43.343,2.839,0.533,188.529,,,20,17,M. Raghunathan,MP Motorsport,Sakhir,Qualifying Session,17:00:57,Round 1 ,2019-03-31
+12,1:43.618,-,-,188.029,,,1,5,S. Sette Câmara,DAMS,Sakhir,Free Practice,11:48:52,Round 1 ,2019-03-31
+14,1:43.912,0.294,0.294,187.497,,,2,6,N. Latifi,DAMS,Sakhir,Free Practice,11:48:39,Round 1 ,2019-03-31
+12,1:44.178,0.560,0.266,187.018,,,3,21,R. Boschung,Trident,Sakhir,Free Practice,11:49:01,Round 1 ,2019-03-31
+13,1:44.232,0.614,0.054,186.921,,,4,8,L. Ghiotto,UNI-Virtuosi,Sakhir,Free Practice,11:52:27,Round 1 ,2019-03-31
+14,1:44.311,0.693,0.079,186.779,,,5,11,C. Ilott,Sauber Junior Team by Charouz,Sakhir,Free Practice,11:48:58,Round 1 ,2019-03-31
+12,1:44.323,0.705,0.012,186.758,,,6,7,G. Zhou,UNI-Virtuosi,Sakhir,Free Practice,11:48:55,Round 1 ,2019-03-31
+17,1:44.362,0.744,0.039,186.688,,,7,4,N. de Vries,ART Grand Prix,Sakhir,Free Practice,11:45:46,Round 1 ,2019-03-31
+13,1:44.375,0.757,0.013,186.665,,,8,1,L. Delétraz,Carlin,Sakhir,Free Practice,11:50:00,Round 1 ,2019-03-31
+14,1:44.546,0.928,0.171,186.36,,,9,12,J. Correa,Sauber Junior Team by Charouz,Sakhir,Free Practice,11:49:06,Round 1 ,2019-03-31
+16,1:44.548,0.930,0.002,186.356,,,10,2,N. Matsushita,Carlin,Sakhir,Free Practice,11:49:16,Round 1 ,2019-03-31
+13,1:44.573,0.955,0.025,186.311,,,11,10,S. Gelael,PREMA Racing,Sakhir,Free Practice,11:49:18,Round 1 ,2019-03-31
+12,1:44.595,0.977,0.022,186.272,,,12,9,M. Schumacher,PREMA Racing,Sakhir,Free Practice,11:49:22,Round 1 ,2019-03-31
+17,1:44.834,1.216,0.239,185.848,,,13,19,A. Hubert,BWT Arden,Sakhir,Free Practice,11:39:53,Round 1 ,2019-03-31
+15,1:45.006,1.388,0.172,185.543,,,14,15,J. Aitken,Campos Racing,Sakhir,Free Practice,11:47:46,Round 1 ,2019-03-31
+15,1:45.173,1.555,0.167,185.249,,,15,20,G. Alesi,Trident,Sakhir,Free Practice,11:51:34,Round 1 ,2019-03-31
+16,1:45.324,1.706,0.151,184.983,,,16,16,J. King,MP Motorsport,Sakhir,Free Practice,11:37:52,Round 1 ,2019-03-31
+17,1:45.572,1.954,0.248,184.548,,,17,3,N. Mazepin,ART Grand Prix,Sakhir,Free Practice,11:40:43,Round 1 ,2019-03-31
+17,1:45.768,2.150,0.196,184.206,,,18,14,D. Boccolacci,Campos Racing,Sakhir,Free Practice,11:41:20,Round 1 ,2019-03-31
+14,1:46.363,2.745,0.595,183.176,,,19,18,T. Calderón,BWT Arden,Sakhir,Free Practice,12:00:44,Round 1 ,2019-03-31
+15,1:46.637,3.019,0.274,182.705,,,20,17,M. Raghunathan,MP Motorsport,Sakhir,Free Practice,11:42:44,Round 1 ,2019-03-31

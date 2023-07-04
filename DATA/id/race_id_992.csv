@@ -1,0 +1,74 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+21,33:31.886,-,-,217.128,1:34.899,3.0,1,8,G. Russell,ART Grand Prix,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,33:32.942,1.056,1.056,217.014,1:34.927,3.0,2,1,A. Markelov,RUSSIAN TIME,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,33:36.233,4.347,3.291,216.66,1:34.896,4.0,3,18,S. Sette Câmara,Carlin,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,33:37.537,5.651,1.304,216.52,1:35.300,3.0,4,6,N. Latifi,DAMS,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,33:38.060,6.174,0.523,216.464,1:35.017,4.0,5,19,L. Norris,Carlin,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,33:49.338,17.452,11.278,215.261,1:35.502,4.0,6,14,L. Ghiotto,Campos Vexatec Racing,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,33:52.637,20.751,3.299,214.912,1:35.737,9.0,7,9,D. Boccolacci,MP Motorsport,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,33:56.102,24.216,3.465,214.546,1:35.489,11.0,8,7,J. Aitken,ART Grand Prix,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,33:57.074,25.188,0.972,214.444,1:35.886,9.0,9,16,A. Maini,Trident,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,34:00.339,28.453,3.265,214.1,1:35.800,5.0,10,21,A. Fuoco,Charouz Racing System,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,34:03.761,31.875,3.422,213.742,1:35.845,3.0,11,20,L. Delétraz,Charouz Racing System,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,34:06.678,34.792,2.917,213.437,1:35.571,5.0,12,17,A. Lorandi,Trident,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,34:10.208,38.323,3.531,213.07,1:35.981,5.0,13,12,N. Fukuzumi,BWT Arden,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,34:36.264,64.379,26.056,210.396,1:35.555,21.0,14,2,T. Makino,RUSSIAN TIME,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,34:49.666,77.780,13.401,209.046,1:35.812,4.0,15,15,R. Nissany,Campos Vexatec Racing,Monza,Sprint Race,,Round 10 ,2018-09-02
+21,34:50.734,78.848,1.068,208.94,1:36.226,8.0,16,11,M. Günther,BWT Arden,Monza,Sprint Race,,Round 10 ,2018-09-02
+20,33:53.153,1 LAP,1 LAP,204.6,1:35.198,20.0,17,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Monza,Sprint Race,,Round 10 ,2018-09-02
+30,49:10.197,-,-,211.691,1:35.623,29.0,1,2,T. Makino,RUSSIAN TIME,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:11.995,1.798,1.798,211.562,1:35.573,29.0,2,1,A. Markelov,RUSSIAN TIME,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:13.303,3.106,1.308,211.468,1:35.613,29.0,3,5,A. Albon,DAMS,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:16.375,6.178,3.072,211.249,1:35.695,26.0,4,8,G. Russell,ART Grand Prix,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:18.471,8.274,2.096,211.099,1:35.679,23.0,5,6,N. Latifi,DAMS,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:19.214,9.017,0.743,211.046,1:35.620,24.0,6,19,L. Norris,Carlin,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:28.415,18.218,9.201,210.392,1:35.296,30.0,7,18,S. Sette Câmara,Carlin,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:37.328,27.131,2.278,209.762,1:35.872,28.0,8,10,R. Boschung,MP Motorsport,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:37.400,27.203,0.072,209.757,1:35.937,24.0,9,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:40.590,30.393,3.190,209.532,1:36.643,11.0,10,14,L. Ghiotto,Campos Vexatec Racing,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:53.777,43.580,13.187,208.609,1:36.683,9.0,11,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:55.570,45.373,1.793,208.485,1:36.604,10.0,12,11,M. Günther,BWT Arden,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:55.689,45.492,0.119,208.476,1:35.815,29.0,13,20,L. Delétraz,Charouz Racing System,Monza,Feature Race,,Round 10 ,2018-09-02
+30,49:59.036,48.839,3.347,208.244,1:36.550,30.0,14,12,N. Fukuzumi,BWT Arden,Monza,Feature Race,,Round 10 ,2018-09-02
+30,50:02.753,52.556,3.717,207.986,1:36.563,29.0,15,17,A. Lorandi,Trident,Monza,Feature Race,,Round 10 ,2018-09-02
+29,49:52.291,1 LAP,1 LAP,201.744,1:37.132,17.0,16,15,R. Nissany,Campos Vexatec Racing,Monza,Feature Race,,Round 10 ,2018-09-02
+28,48:35.032,DNF,-,199.936,1:35.733,9.0,17,7,J. Aitken,ART Grand Prix,Monza,Feature Race,,Round 10 ,2018-09-02
+10,1:31.546,-,-,227.806,,,1,8,G. Russell,ART Grand Prix,Monza,Qualifying Session,17:21:09,Round 10 ,2018-09-02
+10,1:31.600,0.054,0.054,227.672,,,2,18,S. Sette Câmara,Carlin,Monza,Qualifying Session,17:21:41,Round 10 ,2018-09-02
+10,1:31.889,0.343,0.289,226.956,,,3,5,A. Albon,DAMS,Monza,Qualifying Session,17:21:08,Round 10 ,2018-09-02
+11,1:31.922,0.376,0.033,226.874,,,4,1,A. Markelov,RUSSIAN TIME,Monza,Qualifying Session,17:21:11,Round 10 ,2018-09-02
+10,1:32.021,0.475,0.099,226.63,,,5,6,N. Latifi,DAMS,Monza,Qualifying Session,17:21:06,Round 10 ,2018-09-02
+10,1:32.191,0.645,0.032,226.212,,,6,19,L. Norris,Carlin,Monza,Qualifying Session,17:21:20,Round 10 ,2018-09-02
+10,1:32.248,0.702,0.057,226.073,,,7,16,A. Maini,Trident,Monza,Qualifying Session,17:21:28,Round 10 ,2018-09-02
+10,1:32.346,0.800,0.098,225.833,,,8,14,L. Ghiotto,Campos Vexatec Racing,Monza,Qualifying Session,17:22:07,Round 10 ,2018-09-02
+8,1:32.159,0.613,0.138,226.291,,,9,21,A. Fuoco,Charouz Racing System,Monza,Qualifying Session,17:21:33,Round 10 ,2018-09-02
+10,1:32.407,0.861,0.061,225.684,,,10,20,L. Delétraz,Charouz Racing System,Monza,Qualifying Session,17:21:22,Round 10 ,2018-09-02
+11,1:32.566,1.020,0.159,225.296,,,11,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Monza,Qualifying Session,17:21:18,Round 10 ,2018-09-02
+10,1:32.681,1.135,0.115,225.016,,,12,7,J. Aitken,ART Grand Prix,Monza,Qualifying Session,17:21:03,Round 10 ,2018-09-02
+11,1:32.735,1.189,0.054,224.885,,,13,12,N. Fukuzumi,BWT Arden,Monza,Qualifying Session,17:21:14,Round 10 ,2018-09-02
+11,1:32.750,1.204,0.015,224.849,,,14,2,T. Makino,RUSSIAN TIME,Monza,Qualifying Session,17:21:19,Round 10 ,2018-09-02
+10,1:32.801,1.255,0.051,224.726,,,15,15,R. Nissany,Campos Vexatec Racing,Monza,Qualifying Session,17:21:47,Round 10 ,2018-09-02
+11,1:32.803,1.257,0.002,224.721,,,16,17,A. Lorandi,Trident,Monza,Qualifying Session,17:21:25,Round 10 ,2018-09-02
+11,1:32.913,1.367,0.110,224.455,,,17,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Monza,Qualifying Session,17:21:53,Round 10 ,2018-09-02
+11,1:32.965,1.419,0.052,224.329,,,18,10,R. Boschung,MP Motorsport,Monza,Qualifying Session,17:21:30,Round 10 ,2018-09-02
+10,1:33.496,1.950,0.531,223.055,,,19,11,M. Günther,BWT Arden,Monza,Qualifying Session,17:20:57,Round 10 ,2018-09-02
+11,1:33.810,-,-,222.308,,,1,18,S. Sette Câmara,Carlin,Monza,Free Practice,13:39:22,Round 10 ,2018-09-02
+13,1:33.858,0.048,0.048,222.195,,,2,1,A. Markelov,RUSSIAN TIME,Monza,Free Practice,13:38:30,Round 10 ,2018-09-02
+13,1:34.287,0.477,0.429,221.184,,,3,5,A. Albon,DAMS,Monza,Free Practice,13:38:38,Round 10 ,2018-09-02
+11,1:34.646,0.836,0.359,220.345,,,4,2,T. Makino,RUSSIAN TIME,Monza,Free Practice,13:39:17,Round 10 ,2018-09-02
+12,1:34.677,0.867,0.031,220.273,,,5,14,L. Ghiotto,Campos Vexatec Racing,Monza,Free Practice,13:32:36,Round 10 ,2018-09-02
+11,1:34.793,0.983,0.116,220.003,,,6,21,A. Fuoco,Charouz Racing System,Monza,Free Practice,13:38:47,Round 10 ,2018-09-02
+11,1:34.812,1.002,0.019,219.959,,,7,8,G. Russell,ART Grand Prix,Monza,Free Practice,13:40:45,Round 10 ,2018-09-02
+13,1:34.817,1.007,0.005,219.947,,,8,16,A. Maini,Trident,Monza,Free Practice,13:37:16,Round 10 ,2018-09-02
+11,1:34.828,1.018,0.011,219.922,,,9,19,L. Norris,Carlin,Monza,Free Practice,13:39:14,Round 10 ,2018-09-02
+15,1:34.848,1.038,0.020,219.876,,,10,9,D. Boccolacci,MP Motorsport,Monza,Free Practice,13:31:06,Round 10 ,2018-09-02
+11,1:34.932,1.122,0.084,219.681,,,11,7,J. Aitken,ART Grand Prix,Monza,Free Practice,13:32:17,Round 10 ,2018-09-02
+14,1:34.958,1.148,0.026,219.621,,,12,10,R. Boschung,MP Motorsport,Monza,Free Practice,13:35:52,Round 10 ,2018-09-02
+18,1:35.216,1.406,0.258,219.026,,,13,20,L. Delétraz,Charouz Racing System,Monza,Free Practice,13:39:55,Round 10 ,2018-09-02
+13,1:35.461,1.651,0.245,218.464,,,14,6,N. Latifi,DAMS,Monza,Free Practice,13:33:51,Round 10 ,2018-09-02
+15,1:35.480,1.670,0.019,218.420,,,15,15,R. Nissany,Campos Vexatec Racing,Monza,Free Practice,13:39:26,Round 10 ,2018-09-02
+12,1:35.568,1.758,0.088,218.219,,,16,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Monza,Free Practice,13:37:25,Round 10 ,2018-09-02
+11,1:35.677,1.867,0.109,217.970,,,17,12,N. Fukuzumi,BWT Arden,Monza,Free Practice,13:35:26,Round 10 ,2018-09-02
+12,1:35.954,2.144,0.277,217.341,,,18,11,M. Günther,BWT Arden,Monza,Free Practice,13:31:47,Round 10 ,2018-09-02
+12,1:36.559,2.749,0.605,215.979,,,19,17,A. Lorandi,Trident,Monza,Free Practice,13:39:08,Round 10 ,2018-09-02
+3,-,-,-,-,,,20,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Monza,Free Practice,-,Round 10 ,2018-09-02

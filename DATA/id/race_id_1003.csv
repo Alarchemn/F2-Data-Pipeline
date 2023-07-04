@@ -1,0 +1,40 @@
+LAPS,TIME,GAP,INT.,KPH,LAP SET ON,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,ROUND,DATE
+8,1:58.304,-,-,213.132,17:29:24,1,4,N. de Vries,ART Grand Prix,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+8,1:58.576,0.272,0.272,212.643,17:29:38,2,5,S. Sette Câmara,DAMS,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+8,1:58.785,0.481,0.209,212.269,17:29:51,3,15,J. Aitken,Campos Racing,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+8,1:58.832,0.528,0.047,212.185,17:29:32,4,2,N. Matsushita,Carlin,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+8,1:58.910,0.606,0.078,212.046,17:29:27,5,1,L. Delétraz,Carlin,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+7,1:59.141,0.837,0.231,211.634,17:29:40,6,9,M. Schumacher,PREMA Racing,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+8,1:59.142,0.838,0.001,211.633,17:29:28,7,3,N. Mazepin,ART Grand Prix,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+7,1:59.425,1.121,0.059,211.131,17:12:47,8,7,G. Zhou,UNI-Virtuosi,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+7,1:59.614,1.310,0.189,210.798,17:12:10,9,8,L. Ghiotto,UNI-Virtuosi,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+7,1:59.747,1.443,0.133,210.563,17:12:58,10,6,N. Latifi,DAMS,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+9,1:59.366,1.062,0.224,211.236,17:30:00,11,16,J. King,MP Motorsport,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+8,1:59.961,1.657,0.214,210.188,17:11:46,12,20,G. Alesi,Trident,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+7,2:00.005,1.701,0.044,210.111,17:12:38,13,19,A. Hubert,BWT Arden,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+7,2:00.030,1.726,0.025,210.067,17:12:14,14,21,R. Boschung,Trident,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+9,2:00.250,1.946,0.220,209.683,17:11:40,15,12,J. Correa,Sauber Junior Team by Charouz,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+6,2:00.327,2.023,0.077,209.548,17:11:42,16,10,S. Gelael,PREMA Racing,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+10,2:01.185,2.881,0.858,208.065,17:16:24,17,14,M. Sato,Campos Racing,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+8,2:03.224,4.920,1.998,204.622,17:14:37,18,18,T. Calderón,BWT Arden,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+10,2:01.226,2.922,0.041,207.994,17:30:06,19,17,M. Raghunathan,MP Motorsport,Spa-Francorchamps,Qualifying Session,Round 9 ,2019-08-31
+12,1:59.509,-,-,210.983,13:11:49,1,4,N. de Vries,ART Grand Prix,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+11,1:59.892,0.383,0.383,210.309,13:08:08,2,6,N. Latifi,DAMS,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+12,2:00.008,0.499,0.116,210.105,13:07:04,3,1,L. Delétraz,Carlin,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+12,2:00.258,0.749,0.250,209.669,13:08:23,4,5,S. Sette Câmara,DAMS,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+9,2:00.460,0.951,0.202,209.317,13:13:19,5,15,J. Aitken,Campos Racing,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+11,2:00.607,1.098,0.147,209.062,13:07:57,6,8,L. Ghiotto,UNI-Virtuosi,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+9,2:00.932,1.423,0.325,208.5,13:08:11,7,9,M. Schumacher,PREMA Racing,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+11,2:00.980,1.471,0.048,208.417,13:07:32,8,21,R. Boschung,Trident,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+13,2:00.987,1.478,0.007,208.405,13:07:18,9,20,G. Alesi,Trident,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+11,2:01.027,1.518,0.040,208.336,13:07:02,10,2,N. Matsushita,Carlin,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+13,2:01.301,1.792,0.274,207.866,13:07:16,11,19,A. Hubert,BWT Arden,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+11,2:01.301,1.792,0.000,207.866,13:13:13,12,7,G. Zhou,UNI-Virtuosi,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+13,2:01.423,1.914,0.122,207.657,13:12:07,13,10,S. Gelael,PREMA Racing,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+14,2:01.562,2.053,0.139,207.42,13:12:15,14,11,C. Ilott,Sauber Junior Team by Charouz,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+12,2:01.645,2.136,0.083,207.278,13:07:51,15,16,J. King,MP Motorsport,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+13,2:01.795,2.286,0.150,207.023,13:16:51,16,3,N. Mazepin,ART Grand Prix,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+7,2:02.014,2.505,0.219,206.651,13:35:38,17,12,J. Correa,Sauber Junior Team by Charouz,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+15,2:02.819,3.310,0.805,205.297,13:12:11,18,18,T. Calderón,BWT Arden,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+12,2:02.962,3.453,0.143,205.058,13:12:32,19,14,M. Sato,Campos Racing,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31
+12,2:05.746,6.237,2.784,200.518,13:07:42,20,17,M. Raghunathan,MP Motorsport,Spa-Francorchamps,Free Practice,Round 9 ,2019-08-31

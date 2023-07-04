@@ -1,0 +1,74 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+21,37:09.802,-,-,199.514,1:44.484,13.0,1,11,M. Günther,BWT Arden,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:10.323,0.520,0.520,199.467,1:43.731,12.0,2,8,G. Russell,ART Grand Prix,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:12.307,2.504,1.984,199.29,1:44.134,14.0,3,19,L. Norris,Carlin,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:19.727,9.924,7.420,198.63,1:44.434,12.0,4,1,A. Markelov,RUSSIAN TIME,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:21.807,12.005,2.081,198.445,1:44.626,2.0,5,20,L. Delétraz,Charouz Racing System,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:23.732,13.929,0.878,198.275,1:44.701,10.0,6,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:23.809,14.006,0.077,198.268,1:44.967,17.0,7,5,A. Albon,DAMS,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:24.487,14.684,0.678,198.208,1:44.880,17.0,8,10,R. Boschung,MP Motorsport,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:26.290,16.487,1.803,198.049,1:45.043,14.0,9,9,R. Merhi,MP Motorsport,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:27.853,13.051,1.046,198.353,1:44.625,4.0,10,14,L. Ghiotto,Campos Vexatec Racing,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:29.435,19.632,3.145,197.772,1:44.457,21.0,11,2,T. Makino,RUSSIAN TIME,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:33.455,23.653,4.021,197.42,1:45.218,12.0,12,7,J. Aitken,ART Grand Prix,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:33.843,24.040,0.387,197.386,1:44.603,17.0,13,16,A. Maini,Trident,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:41.968,32.165,4.447,196.677,1:45.064,13.0,14,15,R. Nissany,Campos Vexatec Racing,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:43.121,33.318,1.153,196.576,1:45.304,14.0,15,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:43.845,34.042,0.724,196.513,1:45.558,14.0,16,6,N. Latifi,DAMS,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+21,37:57.715,47.912,13.870,195.317,1:43.318,14.0,17,18,S. Sette Câmara,Carlin,Silverstone,Sprint Race,,Round 7 ,2018-07-08
+29,52:04.519,-,-,196.682,1:44.873,28.0,1,5,A. Albon,DAMS,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:14.302,9.783,9.783,196.068,1:44.448,28.0,2,8,G. Russell,ART Grand Prix,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:23.026,18.507,8.724,195.524,1:44.710,29.0,3,21,A. Fuoco,Charouz Racing System,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:31.208,26.689,8.182,195.016,1:45.753,25.0,4,20,L. Delétraz,Charouz Racing System,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:31.535,27.016,0.327,194.996,1:45.320,10.0,5,14,L. Ghiotto,Campos Vexatec Racing,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:31.626,27.107,0.091,194.99,1:45.801,10.0,6,1,A. Markelov,RUSSIAN TIME,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:32.553,28.034,0.927,194.933,1:45.333,9.0,7,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:38.540,34.020,5.986,194.563,1:45.606,16.0,8,11,M. Günther,BWT Arden,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:41.746,37.227,3.207,194.366,1:44.561,27.0,9,10,R. Boschung,MP Motorsport,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:44.139,39.620,2.393,194.219,1:44.952,27.0,10,19,L. Norris,Carlin,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:44.490,39.971,0.351,194.198,1:45.290,12.0,11,9,R. Merhi,MP Motorsport,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:44.651,40.131,0.160,194.188,1:45.130,26.0,12,2,T. Makino,RUSSIAN TIME,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:47.449,42.930,2.799,194.016,1:45.706,17.0,13,7,J. Aitken,ART Grand Prix,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,52:59.374,54.855,11.925,193.288,1:44.774,27.0,14,16,A. Maini,Trident,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,53:02.583,58.064,3.209,193.094,1:45.653,25.0,15,15,R. Nissany,Campos Vexatec Racing,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,53:03.913,59.394,1.330,193.013,1:45.641,17.0,16,17,S. Ferrucci,Trident,Silverstone,Feature Race,,Round 7 ,2018-07-08
+29,53:04.283,59.764,0.370,192.991,1:45.727,17.0,17,6,N. Latifi,DAMS,Silverstone,Feature Race,,Round 7 ,2018-07-08
+12,1:39.989,-,-,212.099,,,1,8,G. Russell,ART Grand Prix,Silverstone,Qualifying Session,16:41:21,Round 7 ,2018-07-08
+10,1:40.065,0.076,0.076,211.938,,,2,5,A. Albon,DAMS,Silverstone,Qualifying Session,16:41:48,Round 7 ,2018-07-08
+13,1:40.094,0.105,0.029,211.876,,,3,21,A. Fuoco,Charouz Racing System,Silverstone,Qualifying Session,16:42:14,Round 7 ,2018-07-08
+8,1:40.190,0.201,0.096,211.673,,,4,20,L. Delétraz,Charouz Racing System,Silverstone,Qualifying Session,16:41:39,Round 7 ,2018-07-08
+11,1:40.234,0.245,0.044,211.58,,,5,18,S. Sette Câmara,Carlin,Silverstone,Qualifying Session,16:42:03,Round 7 ,2018-07-08
+11,1:40.396,0.407,0.162,211.239,,,6,19,L. Norris,Carlin,Silverstone,Qualifying Session,16:42:08,Round 7 ,2018-07-08
+10,1:40.512,0.523,0.116,210.995,,,7,16,A. Maini,Trident,Silverstone,Qualifying Session,16:41:35,Round 7 ,2018-07-08
+13,1:40.590,0.601,0.078,210.832,,,8,1,A. Markelov,RUSSIAN TIME,Silverstone,Qualifying Session,16:46:13,Round 7 ,2018-07-08
+11,1:40.707,0.718,0.117,210.587,,,9,14,L. Ghiotto,Campos Vexatec Racing,Silverstone,Qualifying Session,16:41:45,Round 7 ,2018-07-08
+11,1:40.786,0.797,0.079,210.422,,,10,11,M. Günther,BWT Arden,Silverstone,Qualifying Session,16:41:00,Round 7 ,2018-07-08
+12,1:40.847,0.858,0.061,210.294,,,11,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Silverstone,Qualifying Session,16:41:10,Round 7 ,2018-07-08
+11,1:40.863,0.874,0.016,210.261,,,12,7,J. Aitken,ART Grand Prix,Silverstone,Qualifying Session,16:45:21,Round 7 ,2018-07-08
+12,1:40.994,1.005,0.131,209.988,,,13,9,R. Merhi,MP Motorsport,Silverstone,Qualifying Session,16:42:11,Round 7 ,2018-07-08
+11,1:41.031,1.042,0.037,209.911,,,14,10,R. Boschung,MP Motorsport,Silverstone,Qualifying Session,16:41:58,Round 7 ,2018-07-08
+10,1:41.052,1.063,0.021,209.868,,,15,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Silverstone,Qualifying Session,16:41:55,Round 7 ,2018-07-08
+11,1:41.061,1.072,0.009,209.849,,,16,6,N. Latifi,DAMS,Silverstone,Qualifying Session,16:41:52,Round 7 ,2018-07-08
+12,1:41.414,1.425,0.353,209.119,,,17,17,S. Ferrucci,Trident,Silverstone,Qualifying Session,16:41:25,Round 7 ,2018-07-08
+10,1:41.493,1.504,0.079,208.956,,,18,2,T. Makino,RUSSIAN TIME,Silverstone,Qualifying Session,16:41:31,Round 7 ,2018-07-08
+13,1:42.081,2.092,0.588,207.752,,,19,12,N. Fukuzumi,BWT Arden,Silverstone,Qualifying Session,16:42:20,Round 7 ,2018-07-08
+19,1:40.410,-,-,211.21,,,1,8,G. Russell,ART Grand Prix,Silverstone,Free Practice,12:08:32,Round 7 ,2018-07-08
+19,1:41.120,0.710,0.710,209.727,,,2,5,A. Albon,DAMS,Silverstone,Free Practice,12:08:41,Round 7 ,2018-07-08
+16,1:41.156,0.746,0.036,209.652,,,3,19,L. Norris,Carlin,Silverstone,Free Practice,12:26:29,Round 7 ,2018-07-08
+18,1:41.291,0.881,0.135,209.372,,,4,10,R. Boschung,MP Motorsport,Silverstone,Free Practice,12:27:55,Round 7 ,2018-07-08
+20,1:41.414,1.004,0.123,209.119,,,5,7,J. Aitken,ART Grand Prix,Silverstone,Free Practice,12:33:00,Round 7 ,2018-07-08
+20,1:41.457,1.047,0.043,209.03,,,6,14,L. Ghiotto,Campos Vexatec Racing,Silverstone,Free Practice,12:09:24,Round 7 ,2018-07-08
+16,1:41.514,1.104,0.057,208.913,,,7,18,S. Sette Câmara,Carlin,Silverstone,Free Practice,12:27:13,Round 7 ,2018-07-08
+19,1:41.618,1.208,0.104,208.699,,,8,9,R. Merhi,MP Motorsport,Silverstone,Free Practice,12:08:07,Round 7 ,2018-07-08
+19,1:41.677,1.267,0.059,208.578,,,9,20,L. Delétraz,Charouz Racing System,Silverstone,Free Practice,12:28:39,Round 7 ,2018-07-08
+18,1:41.750,1.340,0.073,208.428,,,10,21,A. Fuoco,Charouz Racing System,Silverstone,Free Practice,12:22:01,Round 7 ,2018-07-08
+19,1:41.837,1.427,0.087,208.25,,,11,1,A. Markelov,RUSSIAN TIME,Silverstone,Free Practice,12:24:19,Round 7 ,2018-07-08
+16,1:41.881,1.471,0.044,208.16,,,12,11,M. Günther,BWT Arden,Silverstone,Free Practice,12:38:23,Round 7 ,2018-07-08
+16,1:42.007,1.597,0.126,207.903,,,13,2,T. Makino,RUSSIAN TIME,Silverstone,Free Practice,12:21:50,Round 7 ,2018-07-08
+20,1:42.088,1.678,0.081,207.738,,,14,16,A. Maini,Trident,Silverstone,Free Practice,12:07:22,Round 7 ,2018-07-08
+18,1:42.100,1.690,0.012,207.714,,,15,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Silverstone,Free Practice,12:07:26,Round 7 ,2018-07-08
+19,1:42.205,1.795,0.105,207.5,,,16,15,R. Nissany,Campos Vexatec Racing,Silverstone,Free Practice,12:25:48,Round 7 ,2018-07-08
+18,1:42.336,1.926,0.131,207.234,,,17,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Silverstone,Free Practice,12:07:16,Round 7 ,2018-07-08
+5,1:42.392,1.982,0.056,207.121,,,18,6,N. Latifi,DAMS,Silverstone,Free Practice,12:06:12,Round 7 ,2018-07-08
+20,1:42.416,2.006,0.024,207.073,,,19,17,S. Ferrucci,Trident,Silverstone,Free Practice,12:19:10,Round 7 ,2018-07-08
+19,1:43.109,2.699,0.693,205.681,,,20,12,N. Fukuzumi,BWT Arden,Silverstone,Free Practice,12:28:53,Round 7 ,2018-07-08

@@ -1,0 +1,76 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+15,1:18:21.329,-,-,67.018,1:52.354,4.0,1,8,L. Ghiotto,UNI-Virtuosi,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:22.041,0.712,0.712,67.008,1:52.381,5.0,2,4,N. de Vries,ART Grand Prix,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:23.001,1.672,0.960,66.994,1:52.532,4.0,3,11,C. Ilott,Sauber Junior Team by Charouz,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:24.712,3.383,1.711,66.97,1:52.272,12.0,4,6,N. Latifi,DAMS,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:25.149,3.820,0.437,66.964,1:52.334,10.0,5,7,G. Zhou,UNI-Virtuosi,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:28.665,7.336,3.516,66.913,1:52.360,12.0,6,5,S. Sette Câmara,DAMS,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:31.672,10.343,3.007,66.871,1:53.051,13.0,7,10,S. Gelael,PREMA Racing,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:34.437,13.108,2.765,66.832,1:52.923,12.0,8,20,G. Alesi,Trident,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:36.180,14.851,1.743,66.807,1:52.834,15.0,9,16,J. King,MP Motorsport,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:38.098,16.769,1.918,66.78,1:52.822,15.0,10,22,A. Markelov,BWT Arden,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:45.227,23.898,7.129,66.679,1:53.077,11.0,11,15,J. Aitken,Campos Racing,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:47.887,26.558,2.660,66.641,1:53.089,7.0,12,21,R. Boschung,Trident,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:48.743,27.414,0.856,66.629,1:53.061,12.0,13,12,M. Isaakyan,Sauber Junior Team by Charouz,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:53.262,31.933,4.519,66.566,1:52.347,12.0,14,1,L. Delétraz,Carlin,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:18:57.801,36.472,4.539,66.502,1:53.849,12.0,15,14,M. Sato,Campos Racing,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:19:04.386,43.057,6.585,66.41,1:54.201,10.0,16,18,T. Calderón,BWT Arden,Sochi,Sprint Race,,Round 11 ,2019-09-29
+15,1:19:22.835,61.506,18.449,66.152,1:55.632,9.0,17,17,M. Raghunathan,MP Motorsport,Sochi,Sprint Race,,Round 11 ,2019-09-29
+28,54:12.087,-,-,181.041,1:52.174,25.0,1,4,N. de Vries,ART Grand Prix,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:17.005,4.918,4.918,180.767,1:52.069,23.0,2,6,N. Latifi,DAMS,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:18.082,5.995,1.077,180.708,1:51.844,24.0,3,1,L. Delétraz,Carlin,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:19.694,7.607,1.612,180.618,1:51.104,26.0,4,8,L. Ghiotto,UNI-Virtuosi,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:23.465,11.378,3.771,180.41,1:51.620,26.0,5,5,S. Sette Câmara,DAMS,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:32.451,20.364,8.986,179.914,1:51.185,25.0,6,2,N. Matsushita,Carlin,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:39.490,27.403,7.039,179.528,1:52.548,24.0,7,15,J. Aitken,Campos Racing,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:40.659,28.572,1.169,179.464,1:52.317,26.0,8,3,N. Mazepin,ART Grand Prix,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:44.481,32.394,3.822,179.255,1:53.040,9.0,9,11,C. Ilott,Sauber Junior Team by Charouz,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:45.843,33.756,1.362,179.181,1:52.750,28.0,10,7,G. Zhou,UNI-Virtuosi,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:55.452,43.365,9.609,178.658,1:53.450,11.0,11,10,S. Gelael,PREMA Racing,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,54:59.580,47.493,4.128,178.435,1:52.107,22.0,12,16,J. King,MP Motorsport,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,55:00.707,48.620,1.127,178.374,1:51.612,24.0,13,20,G. Alesi,Trident,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,55:11.108,59.021,10.401,177.814,1:52.380,24.0,14,21,R. Boschung,Trident,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,55:21.971,69.884,10.863,177.232,1:53.351,24.0,15,18,T. Calderón,BWT Arden,Sochi,Feature Race,,Round 11 ,2019-09-29
+28,55:58.305,106.218,36.334,175.315,1:54.531,22.0,16,14,M. Sato,Campos Racing,Sochi,Feature Race,,Round 11 ,2019-09-29
+27,54:13.250,1 LAP,1 LAP,174.505,1:54.500,24.0,17,17,M. Raghunathan,MP Motorsport,Sochi,Feature Race,,Round 11 ,2019-09-29
+27,54:21.039,1 LAP,7.789,174.088,1:53.236,12.0,18,12,M. Isaakyan,Sauber Junior Team by Charouz,Sochi,Feature Race,,Round 11 ,2019-09-29
+11,1:47.440,-,-,195.949,,,1,4,N. de Vries,ART Grand Prix,Sochi,Qualifying Session,17:26:04,Round 11 ,2019-09-29
+12,1:47.700,0.260,0.260,195.476,,,2,6,N. Latifi,DAMS,Sochi,Qualifying Session,17:26:23,Round 11 ,2019-09-29
+11,1:47.737,0.297,0.037,195.409,,,3,11,C. Ilott,Sauber Junior Team by Charouz,Sochi,Qualifying Session,17:26:31,Round 11 ,2019-09-29
+12,1:47.767,0.327,0.030,195.354,,,4,8,L. Ghiotto,UNI-Virtuosi,Sochi,Qualifying Session,17:26:28,Round 11 ,2019-09-29
+10,1:47.843,0.403,0.076,195.217,,,5,7,G. Zhou,UNI-Virtuosi,Sochi,Qualifying Session,17:26:58,Round 11 ,2019-09-29
+12,1:48.031,0.591,0.188,194.877,,,6,5,S. Sette Câmara,DAMS,Sochi,Qualifying Session,17:26:15,Round 11 ,2019-09-29
+12,1:48.188,0.748,0.157,194.594,,,7,1,L. Delétraz,Carlin,Sochi,Qualifying Session,17:26:09,Round 11 ,2019-09-29
+12,1:48.226,0.786,0.038,194.526,,,8,3,N. Mazepin,ART Grand Prix,Sochi,Qualifying Session,17:30:22,Round 11 ,2019-09-29
+10,1:48.320,0.880,0.094,194.357,,,9,16,J. King,MP Motorsport,Sochi,Qualifying Session,17:26:46,Round 11 ,2019-09-29
+8,1:48.396,0.956,0.076,194.221,,,10,2,N. Matsushita,Carlin,Sochi,Qualifying Session,17:15:35,Round 11 ,2019-09-29
+10,1:48.444,1.004,0.048,194.135,,,11,9,M. Schumacher,PREMA Racing,Sochi,Qualifying Session,17:27:08,Round 11 ,2019-09-29
+11,1:48.477,1.037,0.033,194.076,,,12,15,J. Aitken,Campos Racing,Sochi,Qualifying Session,17:12:22,Round 11 ,2019-09-29
+10,1:48.567,1.127,0.090,193.915,,,13,10,S. Gelael,PREMA Racing,Sochi,Qualifying Session,17:26:38,Round 11 ,2019-09-29
+10,1:48.850,1.410,0.283,193.411,,,14,20,G. Alesi,Trident,Sochi,Qualifying Session,17:26:35,Round 11 ,2019-09-29
+10,1:48.880,1.440,0.030,193.357,,,15,21,R. Boschung,Trident,Sochi,Qualifying Session,17:26:34,Round 11 ,2019-09-29
+11,1:49.244,1.804,0.364,192.713,,,16,22,A. Markelov,BWT Arden,Sochi,Qualifying Session,17:27:17,Round 11 ,2019-09-29
+11,1:49.497,2.057,0.253,192.268,,,17,12,M. Isaakyan,Sauber Junior Team by Charouz,Sochi,Qualifying Session,17:26:43,Round 11 ,2019-09-29
+11,1:50.255,2.815,0.758,190.946,,,18,18,T. Calderón,BWT Arden,Sochi,Qualifying Session,17:27:03,Round 11 ,2019-09-29
+10,1:50.311,2.871,0.056,190.849,,,19,14,M. Sato,Campos Racing,Sochi,Qualifying Session,17:11:51,Round 11 ,2019-09-29
+12,1:51.949,4.509,1.638,188.057,,,20,17,M. Raghunathan,MP Motorsport,Sochi,Qualifying Session,17:26:56,Round 11 ,2019-09-29
+17,1:48.885,-,-,193.348,,,1,6,N. Latifi,DAMS,Sochi,Free Practice,10:00:12,Round 11 ,2019-09-29
+17,1:49.215,0.330,0.330,192.764,,,2,5,S. Sette Câmara,DAMS,Sochi,Free Practice,09:48:12,Round 11 ,2019-09-29
+16,1:49.410,0.525,0.195,192.421,,,3,4,N. de Vries,ART Grand Prix,Sochi,Free Practice,10:02:32,Round 11 ,2019-09-29
+16,1:49.574,0.689,0.164,192.133,,,4,8,L. Ghiotto,UNI-Virtuosi,Sochi,Free Practice,09:53:50,Round 11 ,2019-09-29
+20,1:49.587,0.702,0.013,192.11,,,5,2,N. Matsushita,Carlin,Sochi,Free Practice,09:51:19,Round 11 ,2019-09-29
+20,1:49.775,0.890,0.188,191.781,,,6,1,L. Delétraz,Carlin,Sochi,Free Practice,10:02:09,Round 11 ,2019-09-29
+18,1:49.833,0.948,0.058,191.68,,,7,15,J. Aitken,Campos Racing,Sochi,Free Practice,09:52:03,Round 11 ,2019-09-29
+17,1:50.011,1.126,0.178,191.369,,,8,11,C. Ilott,Sauber Junior Team by Charouz,Sochi,Free Practice,10:00:22,Round 11 ,2019-09-29
+15,1:50.090,1.205,0.079,191.232,,,9,3,N. Mazepin,ART Grand Prix,Sochi,Free Practice,09:44:22,Round 11 ,2019-09-29
+19,1:50.126,1.241,0.036,191.17,,,10,9,M. Schumacher,PREMA Racing,Sochi,Free Practice,09:52:06,Round 11 ,2019-09-29
+15,1:50.307,1.422,0.181,190.856,,,11,16,J. King,MP Motorsport,Sochi,Free Practice,10:07:55,Round 11 ,2019-09-29
+19,1:50.481,1.596,0.174,190.555,,,12,21,R. Boschung,Trident,Sochi,Free Practice,10:01:41,Round 11 ,2019-09-29
+18,1:50.497,1.612,0.016,190.528,,,13,10,S. Gelael,PREMA Racing,Sochi,Free Practice,09:51:13,Round 11 ,2019-09-29
+17,1:50.652,1.767,0.155,190.261,,,14,7,G. Zhou,UNI-Virtuosi,Sochi,Free Practice,10:06:28,Round 11 ,2019-09-29
+18,1:50.676,1.791,0.024,190.22,,,15,20,G. Alesi,Trident,Sochi,Free Practice,10:00:07,Round 11 ,2019-09-29
+15,1:51.244,2.359,0.568,189.248,,,16,12,M. Isaakyan,Sauber Junior Team by Charouz,Sochi,Free Practice,10:02:38,Round 11 ,2019-09-29
+13,1:51.758,2.873,0.514,188.378,,,17,18,T. Calderón,BWT Arden,Sochi,Free Practice,09:51:56,Round 11 ,2019-09-29
+18,1:52.164,3.279,0.406,187.696,,,18,14,M. Sato,Campos Racing,Sochi,Free Practice,10:04:34,Round 11 ,2019-09-29
+19,1:52.988,4.103,0.824,186.327,,,19,17,M. Raghunathan,MP Motorsport,Sochi,Free Practice,10:07:02,Round 11 ,2019-09-29
+10,1:53.244,4.359,0.256,185.906,,,20,22,A. Markelov,BWT Arden,Sochi,Free Practice,09:46:34,Round 11 ,2019-09-29

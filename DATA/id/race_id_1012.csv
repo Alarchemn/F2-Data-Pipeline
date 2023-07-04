@@ -1,0 +1,80 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+28,42:05.526,-,-,172.162,1:17.277,25.0,1,15,F. Drugovich,MP Motorsport,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:07.995,2.469,2.469,171.994,1:17.389,20.0,2,11,L. Delétraz,Charouz Racing System,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:08.316,2.790,0.321,171.972,1:17.386,22.0,3,2,D. Ticktum,DAMS,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:08.856,3.330,0.540,171.935,1:17.366,26.0,4,21,R. Shwartzman,PREMA Racing,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:10.922,5.396,2.066,171.795,1:17.347,20.0,5,6,C. Lundgaard,ART Grand Prix,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:14.703,9.177,3.781,171.539,1:17.615,26.0,6,14,N. Matsushita,MP Motorsport,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:15.267,9.741,0.564,171.5,1:17.614,26.0,7,20,M. Schumacher,PREMA Racing,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:19.567,14.041,4.300,171.21,1:17.770,23.0,8,9,J. Aitken,Campos Racing,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:19.798,14.272,0.231,171.195,1:17.688,23.0,9,4,C. Ilott,UNI-Virtuosi,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:20.921,15.395,1.123,171.119,1:17.733,23.0,10,24,N. Mazepin,Hitech Grand Prix,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:23.054,17.528,2.133,170.975,1:17.845,21.0,11,7,Y. Tsunoda,Carlin,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:23.997,18.471,0.943,170.912,1:17.861,23.0,12,22,R. Nissany,Trident,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:24.644,19.118,0.647,170.869,1:17.848,20.0,13,12,P. Piquet,Charouz Racing System,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:25.194,19.668,0.550,170.832,1:17.832,21.0,14,3,G. Zhou,UNI-Virtuosi,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:27.608,22.082,2.414,170.67,1:17.972,28.0,15,10,G. Samaia,Campos Racing,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:29.816,24.290,2.208,170.522,1:17.950,13.0,16,8,J. Daruvala,Carlin,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+28,42:30.435,24.909,0.619,170.481,1:17.862,24.0,17,23,M. Sato,Trident,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+27,43:13.391,1 LAP,1 LAP,161.663,1:17.542,19.0,18,16,A. Markelov,BWT HWA RACELAB,Spielberg,Sprint Race,,Round 1 ,2020-07-05
+40,54:21.050,-,-,190.533,1:17.016,27.0,1,4,C. Ilott,UNI-Virtuosi,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:29.906,8.856,8.856,190.017,1:17.624,34.0,2,5,M. Armstrong,ART Grand Prix,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:30.341,9.291,0.435,189.991,1:17.437,34.0,3,21,R. Shwartzman,PREMA Racing,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:31.928,10.878,1.587,189.899,1:17.455,15.0,4,6,C. Lundgaard,ART Grand Prix,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:32.327,11.277,0.399,189.876,1:17.355,25.0,5,2,D. Ticktum,DAMS,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:33.878,12.828,1.551,189.786,1:17.431,36.0,6,17,G. Alesi,BWT HWA RACELAB,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:37.317,16.267,3.439,189.587,1:17.654,32.0,7,11,L. Delétraz,Charouz Racing System,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:38.083,17.033,0.766,189.543,1:18.026,39.0,8,15,F. Drugovich,MP Motorsport,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:38.485,17.435,0.402,189.519,1:17.859,39.0,9,14,N. Matsushita,MP Motorsport,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:40.593,19.543,2.108,189.398,1:17.952,27.0,10,22,R. Nissany,Trident,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:41.099,20.049,0.506,189.368,1:17.239,27.0,11,20,M. Schumacher,PREMA Racing,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:43.058,22.008,1.959,189.255,1:17.985,25.0,12,8,J. Daruvala,Carlin,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:46.046,24.996,2.988,189.083,1:17.951,33.0,13,12,P. Piquet,Charouz Racing System,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:46.935,25.885,0.889,189.032,1:17.715,26.0,14,24,N. Mazepin,Hitech Grand Prix,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,54:51.188,30.138,4.253,188.788,1:17.713,20.0,15,9,J. Aitken,Campos Racing,Spielberg,Feature Race,,Round 1 ,2020-07-05
+40,55:14.984,53.934,23.796,187.433,1:18.292,39.0,16,10,G. Samaia,Campos Racing,Spielberg,Feature Race,,Round 1 ,2020-07-05
+39,54:48.550,1 LAP,1 LAP,184.212,1:16.983,38.0,17,3,G. Zhou,UNI-Virtuosi,Spielberg,Feature Race,,Round 1 ,2020-07-05
+39,54:51.823,1 LAP,3.273,184.029,1:17.240,37.0,18,7,Y. Tsunoda,Carlin,Spielberg,Feature Race,,Round 1 ,2020-07-05
+15,1:14.416,-,-,208.89,,,1,3,G. Zhou,UNI-Virtuosi,Spielberg,Qualifying Session,17:32:17,Round 1 ,2020-07-05
+15,1:14.880,0.464,0.464,207.596,,,2,15,F. Drugovich,MP Motorsport,Spielberg,Qualifying Session,17:33:04,Round 1 ,2020-07-05
+15,1:14.884,0.468,0.004,207.585,,,3,4,C. Ilott,UNI-Virtuosi,Spielberg,Qualifying Session,17:33:06,Round 1 ,2020-07-05
+16,1:14.922,0.506,0.038,207.479,,,4,6,C. Lundgaard,ART Grand Prix,Spielberg,Qualifying Session,17:30:55,Round 1 ,2020-07-05
+15,1:14.952,0.536,0.030,207.396,,,5,20,M. Schumacher,PREMA Racing,Spielberg,Qualifying Session,17:33:20,Round 1 ,2020-07-05
+14,1:15.028,0.612,0.076,207.186,,,6,8,J. Daruvala,Carlin,Spielberg,Qualifying Session,17:09:02,Round 1 ,2020-07-05
+14,1:15.044,0.628,0.016,207.142,,,7,25,L. Ghiotto,Hitech Grand Prix,Spielberg,Qualifying Session,17:32:28,Round 1 ,2020-07-05
+14,1:15.051,0.635,0.007,207.123,,,8,21,R. Shwartzman,PREMA Racing,Spielberg,Qualifying Session,17:32:19,Round 1 ,2020-07-05
+16,1:15.128,0.712,0.077,206.91,,,9,2,D. Ticktum,DAMS,Spielberg,Qualifying Session,17:32:39,Round 1 ,2020-07-05
+16,1:15.151,0.735,0.023,206.847,,,10,11,L. Delétraz,Charouz Racing System,Spielberg,Qualifying Session,17:11:34,Round 1 ,2020-07-05
+15,1:15.152,0.736,0.001,206.844,,,11,24,N. Mazepin,Hitech Grand Prix,Spielberg,Qualifying Session,17:30:50,Round 1 ,2020-07-05
+15,1:15.157,0.741,0.005,206.831,,,12,7,Y. Tsunoda,Carlin,Spielberg,Qualifying Session,17:32:34,Round 1 ,2020-07-05
+15,1:15.208,0.792,0.051,206.69,,,13,5,M. Armstrong,ART Grand Prix,Spielberg,Qualifying Session,17:10:52,Round 1 ,2020-07-05
+16,1:15.264,0.848,0.056,206.536,,,14,9,J. Aitken,Campos Racing,Spielberg,Qualifying Session,17:32:49,Round 1 ,2020-07-05
+15,1:15.376,0.960,0.112,206.23,,,15,12,P. Piquet,Charouz Racing System,Spielberg,Qualifying Session,17:09:08,Round 1 ,2020-07-05
+15,1:15.457,1.041,0.081,206.008,,,16,22,R. Nissany,Trident,Spielberg,Qualifying Session,17:32:59,Round 1 ,2020-07-05
+16,1:15.604,1.188,0.147,205.608,,,17,1,S. Gelael,DAMS,Spielberg,Qualifying Session,17:10:44,Round 1 ,2020-07-05
+12,1:15.688,1.272,0.084,205.379,,,18,17,G. Alesi,BWT HWA RACELAB,Spielberg,Qualifying Session,17:32:29,Round 1 ,2020-07-05
+13,1:15.703,1.287,0.015,205.339,,,19,10,G. Samaia,Campos Racing,Spielberg,Qualifying Session,17:32:43,Round 1 ,2020-07-05
+15,1:15.746,1.330,0.043,205.222,,,20,16,A. Markelov,BWT HWA RACELAB,Spielberg,Qualifying Session,17:11:00,Round 1 ,2020-07-05
+15,1:15.897,1.481,0.151,204.814,,,21,14,N. Matsushita,MP Motorsport,Spielberg,Qualifying Session,17:32:32,Round 1 ,2020-07-05
+12,1:16.011,1.595,0.114,204.507,,,22,23,M. Sato,Trident,Spielberg,Qualifying Session,17:08:55,Round 1 ,2020-07-05
+22,1:15.249,-,-,206.578,,,1,7,Y. Tsunoda,Carlin,Spielberg,Free Practice,13:20:53,Round 1 ,2020-07-05
+22,1:15.303,0.054,0.054,206.43,,,2,25,L. Ghiotto,Hitech Grand Prix,Spielberg,Free Practice,13:13:59,Round 1 ,2020-07-05
+23,1:15.405,0.156,0.102,206.15,,,3,5,M. Armstrong,ART Grand Prix,Spielberg,Free Practice,13:13:47,Round 1 ,2020-07-05
+22,1:15.468,0.219,0.063,205.978,,,4,3,G. Zhou,UNI-Virtuosi,Spielberg,Free Practice,13:15:43,Round 1 ,2020-07-05
+24,1:15.509,0.260,0.041,205.866,,,5,6,C. Lundgaard,ART Grand Prix,Spielberg,Free Practice,13:14:04,Round 1 ,2020-07-05
+24,1:15.598,0.349,0.089,205.624,,,6,15,F. Drugovich,MP Motorsport,Spielberg,Free Practice,13:21:40,Round 1 ,2020-07-05
+24,1:15.702,0.453,0.104,205.341,,,7,21,R. Shwartzman,PREMA Racing,Spielberg,Free Practice,13:38:30,Round 1 ,2020-07-05
+26,1:15.718,0.469,0.016,205.298,,,8,8,J. Daruvala,Carlin,Spielberg,Free Practice,13:19:11,Round 1 ,2020-07-05
+22,1:15.928,0.679,0.210,204.73,,,9,1,S. Gelael,DAMS,Spielberg,Free Practice,13:34:28,Round 1 ,2020-07-05
+25,1:15.940,0.691,0.012,204.698,,,10,11,L. Delétraz,Charouz Racing System,Spielberg,Free Practice,13:17:42,Round 1 ,2020-07-05
+23,1:16.015,0.766,0.075,204.496,,,11,2,D. Ticktum,DAMS,Spielberg,Free Practice,13:33:57,Round 1 ,2020-07-05
+23,1:16.028,0.779,0.013,204.461,,,12,16,A. Markelov,BWT HWA RACELAB,Spielberg,Free Practice,13:16:01,Round 1 ,2020-07-05
+24,1:16.174,0.925,0.146,204.069,,,13,17,G. Alesi,BWT HWA RACELAB,Spielberg,Free Practice,13:09:31,Round 1 ,2020-07-05
+23,1:16.268,1.019,0.094,203.818,,,14,4,C. Ilott,UNI-Virtuosi,Spielberg,Free Practice,13:14:42,Round 1 ,2020-07-05
+22,1:16.334,1.085,0.066,203.641,,,15,14,N. Matsushita,MP Motorsport,Spielberg,Free Practice,13:31:25,Round 1 ,2020-07-05
+25,1:16.379,1.130,0.045,203.521,,,16,12,P. Piquet,Charouz Racing System,Spielberg,Free Practice,13:39:52,Round 1 ,2020-07-05
+25,1:16.514,1.265,0.135,203.162,,,17,22,R. Nissany,Trident,Spielberg,Free Practice,13:21:26,Round 1 ,2020-07-05
+24,1:16.544,1.295,0.030,203.083,,,18,9,J. Aitken,Campos Racing,Spielberg,Free Practice,13:08:41,Round 1 ,2020-07-05
+10,1:16.597,1.348,0.053,202.942,,,19,20,M. Schumacher,PREMA Racing,Spielberg,Free Practice,13:05:53,Round 1 ,2020-07-05
+21,1:16.894,1.645,0.297,202.158,,,20,10,G. Samaia,Campos Racing,Spielberg,Free Practice,13:22:30,Round 1 ,2020-07-05
+13,1:16.905,1.656,0.011,202.129,,,21,23,M. Sato,Trident,Spielberg,Free Practice,13:21:29,Round 1 ,2020-07-05

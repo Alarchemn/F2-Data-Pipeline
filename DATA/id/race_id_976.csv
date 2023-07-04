@@ -1,0 +1,73 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+21,40:37.601,-,-,186.024,1:54.413,19.0,1,20,N. Nato,Pertamina Arden,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:46.318,8.717,-,185.361,1:53.635,17.0,2,1,C. Leclerc,PREMA Racing,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:49.175,11.574,2.857,185.144,1:55.088,20.0,3,10,N. Latifi,DAMS,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:50.393,12.792,0.287,185.052,1:55.032,21.0,4,8,S. Sirotkin,ART Grand Prix,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:50.491,12.890,0.098,185.045,1:54.733,21.0,5,6,A. Markelov,RUSSIAN TIME,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:52.073,14.472,1.582,184.926,1:54.969,19.0,6,7,N. Matsushita,ART Grand Prix,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:54.489,16.888,2.416,184.744,1:54.980,20.0,7,5,L. Ghiotto,RUSSIAN TIME,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:58.988,21.387,4.499,184.406,1:54.971,21.0,8,11,R. Boschung,Campos Racing,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:04.944,27.343,5.956,183.96,1:55.345,16.0,9,14,S. Sette Câmara,MP Motorsport,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:05.428,27.827,0.484,183.924,1:55.020,21.0,10,21,S. Gelael,Pertamina Arden,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:09.213,31.612,3.785,183.642,1:55.802,21.0,11,12,R. Visoiu,Campos Racing,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:10.265,32.664,1.052,183.564,1:54.969,20.0,12,2,A. Fuoco,PREMA Racing,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:12.246,34.645,1.981,183.417,1:55.690,21.0,13,4,G. Malja,Racing Engineering,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:13.390,35.789,1.144,183.332,1:54.649,21.0,14,19,J. Cecotto,Rapax,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:26.844,49.243,13.454,182.34,1:55.353,20.0,15,17,S. Canamasas,Trident,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:34.753,57.152,7.909,181.762,1:57.045,18.0,16,3,L. Delétraz,Racing Engineering,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,42:16.532,98.931,41.779,178.768,1:56.949,19.0,17,16,N. Jeffri,Trident,Baku,Sprint Race,,Round 4 ,2017-06-25
+24,52:33.196,-,-,164.368,1:54.025,24.0,1,1,C. Leclerc,PREMA Racing,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:36.665,3.469,-,164.187,1:54.736,22.0,2,18,N. de Vries,Rapax,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:39.586,6.390,2.921,164.035,1:54.884,22.0,3,10,N. Latifi,DAMS,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:44.890,11.694,2.604,163.76,1:55.168,22.0,4,6,A. Markelov,RUSSIAN TIME,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:50.270,17.074,5.380,163.482,1:55.426,21.0,5,20,N. Nato,Pertamina Arden,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:51.766,18.570,1.496,163.405,1:56.281,21.0,6,15,J. King,MP Motorsport,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:52.286,9.090,2.700,163.895,1:54.662,23.0,7,9,O. Rowland,DAMS,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:54.544,21.348,2.778,163.262,1:55.990,23.0,8,11,R. Boschung,Campos Racing,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:56.066,22.870,1.522,163.184,1:56.085,23.0,9,17,S. Canamasas,Trident,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:57.238,24.042,1.172,163.124,1:56.129,24.0,10,8,S. Sirotkin,ART Grand Prix,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:58.024,24.828,0.786,163.083,1:55.802,23.0,11,4,G. Malja,Racing Engineering,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:58.892,25.696,0.868,163.039,1:55.422,23.0,12,7,N. Matsushita,ART Grand Prix,Baku,Feature Race,,Round 4 ,2017-06-25
+24,53:02.871,29.675,3.979,162.835,1:55.438,23.0,13,14,S. Sette Câmara,MP Motorsport,Baku,Feature Race,,Round 4 ,2017-06-25
+24,53:06.297,33.101,3.426,162.66,1:56.335,23.0,14,21,S. Gelael,Pertamina Arden,Baku,Feature Race,,Round 4 ,2017-06-25
+24,53:06.516,33.320,0.219,162.649,1:56.067,24.0,15,12,R. Visoiu,Campos Racing,Baku,Feature Race,,Round 4 ,2017-06-25
+24,53:22.403,49.207,15.887,161.842,1:54.886,21.0,16,5,L. Ghiotto,RUSSIAN TIME,Baku,Feature Race,,Round 4 ,2017-06-25
+10,1:52.129,-,-,192.731,,,1,1,C. Leclerc,PREMA Racing,Baku,Qualifying Session,15:42:09,Round 4 ,2017-06-25
+9,1:52.697,0.568,-,191.76,,,2,7,N. Matsushita,ART Grand Prix,Baku,Qualifying Session,15:42:08,Round 4 ,2017-06-25
+10,1:52.865,0.736,0.168,191.474,,,3,10,N. Latifi,DAMS,Baku,Qualifying Session,15:37:51,Round 4 ,2017-06-25
+10,1:53.018,0.889,0.153,191.215,,,4,18,N. de Vries,Rapax,Baku,Qualifying Session,15:36:25,Round 4 ,2017-06-25
+10,1:53.135,1.006,0.117,191.017,,,5,6,A. Markelov,RUSSIAN TIME,Baku,Qualifying Session,15:07:07,Round 4 ,2017-06-25
+11,1:53.220,1.091,0.085,190.874,,,6,2,A. Fuoco,PREMA Racing,Baku,Qualifying Session,15:38:22,Round 4 ,2017-06-25
+10,1:53.313,1.184,0.093,190.717,,,7,19,J. Cecotto,Rapax,Baku,Qualifying Session,15:06:59,Round 4 ,2017-06-25
+13,1:53.354,1.225,0.041,190.648,,,8,17,S. Canamasas,Trident,Baku,Qualifying Session,15:37:00,Round 4 ,2017-06-25
+11,1:53.479,1.350,0.125,190.438,,,9,9,O. Rowland,DAMS,Baku,Qualifying Session,15:26:07,Round 4 ,2017-06-25
+10,1:53.670,1.541,0.191,190.118,,,10,12,R. Visoiu,Campos Racing,Baku,Qualifying Session,15:43:04,Round 4 ,2017-06-25
+8,1:53.853,1.724,0.183,189.813,,,11,14,S. Sette Câmara,MP Motorsport,Baku,Qualifying Session,15:38:45,Round 4 ,2017-06-25
+10,1:53.900,1.771,0.047,189.734,,,12,20,N. Nato,Pertamina Arden,Baku,Qualifying Session,15:42:45,Round 4 ,2017-06-25
+10,1:54.032,1.903,0.132,189.515,,,13,21,S. Gelael,Pertamina Arden,Baku,Qualifying Session,15:40:38,Round 4 ,2017-06-25
+10,1:54.286,2.157,0.254,189.094,,,14,4,G. Malja,Racing Engineering,Baku,Qualifying Session,15:39:15,Round 4 ,2017-06-25
+10,1:54.295,2.166,0.009,189.079,,,15,15,J. King,MP Motorsport,Baku,Qualifying Session,15:36:49,Round 4 ,2017-06-25
+10,1:54.339,2.210,0.044,189.006,,,16,11,R. Boschung,Campos Racing,Baku,Qualifying Session,15:37:47,Round 4 ,2017-06-25
+13,1:54.384,2.255,0.045,188.932,,,17,8,S. Sirotkin,ART Grand Prix,Baku,Qualifying Session,15:36:54,Round 4 ,2017-06-25
+11,1:54.688,2.559,0.304,188.431,,,18,3,L. Delétraz,Racing Engineering,Baku,Qualifying Session,15:42:53,Round 4 ,2017-06-25
+11,1:54.857,2.728,0.169,188.153,,,19,16,N. Jeffri,Trident,Baku,Qualifying Session,15:37:39,Round 4 ,2017-06-25
+15,1:54.187,-,-,189.257,,,1,18,N. de Vries,Rapax,Baku,Free Practice,11:42:31,Round 4 ,2017-06-25
+13,1:54.308,0.121,-,189.057,,,2,15,J. King,MP Motorsport,Baku,Free Practice,11:44:29,Round 4 ,2017-06-25
+12,1:54.734,0.547,0.426,188.355,,,3,5,L. Ghiotto,RUSSIAN TIME,Baku,Free Practice,11:45:31,Round 4 ,2017-06-25
+14,1:54.835,0.648,0.101,188.19,,,4,14,S. Sette Câmara,MP Motorsport,Baku,Free Practice,11:44:31,Round 4 ,2017-06-25
+13,1:54.894,0.707,0.059,188.093,,,5,2,A. Fuoco,PREMA Racing,Baku,Free Practice,11:45:50,Round 4 ,2017-06-25
+13,1:55.098,0.911,0.204,187.759,,,6,11,R. Boschung,Campos Racing,Baku,Free Practice,11:42:43,Round 4 ,2017-06-25
+13,1:55.129,0.942,0.031,187.709,,,7,1,C. Leclerc,PREMA Racing,Baku,Free Practice,11:45:20,Round 4 ,2017-06-25
+12,1:55.258,1.071,0.129,187.499,,,8,10,N. Latifi,DAMS,Baku,Free Practice,11:42:46,Round 4 ,2017-06-25
+15,1:55.260,1.073,0.002,187.496,,,9,20,N. Nato,Pertamina Arden,Baku,Free Practice,11:46:48,Round 4 ,2017-06-25
+13,1:55.416,1.229,0.156,187.242,,,10,4,G. Malja,Racing Engineering,Baku,Free Practice,11:44:02,Round 4 ,2017-06-25
+13,1:55.442,1.255,0.026,187.2,,,11,6,A. Markelov,RUSSIAN TIME,Baku,Free Practice,11:13:17,Round 4 ,2017-06-25
+7,1:55.718,1.531,0.276,186.754,,,12,7,N. Matsushita,ART Grand Prix,Baku,Free Practice,11:12:56,Round 4 ,2017-06-25
+13,1:55.771,1.584,0.053,186.668,,,13,12,R. Visoiu,Campos Racing,Baku,Free Practice,11:44:35,Round 4 ,2017-06-25
+6,1:55.893,1.706,0.122,186.472,,,14,9,O. Rowland,DAMS,Baku,Free Practice,11:34:03,Round 4 ,2017-06-25
+6,1:56.138,1.951,0.245,186.078,,,15,8,S. Sirotkin,ART Grand Prix,Baku,Free Practice,11:12:47,Round 4 ,2017-06-25
+14,1:56.337,2.150,0.199,185.76,,,16,21,S. Gelael,Pertamina Arden,Baku,Free Practice,11:45:44,Round 4 ,2017-06-25
+11,1:56.539,2.352,0.202,185.438,,,17,17,S. Canamasas,Trident,Baku,Free Practice,11:45:17,Round 4 ,2017-06-25
+14,1:56.570,2.383,0.031,185.389,,,18,3,L. Delétraz,Racing Engineering,Baku,Free Practice,11:43:06,Round 4 ,2017-06-25
+14,1:56.636,2.449,0.066,185.284,,,19,19,J. Cecotto,Rapax,Baku,Free Practice,11:43:03,Round 4 ,2017-06-25
+4,1:58.840,4.653,2.204,181.847,,,20,16,N. Jeffri,Trident,Baku,Free Practice,11:12:03,Round 4 ,2017-06-25

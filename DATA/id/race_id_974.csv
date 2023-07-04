@@ -1,0 +1,78 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+26,42:20.450,-,-,171.329,1:35.246,11.0,1,7,N. Matsushita,ART Grand Prix,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:23.759,3.309,-,171.106,1:35.178,9.0,2,9,O. Rowland,DAMS,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:25.071,4.621,1.312,171.018,1:34.811,3.0,3,10,N. Latifi,DAMS,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:29.627,9.177,4.556,170.712,1:35.136,12.0,4,1,C. Leclerc,PREMA Racing,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:35.783,15.333,6.156,170.301,1:35.534,4.0,5,15,J. King,MP Motorsport,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:38.437,17.987,2.654,170.125,1:35.246,3.0,6,4,G. Malja,Racing Engineering,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:38.542,18.092,0.105,170.118,1:35.492,9.0,7,5,L. Ghiotto,RUSSIAN TIME,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:41.585,21.135,3.043,169.915,1:35.096,11.0,8,8,A. Albon,ART Grand Prix,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:42.002,21.552,0.417,169.888,1:35.400,10.0,9,6,A. Markelov,RUSSIAN TIME,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:51.194,30.744,9.192,169.281,1:35.574,8.0,10,19,J. Cecotto,Rapax,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:51.999,31.549,0.805,169.228,1:36.315,9.0,11,17,S. Canamasas,Trident,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:54.884,34.434,2.885,169.038,1:35.765,11.0,12,12,R. Merhi,Campos Racing,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:55.721,35.271,0.837,168.983,1:35.855,4.0,13,20,N. Nato,Pertamina Arden,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:58.540,38.090,2.819,168.798,1:36.532,6.0,14,3,L. Delétraz,Racing Engineering,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:59.896,39.446,1.356,168.71,1:36.330,5.0,15,14,S. Sette Câmara,MP Motorsport,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,43:07.400,46.950,7.504,168.22,1:36.084,7.0,16,21,S. Gelael,Pertamina Arden,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,43:10.676,50.226,3.276,168.008,1:34.670,5.0,17,11,R. Boschung,Campos Racing,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,43:20.362,59.912,9.686,167.382,1:36.672,4.0,18,16,N. Jeffri,Trident,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+37,1:02:33.684,-,-,165.062,1:35.729,3.0,1,1,C. Leclerc,PREMA Racing,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:37.414,3.730,-,164.898,1:35.583,34.0,2,5,L. Ghiotto,RUSSIAN TIME,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:44.830,11.146,7.416,164.573,1:34.340,31.0,3,9,O. Rowland,DAMS,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:47.787,14.103,2.957,164.444,1:36.548,5.0,4,7,N. Matsushita,ART Grand Prix,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:51.003,17.319,3.216,164.304,1:34.630,29.0,5,8,A. Albon,ART Grand Prix,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:57.563,23.879,6.560,164.019,1:34.865,31.0,6,10,N. Latifi,DAMS,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:58.463,24.779,0.900,163.979,1:37.161,33.0,7,4,G. Malja,Racing Engineering,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:59.087,25.403,0.624,163.952,1:34.294,29.0,8,6,A. Markelov,RUSSIAN TIME,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:04.651,30.967,5.564,163.711,1:36.436,2.0,9,15,J. King,MP Motorsport,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:17.516,43.832,5.631,163.157,1:36.442,28.0,10,18,N. de Vries,Rapax,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:23.967,50.283,6.451,162.88,1:35.114,27.0,11,3,L. Delétraz,Racing Engineering,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:11.885,38.201,7.234,163.399,1:36.638,34.0,12,11,R. Boschung,Campos Racing,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:39.654,65.970,9.997,162.211,1:36.008,29.0,13,2,A. Fuoco,PREMA Racing,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:29.657,55.973,5.690,162.637,1:34.706,28.0,14,14,S. Sette Câmara,MP Motorsport,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:42.017,68.333,0.549,162.111,1:35.716,29.0,15,21,S. Gelael,Pertamina Arden,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:42.925,69.241,0.908,162.072,1:36.627,27.0,16,20,N. Nato,Pertamina Arden,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:41.468,67.784,1.814,162.134,1:35.355,28.0,17,19,J. Cecotto,Rapax,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:04:03.205,89.521,20.280,161.217,1:36.913,28.0,18,16,N. Jeffri,Trident,Barcelona,Feature Race,,Round 2 ,2017-05-14
+33,57:40.374,DNF,-,159.682,1:35.965,22.0,19,12,R. Merhi,Campos Racing,Barcelona,Feature Race,,Round 2 ,2017-05-14
+7,1:29.285,-,-,187.691,,,1,1,C. Leclerc,PREMA Racing,Barcelona,Qualifying Session,16:31:09,Round 2 ,2017-05-14
+10,1:29.478,0.193,-,187.286,,,2,5,L. Ghiotto,RUSSIAN TIME,Barcelona,Qualifying Session,16:17:48,Round 2 ,2017-05-14
+10,1:29.550,0.265,0.072,187.135,,,3,18,N. de Vries,Rapax,Barcelona,Qualifying Session,16:14:15,Round 2 ,2017-05-14
+9,1:29.585,0.300,0.035,187.062,,,4,15,J. King,MP Motorsport,Barcelona,Qualifying Session,16:00:25,Round 2 ,2017-05-14
+10,1:29.732,0.447,0.147,186.756,,,5,8,A. Albon,ART Grand Prix,Barcelona,Qualifying Session,16:30:36,Round 2 ,2017-05-14
+9,1:29.744,0.459,0.012,186.731,,,6,9,O. Rowland,DAMS,Barcelona,Qualifying Session,16:30:24,Round 2 ,2017-05-14
+7,1:29.790,0.505,0.046,186.635,,,7,20,N. Nato,Pertamina Arden,Barcelona,Qualifying Session,16:30:27,Round 2 ,2017-05-14
+8,1:29.834,0.549,0.044,186.544,,,8,2,A. Fuoco,PREMA Racing,Barcelona,Qualifying Session,16:31:18,Round 2 ,2017-05-14
+9,1:29.885,0.600,0.051,186.438,,,9,10,N. Latifi,DAMS,Barcelona,Qualifying Session,16:14:28,Round 2 ,2017-05-14
+9,1:29.975,0.690,0.090,186.251,,,10,7,N. Matsushita,ART Grand Prix,Barcelona,Qualifying Session,16:00:49,Round 2 ,2017-05-14
+10,1:30.046,0.761,0.071,186.104,,,11,3,L. Delétraz,Racing Engineering,Barcelona,Qualifying Session,16:30:08,Round 2 ,2017-05-14
+10,1:30.065,0.780,0.019,186.065,,,12,11,R. Boschung,Campos Racing,Barcelona,Qualifying Session,16:31:13,Round 2 ,2017-05-14
+8,1:30.177,0.892,0.112,185.834,,,13,6,A. Markelov,RUSSIAN TIME,Barcelona,Qualifying Session,16:01:40,Round 2 ,2017-05-14
+10,1:30.231,0.946,0.054,185.723,,,14,14,S. Sette Câmara,MP Motorsport,Barcelona,Qualifying Session,16:00:34,Round 2 ,2017-05-14
+8,1:30.389,1.104,0.158,185.398,,,15,12,R. Merhi,Campos Racing,Barcelona,Qualifying Session,16:31:04,Round 2 ,2017-05-14
+9,1:30.441,1.156,0.052,185.292,,,16,19,J. Cecotto,Rapax,Barcelona,Qualifying Session,16:04:11,Round 2 ,2017-05-14
+9,1:30.772,1.487,0.331,184.616,,,17,21,S. Gelael,Pertamina Arden,Barcelona,Qualifying Session,16:01:45,Round 2 ,2017-05-14
+9,1:30.814,1.529,0.042,184.531,,,18,4,G. Malja,Racing Engineering,Barcelona,Qualifying Session,16:00:29,Round 2 ,2017-05-14
+9,1:31.148,1.863,0.334,183.854,,,19,17,S. Canamasas,Trident,Barcelona,Qualifying Session,16:01:13,Round 2 ,2017-05-14
+6,1:32.303,3.018,1.155,181.554,,,20,16,N. Jeffri,Trident,Barcelona,Qualifying Session,16:04:30,Round 2 ,2017-05-14
+16,1:29.974,-,-,186.253,,,1,1,C. Leclerc,PREMA Racing,Barcelona,Free Practice,12:14:13,Round 2 ,2017-05-14
+21,1:30.016,0.042,-,186.166,,,2,8,A. Albon,ART Grand Prix,Barcelona,Free Practice,12:10:59,Round 2 ,2017-05-14
+17,1:30.484,0.510,0.468,185.204,,,3,14,S. Sette Câmara,MP Motorsport,Barcelona,Free Practice,12:15:12,Round 2 ,2017-05-14
+19,1:30.599,0.625,0.115,184.968,,,4,15,J. King,MP Motorsport,Barcelona,Free Practice,12:13:58,Round 2 ,2017-05-14
+17,1:30.644,0.670,0.045,184.877,,,5,3,L. Delétraz,Racing Engineering,Barcelona,Free Practice,12:11:17,Round 2 ,2017-05-14
+16,1:30.843,0.869,0.199,184.472,,,6,6,A. Markelov,RUSSIAN TIME,Barcelona,Free Practice,12:10:24,Round 2 ,2017-05-14
+21,1:30.882,0.908,0.039,184.392,,,7,18,N. de Vries,Rapax,Barcelona,Free Practice,12:10:46,Round 2 ,2017-05-14
+19,1:30.886,0.912,0.004,184.384,,,8,20,N. Nato,Pertamina Arden,Barcelona,Free Practice,12:14:17,Round 2 ,2017-05-14
+15,1:31.043,1.069,0.157,184.066,,,9,5,L. Ghiotto,RUSSIAN TIME,Barcelona,Free Practice,12:17:00,Round 2 ,2017-05-14
+19,1:31.086,1.112,0.043,183.979,,,10,17,S. Canamasas,Trident,Barcelona,Free Practice,12:19:41,Round 2 ,2017-05-14
+16,1:31.094,1.120,0.008,183.963,,,11,9,O. Rowland,DAMS,Barcelona,Free Practice,12:26:25,Round 2 ,2017-05-14
+21,1:31.157,1.183,0.063,183.836,,,12,7,N. Matsushita,ART Grand Prix,Barcelona,Free Practice,12:11:59,Round 2 ,2017-05-14
+16,1:31.355,1.381,0.198,183.438,,,13,11,R. Boschung,Campos Racing,Barcelona,Free Practice,12:15:15,Round 2 ,2017-05-14
+17,1:31.355,1.381,0.000,183.438,,,14,21,S. Gelael,Pertamina Arden,Barcelona,Free Practice,12:17:29,Round 2 ,2017-05-14
+9,1:31.394,1.420,0.039,183.359,,,15,19,J. Cecotto,Rapax,Barcelona,Free Practice,12:07:11,Round 2 ,2017-05-14
+20,1:31.444,1.470,0.050,183.259,,,16,12,R. Merhi,Campos Racing,Barcelona,Free Practice,12:14:51,Round 2 ,2017-05-14
+18,1:31.560,1.586,0.116,183.027,,,17,4,G. Malja,Racing Engineering,Barcelona,Free Practice,12:14:25,Round 2 ,2017-05-14
+18,1:31.600,1.626,0.040,182.947,,,18,10,N. Latifi,DAMS,Barcelona,Free Practice,12:26:31,Round 2 ,2017-05-14
+17,1:32.845,2.871,1.245,180.494,,,19,2,A. Fuoco,PREMA Racing,Barcelona,Free Practice,12:39:56,Round 2 ,2017-05-14
+12,1:32.989,3.015,0.144,180.214,,,20,16,N. Jeffri,Trident,Barcelona,Free Practice,12:18:50,Round 2 ,2017-05-14

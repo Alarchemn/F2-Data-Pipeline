@@ -1,0 +1,83 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+40,55:44.500,14.101,0.365,185.779,1:17.638,22.0,1,6,L. Sargeant,Carlin,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:45.014,14.615,0.514,185.75,1:17.585,22.0,2,22,E. Fittipaldi,Charouz Racing System,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:46.118,15.719,1.104,185.689,1:17.868,18.0,3,15,R. Merhi,Campos Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:50.499,20.100,4.381,185.446,1:17.801,20.0,4,1,D. Hauger,PREMA Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:54.637,24.238,4.138,185.217,1:17.677,20.0,5,24,J. Hughes,Van Amersfoort Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:56.652,26.253,2.015,185.106,1:17.929,22.0,6,14,O. Caldwell,Campos Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:57.645,27.246,0.993,185.051,1:18.083,25.0,7,17,A. Iwasa,DAMS,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:58.372,27.973,0.727,185.011,1:18.022,27.0,8,8,J. Vips,Hitech Grand Prix,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:58.942,28.543,0.570,184.98,1:17.780,22.0,9,16,R. Nissany,DAMS,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:00.464,30.065,1.522,184.896,1:17.517,20.0,10,5,L. Lawson,Carlin,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:03.506,33.107,3.042,184.729,1:18.252,23.0,11,11,F. Drugovich,MP Motorsport,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,55:44.135,13.736,13.736,185.799,1:17.547,19.0,12,2,J. Daruvala,PREMA Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:04.342,33.943,0.836,184.683,1:18.113,26.0,13,10,T. Pourchaire,ART Grand Prix,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:11.260,40.861,6.918,184.304,1:17.900,20.0,14,9,F. Vesti,ART Grand Prix,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:13.449,43.050,2.189,184.184,1:18.213,25.0,15,21,C. Williams,Trident,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:16.556,46.157,3.107,184.015,1:18.438,26.0,16,4,M. Sato,Virtuosi Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+40,56:43.106,72.707,26.550,182.579,1:18.237,19.0,17,12,C. Novalak,MP Motorsport,Spielberg,Feature Race,,Round 8 ,2022-07-10
+39,55:39.467,1 LAP,1 LAP,181.404,1:16.650,28.0,18,25,A. Cordeel,Van Amersfoort Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+39,55:46.082,1 LAP,6.615,181.045,1:16.536,39.0,19,3,J. Doohan,Virtuosi Racing,Spielberg,Feature Race,,Round 8 ,2022-07-10
+28,36:38.856,-,-,197.739,1:17.338,7.0,1,7,M. Armstrong,Hitech Grand Prix,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:39.954,1.098,1.098,197.64,1:17.406,7.0,2,10,T. Pourchaire,ART Grand Prix,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:41.025,2.169,1.071,197.544,1:17.419,22.0,3,3,J. Doohan,Virtuosi Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:43.909,5.053,2.884,197.286,1:17.328,9.0,4,11,F. Drugovich,MP Motorsport,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:50.828,11.972,6.919,196.668,1:17.519,7.0,5,8,J. Vips,Hitech Grand Prix,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:53.688,14.832,2.860,196.414,1:17.646,8.0,6,20,R. Verschoor,Trident,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:54.147,15.291,0.459,196.373,1:17.735,5.0,7,6,L. Sargeant,Carlin,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:56.394,17.538,1.647,196.174,1:17.617,4.0,8,22,E. Fittipaldi,Charouz Racing System,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:58.193,19.337,1.799,196.015,1:17.426,14.0,9,1,D. Hauger,PREMA Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,36:54.747,15.891,0.600,196.32,1:17.662,6.0,10,17,A. Iwasa,DAMS,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:00.500,21.644,2.307,195.812,1:17.825,4.0,11,2,J. Daruvala,PREMA Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:00.892,22.036,0.392,195.777,1:17.738,16.0,12,9,F. Vesti,ART Grand Prix,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:10.556,31.700,9.664,194.929,1:17.800,20.0,13,16,R. Nissany,DAMS,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:13.421,34.565,2.865,194.679,1:18.064,20.0,14,21,C. Williams,Trident,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:17.529,38.673,4.108,194.321,1:18.252,11.0,15,12,C. Novalak,MP Motorsport,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:19.101,40.245,0.124,194.185,1:18.209,10.0,16,24,J. Hughes,Van Amersfoort Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:32.415,53.559,13.314,193.037,1:18.415,8.0,17,14,O. Caldwell,Campos Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+28,37:18.977,40.121,1.448,194.196,1:18.361,20.0,18,25,A. Cordeel,Van Amersfoort Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+26,34:42.061,2 LAPS,-,193.899,1:18.170,19.0,19,15,R. Merhi,Campos Racing,Spielberg,Sprint Race,,Round 8 ,2022-07-10
+15,1:14.123,-,-,209.716,,,1,9,F. Vesti,ART Grand Prix,Spielberg,Qualifying Session,16:20:30,Round 8 ,2022-07-10
+14,1:14.158,0.035,0.035,209.617,,,2,8,J. Vips,Hitech Grand Prix,Spielberg,Qualifying Session,16:23:02,Round 8 ,2022-07-10
+15,1:14.288,0.165,0.130,209.25,,,3,6,L. Sargeant,Carlin,Spielberg,Qualifying Session,16:23:07,Round 8 ,2022-07-10
+17,1:14.307,0.184,0.019,209.196,,,4,17,A. Iwasa,DAMS,Spielberg,Qualifying Session,16:25:37,Round 8 ,2022-07-10
+16,1:14.315,0.192,0.008,209.174,,,5,11,F. Drugovich,MP Motorsport,Spielberg,Qualifying Session,16:20:09,Round 8 ,2022-07-10
+16,1:14.318,0.195,0.003,209.166,,,6,3,J. Doohan,Virtuosi Racing,Spielberg,Qualifying Session,16:23:08,Round 8 ,2022-07-10
+15,1:14.457,0.334,0.139,208.775,,,7,25,A. Cordeel,Van Amersfoort Racing,Spielberg,Qualifying Session,16:14:57,Round 8 ,2022-07-10
+16,1:14.568,0.445,0.111,208.464,,,8,20,R. Verschoor,Trident,Spielberg,Qualifying Session,16:23:31,Round 8 ,2022-07-10
+15,1:14.616,0.493,0.048,208.33,,,9,10,T. Pourchaire,ART Grand Prix,Spielberg,Qualifying Session,16:20:12,Round 8 ,2022-07-10
+14,1:14.670,0.547,0.054,208.179,,,10,7,M. Armstrong,Hitech Grand Prix,Spielberg,Qualifying Session,16:20:24,Round 8 ,2022-07-10
+15,1:14.702,0.579,0.032,208.09,,,11,2,J. Daruvala,PREMA Racing,Spielberg,Qualifying Session,16:23:29,Round 8 ,2022-07-10
+17,1:14.740,0.617,0.038,207.985,,,12,22,E. Fittipaldi,Charouz Racing System,Spielberg,Qualifying Session,16:20:37,Round 8 ,2022-07-10
+16,1:14.765,0.642,0.025,207.915,,,13,23,C. Bölükbasi,Charouz Racing System,Spielberg,Qualifying Session,16:23:15,Round 8 ,2022-07-10
+15,1:14.792,0.669,0.027,207.84,,,14,5,L. Lawson,Carlin,Spielberg,Qualifying Session,16:20:21,Round 8 ,2022-07-10
+16,1:14.794,0.671,0.002,207.834,,,15,1,D. Hauger,PREMA Racing,Spielberg,Qualifying Session,16:20:33,Round 8 ,2022-07-10
+18,1:14.836,0.713,0.042,207.718,,,16,21,C. Williams,Trident,Spielberg,Qualifying Session,16:23:34,Round 8 ,2022-07-10
+17,1:14.895,0.772,0.059,207.554,,,17,16,R. Nissany,DAMS,Spielberg,Qualifying Session,16:25:47,Round 8 ,2022-07-10
+14,1:14.936,0.813,0.041,207.441,,,18,4,M. Sato,Virtuosi Racing,Spielberg,Qualifying Session,16:23:26,Round 8 ,2022-07-10
+16,1:15.005,0.882,0.069,207.25,,,19,24,J. Hughes,Van Amersfoort Racing,Spielberg,Qualifying Session,16:20:23,Round 8 ,2022-07-10
+16,1:15.123,1.000,0.118,206.924,,,20,12,C. Novalak,MP Motorsport,Spielberg,Qualifying Session,16:22:59,Round 8 ,2022-07-10
+16,1:15.200,1.077,0.077,206.712,,,21,15,R. Merhi,Campos Racing,Spielberg,Qualifying Session,16:23:00,Round 8 ,2022-07-10
+16,1:15.656,1.533,0.456,205.466,,,22,14,O. Caldwell,Campos Racing,Spielberg,Qualifying Session,16:20:54,Round 8 ,2022-07-10
+26,1:15.038,-,-,207.159,,,1,24,J. Hughes,Van Amersfoort Racing,Spielberg,Free Practice,11:47:02,Round 8 ,2022-07-10
+25,1:15.468,0.430,0.430,205.978,,,2,10,T. Pourchaire,ART Grand Prix,Spielberg,Free Practice,11:47:54,Round 8 ,2022-07-10
+26,1:15.558,0.520,0.090,205.733,,,3,9,F. Vesti,ART Grand Prix,Spielberg,Free Practice,11:50:39,Round 8 ,2022-07-10
+24,1:15.582,0.544,0.024,205.668,,,4,7,M. Armstrong,Hitech Grand Prix,Spielberg,Free Practice,11:45:13,Round 8 ,2022-07-10
+24,1:15.601,0.563,0.019,205.616,,,5,17,A. Iwasa,DAMS,Spielberg,Free Practice,11:42:03,Round 8 ,2022-07-10
+25,1:15.626,0.588,0.025,205.548,,,6,1,D. Hauger,PREMA Racing,Spielberg,Free Practice,11:45:53,Round 8 ,2022-07-10
+26,1:15.630,0.592,0.004,205.537,,,7,25,A. Cordeel,Van Amersfoort Racing,Spielberg,Free Practice,11:47:15,Round 8 ,2022-07-10
+25,1:15.637,0.599,0.007,205.518,,,8,5,L. Lawson,Carlin,Spielberg,Free Practice,11:45:15,Round 8 ,2022-07-10
+24,1:15.659,0.621,0.022,205.458,,,9,11,F. Drugovich,MP Motorsport,Spielberg,Free Practice,11:48:52,Round 8 ,2022-07-10
+25,1:15.698,0.660,0.039,205.352,,,10,6,L. Sargeant,Carlin,Spielberg,Free Practice,11:50:44,Round 8 ,2022-07-10
+24,1:15.810,0.772,0.112,205.049,,,11,16,R. Nissany,DAMS,Spielberg,Free Practice,11:50:28,Round 8 ,2022-07-10
+23,1:15.975,0.937,0.165,204.604,,,12,20,R. Verschoor,Trident,Spielberg,Free Practice,11:51:10,Round 8 ,2022-07-10
+24,1:16.043,1.005,0.068,204.421,,,13,15,R. Merhi,Campos Racing,Spielberg,Free Practice,11:50:30,Round 8 ,2022-07-10
+23,1:16.055,1.017,0.012,204.388,,,14,3,J. Doohan,Virtuosi Racing,Spielberg,Free Practice,11:47:49,Round 8 ,2022-07-10
+23,1:16.301,1.263,0.246,203.729,,,15,2,J. Daruvala,PREMA Racing,Spielberg,Free Practice,11:44:29,Round 8 ,2022-07-10
+23,1:16.315,1.277,0.014,203.692,,,16,8,J. Vips,Hitech Grand Prix,Spielberg,Free Practice,11:22:01,Round 8 ,2022-07-10
+14,1:16.506,1.468,0.191,203.184,,,17,22,E. Fittipaldi,Charouz Racing System,Spielberg,Free Practice,11:20:17,Round 8 ,2022-07-10
+25,1:16.528,1.490,0.022,203.125,,,18,14,O. Caldwell,Campos Racing,Spielberg,Free Practice,11:32:06,Round 8 ,2022-07-10
+25,1:16.568,1.530,0.040,203.019,,,19,23,C. Bölükbasi,Charouz Racing System,Spielberg,Free Practice,11:50:52,Round 8 ,2022-07-10
+25,1:16.659,1.621,0.091,202.778,,,20,4,M. Sato,Virtuosi Racing,Spielberg,Free Practice,11:48:06,Round 8 ,2022-07-10
+20,1:16.793,1.755,0.134,202.424,,,21,12,C. Novalak,MP Motorsport,Spielberg,Free Practice,11:17:34,Round 8 ,2022-07-10
+3,1:28.139,13.101,11.346,176.366,,,22,21,C. Williams,Trident,Spielberg,Free Practice,11:12:17,Round 8 ,2022-07-10

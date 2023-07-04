@@ -1,0 +1,82 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+33,1:00:30.247,-,-,172.722,1:30.933,33.0,1,11,A. Iwasa,DAMS,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:31.129,0.882,0.882,172.68,1:30.825,33.0,2,5,T. Pourchaire,ART Grand Prix,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:31.731,1.484,0.602,172.652,1:30.815,32.0,3,12,A. Leclerc,DAMS,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:32.062,1.815,0.331,172.636,1:30.712,32.0,4,7,F. Vesti,PREMA Racing,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:35.537,5.290,3.475,172.471,1:31.623,32.0,5,3,Z. Maloney,Carlin,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:37.026,6.779,1.489,172.4,1:31.684,32.0,6,2,J. Daruvala,MP Motorsport,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:37.354,7.107,0.328,172.385,1:31.511,32.0,7,22,R. Verschoor,Van Amersfoort Racing,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:38.011,7.764,0.657,172.354,1:31.568,32.0,8,14,J. Doohan,Invicta Virtuosi Racing,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:38.541,8.294,0.530,172.329,1:30.993,33.0,9,24,K. Maini,Campos Racing,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:41.373,11.126,2.832,172.195,1:32.152,25.0,10,23,J. Correa,Van Amersfoort Racing,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:41.840,11.593,0.467,172.172,1:31.425,32.0,11,21,C. Novalak,Trident,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:44.149,13.902,2.309,172.063,1:31.842,33.0,12,17,B. Benavides,PHM Racing by Charouz,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:44.523,14.276,0.374,172.046,1:31.455,33.0,13,15,A. Cordeel,Invicta Virtuosi Racing,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:46.13,15.89,1.616,171.969,1:32.304,24.0,14,20,R. Stanek,Trident,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:57.54,17.437,1.545,171.897,1:31.610,32.0,15,10,I. Hadjar,Hitech Pulse-Eight,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:54.286,24.039,6.602,171.586,1:33.690,22.0,16,25,R. Boschung,Campos Racing,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:56.98,26.73,2.695,171.46,1:31.300,33.0,17,8,O. Bearman,PREMA Racing,Melbourne,Feature Race,,Round 3 ,2023-04-02
+33,1:00:47.546,27.29,0.565,171.433,1:31.706,17.0,18,6,V. Martins,ART Grand Prix,Melbourne,Feature Race,,Round 3 ,2023-04-02
+30,56:03.998,DNF,-,169.448,1:31.041,24.0,19,1,D. Hauger,MP Motorsport,Melbourne,Feature Race,,Round 3 ,2023-04-02
+22,40:03.429,-,-,173.925,1:31.267,13.0,1,1,D. Hauger,MP Motorsport,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:04.549,1.120,1.120,173.844,1:31.947,11.0,2,9,J. Crawford,Hitech Pulse-Eight,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:05.145,1.716,0.596,173.801,1:31.955,13.0,3,24,K. Maini,Campos Racing,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:05.493,2.064,0.348,173.776,1:31.964,9.0,4,12,A. Leclerc,DAMS,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:05.876,2.447,0.383,173.748,1:31.857,10.0,5,3,Z. Maloney,Carlin,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:06.271,2.842,0.395,173.72,1:31.815,11.0,6,10,I. Hadjar,Hitech Pulse-Eight,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:08.287,4.858,2.016,173.574,1:31.783,10.0,7,8,O. Bearman,PREMA Racing,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:08.728,5.299,0.441,173.542,1:31.709,11.0,8,7,F. Vesti,PREMA Racing,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:09.020,5.591,0.292,173.521,1:32.057,11.0,9,16,R. Nissany,PHM Racing by Charouz,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:09.188,5.759,0.168,173.509,1:32.337,11.0,10,22,R. Verschoor,Van Amersfoort Racing,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:09.846,6.417,0.658,173.462,1:32.261,11.0,11,21,C. Novalak,Trident,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:15.280,11.851,5.434,173.072,1:32.406,11.0,12,15,A. Cordeel,Invicta Virtuosi Racing,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:15.824,12.395,0.544,173.033,1:31.587,11.0,13,11,A. Iwasa,DAMS,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:20.245,16.816,4.421,172.717,1:32.175,22.0,14,23,J. Correa,Van Amersfoort Racing,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:40.069,36.640,19.824,171.313,1:31.772,10.0,15,6,V. Martins,ART Grand Prix,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:40.651,37.222,0.582,171.272,1:32.299,11.0,16,20,R. Stanek,Trident,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+22,40:44.505,41.076,3.854,171.002,1:32.169,11.0,17,2,J. Daruvala,MP Motorsport,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+20,37:02.903,DNF,-,170.954,1:32.354,10.0,18,5,T. Pourchaire,ART Grand Prix,Melbourne,Sprint Race,,Round 3 ,2023-04-02
+13,1:45.118,-,-,180.756,,,1,11,A. Iwasa,DAMS,Melbourne,Qualifying Session,18:12:11,Round 3 ,2023-04-02
+12,1:45.732,0.614,0.614,179.707,,,2,5,T. Pourchaire,ART Grand Prix,Melbourne,Qualifying Session,18:11:40,Round 3 ,2023-04-02
+12,1:45.736,0.618,0.004,179.7,,,3,6,V. Martins,ART Grand Prix,Melbourne,Qualifying Session,18:02:19,Round 3 ,2023-04-02
+13,1:46.037,0.919,0.301,179.19,,,4,10,I. Hadjar,Hitech Pulse-Eight,Melbourne,Qualifying Session,18:01:52,Round 3 ,2023-04-02
+13,1:46.045,0.927,0.008,179.176,,,5,3,Z. Maloney,Carlin,Melbourne,Qualifying Session,18:10:56,Round 3 ,2023-04-02
+12,1:46.058,0.940,0.013,179.154,,,6,8,O. Bearman,PREMA Racing,Melbourne,Qualifying Session,18:12:02,Round 3 ,2023-04-02
+13,1:46.309,1.191,0.251,178.731,,,7,12,A. Leclerc,DAMS,Melbourne,Qualifying Session,18:10:33,Round 3 ,2023-04-02
+12,1:46.530,1.412,0.221,178.361,,,8,24,K. Maini,Campos Racing,Melbourne,Qualifying Session,18:04:47,Round 3 ,2023-04-02
+12,1:46.687,1.569,0.157,178.098,,,9,9,J. Crawford,Hitech Pulse-Eight,Melbourne,Qualifying Session,18:00:13,Round 3 ,2023-04-02
+12,1:46.737,1.619,0.050,178.015,,,10,1,D. Hauger,MP Motorsport,Melbourne,Qualifying Session,18:00:20,Round 3 ,2023-04-02
+12,1:46.859,1.741,0.122,177.811,,,11,25,R. Boschung,Campos Racing,Melbourne,Qualifying Session,18:11:27,Round 3 ,2023-04-02
+12,1:46.896,1.778,0.037,177.75,,,12,2,J. Daruvala,MP Motorsport,Melbourne,Qualifying Session,18:11:10,Round 3 ,2023-04-02
+12,1:46.899,1.781,0.003,177.745,,,13,7,F. Vesti,PREMA Racing,Melbourne,Qualifying Session,18:11:58,Round 3 ,2023-04-02
+12,1:47.194,2.076,0.295,177.256,,,14,16,R. Nissany,PHM Racing by Charouz,Melbourne,Qualifying Session,18:12:30,Round 3 ,2023-04-02
+13,1:47.266,2.148,0.072,177.137,,,15,14,J. Doohan,Invicta Virtuosi Racing,Melbourne,Qualifying Session,17:59:34,Round 3 ,2023-04-02
+13,1:47.267,2.149,0.001,177.135,,,16,4,E. Fittipaldi,Carlin,Melbourne,Qualifying Session,18:04:35,Round 3 ,2023-04-02
+13,1:47.470,2.352,0.203,176.8,,,17,20,R. Stanek,Trident,Melbourne,Qualifying Session,18:09:26,Round 3 ,2023-04-02
+11,1:47.533,2.415,0.063,176.697,,,18,22,R. Verschoor,Van Amersfoort Racing,Melbourne,Qualifying Session,18:11:22,Round 3 ,2023-04-02
+13,1:47.578,2.460,0.045,176.623,,,19,21,C. Novalak,Trident,Melbourne,Qualifying Session,18:03:11,Round 3 ,2023-04-02
+12,1:47.989,2.871,0.411,175.951,,,20,23,J. Correa,Van Amersfoort Racing,Melbourne,Qualifying Session,17:58:46,Round 3 ,2023-04-02
+13,1:48.198,3.080,0.209,175.611,,,21,15,A. Cordeel,Invicta Virtuosi Racing,Melbourne,Qualifying Session,17:59:46,Round 3 ,2023-04-02
+10,1:50.122,5.004,1.924,172.543,,,22,17,B. Benavides,PHM Racing by Charouz,Melbourne,Qualifying Session,18:04:44,Round 3 ,2023-04-02
+17,1:28.989,-,-,213.518,,,1,14,J. Doohan,Invicta Virtuosi Racing,Melbourne,Free Practice,10:43:14,Round 3 ,2023-04-02
+16,1:29.302,0.313,0.313,212.77,,,2,10,I. Hadjar,Hitech Pulse-Eight,Melbourne,Free Practice,10:43:36,Round 3 ,2023-04-02
+16,1:29.312,0.323,0.010,212.746,,,3,6,V. Martins,ART Grand Prix,Melbourne,Free Practice,10:43:43,Round 3 ,2023-04-02
+17,1:29.379,0.390,0.067,212.586,,,4,9,J. Crawford,Hitech Pulse-Eight,Melbourne,Free Practice,10:43:32,Round 3 ,2023-04-02
+17,1:29.465,0.476,0.086,212.382,,,5,4,E. Fittipaldi,Carlin,Melbourne,Free Practice,10:43:49,Round 3 ,2023-04-02
+15,1:29.562,0.573,0.097,212.152,,,6,8,O. Bearman,PREMA Racing,Melbourne,Free Practice,10:44:07,Round 3 ,2023-04-02
+15,1:29.585,0.596,0.023,212.098,,,7,11,A. Iwasa,DAMS,Melbourne,Free Practice,10:42:47,Round 3 ,2023-04-02
+17,1:29.658,0.669,0.073,211.925,,,8,3,Z. Maloney,Carlin,Melbourne,Free Practice,10:43:56,Round 3 ,2023-04-02
+17,1:29.691,0.702,0.033,211.847,,,9,22,R. Verschoor,Van Amersfoort Racing,Melbourne,Free Practice,10:44:16,Round 3 ,2023-04-02
+16,1:29.958,0.969,0.267,211.218,,,10,25,R. Boschung,Campos Racing,Melbourne,Free Practice,10:44:10,Round 3 ,2023-04-02
+15,1:30.035,1.046,0.077,211.037,,,11,24,K. Maini,Campos Racing,Melbourne,Free Practice,10:44:00,Round 3 ,2023-04-02
+16,1:30.231,1.242,0.196,210.579,,,12,1,D. Hauger,MP Motorsport,Melbourne,Free Practice,10:43:47,Round 3 ,2023-04-02
+16,1:30.237,1.248,0.006,210.565,,,13,20,R. Stanek,Trident,Melbourne,Free Practice,10:44:21,Round 3 ,2023-04-02
+16,1:30.268,1.279,0.031,210.493,,,14,5,T. Pourchaire,ART Grand Prix,Melbourne,Free Practice,10:43:40,Round 3 ,2023-04-02
+16,1:30.333,1.344,0.065,210.341,,,15,12,A. Leclerc,DAMS,Melbourne,Free Practice,10:43:26,Round 3 ,2023-04-02
+16,1:30.347,1.358,0.014,210.309,,,16,15,A. Cordeel,Invicta Virtuosi Racing,Melbourne,Free Practice,10:43:19,Round 3 ,2023-04-02
+16,1:30.621,1.632,0.274,209.673,,,17,7,F. Vesti,PREMA Racing,Melbourne,Free Practice,10:43:54,Round 3 ,2023-04-02
+16,1:31.054,2.065,0.433,208.676,,,18,23,J. Correa,Van Amersfoort Racing,Melbourne,Free Practice,10:44:05,Round 3 ,2023-04-02
+16,1:31.183,2.194,0.129,208.38,,,19,17,B. Benavides,PHM Racing by Charouz,Melbourne,Free Practice,10:44:14,Round 3 ,2023-04-02
+15,1:31.432,2.443,0.249,207.813,,,20,21,C. Novalak,Trident,Melbourne,Free Practice,10:44:26,Round 3 ,2023-04-02
+6,1:34.096,5.107,2.664,201.929,,,21,16,R. Nissany,PHM Racing by Charouz,Melbourne,Free Practice,10:08:55,Round 3 ,2023-04-02
+8,1:40.683,11.694,6.587,188.719,,,22,2,J. Daruvala,MP Motorsport,Melbourne,Free Practice,10:09:53,Round 3 ,2023-04-02

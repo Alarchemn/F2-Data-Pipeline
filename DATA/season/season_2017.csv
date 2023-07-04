@@ -1,0 +1,826 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+23,43:01.023,-,-,173.275,1:44.074,16.0,1,1,C. Leclerc,PREMA Racing,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:02.592,1.569,-,173.17,1:47.043,7.0,2,5,L. Ghiotto,RUSSIAN TIME,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:03.921,2.898,1.329,173.081,1:47.175,8.0,3,9,O. Rowland,DAMS,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:08.598,7.575,4.677,172.768,1:47.760,14.0,4,10,N. Latifi,DAMS,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:10.985,9.962,2.387,172.609,1:46.998,7.0,5,15,J. King,MP Motorsport,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:11.888,10.865,0.903,172.549,1:47.632,10.0,6,18,N. de Vries,Rapax,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:12.405,11.382,0.517,172.514,1:47.821,8.0,7,8,A. Albon,ART Grand Prix,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:19.976,18.953,7.571,172.012,1:45.891,11.0,8,6,A. Markelov,RUSSIAN TIME,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:20.173,19.150,0.197,171.999,1:47.868,13.0,9,19,J. Cecotto,Rapax,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:21.006,19.983,0.833,171.944,1:46.884,7.0,10,2,A. Fuoco,PREMA Racing,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:29.852,28.829,8.846,171.361,1:48.247,10.0,11,17,S. Canamasas,Trident,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:32.210,31.187,2.358,171.206,1:48.033,8.0,12,3,L. Delétraz,Racing Engineering,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:34.645,33.622,2.435,171.047,1:48.684,8.0,13,4,G. Malja,Racing Engineering,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:35.415,34.392,0.770,170.996,1:45.961,12.0,14,7,N. Matsushita,ART Grand Prix,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:36.924,35.901,1.509,170.898,1:47.837,11.0,15,12,S. Coletti,Campos Racing,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:42.618,41.595,5.694,170.527,1:48.576,8.0,16,16,N. Jeffri,Trident,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,43:53.052,52.029,10.434,169.851,1:46.512,13.0,17,21,S. Gelael,Pertamina Arden,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+23,44:09.593,68.570,16.541,168.791,1:43.950,22.0,18,14,S. Sette Câmara,MP Motorsport,Sakhir,Sprint Race,,Round 1 ,2017-04-16
+32,58:18.977,-,-,177.931,1:46.038,24.0,1,6,A. Markelov,RUSSIAN TIME,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,58:26.868,7.891,-,177.53,1:46.187,18.0,2,20,N. Nato,Pertamina Arden,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,58:32.757,13.780,5.889,177.233,1:46.550,24.0,3,1,C. Leclerc,PREMA Racing,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,58:36.455,17.478,3.698,177.046,1:46.729,19.0,4,15,J. King,MP Motorsport,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,58:37.121,18.144,0.666,177.013,1:46.761,21.0,5,9,O. Rowland,DAMS,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,58:38.721,19.744,1.600,176.932,1:46.171,19.0,6,8,A. Albon,ART Grand Prix,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,58:46.033,27.056,7.312,176.565,1:46.787,20.0,7,5,L. Ghiotto,RUSSIAN TIME,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,58:48.948,29.971,2.915,176.419,1:46.668,23.0,8,7,N. Matsushita,ART Grand Prix,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,58:49.927,30.950,0.979,176.37,1:46.969,28.0,9,2,A. Fuoco,PREMA Racing,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,58:54.703,35.726,4.776,176.132,1:46.901,22.0,10,18,N. de Vries,Rapax,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,59:06.555,47.578,11.852,175.544,1:47.731,24.0,11,10,N. Latifi,DAMS,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,59:11.506,52.529,2.383,175.299,1:46.520,19.0,12,11,R. Boschung,Campos Racing,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,59:14.123,50.146,2.568,175.417,1:47.610,27.0,13,14,S. Sette Câmara,MP Motorsport,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,59:15.288,56.311,3.782,175.112,1:48.907,7.0,14,17,S. Canamasas,Trident,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,59:25.700,66.723,10.412,174.601,1:46.798,20.0,15,19,J. Cecotto,Rapax,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,59:31.910,72.933,6.210,174.298,1:45.843,26.0,16,12,S. Coletti,Campos Racing,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,59:37.556,78.579,5.646,174.022,1:46.989,17.0,17,21,S. Gelael,Pertamina Arden,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,59:43.460,84.483,5.904,173.736,1:48.343,13.0,18,4,G. Malja,Racing Engineering,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,59:57.959,98.982,14.499,173.036,1:48.976,25.0,19,16,N. Jeffri,Trident,Sakhir,Feature Race,,Round 1 ,2017-04-16
+32,59:58.083,99.106,0.124,173.03,1:46.796,25.0,20,3,L. Delétraz,Racing Engineering,Sakhir,Feature Race,,Round 1 ,2017-04-16
+8,1:38.907,-,-,196.985,,,1,1,C. Leclerc,PREMA Racing,Sakhir,Qualifying Session,20:19:15,Round 1 ,2017-04-16
+10,1:39.665,0.758,0.080,195.486,,,2,18,N. de Vries,Rapax,Sakhir,Qualifying Session,20:27:37,Round 1 ,2017-04-16
+10,1:39.696,0.789,0.031,195.426,,,3,20,N. Nato,Pertamina Arden,Sakhir,Qualifying Session,20:10:36,Round 1 ,2017-04-16
+10,1:39.948,1.041,0.252,194.933,,,4,5,L. Ghiotto,RUSSIAN TIME,Sakhir,Qualifying Session,20:11:07,Round 1 ,2017-04-16
+11,1:39.585,0.678,-,195.643,,,5,2,A. Fuoco,PREMA Racing,Sakhir,Qualifying Session,20:10:12,Round 1 ,2017-04-16
+10,1:40.011,1.104,0.063,194.81,,,6,7,N. Matsushita,ART Grand Prix,Sakhir,Qualifying Session,20:26:41,Round 1 ,2017-04-16
+10,1:40.018,1.111,0.007,194.796,,,7,6,A. Markelov,RUSSIAN TIME,Sakhir,Qualifying Session,20:11:10,Round 1 ,2017-04-16
+10,1:40.053,1.146,0.035,194.728,,,8,9,O. Rowland,DAMS,Sakhir,Qualifying Session,20:26:27,Round 1 ,2017-04-16
+10,1:40.140,1.233,0.087,194.559,,,9,8,A. Albon,ART Grand Prix,Sakhir,Qualifying Session,20:11:19,Round 1 ,2017-04-16
+11,1:40.168,1.261,0.028,194.505,,,10,14,S. Sette Câmara,MP Motorsport,Sakhir,Qualifying Session,20:26:44,Round 1 ,2017-04-16
+10,1:40.201,1.294,0.033,194.441,,,11,15,J. King,MP Motorsport,Sakhir,Qualifying Session,20:10:21,Round 1 ,2017-04-16
+11,1:40.262,1.355,0.061,194.322,,,12,19,J. Cecotto,Rapax,Sakhir,Qualifying Session,20:10:18,Round 1 ,2017-04-16
+11,1:40.280,1.373,0.018,194.287,,,13,10,N. Latifi,DAMS,Sakhir,Qualifying Session,20:26:34,Round 1 ,2017-04-16
+11,1:40.453,1.546,0.173,193.953,,,14,3,L. Delétraz,Racing Engineering,Sakhir,Qualifying Session,20:09:45,Round 1 ,2017-04-16
+11,1:40.501,1.594,0.028,193.86,,,15,11,R. Boschung,Campos Racing,Sakhir,Qualifying Session,20:26:36,Round 1 ,2017-04-16
+9,1:41.604,2.697,0.188,191.756,,,16,16,N. Jeffri,Trident,Sakhir,Qualifying Session,20:11:16,Round 1 ,2017-04-16
+9,1:40.473,1.566,0.020,193.914,,,17,4,G. Malja,Racing Engineering,Sakhir,Qualifying Session,20:09:54,Round 1 ,2017-04-16
+10,1:40.778,1.871,0.277,193.327,,,18,21,S. Gelael,Pertamina Arden,Sakhir,Qualifying Session,20:10:46,Round 1 ,2017-04-16
+10,1:40.810,1.903,0.032,193.266,,,19,17,S. Canamasas,Trident,Sakhir,Qualifying Session,20:07:14,Round 1 ,2017-04-16
+11,1:41.416,2.509,0.606,192.111,,,20,12,S. Coletti,Campos Racing,Sakhir,Qualifying Session,20:10:31,Round 1 ,2017-04-16
+16,1:42.221,-,-,190.598,,,1,9,O. Rowland,DAMS,Sakhir,Free Practice,11:39:59,Round 1 ,2017-04-16
+13,1:42.313,0.092,-,190.427,,,2,6,A. Markelov,RUSSIAN TIME,Sakhir,Free Practice,11:40:16,Round 1 ,2017-04-16
+15,1:42.372,0.151,0.059,190.317,,,3,1,C. Leclerc,PREMA Racing,Sakhir,Free Practice,11:44:29,Round 1 ,2017-04-16
+12,1:42.381,0.160,0.009,190.3,,,4,2,A. Fuoco,PREMA Racing,Sakhir,Free Practice,11:40:08,Round 1 ,2017-04-16
+13,1:42.594,0.373,0.213,189.905,,,5,20,N. Nato,Pertamina Arden,Sakhir,Free Practice,11:45:24,Round 1 ,2017-04-16
+14,1:42.715,0.494,0.121,189.682,,,6,5,L. Ghiotto,RUSSIAN TIME,Sakhir,Free Practice,11:47:06,Round 1 ,2017-04-16
+6,1:43.052,0.831,0.337,189.061,,,7,18,N. de Vries,Rapax,Sakhir,Free Practice,11:46:57,Round 1 ,2017-04-16
+16,1:43.146,0.925,0.094,188.889,,,8,19,J. Cecotto,Rapax,Sakhir,Free Practice,11:42:34,Round 1 ,2017-04-16
+15,1:43.213,0.992,0.067,188.766,,,9,7,N. Matsushita,ART Grand Prix,Sakhir,Free Practice,11:39:18,Round 1 ,2017-04-16
+14,1:43.230,1.009,0.017,188.735,,,10,4,G. Malja,Racing Engineering,Sakhir,Free Practice,11:36:17,Round 1 ,2017-04-16
+15,1:43.260,1.039,0.030,188.68,,,11,14,S. Sette Câmara,MP Motorsport,Sakhir,Free Practice,11:40:55,Round 1 ,2017-04-16
+15,1:43.265,1.044,0.005,188.671,,,12,15,J. King,MP Motorsport,Sakhir,Free Practice,11:36:22,Round 1 ,2017-04-16
+15,1:43.323,1.102,0.058,188.565,,,13,10,N. Latifi,DAMS,Sakhir,Free Practice,11:36:12,Round 1 ,2017-04-16
+13,1:43.355,1.134,0.032,188.507,,,14,21,S. Gelael,Pertamina Arden,Sakhir,Free Practice,11:47:10,Round 1 ,2017-04-16
+12,1:43.479,1.258,0.124,188.281,,,15,11,R. Boschung,Campos Racing,Sakhir,Free Practice,11:41:46,Round 1 ,2017-04-16
+16,1:43.632,1.411,0.153,188.003,,,16,12,S. Coletti,Campos Racing,Sakhir,Free Practice,11:57:14,Round 1 ,2017-04-16
+16,1:43.891,1.670,0.259,187.535,,,17,16,N. Jeffri,Trident,Sakhir,Free Practice,11:39:24,Round 1 ,2017-04-16
+15,1:43.958,1.737,0.067,187.414,,,18,17,S. Canamasas,Trident,Sakhir,Free Practice,11:38:32,Round 1 ,2017-04-16
+14,1:44.016,1.795,0.058,187.309,,,19,3,L. Delétraz,Racing Engineering,Sakhir,Free Practice,11:36:09,Round 1 ,2017-04-16
+15,1:44.360,2.139,0.344,186.692,,,20,8,A. Albon,ART Grand Prix,Sakhir,Free Practice,11:47:31,Round 1 ,2017-04-16
+26,42:20.450,-,-,171.329,1:35.246,11.0,1,7,N. Matsushita,ART Grand Prix,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:23.759,3.309,-,171.106,1:35.178,9.0,2,9,O. Rowland,DAMS,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:25.071,4.621,1.312,171.018,1:34.811,3.0,3,10,N. Latifi,DAMS,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:29.627,9.177,4.556,170.712,1:35.136,12.0,4,1,C. Leclerc,PREMA Racing,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:35.783,15.333,6.156,170.301,1:35.534,4.0,5,15,J. King,MP Motorsport,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:38.437,17.987,2.654,170.125,1:35.246,3.0,6,4,G. Malja,Racing Engineering,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:38.542,18.092,0.105,170.118,1:35.492,9.0,7,5,L. Ghiotto,RUSSIAN TIME,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:41.585,21.135,3.043,169.915,1:35.096,11.0,8,8,A. Albon,ART Grand Prix,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:42.002,21.552,0.417,169.888,1:35.400,10.0,9,6,A. Markelov,RUSSIAN TIME,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:51.194,30.744,9.192,169.281,1:35.574,8.0,10,19,J. Cecotto,Rapax,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:51.999,31.549,0.805,169.228,1:36.315,9.0,11,17,S. Canamasas,Trident,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:54.884,34.434,2.885,169.038,1:35.765,11.0,12,12,R. Merhi,Campos Racing,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:55.721,35.271,0.837,168.983,1:35.855,4.0,13,20,N. Nato,Pertamina Arden,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:58.540,38.090,2.819,168.798,1:36.532,6.0,14,3,L. Delétraz,Racing Engineering,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,42:59.896,39.446,1.356,168.71,1:36.330,5.0,15,14,S. Sette Câmara,MP Motorsport,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,43:07.400,46.950,7.504,168.22,1:36.084,7.0,16,21,S. Gelael,Pertamina Arden,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,43:10.676,50.226,3.276,168.008,1:34.670,5.0,17,11,R. Boschung,Campos Racing,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+26,43:20.362,59.912,9.686,167.382,1:36.672,4.0,18,16,N. Jeffri,Trident,Barcelona,Sprint Race,,Round 2 ,2017-05-14
+37,1:02:33.684,-,-,165.062,1:35.729,3.0,1,1,C. Leclerc,PREMA Racing,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:37.414,3.730,-,164.898,1:35.583,34.0,2,5,L. Ghiotto,RUSSIAN TIME,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:44.830,11.146,7.416,164.573,1:34.340,31.0,3,9,O. Rowland,DAMS,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:47.787,14.103,2.957,164.444,1:36.548,5.0,4,7,N. Matsushita,ART Grand Prix,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:51.003,17.319,3.216,164.304,1:34.630,29.0,5,8,A. Albon,ART Grand Prix,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:57.563,23.879,6.560,164.019,1:34.865,31.0,6,10,N. Latifi,DAMS,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:58.463,24.779,0.900,163.979,1:37.161,33.0,7,4,G. Malja,Racing Engineering,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:02:59.087,25.403,0.624,163.952,1:34.294,29.0,8,6,A. Markelov,RUSSIAN TIME,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:04.651,30.967,5.564,163.711,1:36.436,2.0,9,15,J. King,MP Motorsport,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:17.516,43.832,5.631,163.157,1:36.442,28.0,10,18,N. de Vries,Rapax,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:23.967,50.283,6.451,162.88,1:35.114,27.0,11,3,L. Delétraz,Racing Engineering,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:11.885,38.201,7.234,163.399,1:36.638,34.0,12,11,R. Boschung,Campos Racing,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:39.654,65.970,9.997,162.211,1:36.008,29.0,13,2,A. Fuoco,PREMA Racing,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:29.657,55.973,5.690,162.637,1:34.706,28.0,14,14,S. Sette Câmara,MP Motorsport,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:42.017,68.333,0.549,162.111,1:35.716,29.0,15,21,S. Gelael,Pertamina Arden,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:42.925,69.241,0.908,162.072,1:36.627,27.0,16,20,N. Nato,Pertamina Arden,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:03:41.468,67.784,1.814,162.134,1:35.355,28.0,17,19,J. Cecotto,Rapax,Barcelona,Feature Race,,Round 2 ,2017-05-14
+37,1:04:03.205,89.521,20.280,161.217,1:36.913,28.0,18,16,N. Jeffri,Trident,Barcelona,Feature Race,,Round 2 ,2017-05-14
+33,57:40.374,DNF,-,159.682,1:35.965,22.0,19,12,R. Merhi,Campos Racing,Barcelona,Feature Race,,Round 2 ,2017-05-14
+7,1:29.285,-,-,187.691,,,1,1,C. Leclerc,PREMA Racing,Barcelona,Qualifying Session,16:31:09,Round 2 ,2017-05-14
+10,1:29.478,0.193,-,187.286,,,2,5,L. Ghiotto,RUSSIAN TIME,Barcelona,Qualifying Session,16:17:48,Round 2 ,2017-05-14
+10,1:29.550,0.265,0.072,187.135,,,3,18,N. de Vries,Rapax,Barcelona,Qualifying Session,16:14:15,Round 2 ,2017-05-14
+9,1:29.585,0.300,0.035,187.062,,,4,15,J. King,MP Motorsport,Barcelona,Qualifying Session,16:00:25,Round 2 ,2017-05-14
+10,1:29.732,0.447,0.147,186.756,,,5,8,A. Albon,ART Grand Prix,Barcelona,Qualifying Session,16:30:36,Round 2 ,2017-05-14
+9,1:29.744,0.459,0.012,186.731,,,6,9,O. Rowland,DAMS,Barcelona,Qualifying Session,16:30:24,Round 2 ,2017-05-14
+7,1:29.790,0.505,0.046,186.635,,,7,20,N. Nato,Pertamina Arden,Barcelona,Qualifying Session,16:30:27,Round 2 ,2017-05-14
+8,1:29.834,0.549,0.044,186.544,,,8,2,A. Fuoco,PREMA Racing,Barcelona,Qualifying Session,16:31:18,Round 2 ,2017-05-14
+9,1:29.885,0.600,0.051,186.438,,,9,10,N. Latifi,DAMS,Barcelona,Qualifying Session,16:14:28,Round 2 ,2017-05-14
+9,1:29.975,0.690,0.090,186.251,,,10,7,N. Matsushita,ART Grand Prix,Barcelona,Qualifying Session,16:00:49,Round 2 ,2017-05-14
+10,1:30.046,0.761,0.071,186.104,,,11,3,L. Delétraz,Racing Engineering,Barcelona,Qualifying Session,16:30:08,Round 2 ,2017-05-14
+10,1:30.065,0.780,0.019,186.065,,,12,11,R. Boschung,Campos Racing,Barcelona,Qualifying Session,16:31:13,Round 2 ,2017-05-14
+8,1:30.177,0.892,0.112,185.834,,,13,6,A. Markelov,RUSSIAN TIME,Barcelona,Qualifying Session,16:01:40,Round 2 ,2017-05-14
+10,1:30.231,0.946,0.054,185.723,,,14,14,S. Sette Câmara,MP Motorsport,Barcelona,Qualifying Session,16:00:34,Round 2 ,2017-05-14
+8,1:30.389,1.104,0.158,185.398,,,15,12,R. Merhi,Campos Racing,Barcelona,Qualifying Session,16:31:04,Round 2 ,2017-05-14
+9,1:30.441,1.156,0.052,185.292,,,16,19,J. Cecotto,Rapax,Barcelona,Qualifying Session,16:04:11,Round 2 ,2017-05-14
+9,1:30.772,1.487,0.331,184.616,,,17,21,S. Gelael,Pertamina Arden,Barcelona,Qualifying Session,16:01:45,Round 2 ,2017-05-14
+9,1:30.814,1.529,0.042,184.531,,,18,4,G. Malja,Racing Engineering,Barcelona,Qualifying Session,16:00:29,Round 2 ,2017-05-14
+9,1:31.148,1.863,0.334,183.854,,,19,17,S. Canamasas,Trident,Barcelona,Qualifying Session,16:01:13,Round 2 ,2017-05-14
+6,1:32.303,3.018,1.155,181.554,,,20,16,N. Jeffri,Trident,Barcelona,Qualifying Session,16:04:30,Round 2 ,2017-05-14
+16,1:29.974,-,-,186.253,,,1,1,C. Leclerc,PREMA Racing,Barcelona,Free Practice,12:14:13,Round 2 ,2017-05-14
+21,1:30.016,0.042,-,186.166,,,2,8,A. Albon,ART Grand Prix,Barcelona,Free Practice,12:10:59,Round 2 ,2017-05-14
+17,1:30.484,0.510,0.468,185.204,,,3,14,S. Sette Câmara,MP Motorsport,Barcelona,Free Practice,12:15:12,Round 2 ,2017-05-14
+19,1:30.599,0.625,0.115,184.968,,,4,15,J. King,MP Motorsport,Barcelona,Free Practice,12:13:58,Round 2 ,2017-05-14
+17,1:30.644,0.670,0.045,184.877,,,5,3,L. Delétraz,Racing Engineering,Barcelona,Free Practice,12:11:17,Round 2 ,2017-05-14
+16,1:30.843,0.869,0.199,184.472,,,6,6,A. Markelov,RUSSIAN TIME,Barcelona,Free Practice,12:10:24,Round 2 ,2017-05-14
+21,1:30.882,0.908,0.039,184.392,,,7,18,N. de Vries,Rapax,Barcelona,Free Practice,12:10:46,Round 2 ,2017-05-14
+19,1:30.886,0.912,0.004,184.384,,,8,20,N. Nato,Pertamina Arden,Barcelona,Free Practice,12:14:17,Round 2 ,2017-05-14
+15,1:31.043,1.069,0.157,184.066,,,9,5,L. Ghiotto,RUSSIAN TIME,Barcelona,Free Practice,12:17:00,Round 2 ,2017-05-14
+19,1:31.086,1.112,0.043,183.979,,,10,17,S. Canamasas,Trident,Barcelona,Free Practice,12:19:41,Round 2 ,2017-05-14
+16,1:31.094,1.120,0.008,183.963,,,11,9,O. Rowland,DAMS,Barcelona,Free Practice,12:26:25,Round 2 ,2017-05-14
+21,1:31.157,1.183,0.063,183.836,,,12,7,N. Matsushita,ART Grand Prix,Barcelona,Free Practice,12:11:59,Round 2 ,2017-05-14
+16,1:31.355,1.381,0.198,183.438,,,13,11,R. Boschung,Campos Racing,Barcelona,Free Practice,12:15:15,Round 2 ,2017-05-14
+17,1:31.355,1.381,0.000,183.438,,,14,21,S. Gelael,Pertamina Arden,Barcelona,Free Practice,12:17:29,Round 2 ,2017-05-14
+9,1:31.394,1.420,0.039,183.359,,,15,19,J. Cecotto,Rapax,Barcelona,Free Practice,12:07:11,Round 2 ,2017-05-14
+20,1:31.444,1.470,0.050,183.259,,,16,12,R. Merhi,Campos Racing,Barcelona,Free Practice,12:14:51,Round 2 ,2017-05-14
+18,1:31.560,1.586,0.116,183.027,,,17,4,G. Malja,Racing Engineering,Barcelona,Free Practice,12:14:25,Round 2 ,2017-05-14
+18,1:31.600,1.626,0.040,182.947,,,18,10,N. Latifi,DAMS,Barcelona,Free Practice,12:26:31,Round 2 ,2017-05-14
+17,1:32.845,2.871,1.245,180.494,,,19,2,A. Fuoco,PREMA Racing,Barcelona,Free Practice,12:39:56,Round 2 ,2017-05-14
+12,1:32.989,3.015,0.144,180.214,,,20,16,N. Jeffri,Trident,Barcelona,Free Practice,12:18:50,Round 2 ,2017-05-14
+30,41:51.284,-,-,143.51,1:23.012,27.0,1,18,N. de Vries,Rapax,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:01.118,9.834,-,142.95,1:23.206,4.0,2,19,J. Cecotto,Rapax,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:01.699,10.415,0.581,142.917,1:23.331,8.0,3,4,G. Malja,Racing Engineering,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:02.165,10.881,0.466,142.891,1:21.999,12.0,4,5,L. Ghiotto,RUSSIAN TIME,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:02.542,11.258,0.377,142.87,1:21.674,8.0,5,6,A. Markelov,RUSSIAN TIME,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:03.185,11.901,0.643,142.833,1:22.014,12.0,6,8,A. Albon,ART Grand Prix,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:04.911,13.627,1.726,142.736,1:22.419,4.0,7,7,N. Matsushita,ART Grand Prix,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:05.254,13.970,0.343,142.716,1:22.257,11.0,8,15,J. King,MP Motorsport,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:20.277,28.993,15.023,141.872,1:22.557,10.0,9,9,O. Rowland,DAMS,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:20.335,29.051,0.058,141.869,1:23.024,20.0,10,2,A. Fuoco,PREMA Racing,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:25.325,34.041,4.990,141.591,1:23.493,14.0,11,16,N. Jeffri,Trident,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:34.016,42.732,8.691,141.109,1:23.272,21.0,12,21,S. Gelael,Pertamina Arden,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:34.714,43.430,0.698,141.07,1:22.504,25.0,13,10,N. Latifi,DAMS,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:37.707,46.423,2.993,140.905,1:23.756,6.0,14,14,S. Sette Câmara,MP Motorsport,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:38.291,47.007,0.584,140.873,1:23.555,22.0,15,12,R. Visoiu,Campos Racing,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:44.463,53.179,6.172,140.534,1:23.308,26.0,16,3,L. Delétraz,Racing Engineering,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:46.961,55.677,2.498,140.397,1:22.782,29.0,17,17,S. Canamasas,Trident,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+41,1:00:46.545,-,-,135.07,1:21.562,27.0,1,9,O. Rowland,DAMS,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:00:47.409,0.864,-,135.038,1:21.592,30.0,2,6,A. Markelov,RUSSIAN TIME,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:00.314,13.769,12.905,134.562,1:21.654,28.0,3,7,N. Matsushita,ART Grand Prix,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:06.283,19.738,5.969,134.343,1:22.198,6.0,4,8,A. Albon,ART Grand Prix,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:11.202,24.657,4.919,134.163,1:23.113,6.0,5,5,L. Ghiotto,RUSSIAN TIME,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:14.627,28.082,3.425,134.038,1:23.369,34.0,6,4,G. Malja,Racing Engineering,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:14.998,28.453,0.371,134.024,1:23.146,17.0,7,18,N. de Vries,Rapax,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:15.670,29.125,0.672,134.0,1:23.402,28.0,8,19,J. Cecotto,Rapax,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:32.097,45.552,16.427,133.404,1:22.910,6.0,9,15,J. King,MP Motorsport,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:33.126,46.581,1.029,133.367,1:22.875,6.0,10,17,S. Canamasas,Trident,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:34.363,47.818,1.237,133.322,1:23.702,18.0,11,2,A. Fuoco,PREMA Racing,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:37.317,50.772,2.954,133.215,1:23.588,5.0,12,11,R. Boschung,Campos Racing,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:40.239,53.694,2.922,133.11,1:23.313,17.0,13,21,S. Gelael,Pertamina Arden,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+40,1:01:37.787,1 LAP,1 LAP,129.95,1:23.583,27.0,14,16,N. Jeffri,Trident,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+39,1:01:58.772,2 LAPS,1 LAP,125.986,1:21.983,27.0,15,3,L. Delétraz,Racing Engineering,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+11,1:19.321,-,-,151.45,,,1,8,A. Albon,ART Grand Prix,Monte Carlo,Qualifying Group B,16:52:46,Round 3 ,2017-05-27
+10,1:19.647,0.326,-,150.83,,,2,6,A. Markelov,RUSSIAN TIME,Monte Carlo,Qualifying Group B,16:55:23,Round 3 ,2017-05-27
+8,1:19.803,0.482,0.156,150.535,,,3,20,N. Nato,Pertamina Arden,Monte Carlo,Qualifying Group B,16:50:23,Round 3 ,2017-05-27
+9,1:19.814,0.493,0.011,150.514,,,4,18,N. de Vries,Rapax,Monte Carlo,Qualifying Group B,16:50:53,Round 3 ,2017-05-27
+9,1:20.042,0.721,0.228,150.086,,,5,10,N. Latifi,DAMS,Monte Carlo,Qualifying Group B,16:53:02,Round 3 ,2017-05-27
+11,1:20.282,0.961,0.240,149.637,,,6,4,G. Malja,Racing Engineering,Monte Carlo,Qualifying Group B,16:53:13,Round 3 ,2017-05-27
+11,1:20.593,1.272,0.311,149.06,,,7,2,A. Fuoco,PREMA Racing,Monte Carlo,Qualifying Group B,16:55:33,Round 3 ,2017-05-27
+10,1:20.867,1.546,0.274,148.555,,,8,12,R. Visoiu,Campos Racing,Monte Carlo,Qualifying Group B,16:53:41,Round 3 ,2017-05-27
+11,1:21.239,1.918,0.372,147.874,,,9,16,N. Jeffri,Trident,Monte Carlo,Qualifying Group B,16:52:52,Round 3 ,2017-05-27
+11,1:21.271,1.950,0.032,147.816,,,10,14,S. Sette Câmara,MP Motorsport,Monte Carlo,Qualifying Group B,16:53:09,Round 3 ,2017-05-27
+10,1:19.309,-,-,151.473,,,1,1,C. Leclerc,PREMA Racing,Monte Carlo,Qualifying Group A,16:29:15,Round 3 ,2017-05-27
+9,1:19.541,0.232,-,151.031,,,2,9,O. Rowland,DAMS,Monte Carlo,Qualifying Group A,16:26:26,Round 3 ,2017-05-27
+10,1:19.922,0.613,0.381,150.311,,,3,7,N. Matsushita,ART Grand Prix,Monte Carlo,Qualifying Group A,16:28:54,Round 3 ,2017-05-27
+10,1:20.058,0.749,0.136,150.056,,,4,15,J. King,MP Motorsport,Monte Carlo,Qualifying Group A,16:30:27,Round 3 ,2017-05-27
+9,1:20.089,0.780,0.031,149.998,,,5,5,L. Ghiotto,RUSSIAN TIME,Monte Carlo,Qualifying Group A,16:29:35,Round 3 ,2017-05-27
+11,1:20.272,0.963,0.183,149.656,,,6,21,S. Gelael,Pertamina Arden,Monte Carlo,Qualifying Group A,16:31:23,Round 3 ,2017-05-27
+11,1:20.413,1.104,0.141,149.393,,,7,19,J. Cecotto,Rapax,Monte Carlo,Qualifying Group A,16:24:31,Round 3 ,2017-05-27
+11,1:20.415,1.106,0.002,149.39,,,8,17,S. Canamasas,Trident,Monte Carlo,Qualifying Group A,16:29:29,Round 3 ,2017-05-27
+12,1:21.592,2.283,1.177,147.235,,,9,3,L. Delétraz,Racing Engineering,Monte Carlo,Qualifying Group A,16:30:32,Round 3 ,2017-05-27
+10,1:21.664,2.355,0.072,147.105,,,10,11,R. Boschung,Campos Racing,Monte Carlo,Qualifying Group A,16:29:20,Round 3 ,2017-05-27
+25,1:19.722,-,-,150.688,,,1,1,C. Leclerc,PREMA Racing,Monte Carlo,Free Practice,12:35:05,Round 3 ,2017-05-27
+23,1:19.861,0.139,-,150.426,,,2,17,S. Canamasas,Trident,Monte Carlo,Free Practice,12:30:59,Round 3 ,2017-05-27
+24,1:19.868,0.146,0.007,150.413,,,3,9,O. Rowland,DAMS,Monte Carlo,Free Practice,12:46:00,Round 3 ,2017-05-27
+25,1:20.058,0.336,0.190,150.056,,,4,20,N. Nato,Pertamina Arden,Monte Carlo,Free Practice,12:34:34,Round 3 ,2017-05-27
+26,1:20.366,0.644,0.308,149.481,,,5,8,A. Albon,ART Grand Prix,Monte Carlo,Free Practice,12:38:15,Round 3 ,2017-05-27
+24,1:20.515,0.793,0.149,149.204,,,6,5,L. Ghiotto,RUSSIAN TIME,Monte Carlo,Free Practice,12:38:46,Round 3 ,2017-05-27
+26,1:20.530,0.808,0.015,149.176,,,7,18,N. de Vries,Rapax,Monte Carlo,Free Practice,12:30:28,Round 3 ,2017-05-27
+23,1:20.540,0.818,0.010,149.158,,,8,6,A. Markelov,RUSSIAN TIME,Monte Carlo,Free Practice,12:40:01,Round 3 ,2017-05-27
+26,1:20.866,1.144,0.326,148.556,,,9,10,N. Latifi,DAMS,Monte Carlo,Free Practice,12:37:38,Round 3 ,2017-05-27
+22,1:20.944,1.222,0.078,148.413,,,10,19,J. Cecotto,Rapax,Monte Carlo,Free Practice,12:32:39,Round 3 ,2017-05-27
+25,1:21.013,1.291,0.069,148.287,,,11,15,J. King,MP Motorsport,Monte Carlo,Free Practice,12:24:24,Round 3 ,2017-05-27
+23,1:21.099,1.377,0.086,148.13,,,12,21,S. Gelael,Pertamina Arden,Monte Carlo,Free Practice,12:36:40,Round 3 ,2017-05-27
+26,1:21.103,1.381,0.004,148.122,,,13,12,R. Visoiu,Campos Racing,Monte Carlo,Free Practice,12:32:33,Round 3 ,2017-05-27
+26,1:21.123,1.401,0.020,148.086,,,14,7,N. Matsushita,ART Grand Prix,Monte Carlo,Free Practice,12:33:23,Round 3 ,2017-05-27
+26,1:21.305,1.583,0.182,147.754,,,15,4,G. Malja,Racing Engineering,Monte Carlo,Free Practice,12:32:14,Round 3 ,2017-05-27
+23,1:21.791,2.069,0.486,146.876,,,16,2,A. Fuoco,PREMA Racing,Monte Carlo,Free Practice,12:38:09,Round 3 ,2017-05-27
+24,1:21.987,2.265,0.196,146.525,,,17,3,L. Delétraz,Racing Engineering,Monte Carlo,Free Practice,12:30:43,Round 3 ,2017-05-27
+26,1:22.064,2.342,0.077,146.388,,,18,14,S. Sette Câmara,MP Motorsport,Monte Carlo,Free Practice,12:35:00,Round 3 ,2017-05-27
+26,1:22.111,2.389,0.047,146.304,,,19,11,R. Boschung,Campos Racing,Monte Carlo,Free Practice,12:30:16,Round 3 ,2017-05-27
+24,1:22.130,2.408,0.019,146.27,,,20,16,N. Jeffri,Trident,Monte Carlo,Free Practice,12:36:00,Round 3 ,2017-05-27
+21,40:37.601,-,-,186.024,1:54.413,19.0,1,20,N. Nato,Pertamina Arden,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:46.318,8.717,-,185.361,1:53.635,17.0,2,1,C. Leclerc,PREMA Racing,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:49.175,11.574,2.857,185.144,1:55.088,20.0,3,10,N. Latifi,DAMS,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:50.393,12.792,0.287,185.052,1:55.032,21.0,4,8,S. Sirotkin,ART Grand Prix,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:50.491,12.890,0.098,185.045,1:54.733,21.0,5,6,A. Markelov,RUSSIAN TIME,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:52.073,14.472,1.582,184.926,1:54.969,19.0,6,7,N. Matsushita,ART Grand Prix,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:54.489,16.888,2.416,184.744,1:54.980,20.0,7,5,L. Ghiotto,RUSSIAN TIME,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,40:58.988,21.387,4.499,184.406,1:54.971,21.0,8,11,R. Boschung,Campos Racing,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:04.944,27.343,5.956,183.96,1:55.345,16.0,9,14,S. Sette Câmara,MP Motorsport,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:05.428,27.827,0.484,183.924,1:55.020,21.0,10,21,S. Gelael,Pertamina Arden,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:09.213,31.612,3.785,183.642,1:55.802,21.0,11,12,R. Visoiu,Campos Racing,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:10.265,32.664,1.052,183.564,1:54.969,20.0,12,2,A. Fuoco,PREMA Racing,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:12.246,34.645,1.981,183.417,1:55.690,21.0,13,4,G. Malja,Racing Engineering,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:13.390,35.789,1.144,183.332,1:54.649,21.0,14,19,J. Cecotto,Rapax,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:26.844,49.243,13.454,182.34,1:55.353,20.0,15,17,S. Canamasas,Trident,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,41:34.753,57.152,7.909,181.762,1:57.045,18.0,16,3,L. Delétraz,Racing Engineering,Baku,Sprint Race,,Round 4 ,2017-06-25
+21,42:16.532,98.931,41.779,178.768,1:56.949,19.0,17,16,N. Jeffri,Trident,Baku,Sprint Race,,Round 4 ,2017-06-25
+24,52:33.196,-,-,164.368,1:54.025,24.0,1,1,C. Leclerc,PREMA Racing,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:36.665,3.469,-,164.187,1:54.736,22.0,2,18,N. de Vries,Rapax,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:39.586,6.390,2.921,164.035,1:54.884,22.0,3,10,N. Latifi,DAMS,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:44.890,11.694,2.604,163.76,1:55.168,22.0,4,6,A. Markelov,RUSSIAN TIME,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:50.270,17.074,5.380,163.482,1:55.426,21.0,5,20,N. Nato,Pertamina Arden,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:51.766,18.570,1.496,163.405,1:56.281,21.0,6,15,J. King,MP Motorsport,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:52.286,9.090,2.700,163.895,1:54.662,23.0,7,9,O. Rowland,DAMS,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:54.544,21.348,2.778,163.262,1:55.990,23.0,8,11,R. Boschung,Campos Racing,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:56.066,22.870,1.522,163.184,1:56.085,23.0,9,17,S. Canamasas,Trident,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:57.238,24.042,1.172,163.124,1:56.129,24.0,10,8,S. Sirotkin,ART Grand Prix,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:58.024,24.828,0.786,163.083,1:55.802,23.0,11,4,G. Malja,Racing Engineering,Baku,Feature Race,,Round 4 ,2017-06-25
+24,52:58.892,25.696,0.868,163.039,1:55.422,23.0,12,7,N. Matsushita,ART Grand Prix,Baku,Feature Race,,Round 4 ,2017-06-25
+24,53:02.871,29.675,3.979,162.835,1:55.438,23.0,13,14,S. Sette Câmara,MP Motorsport,Baku,Feature Race,,Round 4 ,2017-06-25
+24,53:06.297,33.101,3.426,162.66,1:56.335,23.0,14,21,S. Gelael,Pertamina Arden,Baku,Feature Race,,Round 4 ,2017-06-25
+24,53:06.516,33.320,0.219,162.649,1:56.067,24.0,15,12,R. Visoiu,Campos Racing,Baku,Feature Race,,Round 4 ,2017-06-25
+24,53:22.403,49.207,15.887,161.842,1:54.886,21.0,16,5,L. Ghiotto,RUSSIAN TIME,Baku,Feature Race,,Round 4 ,2017-06-25
+10,1:52.129,-,-,192.731,,,1,1,C. Leclerc,PREMA Racing,Baku,Qualifying Session,15:42:09,Round 4 ,2017-06-25
+9,1:52.697,0.568,-,191.76,,,2,7,N. Matsushita,ART Grand Prix,Baku,Qualifying Session,15:42:08,Round 4 ,2017-06-25
+10,1:52.865,0.736,0.168,191.474,,,3,10,N. Latifi,DAMS,Baku,Qualifying Session,15:37:51,Round 4 ,2017-06-25
+10,1:53.018,0.889,0.153,191.215,,,4,18,N. de Vries,Rapax,Baku,Qualifying Session,15:36:25,Round 4 ,2017-06-25
+10,1:53.135,1.006,0.117,191.017,,,5,6,A. Markelov,RUSSIAN TIME,Baku,Qualifying Session,15:07:07,Round 4 ,2017-06-25
+11,1:53.220,1.091,0.085,190.874,,,6,2,A. Fuoco,PREMA Racing,Baku,Qualifying Session,15:38:22,Round 4 ,2017-06-25
+10,1:53.313,1.184,0.093,190.717,,,7,19,J. Cecotto,Rapax,Baku,Qualifying Session,15:06:59,Round 4 ,2017-06-25
+13,1:53.354,1.225,0.041,190.648,,,8,17,S. Canamasas,Trident,Baku,Qualifying Session,15:37:00,Round 4 ,2017-06-25
+11,1:53.479,1.350,0.125,190.438,,,9,9,O. Rowland,DAMS,Baku,Qualifying Session,15:26:07,Round 4 ,2017-06-25
+10,1:53.670,1.541,0.191,190.118,,,10,12,R. Visoiu,Campos Racing,Baku,Qualifying Session,15:43:04,Round 4 ,2017-06-25
+8,1:53.853,1.724,0.183,189.813,,,11,14,S. Sette Câmara,MP Motorsport,Baku,Qualifying Session,15:38:45,Round 4 ,2017-06-25
+10,1:53.900,1.771,0.047,189.734,,,12,20,N. Nato,Pertamina Arden,Baku,Qualifying Session,15:42:45,Round 4 ,2017-06-25
+10,1:54.032,1.903,0.132,189.515,,,13,21,S. Gelael,Pertamina Arden,Baku,Qualifying Session,15:40:38,Round 4 ,2017-06-25
+10,1:54.286,2.157,0.254,189.094,,,14,4,G. Malja,Racing Engineering,Baku,Qualifying Session,15:39:15,Round 4 ,2017-06-25
+10,1:54.295,2.166,0.009,189.079,,,15,15,J. King,MP Motorsport,Baku,Qualifying Session,15:36:49,Round 4 ,2017-06-25
+10,1:54.339,2.210,0.044,189.006,,,16,11,R. Boschung,Campos Racing,Baku,Qualifying Session,15:37:47,Round 4 ,2017-06-25
+13,1:54.384,2.255,0.045,188.932,,,17,8,S. Sirotkin,ART Grand Prix,Baku,Qualifying Session,15:36:54,Round 4 ,2017-06-25
+11,1:54.688,2.559,0.304,188.431,,,18,3,L. Delétraz,Racing Engineering,Baku,Qualifying Session,15:42:53,Round 4 ,2017-06-25
+11,1:54.857,2.728,0.169,188.153,,,19,16,N. Jeffri,Trident,Baku,Qualifying Session,15:37:39,Round 4 ,2017-06-25
+15,1:54.187,-,-,189.257,,,1,18,N. de Vries,Rapax,Baku,Free Practice,11:42:31,Round 4 ,2017-06-25
+13,1:54.308,0.121,-,189.057,,,2,15,J. King,MP Motorsport,Baku,Free Practice,11:44:29,Round 4 ,2017-06-25
+12,1:54.734,0.547,0.426,188.355,,,3,5,L. Ghiotto,RUSSIAN TIME,Baku,Free Practice,11:45:31,Round 4 ,2017-06-25
+14,1:54.835,0.648,0.101,188.19,,,4,14,S. Sette Câmara,MP Motorsport,Baku,Free Practice,11:44:31,Round 4 ,2017-06-25
+13,1:54.894,0.707,0.059,188.093,,,5,2,A. Fuoco,PREMA Racing,Baku,Free Practice,11:45:50,Round 4 ,2017-06-25
+13,1:55.098,0.911,0.204,187.759,,,6,11,R. Boschung,Campos Racing,Baku,Free Practice,11:42:43,Round 4 ,2017-06-25
+13,1:55.129,0.942,0.031,187.709,,,7,1,C. Leclerc,PREMA Racing,Baku,Free Practice,11:45:20,Round 4 ,2017-06-25
+12,1:55.258,1.071,0.129,187.499,,,8,10,N. Latifi,DAMS,Baku,Free Practice,11:42:46,Round 4 ,2017-06-25
+15,1:55.260,1.073,0.002,187.496,,,9,20,N. Nato,Pertamina Arden,Baku,Free Practice,11:46:48,Round 4 ,2017-06-25
+13,1:55.416,1.229,0.156,187.242,,,10,4,G. Malja,Racing Engineering,Baku,Free Practice,11:44:02,Round 4 ,2017-06-25
+13,1:55.442,1.255,0.026,187.2,,,11,6,A. Markelov,RUSSIAN TIME,Baku,Free Practice,11:13:17,Round 4 ,2017-06-25
+7,1:55.718,1.531,0.276,186.754,,,12,7,N. Matsushita,ART Grand Prix,Baku,Free Practice,11:12:56,Round 4 ,2017-06-25
+13,1:55.771,1.584,0.053,186.668,,,13,12,R. Visoiu,Campos Racing,Baku,Free Practice,11:44:35,Round 4 ,2017-06-25
+6,1:55.893,1.706,0.122,186.472,,,14,9,O. Rowland,DAMS,Baku,Free Practice,11:34:03,Round 4 ,2017-06-25
+6,1:56.138,1.951,0.245,186.078,,,15,8,S. Sirotkin,ART Grand Prix,Baku,Free Practice,11:12:47,Round 4 ,2017-06-25
+14,1:56.337,2.150,0.199,185.76,,,16,21,S. Gelael,Pertamina Arden,Baku,Free Practice,11:45:44,Round 4 ,2017-06-25
+11,1:56.539,2.352,0.202,185.438,,,17,17,S. Canamasas,Trident,Baku,Free Practice,11:45:17,Round 4 ,2017-06-25
+14,1:56.570,2.383,0.031,185.389,,,18,3,L. Delétraz,Racing Engineering,Baku,Free Practice,11:43:06,Round 4 ,2017-06-25
+14,1:56.636,2.449,0.066,185.284,,,19,19,J. Cecotto,Rapax,Baku,Free Practice,11:43:03,Round 4 ,2017-06-25
+4,1:58.840,4.653,2.204,181.847,,,20,16,N. Jeffri,Trident,Baku,Free Practice,11:12:03,Round 4 ,2017-06-25
+28,40:32.190,-,-,178.769,1:16.119,21.0,1,6,A. Markelov,RUSSIAN TIME,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:33.648,1.458,-,178.662,1:16.781,13.0,2,8,A. Albon,ART Grand Prix,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:34.245,2.055,0.597,178.618,1:16.582,26.0,3,9,O. Rowland,DAMS,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:38.030,5.840,3.785,178.341,1:16.539,10.0,4,5,L. Ghiotto,RUSSIAN TIME,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:38.819,6.629,0.789,178.283,1:16.697,9.0,5,2,A. Fuoco,PREMA Racing,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:42.705,10.515,3.886,177.999,1:16.699,10.0,6,15,J. King,MP Motorsport,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:45.846,13.656,3.141,177.771,1:16.526,8.0,7,20,N. Nato,Pertamina Arden,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:48.112,15.922,2.266,177.606,1:16.607,10.0,8,10,N. Latifi,DAMS,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:48.169,15.979,0.057,177.602,1:16.757,13.0,9,19,S. Canamasas,Rapax,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:48.472,16.282,0.303,177.58,1:16.760,12.0,10,14,S. Sette Câmara,MP Motorsport,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:51.039,18.849,2.567,177.394,1:16.255,11.0,11,21,S. Gelael,Pertamina Arden,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:53.138,20.948,2.099,177.242,1:16.494,9.0,12,16,N. Jeffri,Trident,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:53.491,21.301,0.353,177.217,1:16.754,9.0,13,3,L. Delétraz,Racing Engineering,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:54.633,22.443,1.142,177.134,1:16.694,13.0,14,7,N. Matsushita,ART Grand Prix,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,41:40.112,67.922,45.479,173.912,1:16.571,10.0,15,4,G. Malja,Racing Engineering,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+26,38:44.210,DNF,-,173.698,1:16.525,13.0,16,18,N. de Vries,Rapax,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+25,38:01.268,DNF,-,170.153,1:16.568,11.0,17,12,R. Visoiu,Campos Racing,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+40,52:21.629,-,-,197.775,1:16.113,33.0,1,1,C. Leclerc,PREMA Racing,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:22.974,1.345,-,197.691,1:16.773,29.0,2,10,N. Latifi,DAMS,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:26.789,5.160,3.815,197.451,1:16.479,32.0,3,2,A. Fuoco,PREMA Racing,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:27.311,5.682,0.522,197.418,1:16.498,13.0,4,9,O. Rowland,DAMS,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:31.475,9.846,4.164,197.157,1:16.382,33.0,5,8,A. Albon,ART Grand Prix,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:33.808,12.179,2.333,197.012,1:15.854,34.0,6,7,N. Matsushita,ART Grand Prix,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:41.029,19.400,7.221,196.562,1:16.924,14.0,7,11,R. Boschung,Campos Racing,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:42.014,20.385,0.985,196.5,1:16.740,33.0,8,6,A. Markelov,RUSSIAN TIME,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:52.110,30.481,10.096,195.875,1:17.280,13.0,9,15,J. King,MP Motorsport,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:55.291,33.662,3.181,195.679,1:16.710,14.0,10,21,S. Gelael,Pertamina Arden,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:57.265,35.636,1.974,195.557,1:17.106,13.0,11,12,R. Visoiu,Campos Racing,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:57.640,36.011,0.375,195.534,1:17.092,13.0,12,4,G. Malja,Racing Engineering,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,53:05.774,44.145,8.134,195.035,1:17.296,11.0,13,18,N. de Vries,Rapax,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,53:08.525,46.896,2.751,194.866,1:16.614,13.0,14,5,L. Ghiotto,RUSSIAN TIME,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,53:10.512,48.883,1.987,194.745,1:17.206,13.0,15,19,S. Canamasas,Rapax,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,53:12.569,50.940,2.057,194.62,1:17.180,30.0,16,14,S. Sette Câmara,MP Motorsport,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,53:15.052,53.423,2.483,194.468,1:16.808,14.0,17,3,L. Delétraz,Racing Engineering,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,53:18.510,56.881,3.458,194.258,1:17.222,15.0,18,16,N. Jeffri,Trident,Spielberg,Feature Race,,Round 5 ,2017-07-09
+39,52:34.631,1 LAP,1 LAP,192.033,1:18.327,31.0,19,17,R. Marciello,Trident,Spielberg,Feature Race,,Round 5 ,2017-07-09
+14,1:13.396,-,-,211.793,,,1,1,C. Leclerc,PREMA Racing,Spielberg,Qualifying Session,16:21:12,Round 5 ,2017-07-09
+14,1:13.776,0.380,0.040,210.702,,,2,2,A. Fuoco,PREMA Racing,Spielberg,Qualifying Session,16:23:33,Round 5 ,2017-07-09
+15,1:13.888,0.492,0.112,210.383,,,3,8,A. Albon,ART Grand Prix,Spielberg,Qualifying Session,16:20:14,Round 5 ,2017-07-09
+14,1:13.903,0.507,0.015,210.34,,,4,9,O. Rowland,DAMS,Spielberg,Qualifying Session,16:23:36,Round 5 ,2017-07-09
+14,1:13.922,0.526,0.019,210.286,,,5,7,N. Matsushita,ART Grand Prix,Spielberg,Qualifying Session,16:20:24,Round 5 ,2017-07-09
+15,1:14.034,0.638,0.112,209.968,,,6,18,N. de Vries,Rapax,Spielberg,Qualifying Session,16:20:19,Round 5 ,2017-07-09
+14,1:14.180,0.784,0.146,209.555,,,7,5,L. Ghiotto,RUSSIAN TIME,Spielberg,Qualifying Session,16:22:34,Round 5 ,2017-07-09
+14,1:14.193,0.797,0.013,209.518,,,8,10,N. Latifi,DAMS,Spielberg,Qualifying Session,16:24:01,Round 5 ,2017-07-09
+14,1:14.203,0.807,0.010,209.49,,,9,20,N. Nato,Pertamina Arden,Spielberg,Qualifying Session,16:21:04,Round 5 ,2017-07-09
+16,1:14.363,0.967,0.160,209.039,,,10,11,R. Boschung,Campos Racing,Spielberg,Qualifying Session,16:23:12,Round 5 ,2017-07-09
+16,1:14.377,0.981,0.014,209.0,,,11,3,L. Delétraz,Racing Engineering,Spielberg,Qualifying Session,16:20:22,Round 5 ,2017-07-09
+14,1:14.384,0.988,0.007,208.98,,,12,15,J. King,MP Motorsport,Spielberg,Qualifying Session,16:20:28,Round 5 ,2017-07-09
+15,1:14.489,1.093,0.105,208.685,,,13,19,S. Canamasas,Rapax,Spielberg,Qualifying Session,16:01:39,Round 5 ,2017-07-09
+16,1:14.534,1.138,0.045,208.559,,,14,6,A. Markelov,RUSSIAN TIME,Spielberg,Qualifying Session,16:20:07,Round 5 ,2017-07-09
+15,1:14.555,1.159,0.021,208.501,,,15,21,S. Gelael,Pertamina Arden,Spielberg,Qualifying Session,16:23:55,Round 5 ,2017-07-09
+14,1:14.643,1.247,0.088,208.255,,,16,17,R. Marciello,Trident,Spielberg,Qualifying Session,16:13:21,Round 5 ,2017-07-09
+15,1:14.653,1.257,0.010,208.227,,,17,12,R. Visoiu,Campos Racing,Spielberg,Qualifying Session,16:21:15,Round 5 ,2017-07-09
+17,1:14.672,1.276,0.019,208.174,,,18,16,N. Jeffri,Trident,Spielberg,Qualifying Session,16:20:59,Round 5 ,2017-07-09
+16,1:15.121,1.725,0.449,206.93,,,19,4,G. Malja,Racing Engineering,Spielberg,Qualifying Session,16:21:59,Round 5 ,2017-07-09
+25,1:14.356,-,-,209.059,,,1,1,C. Leclerc,PREMA Racing,Spielberg,Free Practice,12:15:06,Round 5 ,2017-07-09
+23,1:14.721,0.365,-,208.037,,,2,2,A. Fuoco,PREMA Racing,Spielberg,Free Practice,12:30:33,Round 5 ,2017-07-09
+24,1:14.730,0.374,0.009,208.012,,,3,18,N. de Vries,Rapax,Spielberg,Free Practice,12:19:10,Round 5 ,2017-07-09
+27,1:14.822,0.466,0.092,207.757,,,4,10,N. Latifi,DAMS,Spielberg,Free Practice,12:13:28,Round 5 ,2017-07-09
+25,1:14.865,0.509,0.043,207.637,,,5,9,O. Rowland,DAMS,Spielberg,Free Practice,12:15:42,Round 5 ,2017-07-09
+23,1:14.877,0.521,0.012,207.604,,,6,19,S. Canamasas,Rapax,Spielberg,Free Practice,12:16:28,Round 5 ,2017-07-09
+20,1:14.915,0.559,0.038,207.499,,,7,7,N. Matsushita,ART Grand Prix,Spielberg,Free Practice,12:28:07,Round 5 ,2017-07-09
+26,1:14.951,0.595,0.036,207.399,,,8,8,A. Albon,ART Grand Prix,Spielberg,Free Practice,12:14:07,Round 5 ,2017-07-09
+20,1:15.029,0.673,0.078,207.183,,,9,11,R. Boschung,Campos Racing,Spielberg,Free Practice,12:16:32,Round 5 ,2017-07-09
+23,1:15.031,0.675,0.002,207.178,,,10,5,L. Ghiotto,RUSSIAN TIME,Spielberg,Free Practice,12:14:31,Round 5 ,2017-07-09
+28,1:15.066,0.710,0.035,207.081,,,11,20,N. Nato,Pertamina Arden,Spielberg,Free Practice,12:21:02,Round 5 ,2017-07-09
+24,1:15.081,0.725,0.015,207.04,,,12,6,A. Markelov,RUSSIAN TIME,Spielberg,Free Practice,12:14:13,Round 5 ,2017-07-09
+26,1:15.099,0.743,0.018,206.99,,,13,15,J. King,MP Motorsport,Spielberg,Free Practice,12:14:24,Round 5 ,2017-07-09
+25,1:15.100,0.744,0.001,206.988,,,14,21,S. Gelael,Pertamina Arden,Spielberg,Free Practice,12:16:54,Round 5 ,2017-07-09
+20,1:15.174,0.818,0.074,206.784,,,15,14,S. Sette Câmara,MP Motorsport,Spielberg,Free Practice,12:32:16,Round 5 ,2017-07-09
+26,1:15.246,0.890,0.072,206.586,,,16,3,L. Delétraz,Racing Engineering,Spielberg,Free Practice,12:11:57,Round 5 ,2017-07-09
+24,1:15.480,1.124,0.234,205.945,,,17,4,G. Malja,Racing Engineering,Spielberg,Free Practice,12:13:23,Round 5 ,2017-07-09
+25,1:15.488,1.132,0.008,205.924,,,18,17,R. Marciello,Trident,Spielberg,Free Practice,12:14:00,Round 5 ,2017-07-09
+26,1:15.554,1.198,0.066,205.744,,,19,12,R. Visoiu,Campos Racing,Spielberg,Free Practice,12:15:09,Round 5 ,2017-07-09
+26,1:15.643,1.287,0.089,205.502,,,20,16,N. Jeffri,Trident,Spielberg,Free Practice,12:20:53,Round 5 ,2017-07-09
+21,37:17.053,-,-,198.867,1:43.443,6.0,1,10,N. Latifi,DAMS,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:18.770,1.717,-,198.714,1:43.630,3.0,2,5,L. Ghiotto,RUSSIAN TIME,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:22.353,5.300,3.583,198.397,1:43.769,14.0,3,6,A. Markelov,RUSSIAN TIME,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:24.751,7.698,2.398,198.185,1:43.657,13.0,4,19,S. Canamasas,Rapax,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:24.996,7.943,0.245,198.163,1:43.219,13.0,5,1,C. Leclerc,PREMA Racing,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:25.332,8.279,0.336,198.134,1:44.192,6.0,6,20,N. Nato,Pertamina Arden,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:25.854,8.801,0.522,198.088,1:44.404,18.0,7,18,N. de Vries,Rapax,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:26.537,9.484,0.683,198.027,1:44.248,6.0,8,7,N. Matsushita,ART Grand Prix,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:27.671,10.618,1.134,197.928,1:44.621,15.0,9,4,G. Malja,Racing Engineering,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:30.315,13.262,0.999,197.695,1:44.364,4.0,10,8,A. Albon,ART Grand Prix,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:30.588,13.535,0.273,197.671,1:44.958,17.0,11,12,R. Visoiu,Campos Racing,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:30.878,13.825,0.290,197.646,1:44.865,13.0,12,2,A. Fuoco,PREMA Racing,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:31.439,14.386,0.561,197.596,1:45.168,14.0,13,3,L. Delétraz,Racing Engineering,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:31.718,14.665,0.279,197.572,1:44.972,15.0,14,17,C. Ilott,Trident,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:31.978,14.925,0.260,197.549,1:44.430,16.0,15,14,S. Sette Câmara,MP Motorsport,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:32.924,15.871,0.946,197.466,1:44.333,4.0,16,21,S. Gelael,Pertamina Arden,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,37:49.316,12.263,1.645,197.783,1:43.550,6.0,17,9,O. Rowland,DAMS,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+21,38:02.971,45.918,30.047,194.867,1:44.605,21.0,18,16,N. Jeffri,Trident,Silverstone,Sprint Race,,Round 6 ,2017-07-16
+28,49:23.075,-,-,200.241,1:43.440,25.0,1,1,C. Leclerc,PREMA Racing,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:31.941,8.866,-,199.644,1:43.901,12.0,2,20,N. Nato,Pertamina Arden,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:32.680,9.605,0.739,199.594,1:43.786,22.0,3,9,O. Rowland,DAMS,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:40.818,17.743,8.138,199.049,1:44.157,11.0,4,6,A. Markelov,RUSSIAN TIME,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:41.790,18.715,0.972,198.984,1:43.584,23.0,5,19,S. Canamasas,Rapax,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:47.359,24.284,5.569,198.613,1:43.722,14.0,6,5,L. Ghiotto,RUSSIAN TIME,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:49.573,26.498,2.214,198.466,1:44.060,11.0,7,15,J. King,MP Motorsport,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:50.880,27.805,1.307,198.379,1:43.880,13.0,8,10,N. Latifi,DAMS,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:51.979,28.904,1.099,198.306,1:44.131,16.0,9,21,S. Gelael,Pertamina Arden,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,49:57.635,34.560,5.656,197.932,1:42.512,23.0,10,7,N. Matsushita,ART Grand Prix,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:07.839,44.764,10.204,197.261,1:43.457,22.0,11,11,R. Boschung,Campos Racing,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:09.611,46.536,1.772,197.145,1:44.783,9.0,12,3,L. Delétraz,Racing Engineering,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:10.125,47.050,0.514,197.111,1:44.572,23.0,13,14,S. Sette Câmara,MP Motorsport,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:13.748,50.673,3.623,196.874,1:44.830,12.0,14,4,G. Malja,Racing Engineering,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:19.532,56.457,5.784,196.497,1:44.856,13.0,15,16,N. Jeffri,Trident,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:24.430,61.355,4.898,196.179,1:43.718,28.0,16,2,A. Fuoco,PREMA Racing,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:32.618,69.543,8.188,195.649,1:44.076,23.0,17,12,R. Visoiu,Campos Racing,Silverstone,Feature Race,,Round 6 ,2017-07-16
+28,50:35.624,72.549,3.006,195.455,1:43.713,21.0,18,8,A. Albon,ART Grand Prix,Silverstone,Feature Race,,Round 6 ,2017-07-16
+27,49:25.486,1 LAP,1 LAP,192.927,1:44.092,22.0,19,17,C. Ilott,Trident,Silverstone,Feature Race,,Round 6 ,2017-07-16
+11,1:38.427,-,-,215.465,,,1,1,C. Leclerc,PREMA Racing,Silverstone,Qualifying Session,15:40:24,Round 6 ,2017-07-16
+10,1:38.885,0.458,-,214.467,,,2,9,O. Rowland,DAMS,Silverstone,Qualifying Session,15:40:23,Round 6 ,2017-07-16
+9,1:38.906,0.479,0.021,214.421,,,3,20,N. Nato,Pertamina Arden,Silverstone,Qualifying Session,15:40:03,Round 6 ,2017-07-16
+10,1:38.988,0.561,0.082,214.244,,,4,15,J. King,MP Motorsport,Silverstone,Qualifying Session,15:40:28,Round 6 ,2017-07-16
+11,1:39.062,0.635,0.074,214.084,,,5,6,A. Markelov,RUSSIAN TIME,Silverstone,Qualifying Session,15:41:21,Round 6 ,2017-07-16
+10,1:39.138,0.711,0.076,213.919,,,6,10,N. Latifi,DAMS,Silverstone,Qualifying Session,15:40:35,Round 6 ,2017-07-16
+12,1:39.368,0.941,0.230,213.424,,,7,19,S. Canamasas,Rapax,Silverstone,Qualifying Session,15:40:18,Round 6 ,2017-07-16
+9,1:39.405,0.978,0.037,213.345,,,8,7,N. Matsushita,ART Grand Prix,Silverstone,Qualifying Session,15:40:38,Round 6 ,2017-07-16
+12,1:39.413,0.986,0.008,213.328,,,9,14,S. Sette Câmara,MP Motorsport,Silverstone,Qualifying Session,15:40:48,Round 6 ,2017-07-16
+12,1:39.594,1.167,0.028,212.94,,,10,18,N. de Vries,Rapax,Silverstone,Qualifying Session,15:40:42,Round 6 ,2017-07-16
+11,1:39.879,1.452,0.285,212.332,,,11,4,G. Malja,Racing Engineering,Silverstone,Qualifying Session,15:41:17,Round 6 ,2017-07-16
+12,1:39.959,1.532,0.080,212.162,,,12,5,L. Ghiotto,RUSSIAN TIME,Silverstone,Qualifying Session,15:22:20,Round 6 ,2017-07-16
+11,1:39.566,1.139,0.153,213.0,,,13,8,A. Albon,ART Grand Prix,Silverstone,Qualifying Session,15:41:12,Round 6 ,2017-07-16
+11,1:39.966,1.539,0.007,212.148,,,14,3,L. Delétraz,Racing Engineering,Silverstone,Qualifying Session,15:40:33,Round 6 ,2017-07-16
+13,1:39.996,1.569,0.030,212.084,,,15,17,C. Ilott,Trident,Silverstone,Qualifying Session,15:40:56,Round 6 ,2017-07-16
+12,1:40.394,1.967,0.398,211.243,,,16,11,R. Boschung,Campos Racing,Silverstone,Qualifying Session,15:41:00,Round 6 ,2017-07-16
+12,1:40.454,2.027,0.042,211.117,,,17,16,N. Jeffri,Trident,Silverstone,Qualifying Session,15:41:28,Round 6 ,2017-07-16
+8,1:40.478,2.051,0.024,211.067,,,18,21,S. Gelael,Pertamina Arden,Silverstone,Qualifying Session,15:24:57,Round 6 ,2017-07-16
+12,1:40.568,2.141,0.090,210.878,,,19,2,A. Fuoco,PREMA Racing,Silverstone,Qualifying Session,15:44:29,Round 6 ,2017-07-16
+12,1:40.412,1.985,0.018,211.205,,,20,12,R. Visoiu,Campos Racing,Silverstone,Qualifying Session,15:41:06,Round 6 ,2017-07-16
+17,1:40.695,-,-,210.612,,,1,1,C. Leclerc,PREMA Racing,Silverstone,Free Practice,16:03:00,Round 6 ,2017-07-16
+18,1:41.010,0.315,-,209.955,,,2,9,O. Rowland,DAMS,Silverstone,Free Practice,16:01:04,Round 6 ,2017-07-16
+16,1:41.247,0.552,0.237,209.463,,,3,5,L. Ghiotto,RUSSIAN TIME,Silverstone,Free Practice,15:46:34,Round 6 ,2017-07-16
+17,1:41.283,0.588,0.036,209.389,,,4,10,N. Latifi,DAMS,Silverstone,Free Practice,15:56:22,Round 6 ,2017-07-16
+17,1:41.316,0.621,0.033,209.321,,,5,6,A. Markelov,RUSSIAN TIME,Silverstone,Free Practice,16:05:10,Round 6 ,2017-07-16
+17,1:41.328,0.633,0.012,209.296,,,6,19,S. Canamasas,Rapax,Silverstone,Free Practice,16:13:53,Round 6 ,2017-07-16
+19,1:41.329,0.634,0.001,209.294,,,7,15,J. King,MP Motorsport,Silverstone,Free Practice,15:55:16,Round 6 ,2017-07-16
+20,1:41.359,0.664,0.030,209.232,,,8,18,N. de Vries,Rapax,Silverstone,Free Practice,15:47:38,Round 6 ,2017-07-16
+19,1:41.377,0.682,0.018,209.195,,,9,20,N. Nato,Pertamina Arden,Silverstone,Free Practice,16:02:23,Round 6 ,2017-07-16
+18,1:41.631,0.936,0.254,208.672,,,10,3,L. Delétraz,Racing Engineering,Silverstone,Free Practice,16:02:28,Round 6 ,2017-07-16
+16,1:41.660,0.965,0.029,208.613,,,11,14,S. Sette Câmara,MP Motorsport,Silverstone,Free Practice,15:50:50,Round 6 ,2017-07-16
+13,1:41.742,1.047,0.082,208.444,,,12,4,G. Malja,Racing Engineering,Silverstone,Free Practice,15:46:26,Round 6 ,2017-07-16
+16,1:41.755,1.060,0.013,208.418,,,13,2,A. Fuoco,PREMA Racing,Silverstone,Free Practice,16:03:48,Round 6 ,2017-07-16
+18,1:41.824,1.129,0.069,208.277,,,14,7,N. Matsushita,ART Grand Prix,Silverstone,Free Practice,15:58:24,Round 6 ,2017-07-16
+17,1:41.885,1.190,0.061,208.152,,,15,8,A. Albon,ART Grand Prix,Silverstone,Free Practice,15:49:18,Round 6 ,2017-07-16
+19,1:42.224,1.529,0.339,207.462,,,16,21,S. Gelael,Pertamina Arden,Silverstone,Free Practice,16:06:01,Round 6 ,2017-07-16
+15,1:42.284,1.589,0.060,207.34,,,17,11,R. Boschung,Campos Racing,Silverstone,Free Practice,16:03:39,Round 6 ,2017-07-16
+17,1:42.314,1.619,0.030,207.279,,,18,17,C. Ilott,Trident,Silverstone,Free Practice,16:03:08,Round 6 ,2017-07-16
+17,1:42.317,1.622,0.003,207.273,,,19,16,N. Jeffri,Trident,Silverstone,Free Practice,15:45:18,Round 6 ,2017-07-16
+18,1:42.677,1.982,0.360,206.546,,,20,12,R. Visoiu,Campos Racing,Silverstone,Free Practice,16:05:15,Round 6 ,2017-07-16
+28,44:52.900,-,-,163.935,1:30.484,26.0,1,7,N. Matsushita,ART Grand Prix,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,44:57.207,4.307,-,163.673,1:31.087,28.0,2,9,O. Rowland,DAMS,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,45:00.043,7.143,2.836,163.501,1:31.303,10.0,3,18,N. de Vries,Rapax,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,45:04.535,11.635,4.492,163.229,1:30.513,9.0,4,1,C. Leclerc,PREMA Racing,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,45:05.358,12.458,0.823,163.18,1:31.334,12.0,5,20,N. Nato,Pertamina Arden,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,45:06.385,13.485,1.027,163.118,1:30.909,13.0,6,10,N. Latifi,DAMS,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,45:09.654,16.754,3.269,162.921,1:31.622,20.0,7,8,A. Albon,ART Grand Prix,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,45:17.743,24.843,8.089,162.436,1:31.096,10.0,8,5,L. Ghiotto,RUSSIAN TIME,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,45:18.477,25.577,0.734,162.392,1:29.257,27.0,9,6,A. Markelov,RUSSIAN TIME,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,45:26.787,33.887,8.310,161.897,1:31.675,9.0,10,21,S. Gelael,Pertamina Arden,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,45:28.670,35.770,1.883,161.786,1:31.761,15.0,11,15,J. King,MP Motorsport,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,45:28.723,35.823,0.053,161.782,1:30.274,25.0,12,3,L. Delétraz,Racing Engineering,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,45:34.747,41.847,6.024,161.426,1:32.094,7.0,13,14,S. Sette Câmara,MP Motorsport,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,45:35.022,42.122,0.275,161.41,1:31.823,9.0,14,17,S. Ferrucci,Trident,Budapest,Sprint Race,,Round 7 ,2017-07-30
+28,46:19.847,86.947,44.825,158.807,1:32.040,14.0,15,16,N. Jeffri,Trident,Budapest,Sprint Race,,Round 7 ,2017-07-30
+27,45:35.649,1 LAP,1 LAP,155.608,1:31.763,19.0,16,11,R. Boschung,Campos Racing,Budapest,Sprint Race,,Round 7 ,2017-07-30
+27,45:43.321,1 LAP,7.672,155.172,1:29.121,23.0,17,2,A. Fuoco,PREMA Racing,Budapest,Sprint Race,,Round 7 ,2017-07-30
+36,58:37.062,-,-,161.394,1:30.247,12.0,1,9,O. Rowland,DAMS,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:37.297,0.235,-,161.383,1:30.153,18.0,2,10,N. Latifi,DAMS,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:37.735,0.673,0.438,161.363,1:30.847,17.0,3,18,N. de Vries,Rapax,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:38.467,1.405,0.732,161.329,1:30.816,31.0,4,1,C. Leclerc,PREMA Racing,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:38.695,1.633,0.228,161.319,1:30.899,31.0,5,7,N. Matsushita,ART Grand Prix,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:39.596,2.534,0.901,161.278,1:31.453,14.0,6,5,L. Ghiotto,RUSSIAN TIME,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:40.141,3.079,0.545,161.253,1:31.856,29.0,7,20,N. Nato,Pertamina Arden,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:40.412,3.350,0.271,161.24,1:30.736,23.0,8,8,A. Albon,ART Grand Prix,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:41.300,4.238,0.327,161.199,1:31.220,10.0,9,17,S. Ferrucci,Trident,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:43.689,6.627,2.389,161.09,1:31.761,32.0,10,3,L. Delétraz,Racing Engineering,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:44.612,7.550,0.923,161.048,1:31.983,14.0,11,11,R. Boschung,Campos Racing,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:45.241,8.179,0.629,161.019,1:31.806,12.0,12,16,N. Jeffri,Trident,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:46.524,9.462,0.393,160.961,1:31.475,18.0,13,4,G. Malja,Racing Engineering,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:50.973,3.911,0.561,161.214,1:31.546,31.0,14,21,S. Gelael,Pertamina Arden,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:53.188,16.126,6.664,160.657,1:31.845,24.0,15,15,J. King,MP Motorsport,Budapest,Feature Race,,Round 7 ,2017-07-30
+36,58:56.131,9.069,0.890,160.979,1:32.066,32.0,16,14,S. Sette Câmara,MP Motorsport,Budapest,Feature Race,,Round 7 ,2017-07-30
+33,52:25.830,DNF,-,165.399,1:30.473,30.0,17,6,A. Markelov,RUSSIAN TIME,Budapest,Feature Race,,Round 7 ,2017-07-30
+9,1:26.731,0.463,-,181.845,,,1,9,O. Rowland,DAMS,Budapest,Qualifying Session,16:01:47,Round 7 ,2017-07-30
+11,1:26.806,0.538,0.075,181.687,,,2,6,A. Markelov,RUSSIAN TIME,Budapest,Qualifying Session,16:23:38,Round 7 ,2017-07-30
+9,1:26.849,0.581,0.043,181.597,,,3,15,J. King,MP Motorsport,Budapest,Qualifying Session,16:15:43,Round 7 ,2017-07-30
+11,1:26.885,0.617,0.036,181.522,,,4,2,A. Fuoco,PREMA Racing,Budapest,Qualifying Session,16:04:56,Round 7 ,2017-07-30
+12,1:26.968,0.7,0.083,181.349,,,5,20,N. Nato,Pertamina Arden,Budapest,Qualifying Session,16:27:50,Round 7 ,2017-07-30
+11,1:26.973,0.705,0.005,181.339,,,6,10,N. Latifi,DAMS,Budapest,Qualifying Session,16:01:18,Round 7 ,2017-07-30
+12,1:27.026,0.758,0.053,181.228,,,7,18,N. de Vries,Rapax,Budapest,Qualifying Session,16:22:32,Round 7 ,2017-07-30
+11,1:27.103,0.835,0.077,181.068,,,8,7,N. Matsushita,ART Grand Prix,Budapest,Qualifying Session,16:22:25,Round 7 ,2017-07-30
+12,1:27.129,0.861,0.026,181.014,,,9,19,S. Canamasas,Rapax,Budapest,Qualifying Session,16:22:23,Round 7 ,2017-07-30
+12,1:27.139,0.871,0.010,180.993,,,10,17,S. Ferrucci,Trident,Budapest,Qualifying Session,16:23:12,Round 7 ,2017-07-30
+11,1:27.221,0.953,0.082,180.823,,,11,8,A. Albon,ART Grand Prix,Budapest,Qualifying Session,16:13:13,Round 7 ,2017-07-30
+12,1:27.238,0.97,0.017,180.788,,,12,5,L. Ghiotto,RUSSIAN TIME,Budapest,Qualifying Session,16:04:49,Round 7 ,2017-07-30
+12,1:27.301,1.033,0.063,180.657,,,13,12,R. Visoiu,Campos Racing,Budapest,Qualifying Session,16:16:20,Round 7 ,2017-07-30
+9,1:27.339,1.071,0.038,180.579,,,14,11,R. Boschung,Campos Racing,Budapest,Qualifying Session,16:22:15,Round 7 ,2017-07-30
+12,1:27.582,1.314,0.090,180.078,,,15,3,L. Delétraz,Racing Engineering,Budapest,Qualifying Session,16:22:28,Round 7 ,2017-07-30
+11,1:27.804,1.536,0.222,179.622,,,16,4,G. Malja,Racing Engineering,Budapest,Qualifying Session,16:00:21,Round 7 ,2017-07-30
+11,1:28.248,1.98,0.444,178.719,,,17,16,N. Jeffri,Trident,Budapest,Qualifying Session,16:28:25,Round 7 ,2017-07-30
+12,1:27.492,1.224,0.153,180.263,,,18,14,S. Sette Câmara,MP Motorsport,Budapest,Qualifying Session,16:04:00,Round 7 ,2017-07-30
+20,1:27.516,-,-,180.213,,,1,1,C. Leclerc,PREMA Racing,Budapest,Free Practice,12:07:47,Round 7 ,2017-07-30
+19,1:27.586,0.070,-,180.069,,,2,9,O. Rowland,DAMS,Budapest,Free Practice,12:07:55,Round 7 ,2017-07-30
+10,1:27.674,0.158,0.088,179.889,,,3,18,N. de Vries,Rapax,Budapest,Free Practice,12:07:29,Round 7 ,2017-07-30
+23,1:27.746,0.230,0.072,179.741,,,4,20,N. Nato,Pertamina Arden,Budapest,Free Practice,12:09:27,Round 7 ,2017-07-30
+19,1:27.876,0.360,0.130,179.475,,,5,10,N. Latifi,DAMS,Budapest,Free Practice,12:07:16,Round 7 ,2017-07-30
+18,1:27.954,0.438,0.078,179.316,,,6,8,A. Albon,ART Grand Prix,Budapest,Free Practice,12:07:33,Round 7 ,2017-07-30
+18,1:27.978,0.462,0.024,179.267,,,7,19,S. Canamasas,Rapax,Budapest,Free Practice,12:27:25,Round 7 ,2017-07-30
+19,1:28.036,0.520,0.058,179.149,,,8,7,N. Matsushita,ART Grand Prix,Budapest,Free Practice,12:06:38,Round 7 ,2017-07-30
+19,1:28.122,0.606,0.086,178.974,,,9,15,J. King,MP Motorsport,Budapest,Free Practice,12:09:47,Round 7 ,2017-07-30
+20,1:28.140,0.624,0.018,178.938,,,10,2,A. Fuoco,PREMA Racing,Budapest,Free Practice,12:07:22,Round 7 ,2017-07-30
+19,1:28.259,0.743,0.119,178.696,,,11,6,A. Markelov,RUSSIAN TIME,Budapest,Free Practice,12:08:01,Round 7 ,2017-07-30
+20,1:28.260,0.744,0.001,178.694,,,12,5,L. Ghiotto,RUSSIAN TIME,Budapest,Free Practice,12:21:07,Round 7 ,2017-07-30
+20,1:28.359,0.843,0.099,178.494,,,13,12,R. Visoiu,Campos Racing,Budapest,Free Practice,12:27:02,Round 7 ,2017-07-30
+16,1:28.407,0.891,0.048,178.397,,,14,4,G. Malja,Racing Engineering,Budapest,Free Practice,12:26:29,Round 7 ,2017-07-30
+18,1:28.425,0.909,0.018,178.361,,,15,11,R. Boschung,Campos Racing,Budapest,Free Practice,12:27:06,Round 7 ,2017-07-30
+20,1:28.563,1.047,0.138,178.083,,,16,21,S. Gelael,Pertamina Arden,Budapest,Free Practice,12:04:30,Round 7 ,2017-07-30
+19,1:28.645,1.129,0.082,177.918,,,17,3,L. Delétraz,Racing Engineering,Budapest,Free Practice,12:18:11,Round 7 ,2017-07-30
+22,1:28.685,1.169,0.040,177.838,,,18,17,S. Ferrucci,Trident,Budapest,Free Practice,12:08:56,Round 7 ,2017-07-30
+19,1:28.886,1.370,0.201,177.436,,,19,14,S. Sette Câmara,MP Motorsport,Budapest,Free Practice,12:30:55,Round 7 ,2017-07-30
+20,1:29.129,1.613,0.243,176.952,,,20,16,N. Jeffri,Trident,Budapest,Free Practice,12:14:16,Round 7 ,2017-07-30
+18,39:40.215,-,-,190.492,2:01.475,3.0,1,14,S. Sette Câmara,MP Motorsport,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:40.838,0.623,-,190.442,2:01.367,2.0,2,3,N. de Vries,Racing Engineering,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:42.618,2.403,1.780,190.3,2:01.812,5.0,3,5,L. Ghiotto,RUSSIAN TIME,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:43.324,3.109,0.706,190.243,2:01.718,4.0,4,20,N. Nato,Pertamina Arden,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:44.035,3.820,0.711,190.187,2:01.518,7.0,5,1,C. Leclerc,PREMA Racing,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:45.109,4.894,1.074,190.101,2:01.711,3.0,6,19,R. Merhi,Rapax,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:45.663,5.448,0.554,190.057,2:01.807,7.0,7,2,A. Fuoco,PREMA Racing,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:46.043,5.828,0.380,190.027,2:02.655,14.0,8,9,O. Rowland,DAMS,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:46.905,6.690,0.862,189.958,2:02.170,4.0,9,10,N. Latifi,DAMS,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:49.417,9.202,2.512,189.758,2:02.716,3.0,10,17,S. Ferrucci,Trident,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:49.844,9.629,0.427,189.724,2:02.625,5.0,11,4,G. Malja,Racing Engineering,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:50.771,10.556,0.927,189.651,2:02.683,3.0,12,18,L. Delétraz,Rapax,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:51.080,10.865,0.309,189.626,2:02.906,4.0,13,11,R. Boschung,Campos Racing,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:51.310,11.095,0.230,189.608,1:59.965,11.0,14,15,J. King,MP Motorsport,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:52.285,12.070,0.975,189.531,2:02.968,5.0,15,16,N. Jeffri,Trident,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:53.924,13.709,1.639,189.401,2:02.648,2.0,16,12,R. Visoiu,Campos Racing,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:54.336,14.121,0.412,189.368,2:00.377,14.0,17,21,S. Gelael,Pertamina Arden,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+18,39:57.758,17.543,3.422,189.098,2:00.925,3.0,18,8,A. Albon,ART Grand Prix,Spa-Francorchamps,Sprint Race,,Round 8 ,2017-08-27
+25,52:50.172,-,-,198.7,2:00.204,18.0,1,6,A. Markelov,RUSSIAN TIME,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,52:56.229,6.057,-,198.321,2:01.212,11.0,2,5,L. Ghiotto,RUSSIAN TIME,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,52:56.618,6.446,0.389,198.296,2:00.240,16.0,3,2,A. Fuoco,PREMA Racing,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:10.084,19.912,13.466,197.459,2:00.889,10.0,4,4,G. Malja,Racing Engineering,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:11.321,21.149,1.237,197.383,2:00.669,11.0,5,3,N. de Vries,Racing Engineering,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:19.528,29.356,8.207,196.877,2:00.938,10.0,6,14,S. Sette Câmara,MP Motorsport,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:23.651,33.479,4.123,196.623,2:01.656,11.0,7,19,R. Merhi,Rapax,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:25.783,35.611,2.132,196.492,2:01.493,19.0,8,20,N. Nato,Pertamina Arden,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:32.907,42.735,7.124,196.057,2:01.693,16.0,9,17,S. Ferrucci,Trident,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:34.305,44.133,1.398,195.971,2:01.015,9.0,10,12,R. Visoiu,Campos Racing,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:37.780,47.608,3.475,195.76,2:01.106,16.0,11,16,N. Jeffri,Trident,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:49.724,59.552,11.944,195.036,2:01.109,11.0,12,8,A. Albon,ART Grand Prix,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:50.389,60.217,0.665,194.996,2:00.693,10.0,13,11,R. Boschung,Campos Racing,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,53:51.242,61.070,0.853,194.944,2:01.719,18.0,14,18,L. Delétraz,Rapax,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+25,54:04.254,74.082,13.012,194.162,2:01.229,13.0,15,21,S. Gelael,Pertamina Arden,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+24,53:34.588,1 LAP,1 LAP,188.11,2:01.095,11.0,16,7,N. Matsushita,ART Grand Prix,Spa-Francorchamps,Feature Race,,Round 8 ,2017-08-27
+10,2:20.842,-,-,179.026,,,1,1,C. Leclerc,PREMA Racing,Spa-Francorchamps,Qualifying Session,16:36:33,Round 8 ,2017-08-27
+10,2:21.510,0.668,-,178.181,,,2,10,N. Latifi,DAMS,Spa-Francorchamps,Qualifying Session,16:45:55,Round 8 ,2017-08-27
+10,2:21.578,0.736,0.068,178.095,,,3,9,O. Rowland,DAMS,Spa-Francorchamps,Qualifying Session,16:35:14,Round 8 ,2017-08-27
+11,2:22.069,1.227,0.491,177.479,,,4,4,G. Malja,Racing Engineering,Spa-Francorchamps,Qualifying Session,16:37:50,Round 8 ,2017-08-27
+10,2:22.073,1.231,0.004,177.474,,,5,2,A. Fuoco,PREMA Racing,Spa-Francorchamps,Qualifying Session,16:36:16,Round 8 ,2017-08-27
+10,2:22.534,1.692,0.461,176.9,,,6,3,N. de Vries,Racing Engineering,Spa-Francorchamps,Qualifying Session,16:34:37,Round 8 ,2017-08-27
+10,2:22.952,2.110,0.418,176.383,,,7,5,L. Ghiotto,RUSSIAN TIME,Spa-Francorchamps,Qualifying Session,16:30:50,Round 8 ,2017-08-27
+10,2:23.132,2.290,0.180,176.161,,,8,19,R. Merhi,Rapax,Spa-Francorchamps,Qualifying Session,16:33:36,Round 8 ,2017-08-27
+10,2:23.180,2.338,0.048,176.102,,,9,6,A. Markelov,RUSSIAN TIME,Spa-Francorchamps,Qualifying Session,16:31:33,Round 8 ,2017-08-27
+10,2:23.409,2.567,0.229,175.821,,,10,8,A. Albon,ART Grand Prix,Spa-Francorchamps,Qualifying Session,16:57:56,Round 8 ,2017-08-27
+7,2:23.424,2.582,0.015,175.803,,,11,14,S. Sette Câmara,MP Motorsport,Spa-Francorchamps,Qualifying Session,16:32:43,Round 8 ,2017-08-27
+10,2:23.459,2.617,0.035,175.76,,,12,17,S. Ferrucci,Trident,Spa-Francorchamps,Qualifying Session,16:34:32,Round 8 ,2017-08-27
+11,2:23.470,2.628,0.011,175.746,,,13,18,L. Delétraz,Rapax,Spa-Francorchamps,Qualifying Session,16:42:46,Round 8 ,2017-08-27
+11,2:23.737,2.895,0.267,175.42,,,14,11,R. Boschung,Campos Racing,Spa-Francorchamps,Qualifying Session,16:32:55,Round 8 ,2017-08-27
+10,2:23.788,2.946,0.051,175.358,,,15,7,N. Matsushita,ART Grand Prix,Spa-Francorchamps,Qualifying Session,16:36:25,Round 8 ,2017-08-27
+9,2:24.127,3.285,0.339,174.945,,,16,15,J. King,MP Motorsport,Spa-Francorchamps,Qualifying Session,16:57:53,Round 8 ,2017-08-27
+11,2:24.215,3.373,0.088,174.838,,,17,12,R. Visoiu,Campos Racing,Spa-Francorchamps,Qualifying Session,16:38:14,Round 8 ,2017-08-27
+9,2:24.437,3.595,0.222,174.57,,,18,20,N. Nato,Pertamina Arden,Spa-Francorchamps,Qualifying Session,16:33:47,Round 8 ,2017-08-27
+10,2:25.039,4.197,0.602,173.845,,,19,21,S. Gelael,Pertamina Arden,Spa-Francorchamps,Qualifying Session,16:43:56,Round 8 ,2017-08-27
+10,2:27.008,6.166,1.969,171.517,,,20,16,N. Jeffri,Trident,Spa-Francorchamps,Qualifying Session,16:44:07,Round 8 ,2017-08-27
+7,1:57.681,-,-,214.26,,,1,1,C. Leclerc,PREMA Racing,Spa-Francorchamps,Free Practice,12:03:30,Round 8 ,2017-08-27
+17,1:57.819,0.138,-,214.009,,,2,2,A. Fuoco,PREMA Racing,Spa-Francorchamps,Free Practice,12:07:56,Round 8 ,2017-08-27
+14,1:58.015,0.334,0.196,213.654,,,3,9,O. Rowland,DAMS,Spa-Francorchamps,Free Practice,12:06:25,Round 8 ,2017-08-27
+12,1:58.184,0.503,0.169,213.348,,,4,6,A. Markelov,RUSSIAN TIME,Spa-Francorchamps,Free Practice,12:03:24,Round 8 ,2017-08-27
+15,1:58.421,0.740,0.237,212.921,,,5,11,R. Boschung,Campos Racing,Spa-Francorchamps,Free Practice,12:06:47,Round 8 ,2017-08-27
+18,1:58.425,0.744,0.004,212.914,,,6,20,N. Nato,Pertamina Arden,Spa-Francorchamps,Free Practice,12:07:37,Round 8 ,2017-08-27
+15,1:58.469,0.788,0.044,212.835,,,7,3,N. de Vries,Racing Engineering,Spa-Francorchamps,Free Practice,12:02:55,Round 8 ,2017-08-27
+14,1:58.565,0.884,0.096,212.663,,,8,21,S. Gelael,Pertamina Arden,Spa-Francorchamps,Free Practice,12:02:15,Round 8 ,2017-08-27
+15,1:58.596,0.915,0.031,212.607,,,9,4,G. Malja,Racing Engineering,Spa-Francorchamps,Free Practice,12:01:56,Round 8 ,2017-08-27
+15,1:58.603,0.922,0.007,212.594,,,10,10,N. Latifi,DAMS,Spa-Francorchamps,Free Practice,12:03:19,Round 8 ,2017-08-27
+16,1:58.607,0.926,0.004,212.587,,,11,14,S. Sette Câmara,MP Motorsport,Spa-Francorchamps,Free Practice,12:06:58,Round 8 ,2017-08-27
+12,1:58.675,0.994,0.068,212.465,,,12,8,A. Albon,ART Grand Prix,Spa-Francorchamps,Free Practice,12:07:04,Round 8 ,2017-08-27
+14,1:58.677,0.996,0.002,212.462,,,13,5,L. Ghiotto,RUSSIAN TIME,Spa-Francorchamps,Free Practice,12:07:26,Round 8 ,2017-08-27
+14,1:58.767,1.086,0.090,212.301,,,14,7,N. Matsushita,ART Grand Prix,Spa-Francorchamps,Free Practice,12:07:30,Round 8 ,2017-08-27
+16,1:58.788,1.107,0.021,212.263,,,15,18,L. Delétraz,Rapax,Spa-Francorchamps,Free Practice,12:06:32,Round 8 ,2017-08-27
+16,1:58.805,1.124,0.017,212.233,,,16,12,R. Visoiu,Campos Racing,Spa-Francorchamps,Free Practice,12:06:28,Round 8 ,2017-08-27
+15,1:58.811,1.130,0.006,212.222,,,17,17,S. Ferrucci,Trident,Spa-Francorchamps,Free Practice,12:06:38,Round 8 ,2017-08-27
+18,1:58.881,1.200,0.070,212.097,,,18,15,J. King,MP Motorsport,Spa-Francorchamps,Free Practice,12:10:38,Round 8 ,2017-08-27
+16,1:59.408,1.727,0.527,211.161,,,19,16,N. Jeffri,Trident,Spa-Francorchamps,Free Practice,12:06:51,Round 8 ,2017-08-27
+14,1:59.586,1.905,0.178,210.847,,,20,19,R. Merhi,Rapax,Spa-Francorchamps,Free Practice,12:11:29,Round 8 ,2017-08-27
+21,33:15.078,-,-,218.958,1:34.104,7.0,1,5,L. Ghiotto,RUSSIAN TIME,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:17.374,2.296,-,218.706,1:34.258,3.0,2,14,S. Sette Câmara,MP Motorsport,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:19.583,4.505,2.209,218.464,1:34.080,4.0,3,2,A. Fuoco,PREMA Racing,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:21.324,6.246,1.741,218.274,1:34.253,4.0,4,18,L. Delétraz,Rapax,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:26.881,11.803,5.557,217.67,1:34.662,4.0,5,19,R. Merhi,Rapax,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:32.383,17.305,5.502,217.075,1:34.728,2.0,6,21,S. Gelael,Pertamina Arden,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:35.088,20.010,2.705,216.783,1:34.480,5.0,7,7,N. Matsushita,ART Grand Prix,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:35.666,20.588,0.578,216.721,1:34.315,4.0,8,8,A. Albon,ART Grand Prix,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:38.341,23.263,2.675,216.434,1:34.199,3.0,9,1,C. Leclerc,PREMA Racing,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:38.782,23.704,0.441,216.387,1:34.559,5.0,10,20,N. Nato,Pertamina Arden,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:42.497,27.419,3.715,215.989,1:34.661,5.0,11,9,O. Rowland,DAMS,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:44.385,29.307,1.888,215.788,1:34.325,4.0,12,3,N. de Vries,Racing Engineering,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:44.737,29.659,0.352,215.75,1:34.482,4.0,13,11,R. Boschung,Campos Racing,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:44.984,29.906,0.247,215.724,1:34.392,4.0,14,17,S. Ferrucci,Trident,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:47.123,32.045,2.139,215.496,1:34.324,4.0,15,6,A. Markelov,RUSSIAN TIME,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:48.043,32.965,0.920,215.398,1:34.251,4.0,16,10,N. Latifi,DAMS,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,33:48.315,33.237,0.272,215.37,1:35.063,4.0,17,16,N. Jeffri,Trident,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,34:12.525,57.447,24.210,212.829,1:33.523,19.0,18,4,G. Malja,Racing Engineering,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,34:15.207,60.129,2.682,212.551,1:34.493,14.0,19,12,R. Visoiu,Campos Racing,Monza,Sprint Race,,Round 9 ,2017-09-03
+21,34:21.380,66.302,6.173,211.915,1:32.921,21.0,20,15,J. King,MP Motorsport,Monza,Sprint Race,,Round 9 ,2017-09-03
+23,44:10.800,-,-,180.529,1:47.650,23.0,1,2,A. Fuoco,PREMA Racing,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:11.151,0.351,0.351,180.505,1:47.436,23.0,2,7,N. Matsushita,ART Grand Prix,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:12.277,1.477,1.126,180.429,1:47.648,23.0,3,10,N. Latifi,DAMS,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:13.885,3.085,-,180.66,1:47.151,23.0,4,5,L. Ghiotto,RUSSIAN TIME,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:14.644,3.844,1.798,180.268,1:48.359,23.0,5,21,S. Gelael,Pertamina Arden,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:16.068,5.268,1.424,180.171,1:48.448,18.0,6,14,S. Sette Câmara,MP Motorsport,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:16.831,6.031,0.763,180.119,1:49.415,23.0,7,18,L. Delétraz,Rapax,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:17.730,6.930,0.899,180.058,1:49.259,18.0,8,4,G. Malja,Racing Engineering,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:18.678,7.878,0.948,179.994,1:48.349,16.0,9,6,A. Markelov,RUSSIAN TIME,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:19.019,8.219,0.341,179.971,1:47.988,18.0,10,15,J. King,MP Motorsport,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:20.512,9.712,1.493,179.87,1:49.386,23.0,11,19,R. Merhi,Rapax,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:22.479,11.679,1.967,179.737,1:50.687,23.0,12,16,N. Jeffri,Trident,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:22.779,11.979,0.300,179.717,1:49.267,15.0,13,20,N. Nato,Pertamina Arden,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:22.846,12.046,0.569,180.39,1:47.930,23.0,14,8,A. Albon,ART Grand Prix,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:23.206,12.406,0.427,179.688,1:48.472,15.0,15,11,R. Boschung,Campos Racing,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:24.331,13.531,1.125,179.612,1:49.731,17.0,16,12,R. Visoiu,Campos Racing,Monza,Feature Race,,Round 9 ,2017-09-03
+23,44:44.789,33.989,20.458,178.244,1:48.047,15.0,17,1,C. Leclerc,PREMA Racing,Monza,Feature Race,,Round 9 ,2017-09-03
+23,45:23.209,72.409,18.420,177.029,1:48.095,17.0,18,3,N. de Vries,Racing Engineering,Monza,Feature Race,,Round 9 ,2017-09-03
+9,1:30.982,-,-,229.218,,,1,7,N. Matsushita,ART Grand Prix,Monza,Qualifying Session,16:25:31,Round 9 ,2017-09-03
+9,1:31.071,0.089,-,228.994,,,2,3,N. de Vries,Racing Engineering,Monza,Qualifying Session,16:28:42,Round 9 ,2017-09-03
+9,1:31.239,0.257,0.168,228.573,,,3,18,L. Delétraz,Rapax,Monza,Qualifying Session,16:28:59,Round 9 ,2017-09-03
+9,1:31.266,0.284,0.027,228.505,,,4,6,A. Markelov,RUSSIAN TIME,Monza,Qualifying Session,16:29:52,Round 9 ,2017-09-03
+9,1:31.323,0.341,0.057,228.363,,,5,19,R. Merhi,Rapax,Monza,Qualifying Session,16:53:26,Round 9 ,2017-09-03
+9,1:31.355,0.373,0.032,228.283,,,6,15,J. King,MP Motorsport,Monza,Qualifying Session,16:53:41,Round 9 ,2017-09-03
+10,1:31.378,0.396,0.023,228.225,,,7,1,C. Leclerc,PREMA Racing,Monza,Qualifying Session,16:30:14,Round 9 ,2017-09-03
+8,1:31.426,0.444,0.048,228.105,,,8,2,A. Fuoco,PREMA Racing,Monza,Qualifying Session,16:28:39,Round 9 ,2017-09-03
+8,1:31.482,0.500,0.056,227.966,,,9,17,S. Ferrucci,Trident,Monza,Qualifying Session,16:28:44,Round 9 ,2017-09-03
+9,1:31.511,0.529,0.029,227.893,,,10,8,A. Albon,ART Grand Prix,Monza,Qualifying Session,16:28:32,Round 9 ,2017-09-03
+9,1:31.529,0.547,0.018,227.849,,,11,5,L. Ghiotto,RUSSIAN TIME,Monza,Qualifying Session,16:53:47,Round 9 ,2017-09-03
+8,1:31.653,0.671,0.124,227.54,,,12,14,S. Sette Câmara,MP Motorsport,Monza,Qualifying Session,16:28:58,Round 9 ,2017-09-03
+8,1:31.711,0.729,0.058,227.396,,,13,9,O. Rowland,DAMS,Monza,Qualifying Session,16:29:40,Round 9 ,2017-09-03
+9,1:31.747,0.765,0.036,227.307,,,14,10,N. Latifi,DAMS,Monza,Qualifying Session,16:29:53,Round 9 ,2017-09-03
+9,1:31.772,0.790,0.025,227.245,,,15,20,N. Nato,Pertamina Arden,Monza,Qualifying Session,16:29:56,Round 9 ,2017-09-03
+8,1:31.878,0.896,0.106,226.983,,,16,11,R. Boschung,Campos Racing,Monza,Qualifying Session,16:29:46,Round 9 ,2017-09-03
+8,1:31.942,0.960,0.064,226.825,,,17,4,G. Malja,Racing Engineering,Monza,Qualifying Session,16:29:44,Round 9 ,2017-09-03
+9,1:32.171,1.189,0.229,226.262,,,18,21,S. Gelael,Pertamina Arden,Monza,Qualifying Session,16:26:36,Round 9 ,2017-09-03
+8,1:32.267,1.285,0.096,226.026,,,19,12,R. Visoiu,Campos Racing,Monza,Qualifying Session,16:25:46,Round 9 ,2017-09-03
+7,1:32.373,1.391,0.106,225.767,,,20,16,N. Jeffri,Trident,Monza,Qualifying Session,16:29:05,Round 9 ,2017-09-03
+16,1:31.128,-,-,228.851,,,1,6,A. Markelov,RUSSIAN TIME,Monza,Free Practice,12:07:44,Round 9 ,2017-09-03
+19,1:31.362,0.234,-,228.265,,,2,5,L. Ghiotto,RUSSIAN TIME,Monza,Free Practice,12:12:00,Round 9 ,2017-09-03
+18,1:31.367,0.239,0.005,228.253,,,3,1,C. Leclerc,PREMA Racing,Monza,Free Practice,12:11:38,Round 9 ,2017-09-03
+17,1:31.406,0.278,0.039,228.155,,,4,7,N. Matsushita,ART Grand Prix,Monza,Free Practice,12:16:24,Round 9 ,2017-09-03
+17,1:31.446,0.318,0.040,228.055,,,5,3,N. de Vries,Racing Engineering,Monza,Free Practice,12:11:30,Round 9 ,2017-09-03
+18,1:31.514,0.386,0.068,227.886,,,6,9,O. Rowland,DAMS,Monza,Free Practice,12:12:28,Round 9 ,2017-09-03
+18,1:31.516,0.388,0.002,227.881,,,7,8,A. Albon,ART Grand Prix,Monza,Free Practice,12:07:29,Round 9 ,2017-09-03
+20,1:31.657,0.529,0.141,227.53,,,8,15,J. King,MP Motorsport,Monza,Free Practice,12:10:57,Round 9 ,2017-09-03
+19,1:31.671,0.543,0.014,227.496,,,9,18,L. Delétraz,Rapax,Monza,Free Practice,12:07:17,Round 9 ,2017-09-03
+19,1:31.727,0.599,0.056,227.357,,,10,2,A. Fuoco,PREMA Racing,Monza,Free Practice,12:11:16,Round 9 ,2017-09-03
+19,1:31.744,0.616,0.017,227.315,,,11,20,N. Nato,Pertamina Arden,Monza,Free Practice,12:11:42,Round 9 ,2017-09-03
+17,1:31.793,0.665,0.049,227.193,,,12,11,R. Boschung,Campos Racing,Monza,Free Practice,12:07:19,Round 9 ,2017-09-03
+19,1:32.064,0.936,0.271,226.525,,,13,10,N. Latifi,DAMS,Monza,Free Practice,12:04:14,Round 9 ,2017-09-03
+16,1:32.095,0.967,0.031,226.448,,,14,4,G. Malja,Racing Engineering,Monza,Free Practice,12:10:41,Round 9 ,2017-09-03
+16,1:32.107,0.979,0.012,226.419,,,15,19,R. Merhi,Rapax,Monza,Free Practice,12:27:51,Round 9 ,2017-09-03
+18,1:32.131,1.003,0.024,226.36,,,16,14,S. Sette Câmara,MP Motorsport,Monza,Free Practice,12:11:57,Round 9 ,2017-09-03
+21,1:32.300,1.172,0.169,225.945,,,17,17,S. Ferrucci,Trident,Monza,Free Practice,12:04:43,Round 9 ,2017-09-03
+18,1:32.543,1.415,0.243,225.352,,,18,12,R. Visoiu,Campos Racing,Monza,Free Practice,12:10:31,Round 9 ,2017-09-03
+21,1:32.822,1.694,0.279,224.675,,,19,16,N. Jeffri,Trident,Monza,Free Practice,12:10:49,Round 9 ,2017-09-03
+16,1:32.839,1.711,0.017,224.634,,,20,21,S. Gelael,Pertamina Arden,Monza,Free Practice,12:06:46,Round 9 ,2017-09-03
+28,43:01.086,-,-,173.039,1:30.747,5.0,1,6,A. Markelov,RUSSIAN TIME,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:12.926,11.840,-,172.249,1:30.878,6.0,2,10,N. Latifi,DAMS,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:14.372,13.286,1.446,172.153,1:30.838,10.0,3,9,O. Rowland,DAMS,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:15.777,14.691,1.405,172.06,1:29.307,20.0,4,5,L. Ghiotto,RUSSIAN TIME,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:17.583,16.497,1.806,171.94,1:30.158,24.0,5,2,A. Fuoco,PREMA Racing,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:21.287,20.201,3.704,171.695,1:29.296,22.0,6,3,N. de Vries,Racing Engineering,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:21.596,20.510,0.309,171.675,1:29.579,23.0,7,1,C. Leclerc,PREMA Racing,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:26.113,25.027,4.517,171.377,1:30.848,2.0,8,12,Á. Palou,Campos Racing,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:26.699,25.613,0.586,171.339,1:31.369,6.0,9,8,A. Albon,ART Grand Prix,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:31.497,30.411,4.798,171.024,1:31.249,6.0,10,20,N. Nato,Pertamina Arden,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:35.145,34.059,3.648,170.786,1:31.505,6.0,11,7,N. Matsushita,ART Grand Prix,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:39.160,38.074,4.015,170.524,1:31.470,9.0,12,18,L. Delétraz,Rapax,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:45.343,44.257,6.183,170.122,1:30.280,14.0,13,17,S. Ferrucci,Trident,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:53.122,52.036,7.779,169.62,1:30.443,26.0,14,14,S. Sette Câmara,MP Motorsport,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:53.481,52.395,0.359,169.596,1:31.197,6.0,15,16,N. Jeffri,Trident,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:53.602,52.516,0.121,169.589,1:31.793,18.0,16,21,S. Gelael,Pertamina Arden,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,43:53.744,52.658,0.142,169.58,1:29.032,26.0,17,19,R. Binder,Rapax,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+28,44:05.922,64.836,12.178,168.799,1:31.434,20.0,18,4,G. Malja,Racing Engineering,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+27,42:08.048,DNF,-,170.364,1:31.772,10.0,19,11,R. Boschung,Campos Racing,Jerez de la Frontera,Sprint Race,,Round 10 ,2017-10-08
+39,1:01:31.999,-,-,168.466,1:30.242,2.0,1,1,C. Leclerc,PREMA Racing,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:32.229,0.230,-,168.456,1:29.906,22.0,2,9,O. Rowland,DAMS,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:32.916,0.917,0.687,168.424,1:30.787,37.0,3,2,A. Fuoco,PREMA Racing,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:33.235,1.236,0.319,168.41,1:31.054,12.0,4,10,N. Latifi,DAMS,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:34.684,2.685,1.449,168.344,1:30.804,27.0,5,6,A. Markelov,RUSSIAN TIME,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:38.743,6.744,4.059,168.159,1:31.220,27.0,6,15,J. King,MP Motorsport,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:40.016,8.017,1.273,168.101,1:30.675,26.0,7,5,L. Ghiotto,RUSSIAN TIME,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:40.261,8.262,0.245,168.09,1:30.462,10.0,8,12,Á. Palou,Campos Racing,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:46.482,14.483,6.221,167.808,1:31.379,14.0,9,16,N. Jeffri,Trident,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:48.225,16.226,1.743,167.729,1:30.909,11.0,10,14,S. Sette Câmara,MP Motorsport,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:48.255,16.256,0.030,167.728,1:30.626,9.0,11,20,N. Nato,Pertamina Arden,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:49.121,17.122,0.866,167.689,1:30.621,11.0,12,8,A. Albon,ART Grand Prix,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:49.656,17.657,0.535,167.664,1:31.699,11.0,13,3,N. de Vries,Racing Engineering,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:56.854,24.855,7.198,167.34,1:30.627,25.0,14,4,G. Malja,Racing Engineering,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+39,1:01:58.941,26.942,2.087,167.246,1:31.728,12.0,15,19,R. Binder,Rapax,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+38,1:01:32.320,1 LAP,1 LAP,164.134,1:30.036,31.0,16,21,S. Gelael,Pertamina Arden,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+38,1:01:32.365,1 LAP,0.045,164.132,1:30.450,9.0,17,18,L. Delétraz,Rapax,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+38,1:01:35.162,1 LAP,2.797,164.008,1:31.832,3.0,18,7,N. Matsushita,ART Grand Prix,Jerez de la Frontera,Feature Race,,Round 10 ,2017-10-08
+11,1:24.682,-,-,188.243,,,1,1,C. Leclerc,PREMA Racing,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+10,1:24.942,0.260,-,187.666,,,2,5,L. Ghiotto,RUSSIAN TIME,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+9,1:25.257,0.575,0.315,186.973,,,3,14,S. Sette Câmara,MP Motorsport,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+10,1:25.316,0.634,0.059,186.844,,,4,9,O. Rowland,DAMS,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+11,1:25.422,0.740,0.106,186.612,,,5,6,A. Markelov,RUSSIAN TIME,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+9,1:25.426,0.744,0.004,186.603,,,6,8,A. Albon,ART Grand Prix,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+11,1:25.450,0.768,0.024,186.551,,,7,7,N. Matsushita,ART Grand Prix,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+11,1:25.470,0.788,0.020,186.507,,,8,3,N. de Vries,Racing Engineering,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+14,1:25.477,0.795,0.007,186.492,,,9,10,N. Latifi,DAMS,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+11,1:25.583,0.901,0.106,186.261,,,10,20,N. Nato,Pertamina Arden,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+11,1:25.600,0.918,0.017,186.224,,,11,12,Á. Palou,Campos Racing,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+11,1:25.627,0.945,0.027,186.165,,,12,18,L. Delétraz,Rapax,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+11,1:25.632,0.950,0.005,186.154,,,13,17,S. Ferrucci,Trident,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+10,1:25.653,0.971,0.021,186.109,,,14,15,J. King,MP Motorsport,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+11,1:25.739,1.057,0.086,185.922,,,15,2,A. Fuoco,PREMA Racing,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+11,1:25.916,1.234,0.177,185.539,,,16,4,G. Malja,Racing Engineering,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+10,1:26.121,1.439,0.205,185.097,,,17,19,R. Binder,Rapax,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+11,1:26.148,1.466,0.027,185.039,,,18,16,N. Jeffri,Trident,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+11,1:26.163,1.481,0.015,185.007,,,19,21,S. Gelael,Pertamina Arden,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+13,1:26.647,1.965,0.484,183.974,,,20,11,R. Boschung,Campos Racing,Jerez de la Frontera,Qualifying Session,-,Round 10 ,2017-10-08
+18,1:25.293,-,-,-,,,1,1,C. Leclerc,PREMA Racing,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+18,1:25.461,0.169,0.169,-,,,2,9,O. Rowland,DAMS,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+16,1:25.735,0.442,0.273,-,,,3,3,N. de Vries,Racing Engineering,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+19,1:25.868,0.575,0.133,-,,,4,14,S. Sette Câmara,MP Motorsport,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+19,1:25.940,0.647,0.072,-,,,5,10,N. Latifi,DAMS,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+19,1:25.975,0.682,0.035,-,,,6,7,N. Matsushita,ART Grand Prix,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+19,1:25.985,0.693,0.011,-,,,7,20,N. Nato,Pertamina Arden,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+18,1:25.988,0.695,0.002,-,,,8,8,A. Albon,ART Grand Prix,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+18,1:26.050,0.757,0.062,-,,,9,18,L. Delétraz,Rapax,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+18,1:26.072,0.780,0.023,-,,,10,6,A. Markelov,RUSSIAN TIME,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+18,1:26.108,0.815,0.035,-,,,11,4,G. Malja,Racing Engineering,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+18,1:26.195,0.902,0.087,-,,,12,21,S. Gelael,Pertamina Arden,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+17,1:26.203,0.910,0.008,-,,,13,5,L. Ghiotto,RUSSIAN TIME,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+19,1:26.214,0.921,0.011,-,,,14,17,S. Ferrucci,Trident,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+13,1:26.247,0.954,0.033,-,,,15,2,A. Fuoco,PREMA Racing,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+19,1:26.287,0.994,0.040,-,,,16,12,Á. Palou,Campos Racing,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+16,1:26.430,1.137,0.143,-,,,17,15,J. King,MP Motorsport,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+17,1:26.801,1.508,0.371,-,,,18,16,N. Jeffri,Trident,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+18,1:26.981,1.688,0.180,-,,,19,19,R. Binder,Rapax,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+3,1:46.217,20.924,19.236,-,,,20,11,R. Boschung,Campos Racing,Jerez de la Frontera,Free Practice,-,Round 10 ,2017-10-08
+22,41:36.188,-,-,176.053,1:52.573,18.0,1,1,C. Leclerc,PREMA Racing,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,41:37.481,1.293,-,175.962,1:51.901,4.0,2,8,A. Albon,ART Grand Prix,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,41:39.395,3.207,1.914,175.827,1:51.875,4.0,3,10,N. Latifi,DAMS,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,41:40.293,4.105,0.898,175.764,1:52.122,3.0,4,7,N. Matsushita,ART Grand Prix,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,41:41.140,4.952,0.847,175.704,1:52.760,9.0,5,5,L. Ghiotto,RUSSIAN TIME,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,41:50.946,14.758,9.806,175.018,1:53.022,12.0,6,6,A. Markelov,RUSSIAN TIME,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,41:51.634,15.446,0.688,174.97,1:52.792,3.0,7,9,O. Rowland,DAMS,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:00.983,24.795,9.349,174.321,1:53.286,3.0,8,14,S. Sette Câmara,MP Motorsport,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:05.449,29.261,4.466,174.013,1:52.348,4.0,9,3,N. de Vries,Racing Engineering,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:05.877,29.689,0.428,173.984,1:52.926,17.0,10,19,R. Merhi,Rapax,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:06.100,29.912,0.223,173.968,1:52.529,18.0,11,2,A. Fuoco,PREMA Racing,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:07.187,30.999,1.087,173.894,1:53.365,10.0,12,12,Á. Palou,Campos Racing,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:07.752,31.564,0.565,173.855,1:53.067,17.0,13,11,L. Norris,Campos Racing,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:14.902,38.714,7.150,173.364,1:53.424,5.0,14,21,S. Gelael,Pertamina Arden,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:15.793,39.605,0.891,173.303,1:53.597,9.0,15,17,S. Ferrucci,Trident,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:19.498,43.310,3.705,173.051,1:53.605,13.0,16,16,N. Jeffri,Trident,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+22,42:25.847,49.659,6.349,172.619,1:53.183,3.0,17,4,G. Malja,Racing Engineering,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+19,36:42.542,DNF,-,172.291,1:53.340,5.0,18,20,N. Nato,Pertamina Arden,Yas Island,Sprint Race,,Round 11 ,2017-11-26
+31,59:34.767,6.679,-,173.273,1:53.014,9.0,1,6,A. Markelov,RUSSIAN TIME,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,59:51.032,22.944,0.015,172.488,1:51.437,25.0,2,1,C. Leclerc,PREMA Racing,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:00.205,32.117,9.173,172.049,1:53.485,29.0,3,5,L. Ghiotto,RUSSIAN TIME,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:01.948,33.860,1.743,171.965,1:52.037,25.0,4,3,N. de Vries,Racing Engineering,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:04.464,36.376,2.516,171.845,1:53.394,27.0,5,10,N. Latifi,DAMS,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:06.741,38.653,2.277,171.737,1:53.123,11.0,6,7,N. Matsushita,ART Grand Prix,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:09.385,41.297,2.644,171.611,1:50.314,27.0,7,8,A. Albon,ART Grand Prix,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:15.406,47.318,6.021,171.325,1:54.218,26.0,8,15,J. King,MP Motorsport,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:18.072,49.984,2.666,171.199,1:50.880,26.0,9,14,S. Sette Câmara,MP Motorsport,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:27.123,59.035,9.051,170.772,1:51.674,27.0,10,18,L. Delétraz,Rapax,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:35.965,67.877,8.842,170.357,1:51.282,26.0,11,4,G. Malja,Racing Engineering,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:39.363,71.275,3.398,170.197,1:54.400,12.0,12,12,Á. Palou,Campos Racing,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:46.976,78.888,7.613,169.842,1:54.283,28.0,13,20,N. Nato,Pertamina Arden,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:56.263,88.175,9.287,169.411,1:54.845,12.0,14,17,S. Ferrucci,Trident,Yas Island,Feature Race,,Round 11 ,2017-11-26
+31,1:00:58.562,90.474,2.299,169.304,1:54.699,27.0,15,21,S. Gelael,Pertamina Arden,Yas Island,Feature Race,,Round 11 ,2017-11-26
+30,1:00:36.523,1 LAP,1 LAP,164.832,1:53.667,19.0,16,19,R. Merhi,Rapax,Yas Island,Feature Race,,Round 11 ,2017-11-26
+10,1:47.181,-,-,186.547,,,1,6,A. Markelov,RUSSIAN TIME,Yas Island,Qualifying Session,19:27:37,Round 11 ,2017-11-26
+10,1:47.387,0.206,-,186.19,,,2,3,N. de Vries,Racing Engineering,Yas Island,Qualifying Session,19:28:46,Round 11 ,2017-11-26
+11,1:47.575,0.394,0.188,185.864,,,3,2,A. Fuoco,PREMA Racing,Yas Island,Qualifying Session,19:27:51,Round 11 ,2017-11-26
+9,1:47.617,0.436,0.042,185.792,,,4,9,O. Rowland,DAMS,Yas Island,Qualifying Session,19:29:05,Round 11 ,2017-11-26
+10,1:47.676,0.495,0.059,185.69,,,5,20,N. Nato,Pertamina Arden,Yas Island,Qualifying Session,19:29:08,Round 11 ,2017-11-26
+10,1:47.692,0.511,0.016,185.662,,,6,1,C. Leclerc,PREMA Racing,Yas Island,Qualifying Session,19:28:24,Round 11 ,2017-11-26
+9,1:47.753,0.572,0.061,185.557,,,7,5,L. Ghiotto,RUSSIAN TIME,Yas Island,Qualifying Session,19:29:16,Round 11 ,2017-11-26
+8,1:47.759,0.578,0.006,185.547,,,8,7,N. Matsushita,ART Grand Prix,Yas Island,Qualifying Session,19:28:06,Round 11 ,2017-11-26
+10,1:47.824,0.643,0.065,185.435,,,9,14,S. Sette Câmara,MP Motorsport,Yas Island,Qualifying Session,19:28:04,Round 11 ,2017-11-26
+10,1:48.127,0.946,0.170,184.915,,,10,12,Á. Palou,Campos Racing,Yas Island,Qualifying Session,19:28:28,Round 11 ,2017-11-26
+9,1:48.201,1.020,0.074,184.789,,,11,10,N. Latifi,DAMS,Yas Island,Qualifying Session,19:30:21,Round 11 ,2017-11-26
+10,1:48.212,1.031,0.011,184.77,,,12,18,L. Delétraz,Rapax,Yas Island,Qualifying Session,19:27:48,Round 11 ,2017-11-26
+10,1:48.404,1.223,0.192,184.443,,,13,11,L. Norris,Campos Racing,Yas Island,Qualifying Session,19:28:15,Round 11 ,2017-11-26
+10,1:48.476,1.295,0.072,184.32,,,14,15,J. King,MP Motorsport,Yas Island,Qualifying Session,19:27:58,Round 11 ,2017-11-26
+10,1:48.538,1.357,0.062,184.215,,,15,17,S. Ferrucci,Trident,Yas Island,Qualifying Session,19:27:54,Round 11 ,2017-11-26
+11,1:48.609,1.428,0.071,184.095,,,16,21,S. Gelael,Pertamina Arden,Yas Island,Qualifying Session,19:27:42,Round 11 ,2017-11-26
+10,1:48.671,1.490,0.062,183.99,,,17,4,G. Malja,Racing Engineering,Yas Island,Qualifying Session,19:29:25,Round 11 ,2017-11-26
+12,1:48.794,1.613,0.123,183.782,,,18,19,R. Merhi,Rapax,Yas Island,Qualifying Session,19:27:46,Round 11 ,2017-11-26
+11,1:50.201,3.020,1.407,181.435,,,19,16,N. Jeffri,Trident,Yas Island,Qualifying Session,19:29:22,Round 11 ,2017-11-26
+16,1:48.974,-,-,183.478,,,1,8,A. Albon,ART Grand Prix,Yas Island,Free Practice,11:53:12,Round 11 ,2017-11-26
+17,1:49.109,0.135,-,183.251,,,2,20,N. Nato,Pertamina Arden,Yas Island,Free Practice,11:45:57,Round 11 ,2017-11-26
+18,1:49.211,0.237,0.102,183.08,,,3,3,N. de Vries,Racing Engineering,Yas Island,Free Practice,11:41:35,Round 11 ,2017-11-26
+17,1:49.243,0.269,0.032,183.026,,,4,7,N. Matsushita,ART Grand Prix,Yas Island,Free Practice,11:53:03,Round 11 ,2017-11-26
+19,1:49.285,0.311,0.042,182.956,,,5,2,A. Fuoco,PREMA Racing,Yas Island,Free Practice,11:45:01,Round 11 ,2017-11-26
+17,1:49.342,0.368,0.057,182.861,,,6,9,O. Rowland,DAMS,Yas Island,Free Practice,11:46:03,Round 11 ,2017-11-26
+19,1:49.403,0.429,0.061,182.759,,,7,6,A. Markelov,RUSSIAN TIME,Yas Island,Free Practice,12:02:48,Round 11 ,2017-11-26
+17,1:49.560,0.586,0.157,182.497,,,8,14,S. Sette Câmara,MP Motorsport,Yas Island,Free Practice,11:59:39,Round 11 ,2017-11-26
+19,1:49.651,0.677,0.091,182.345,,,9,1,C. Leclerc,PREMA Racing,Yas Island,Free Practice,12:02:50,Round 11 ,2017-11-26
+17,1:49.874,0.900,0.223,181.975,,,10,4,G. Malja,Racing Engineering,Yas Island,Free Practice,12:02:39,Round 11 ,2017-11-26
+18,1:49.892,0.918,0.018,181.945,,,11,18,L. Delétraz,Rapax,Yas Island,Free Practice,12:05:23,Round 11 ,2017-11-26
+18,1:50.025,1.051,0.133,181.725,,,12,12,Á. Palou,Campos Racing,Yas Island,Free Practice,11:40:40,Round 11 ,2017-11-26
+17,1:50.121,1.147,0.096,181.567,,,13,5,L. Ghiotto,RUSSIAN TIME,Yas Island,Free Practice,11:54:38,Round 11 ,2017-11-26
+18,1:50.169,1.195,0.048,181.488,,,14,19,R. Merhi,Rapax,Yas Island,Free Practice,12:04:15,Round 11 ,2017-11-26
+17,1:50.192,1.218,0.023,181.45,,,15,10,N. Latifi,DAMS,Yas Island,Free Practice,11:44:02,Round 11 ,2017-11-26
+21,1:50.378,1.404,0.186,181.144,,,16,15,J. King,MP Motorsport,Yas Island,Free Practice,11:40:31,Round 11 ,2017-11-26
+20,1:50.436,1.462,0.058,181.049,,,17,17,S. Ferrucci,Trident,Yas Island,Free Practice,11:41:43,Round 11 ,2017-11-26
+17,1:50.579,1.605,0.143,180.815,,,18,21,S. Gelael,Pertamina Arden,Yas Island,Free Practice,11:46:08,Round 11 ,2017-11-26
+17,1:51.030,2.056,0.451,180.081,,,19,11,L. Norris,Campos Racing,Yas Island,Free Practice,11:40:39,Round 11 ,2017-11-26
+17,1:51.926,2.952,0.896,178.639,,,20,16,N. Jeffri,Trident,Yas Island,Free Practice,11:57:19,Round 11 ,2017-11-26

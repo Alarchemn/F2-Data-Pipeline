@@ -1,0 +1,79 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+39,1:20:02.426,-,-,97.557,1:22.071,31.0,1,7,F. Vesti,PREMA Racing,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:20:04.930,2.504,2.504,97.507,1:22.058,32.0,2,5,T. Pourchaire,ART Grand Prix,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:20:17.979,15.553,13.049,97.243,1:23.564,30.0,3,3,Z. Maloney,Carlin,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:20:24.049,21.623,6.070,97.12,1:23.259,29.0,4,22,R. Verschoor,Van Amersfoort Racing,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:20:24.790,22.364,0.741,97.105,1:23.499,18.0,5,1,D. Hauger,MP Motorsport,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:20:27.743,25.317,2.953,97.046,1:23.760,29.0,6,24,K. Maini,Campos Racing,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:20:29.794,27.368,2.051,97.005,1:23.877,30.0,7,20,R. Stanek,Trident,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:20:30.079,27.653,0.285,96.999,1:21.724,32.0,8,6,V. Martins,ART Grand Prix,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:20:44.510,42.084,14.431,96.71,1:22.613,30.0,9,9,J. Crawford,Hitech Pulse-Eight,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:20:46.798,44.372,2.288,96.664,1:22.856,32.0,10,11,A. Iwasa,DAMS,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:20:47.679,45.253,0.881,96.647,1:22.614,33.0,11,8,O. Bearman,PREMA Racing,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:20:48.475,46.049,0.796,96.631,1:22.693,34.0,12,10,I. Hadjar,Hitech Pulse-Eight,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:20:56.985,54.559,8.510,96.462,1:22.992,38.0,13,2,J. Daruvala,MP Motorsport,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:21:00.068,57.642,3.083,96.4,1:23.454,32.0,14,23,J. Correa,Van Amersfoort Racing,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:21:14.478,72.052,14.410,96.115,1:23.041,30.0,15,16,R. Nissany,PHM Racing by Charouz,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:21:14.836,72.410,0.358,96.108,1:23.274,31.0,16,17,B. Benavides,PHM Racing by Charouz,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+39,1:21:15.268,72.842,0.432,96.1,1:23.134,31.0,17,21,C. Novalak,Trident,Monte Carlo,Feature Race,,Round 6 ,2023-05-28
+30,46:39.033,-,-,128.757,1:23.749,9.0,1,11,A. Iwasa,DAMS,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,46:45.711,6.678,6.678,128.45,1:23.541,10.0,2,2,J. Daruvala,MP Motorsport,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,46:47.368,8.335,1.657,128.375,1:24.128,11.0,3,9,J. Crawford,Hitech Pulse-Eight,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,46:47.853,8.820,0.485,128.352,1:23.726,14.0,4,22,R. Verschoor,Van Amersfoort Racing,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,46:50.011,10.978,2.158,128.254,1:24.132,11.0,5,3,Z. Maloney,Carlin,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,46:53.668,14.635,3.657,128.087,1:22.819,28.0,6,14,J. Doohan,Invicta Virtuosi Racing,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,46:54.422,15.389,0.754,128.053,1:22.982,28.0,7,6,V. Martins,ART Grand Prix,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,46:56.402,17.369,1.980,127.963,1:23.365,28.0,8,5,T. Pourchaire,ART Grand Prix,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,46:57.444,18.411,1.042,127.915,1:23.410,17.0,9,7,F. Vesti,PREMA Racing,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,46:57.834,18.801,0.390,127.898,1:24.655,14.0,10,4,E. Fittipaldi,Carlin,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,46:59.574,20.541,1.238,127.819,1:24.834,9.0,11,17,B. Benavides,PHM Racing by Charouz,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,47:00.385,21.352,0.811,127.782,1:24.254,19.0,12,20,R. Stanek,Trident,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,47:01.428,22.395,1.043,127.735,1:23.700,15.0,14,24,K. Maini,Campos Racing,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,47:01.995,22.962,0.567,127.709,1:24.701,15.0,14,12,A. Leclerc,DAMS,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,47:04.082,25.049,2.087,127.615,1:23.990,11.0,15,1,D. Hauger,MP Motorsport,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,47:08.336,19.303,0.502,127.875,1:24.697,10.0,16,23,J. Correa,Van Amersfoort Racing,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+30,47:17.467,38.434,13.385,127.013,1:24.700,30.0,17,21,C. Novalak,Trident,Monte Carlo,Sprint Race,,Round 6 ,2023-05-28
+10,1:21.053,-,-,148.214,,,1,7,F. Vesti,PREMA Racing,Monte Carlo,Qualifying Group B,15:51:27,Round 6 ,2023-05-28
+10,1:21.105,0.052,0.052,148.119,,,2,5,T. Pourchaire,ART Grand Prix,Monte Carlo,Qualifying Group B,15:51:39,Round 6 ,2023-05-28
+10,1:21.463,0.410,0.358,147.468,,,3,3,Z. Maloney,Carlin,Monte Carlo,Qualifying Group B,15:48:32,Round 6 ,2023-05-28
+10,1:21.576,0.523,0.113,147.263,,,4,9,J. Crawford,Hitech Pulse-Eight,Monte Carlo,Qualifying Group B,15:51:34,Round 6 ,2023-05-28
+10,1:21.796,0.743,0.220,146.867,,,5,11,A. Iwasa,DAMS,Monte Carlo,Qualifying Group B,15:51:23,Round 6 ,2023-05-28
+10,1:21.809,0.756,0.013,146.844,,,6,15,A. Cordeel,Invicta Virtuosi Racing,Monte Carlo,Qualifying Group B,15:51:17,Round 6 ,2023-05-28
+10,1:21.835,0.782,0.026,146.797,,,7,23,J. Correa,Van Amersfoort Racing,Monte Carlo,Qualifying Group B,15:51:03,Round 6 ,2023-05-28
+10,1:22.088,1.035,0.253,146.345,,,8,21,C. Novalak,Trident,Monte Carlo,Qualifying Group B,15:51:07,Round 6 ,2023-05-28
+10,1:22.097,1.044,0.009,146.329,,,9,1,D. Hauger,MP Motorsport,Monte Carlo,Qualifying Group B,15:50:47,Round 6 ,2023-05-28
+10,1:22.182,1.129,0.085,146.177,,,10,25,R. Boschung,Campos Racing,Monte Carlo,Qualifying Group B,15:50:51,Round 6 ,2023-05-28
+10,1:22.721,1.668,0.539,145.225,,,11,17,B. Benavides,PHM Racing by Charouz,Monte Carlo,Qualifying Group B,15:51:13,Round 6 ,2023-05-28
+10,1:21.231,-,-,147.889,,,1,6,V. Martins,ART Grand Prix,Monte Carlo,Qualifying Group A,15:29:49,Round 6 ,2023-05-28
+10,1:21.432,0.201,0.201,147.524,,,2,14,J. Doohan,Invicta Virtuosi Racing,Monte Carlo,Qualifying Group A,15:29:36,Round 6 ,2023-05-28
+11,1:21.639,0.408,0.207,147.15,,,3,22,R. Verschoor,Van Amersfoort Racing,Monte Carlo,Qualifying Group A,15:19:59,Round 6 ,2023-05-28
+11,1:21.642,0.411,0.003,147.144,,,4,2,J. Daruvala,MP Motorsport,Monte Carlo,Qualifying Group A,15:29:11,Round 6 ,2023-05-28
+10,1:21.645,0.414,0.003,147.139,,,5,10,I. Hadjar,Hitech Pulse-Eight,Monte Carlo,Qualifying Group A,15:29:41,Round 6 ,2023-05-28
+11,1:21.820,0.589,0.175,146.824,,,6,24,K. Maini,Campos Racing,Monte Carlo,Qualifying Group A,15:30:57,Round 6 ,2023-05-28
+9,1:21.824,0.593,0.004,146.817,,,7,4,E. Fittipaldi,Carlin,Monte Carlo,Qualifying Group A,15:29:53,Round 6 ,2023-05-28
+9,1:22.201,0.970,0.377,146.144,,,8,8,O. Bearman,PREMA Racing,Monte Carlo,Qualifying Group A,15:29:46,Round 6 ,2023-05-28
+10,1:22.804,1.573,0.603,145.079,,,9,16,R. Nissany,PHM Racing by Charouz,Monte Carlo,Qualifying Group A,15:29:33,Round 6 ,2023-05-28
+6,1:23.340,2.109,0.536,144.146,,,10,12,A. Leclerc,DAMS,Monte Carlo,Qualifying Group A,15:17:05,Round 6 ,2023-05-28
+10,1:24.600,3.369,1.260,142.0,,,11,20,R. Stanek,Trident,Monte Carlo,Qualifying Group A,15:29:29,Round 6 ,2023-05-28
+21,1:22.081,-,-,146.357,,,1,11,A. Iwasa,DAMS,Monte Carlo,Free Practice,15:43:06,Round 6 ,2023-05-28
+20,1:22.127,0.046,0.046,146.275,,,2,6,V. Martins,ART Grand Prix,Monte Carlo,Free Practice,15:40:53,Round 6 ,2023-05-28
+21,1:22.254,0.173,0.127,146.05,,,3,22,R. Verschoor,Van Amersfoort Racing,Monte Carlo,Free Practice,15:41:09,Round 6 ,2023-05-28
+21,1:22.407,0.326,0.153,145.778,,,4,12,A. Leclerc,DAMS,Monte Carlo,Free Practice,15:43:14,Round 6 ,2023-05-28
+21,1:22.569,0.488,0.162,145.492,,,5,1,D. Hauger,MP Motorsport,Monte Carlo,Free Practice,15:36:22,Round 6 ,2023-05-28
+21,1:22.591,0.510,0.022,145.454,,,6,4,E. Fittipaldi,Carlin,Monte Carlo,Free Practice,15:43:19,Round 6 ,2023-05-28
+20,1:22.650,0.569,0.059,145.35,,,7,14,J. Doohan,Invicta Virtuosi Racing,Monte Carlo,Free Practice,15:37:48,Round 6 ,2023-05-28
+21,1:22.711,0.630,0.061,145.243,,,8,24,K. Maini,Campos Racing,Monte Carlo,Free Practice,15:43:24,Round 6 ,2023-05-28
+21,1:22.730,0.649,0.019,145.209,,,9,7,F. Vesti,PREMA Racing,Monte Carlo,Free Practice,15:39:55,Round 6 ,2023-05-28
+18,1:23.010,0.929,0.280,144.719,,,10,5,T. Pourchaire,ART Grand Prix,Monte Carlo,Free Practice,15:37:42,Round 6 ,2023-05-28
+23,1:23.136,1.055,0.126,144.5,,,11,2,J. Daruvala,MP Motorsport,Monte Carlo,Free Practice,15:37:56,Round 6 ,2023-05-28
+21,1:23.189,1.108,0.053,144.408,,,12,10,I. Hadjar,Hitech Pulse-Eight,Monte Carlo,Free Practice,15:43:38,Round 6 ,2023-05-28
+21,1:23.203,1.122,0.014,144.384,,,13,3,Z. Maloney,Carlin,Monte Carlo,Free Practice,15:43:02,Round 6 ,2023-05-28
+21,1:23.284,1.203,0.081,144.243,,,14,21,C. Novalak,Trident,Monte Carlo,Free Practice,15:36:54,Round 6 ,2023-05-28
+20,1:23.556,1.475,0.272,143.774,,,15,16,R. Nissany,PHM Racing by Charouz,Monte Carlo,Free Practice,15:40:58,Round 6 ,2023-05-28
+22,1:23.584,1.503,0.028,143.726,,,16,23,J. Correa,Van Amersfoort Racing,Monte Carlo,Free Practice,15:41:18,Round 6 ,2023-05-28
+21,1:23.620,1.539,0.036,143.664,,,17,9,J. Crawford,Hitech Pulse-Eight,Monte Carlo,Free Practice,15:43:31,Round 6 ,2023-05-28
+21,1:23.904,1.823,0.284,143.177,,,18,15,A. Cordeel,Invicta Virtuosi Racing,Monte Carlo,Free Practice,15:43:36,Round 6 ,2023-05-28
+20,1:24.554,2.473,0.650,142.077,,,19,17,B. Benavides,PHM Racing by Charouz,Monte Carlo,Free Practice,15:37:39,Round 6 ,2023-05-28
+10,1:25.264,3.183,0.710,140.894,,,20,8,O. Bearman,PREMA Racing,Monte Carlo,Free Practice,15:18:07,Round 6 ,2023-05-28
+5,1:26.887,4.806,1.623,138.262,,,21,25,R. Boschung,Campos Racing,Monte Carlo,Free Practice,15:07:58,Round 6 ,2023-05-28
+4,1:39.617,17.536,12.730,120.593,,,22,20,R. Stanek,Trident,Monte Carlo,Free Practice,15:07:49,Round 6 ,2023-05-28

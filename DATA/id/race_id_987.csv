@@ -1,0 +1,75 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+21,38:28.325,-,-,191.431,1:48.996,13.0,1,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+21,38:37.973,9.648,9.648,190.634,1:49.404,6.0,2,20,L. Delétraz,Charouz Racing System,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+21,38:38.195,9.870,0.222,190.616,1:49.248,16.0,3,14,L. Ghiotto,Campos Vexatec Racing,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+21,38:45.003,16.678,6.808,190.058,1:49.506,15.0,4,21,A. Fuoco,Charouz Racing System,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+21,38:46.077,17.752,1.074,189.97,1:49.295,13.0,5,19,L. Norris,Carlin,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+21,38:48.730,20.405,2.653,189.753,1:49.484,13.0,6,18,S. Sette Câmara,Carlin,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+21,38:49.057,20.732,0.327,189.727,1:49.353,19.0,7,5,A. Albon,DAMS,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+21,38:52.770,24.445,3.713,189.425,1:49.742,5.0,8,6,N. Latifi,DAMS,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+21,39:04.051,35.726,11.281,188.513,1:50.271,12.0,9,17,S. Ferrucci,Trident,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+21,39:14.968,41.643,5.917,188.038,1:50.275,11.0,10,15,R. Nissany,Campos Vexatec Racing,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+21,39:17.814,49.489,7.846,187.413,1:50.608,10.0,11,11,M. Günther,BWT Arden,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+21,39:22.090,53.765,4.276,187.073,1:50.625,13.0,12,12,N. Fukuzumi,BWT Arden,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+21,39:27.335,59.010,5.245,186.659,1:50.398,6.0,13,16,A. Maini,Trident,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+20,38:21.424,DNF,-,182.866,1:48.759,13.0,14,1,A. Markelov,RUSSIAN TIME,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+20,38:52.763,1 LAP,31.339,180.41,1:48.489,19.0,15,9,R. Merhi,MP Motorsport,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+20,39:13.399,1 LAP,20.636,178.828,1:47.827,15.0,16,10,R. Boschung,MP Motorsport,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+19,39:15.225,2 LAPS,1 LAP,169.76,1:48.071,11.0,17,8,G. Russell,ART Grand Prix,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+19,39:53.659,2 LAPS,38.434,167.034,1:49.385,19.0,18,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Le Castellet,Sprint Race,,Round 5 ,2018-06-24
+30,58:28.750,-,-,179.883,1:47.732,20.0,1,8,G. Russell,ART Grand Prix,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+30,58:29.858,1.108,1.108,179.826,1:47.557,19.0,2,18,S. Sette Câmara,Carlin,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+30,59:06.629,37.879,4.807,177.962,1:48.828,17.0,3,14,L. Ghiotto,Campos Vexatec Racing,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+30,59:12.405,43.655,5.776,177.672,1:48.480,18.0,4,21,A. Fuoco,Charouz Racing System,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+30,59:14.430,45.680,2.025,177.571,1:47.085,26.0,5,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+30,59:21.976,53.226,7.546,177.195,1:48.946,19.0,6,20,L. Delétraz,Charouz Racing System,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+30,59:45.701,76.951,23.725,176.023,1:50.256,18.0,7,6,N. Latifi,DAMS,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+30,59:46.093,77.343,0.392,176.003,1:49.668,17.0,8,2,T. Makino,RUSSIAN TIME,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+30,59:49.134,80.384,3.041,175.854,1:50.029,16.0,9,12,N. Fukuzumi,BWT Arden,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+30,59:59.355,90.605,10.221,175.355,1:48.913,21.0,10,16,A. Maini,Trident,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+30,1:00:01.219,92.469,1.864,175.264,1:49.854,16.0,11,7,J. Aitken,ART Grand Prix,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+30,1:00:06.412,97.662,5.193,175.012,1:49.251,26.0,12,11,M. Günther,BWT Arden,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+29,58:36.812,1 LAP,1 LAP,173.49,1:49.232,18.0,13,17,S. Ferrucci,Trident,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+29,58:37.097,1 LAP,0.285,173.476,1:48.328,20.0,14,1,A. Markelov,RUSSIAN TIME,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+29,58:37.492,1 LAP,0.395,173.457,1:50.182,17.0,15,15,R. Nissany,Campos Vexatec Racing,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+29,1:00:08.588,1 LAP,91.096,169.078,1:48.010,27.0,16,19,L. Norris,Carlin,Le Castellet,Feature Race,,Round 5 ,2018-06-24
+12,1:44.469,-,-,201.315,,,1,8,G. Russell,ART Grand Prix,Le Castellet,Qualifying Session,18:22:33,Round 5 ,2018-06-24
+10,1:44.635,0.166,0.166,200.995,,,2,5,A. Albon,DAMS,Le Castellet,Qualifying Session,18:23:06,Round 5 ,2018-06-24
+10,1:44.781,0.312,0.146,200.715,,,3,19,L. Norris,Carlin,Le Castellet,Qualifying Session,18:22:42,Round 5 ,2018-06-24
+11,1:45.092,0.623,0.311,200.121,,,4,18,S. Sette Câmara,Carlin,Le Castellet,Qualifying Session,18:22:30,Round 5 ,2018-06-24
+10,1:45.109,0.640,0.017,200.089,,,5,14,L. Ghiotto,Campos Vexatec Racing,Le Castellet,Qualifying Session,18:23:14,Round 5 ,2018-06-24
+10,1:45.143,0.674,0.034,200.024,,,6,7,J. Aitken,ART Grand Prix,Le Castellet,Qualifying Session,18:22:25,Round 5 ,2018-06-24
+10,1:45.250,0.781,0.107,199.821,,,7,1,A. Markelov,RUSSIAN TIME,Le Castellet,Qualifying Session,18:22:46,Round 5 ,2018-06-24
+9,1:45.269,0.800,0.019,199.785,,,8,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Le Castellet,Qualifying Session,18:02:54,Round 5 ,2018-06-24
+12,1:45.278,0.809,0.009,199.768,,,9,20,L. Delétraz,Charouz Racing System,Le Castellet,Qualifying Session,18:22:56,Round 5 ,2018-06-24
+10,1:45.482,1.013,0.204,199.381,,,10,6,N. Latifi,DAMS,Le Castellet,Qualifying Session,18:23:20,Round 5 ,2018-06-24
+10,1:45.608,1.139,0.126,199.144,,,11,11,M. Günther,BWT Arden,Le Castellet,Qualifying Session,18:23:09,Round 5 ,2018-06-24
+10,1:45.721,1.252,0.113,198.931,,,12,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Le Castellet,Qualifying Session,18:22:55,Round 5 ,2018-06-24
+11,1:45.739,1.270,0.018,198.897,,,13,17,S. Ferrucci,Trident,Le Castellet,Qualifying Session,18:22:17,Round 5 ,2018-06-24
+10,1:45.753,1.284,0.014,198.87,,,14,9,R. Merhi,MP Motorsport,Le Castellet,Qualifying Session,18:23:12,Round 5 ,2018-06-24
+12,1:45.919,1.450,0.166,198.559,,,15,21,A. Fuoco,Charouz Racing System,Le Castellet,Qualifying Session,18:06:38,Round 5 ,2018-06-24
+10,1:45.945,1.476,0.026,198.51,,,16,2,T. Makino,RUSSIAN TIME,Le Castellet,Qualifying Session,18:02:23,Round 5 ,2018-06-24
+11,1:46.021,1.552,0.076,198.368,,,17,16,A. Maini,Trident,Le Castellet,Qualifying Session,18:22:41,Round 5 ,2018-06-24
+11,1:46.060,1.591,0.039,198.295,,,18,12,N. Fukuzumi,BWT Arden,Le Castellet,Qualifying Session,18:23:02,Round 5 ,2018-06-24
+10,1:46.150,1.681,0.090,198.127,,,19,15,R. Nissany,Campos Vexatec Racing,Le Castellet,Qualifying Session,18:23:23,Round 5 ,2018-06-24
+6,1:46.500,2.031,0.350,197.476,,,20,10,R. Boschung,MP Motorsport,Le Castellet,Qualifying Session,18:06:02,Round 5 ,2018-06-24
+20,1:45.562,-,-,199.23,,,1,19,L. Norris,Carlin,Le Castellet,Free Practice,14:08:35,Round 5 ,2018-06-24
+19,1:45.645,0.083,0.083,199.074,,,2,8,G. Russell,ART Grand Prix,Le Castellet,Free Practice,14:12:27,Round 5 ,2018-06-24
+21,1:45.700,0.138,0.055,198.97,,,3,11,M. Günther,BWT Arden,Le Castellet,Free Practice,14:17:00,Round 5 ,2018-06-24
+17,1:45.788,0.226,0.088,198.805,,,4,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Le Castellet,Free Practice,14:10:02,Round 5 ,2018-06-24
+18,1:46.105,0.543,0.317,198.211,,,5,20,L. Delétraz,Charouz Racing System,Le Castellet,Free Practice,14:07:13,Round 5 ,2018-06-24
+13,1:46.121,0.559,0.016,198.181,,,6,5,A. Albon,DAMS,Le Castellet,Free Practice,14:06:01,Round 5 ,2018-06-24
+18,1:46.346,0.784,0.225,197.762,,,7,14,L. Ghiotto,Campos Vexatec Racing,Le Castellet,Free Practice,14:14:16,Round 5 ,2018-06-24
+19,1:46.370,0.808,0.024,197.717,,,8,7,J. Aitken,ART Grand Prix,Le Castellet,Free Practice,14:31:28,Round 5 ,2018-06-24
+20,1:46.423,0.861,0.053,197.618,,,9,15,R. Nissany,Campos Vexatec Racing,Le Castellet,Free Practice,14:16:49,Round 5 ,2018-06-24
+10,1:46.483,0.921,0.060,197.507,,,10,1,A. Markelov,RUSSIAN TIME,Le Castellet,Free Practice,14:10:25,Round 5 ,2018-06-24
+17,1:46.492,0.930,0.009,197.49,,,11,21,A. Fuoco,Charouz Racing System,Le Castellet,Free Practice,14:07:17,Round 5 ,2018-06-24
+19,1:46.552,0.990,0.060,197.379,,,12,18,S. Sette Câmara,Carlin,Le Castellet,Free Practice,14:10:20,Round 5 ,2018-06-24
+18,1:46.659,1.097,0.107,197.181,,,13,9,R. Merhi,MP Motorsport,Le Castellet,Free Practice,14:12:51,Round 5 ,2018-06-24
+16,1:46.667,1.105,0.008,197.166,,,14,17,S. Ferrucci,Trident,Le Castellet,Free Practice,14:12:54,Round 5 ,2018-06-24
+17,1:46.868,1.306,0.201,196.796,,,15,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Le Castellet,Free Practice,14:12:42,Round 5 ,2018-06-24
+18,1:46.909,1.347,0.041,196.72,,,16,6,N. Latifi,DAMS,Le Castellet,Free Practice,14:25:46,Round 5 ,2018-06-24
+16,1:47.026,1.464,0.117,196.505,,,17,10,R. Boschung,MP Motorsport,Le Castellet,Free Practice,14:04:44,Round 5 ,2018-06-24
+19,1:47.142,1.580,0.116,196.292,,,18,16,A. Maini,Trident,Le Castellet,Free Practice,14:22:56,Round 5 ,2018-06-24
+16,1:47.418,1.856,0.276,195.788,,,19,2,T. Makino,RUSSIAN TIME,Le Castellet,Free Practice,14:22:16,Round 5 ,2018-06-24
+18,1:47.624,2.062,0.206,195.413,,,20,12,N. Fukuzumi,BWT Arden,Le Castellet,Free Practice,14:21:48,Round 5 ,2018-06-24

@@ -1,0 +1,80 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+23,42:42.161,-,-,174.551,1:49.503,3.0,1,1,A. Markelov,RUSSIAN TIME,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,42:44.266,2.105,2.105,174.407,1:49.537,3.0,2,11,M. Günther,BWT Arden,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,42:45.964,3.803,1.698,174.292,1:49.777,2.0,3,18,S. Sette Câmara,Carlin,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,42:47.204,5.043,1.240,174.208,1:49.459,4.0,4,19,L. Norris,Carlin,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,42:52.426,10.265,5.222,173.854,1:47.711,11.0,5,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,42:57.857,15.696,5.431,173.488,1:50.334,3.0,6,14,L. Ghiotto,Campos Vexatec Racing,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,43:05.672,23.511,7.815,172.963,1:50.556,4.0,7,10,R. Boschung,MP Motorsport,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,43:06.743,24.582,1.071,172.892,1:50.477,4.0,8,12,N. Fukuzumi,BWT Arden,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,43:07.355,25.194,0.612,172.851,1:49.260,13.0,9,20,L. Delétraz,Charouz Racing System,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,43:07.848,25.687,0.493,172.818,1:50.618,2.0,10,6,N. Latifi,DAMS,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,43:07.965,25.804,0.117,172.81,1:48.877,10.0,11,9,R. Merhi,MP Motorsport,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,43:08.799,26.638,0.834,172.755,1:49.644,16.0,12,21,A. Fuoco,Charouz Racing System,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,43:13.920,31.759,5.121,172.413,1:50.656,5.0,13,5,A. Albon,DAMS,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,43:18.954,36.793,5.034,172.079,1:50.464,4.0,14,16,A. Maini,Trident,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,43:26.150,43.989,7.196,171.604,1:49.910,11.0,15,15,R. Nissany,Campos Vexatec Racing,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,43:40.006,57.845,13.856,170.697,1:47.998,18.0,16,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,43:45.980,63.819,5.974,170.308,1:49.834,7.0,17,2,T. Makino,RUSSIAN TIME,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+23,44:21.918,99.757,35.938,168.009,1:49.369,2.0,18,7,J. Aitken,ART Grand Prix,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+22,42:47.369,1 LAP,1 LAP,166.608,1:48.700,4.0,19,8,G. Russell,ART Grand Prix,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+22,43:06.059,1 LAP,18.690,165.404,1:49.826,3.0,20,17,S. Ferrucci,Trident,Sakhir,Sprint Race,,Round 1 ,2018-04-08
+31,57:46.206,-,-,173.992,1:48.072,19.0,1,19,L. Norris,Carlin,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,57:54.527,8.321,8.321,173.575,1:49.128,27.0,2,18,S. Sette Câmara,Carlin,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,57:54.738,8.532,0.211,173.565,1:48.177,19.0,3,1,A. Markelov,RUSSIAN TIME,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,57:55.555,9.349,0.817,173.524,1:49.130,29.0,4,5,A. Albon,DAMS,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,58:00.153,13.947,4.598,173.295,1:49.538,29.0,5,8,G. Russell,ART Grand Prix,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,58:00.867,14.661,0.714,173.259,1:48.573,29.0,6,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,58:05.532,19.326,4.665,173.027,1:48.646,16.0,7,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,58:08.779,22.573,3.247,172.866,1:49.062,18.0,8,11,M. Günther,BWT Arden,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,58:14.765,28.559,5.986,172.57,1:49.743,23.0,9,7,J. Aitken,ART Grand Prix,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,58:17.791,31.585,3.026,172.421,1:49.413,20.0,10,10,R. Boschung,MP Motorsport,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,58:21.720,35.514,3.929,172.227,1:49.257,16.0,11,6,N. Latifi,DAMS,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,58:30.479,44.273,8.759,171.798,1:48.627,25.0,12,14,L. Ghiotto,Campos Vexatec Racing,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,58:35.635,49.429,5.156,171.546,1:50.215,16.0,13,20,L. Delétraz,Charouz Racing System,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,58:41.630,55.424,5.995,171.254,1:50.655,25.0,14,17,S. Ferrucci,Trident,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,58:43.659,57.453,2.029,171.155,1:49.444,26.0,15,16,A. Maini,Trident,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,59:13.642,87.436,29.983,169.711,1:49.338,31.0,16,15,R. Nissany,Campos Vexatec Racing,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,59:33.375,107.169,19.733,168.774,1:49.499,27.0,17,21,A. Fuoco,Charouz Racing System,Sakhir,Feature Race,,Round 1 ,2018-04-08
+31,59:36.668,110.462,3.293,168.618,1:50.124,29.0,18,12,N. Fukuzumi,BWT Arden,Sakhir,Feature Race,,Round 1 ,2018-04-08
+30,57:53.038,1 LAP,1 LAP,168.04,1:50.137,17.0,19,2,T. Makino,RUSSIAN TIME,Sakhir,Feature Race,,Round 1 ,2018-04-08
+10,1:41.761,-,-,191.46,,,1,19,L. Norris,Carlin,Sakhir,Qualifying Session,20:36:27,Round 1 ,2018-04-08
+10,1:41.823,0.062,0.062,191.343,,,2,8,G. Russell,ART Grand Prix,Sakhir,Qualifying Session,20:29:31,Round 1 ,2018-04-08
+10,1:41.850,0.089,0.027,191.293,,,3,5,A. Albon,DAMS,Sakhir,Qualifying Session,20:36:20,Round 1 ,2018-04-08
+11,1:41.880,0.119,0.030,191.236,,,4,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Sakhir,Qualifying Session,20:39:49,Round 1 ,2018-04-08
+9,1:42.174,0.413,0.294,190.686,,,5,20,L. Delétraz,Charouz Racing System,Sakhir,Qualifying Session,20:37:29,Round 1 ,2018-04-08
+11,1:42.221,0.460,0.047,190.598,,,6,18,S. Sette Câmara,Carlin,Sakhir,Qualifying Session,20:33:01,Round 1 ,2018-04-08
+10,1:42.246,0.485,0.025,190.552,,,7,12,N. Fukuzumi,BWT Arden,Sakhir,Qualifying Session,20:38:17,Round 1 ,2018-04-08
+10,1:42.264,0.503,0.018,190.518,,,8,2,T. Makino,RUSSIAN TIME,Sakhir,Qualifying Session,20:37:14,Round 1 ,2018-04-08
+11,1:42.282,0.521,0.018,190.485,,,9,7,J. Aitken,ART Grand Prix,Sakhir,Qualifying Session,20:31:38,Round 1 ,2018-04-08
+9,1:42.336,0.575,0.054,190.384,,,10,11,M. Günther,BWT Arden,Sakhir,Qualifying Session,20:30:30,Round 1 ,2018-04-08
+11,1:42.342,0.581,0.006,190.373,,,11,21,A. Fuoco,Charouz Racing System,Sakhir,Qualifying Session,20:36:24,Round 1 ,2018-04-08
+9,1:42.414,0.653,0.072,190.239,,,12,14,L. Ghiotto,Campos Vexatec Racing,Sakhir,Qualifying Session,20:37:20,Round 1 ,2018-04-08
+11,1:42.423,0.662,0.009,190.222,,,13,9,R. Merhi,MP Motorsport,Sakhir,Qualifying Session,20:41:07,Round 1 ,2018-04-08
+9,1:42.437,0.676,0.014,190.196,,,14,16,A. Maini,Trident,Sakhir,Qualifying Session,20:29:24,Round 1 ,2018-04-08
+10,1:42.447,0.686,0.010,190.178,,,15,6,N. Latifi,DAMS,Sakhir,Qualifying Session,20:37:25,Round 1 ,2018-04-08
+10,1:42.460,0.699,0.013,190.154,,,16,10,R. Boschung,MP Motorsport,Sakhir,Qualifying Session,20:36:37,Round 1 ,2018-04-08
+11,1:42.816,1.055,0.356,189.495,,,17,1,A. Markelov,RUSSIAN TIME,Sakhir,Qualifying Session,20:38:42,Round 1 ,2018-04-08
+11,1:42.818,1.057,0.002,189.492,,,18,17,S. Ferrucci,Trident,Sakhir,Qualifying Session,20:36:47,Round 1 ,2018-04-08
+8,1:43.016,1.255,0.198,189.127,,,19,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Sakhir,Qualifying Session,20:37:48,Round 1 ,2018-04-08
+9,1:43.350,1.589,0.334,188.516,,,20,15,R. Nissany,Campos Vexatec Racing,Sakhir,Qualifying Session,20:39:56,Round 1 ,2018-04-08
+12,1:44.549,-,-,186.354,,,1,16,A. Maini,Trident,Sakhir,Free Practice,11:58:21,Round 1 ,2018-04-08
+14,1:44.600,0.051,0.051,186.263,,,2,19,L. Norris,Carlin,Sakhir,Free Practice,11:47:56,Round 1 ,2018-04-08
+11,1:44.653,0.104,0.053,186.169,,,3,18,S. Sette Câmara,Carlin,Sakhir,Free Practice,11:46:48,Round 1 ,2018-04-08
+15,1:44.769,0.220,0.116,185.963,,,4,5,A. Albon,DAMS,Sakhir,Free Practice,11:40:42,Round 1 ,2018-04-08
+13,1:44.812,0.263,0.043,185.887,,,5,8,G. Russell,ART Grand Prix,Sakhir,Free Practice,11:48:08,Round 1 ,2018-04-08
+10,1:44.861,0.312,0.049,185.8,,,6,1,A. Markelov,RUSSIAN TIME,Sakhir,Free Practice,12:00:40,Round 1 ,2018-04-08
+13,1:45.005,0.456,0.144,185.545,,,7,9,R. Merhi,MP Motorsport,Sakhir,Free Practice,11:49:06,Round 1 ,2018-04-08
+16,1:45.010,0.461,0.005,185.536,,,8,11,M. Günther,BWT Arden,Sakhir,Free Practice,11:47:54,Round 1 ,2018-04-08
+15,1:45.080,0.531,0.070,185.413,,,9,21,A. Fuoco,Charouz Racing System,Sakhir,Free Practice,11:44:57,Round 1 ,2018-04-08
+13,1:45.214,0.665,0.134,185.176,,,10,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Sakhir,Free Practice,11:43:26,Round 1 ,2018-04-08
+14,1:45.268,0.719,0.054,185.081,,,11,7,J. Aitken,ART Grand Prix,Sakhir,Free Practice,11:47:27,Round 1 ,2018-04-08
+16,1:45.291,0.742,0.023,185.041,,,12,6,N. Latifi,DAMS,Sakhir,Free Practice,11:48:00,Round 1 ,2018-04-08
+12,1:45.329,0.780,0.038,184.974,,,13,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Sakhir,Free Practice,11:44:07,Round 1 ,2018-04-08
+14,1:45.331,0.782,0.002,184.971,,,14,2,T. Makino,RUSSIAN TIME,Sakhir,Free Practice,11:47:42,Round 1 ,2018-04-08
+14,1:45.344,0.795,0.013,184.948,,,15,14,L. Ghiotto,Campos Vexatec Racing,Sakhir,Free Practice,11:41:42,Round 1 ,2018-04-08
+14,1:45.419,0.870,0.075,184.816,,,16,17,S. Ferrucci,Trident,Sakhir,Free Practice,11:50:46,Round 1 ,2018-04-08
+13,1:45.564,1.015,0.145,184.562,,,17,10,R. Boschung,MP Motorsport,Sakhir,Free Practice,11:45:12,Round 1 ,2018-04-08
+16,1:45.849,1.300,0.285,184.065,,,18,12,N. Fukuzumi,BWT Arden,Sakhir,Free Practice,11:54:21,Round 1 ,2018-04-08
+14,1:45.958,1.409,0.109,183.876,,,19,20,L. Delétraz,Charouz Racing System,Sakhir,Free Practice,11:47:33,Round 1 ,2018-04-08
+15,1:46.407,1.858,0.449,183.1,,,20,15,R. Nissany,Campos Vexatec Racing,Sakhir,Free Practice,11:44:13,Round 1 ,2018-04-08

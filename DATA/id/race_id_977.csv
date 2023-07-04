@@ -1,0 +1,76 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+28,40:32.190,-,-,178.769,1:16.119,21.0,1,6,A. Markelov,RUSSIAN TIME,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:33.648,1.458,-,178.662,1:16.781,13.0,2,8,A. Albon,ART Grand Prix,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:34.245,2.055,0.597,178.618,1:16.582,26.0,3,9,O. Rowland,DAMS,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:38.030,5.840,3.785,178.341,1:16.539,10.0,4,5,L. Ghiotto,RUSSIAN TIME,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:38.819,6.629,0.789,178.283,1:16.697,9.0,5,2,A. Fuoco,PREMA Racing,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:42.705,10.515,3.886,177.999,1:16.699,10.0,6,15,J. King,MP Motorsport,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:45.846,13.656,3.141,177.771,1:16.526,8.0,7,20,N. Nato,Pertamina Arden,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:48.112,15.922,2.266,177.606,1:16.607,10.0,8,10,N. Latifi,DAMS,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:48.169,15.979,0.057,177.602,1:16.757,13.0,9,19,S. Canamasas,Rapax,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:48.472,16.282,0.303,177.58,1:16.760,12.0,10,14,S. Sette Câmara,MP Motorsport,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:51.039,18.849,2.567,177.394,1:16.255,11.0,11,21,S. Gelael,Pertamina Arden,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:53.138,20.948,2.099,177.242,1:16.494,9.0,12,16,N. Jeffri,Trident,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:53.491,21.301,0.353,177.217,1:16.754,9.0,13,3,L. Delétraz,Racing Engineering,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,40:54.633,22.443,1.142,177.134,1:16.694,13.0,14,7,N. Matsushita,ART Grand Prix,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+28,41:40.112,67.922,45.479,173.912,1:16.571,10.0,15,4,G. Malja,Racing Engineering,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+26,38:44.210,DNF,-,173.698,1:16.525,13.0,16,18,N. de Vries,Rapax,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+25,38:01.268,DNF,-,170.153,1:16.568,11.0,17,12,R. Visoiu,Campos Racing,Spielberg,Sprint Race,,Round 5 ,2017-07-09
+40,52:21.629,-,-,197.775,1:16.113,33.0,1,1,C. Leclerc,PREMA Racing,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:22.974,1.345,-,197.691,1:16.773,29.0,2,10,N. Latifi,DAMS,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:26.789,5.160,3.815,197.451,1:16.479,32.0,3,2,A. Fuoco,PREMA Racing,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:27.311,5.682,0.522,197.418,1:16.498,13.0,4,9,O. Rowland,DAMS,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:31.475,9.846,4.164,197.157,1:16.382,33.0,5,8,A. Albon,ART Grand Prix,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:33.808,12.179,2.333,197.012,1:15.854,34.0,6,7,N. Matsushita,ART Grand Prix,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:41.029,19.400,7.221,196.562,1:16.924,14.0,7,11,R. Boschung,Campos Racing,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:42.014,20.385,0.985,196.5,1:16.740,33.0,8,6,A. Markelov,RUSSIAN TIME,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:52.110,30.481,10.096,195.875,1:17.280,13.0,9,15,J. King,MP Motorsport,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:55.291,33.662,3.181,195.679,1:16.710,14.0,10,21,S. Gelael,Pertamina Arden,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:57.265,35.636,1.974,195.557,1:17.106,13.0,11,12,R. Visoiu,Campos Racing,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,52:57.640,36.011,0.375,195.534,1:17.092,13.0,12,4,G. Malja,Racing Engineering,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,53:05.774,44.145,8.134,195.035,1:17.296,11.0,13,18,N. de Vries,Rapax,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,53:08.525,46.896,2.751,194.866,1:16.614,13.0,14,5,L. Ghiotto,RUSSIAN TIME,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,53:10.512,48.883,1.987,194.745,1:17.206,13.0,15,19,S. Canamasas,Rapax,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,53:12.569,50.940,2.057,194.62,1:17.180,30.0,16,14,S. Sette Câmara,MP Motorsport,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,53:15.052,53.423,2.483,194.468,1:16.808,14.0,17,3,L. Delétraz,Racing Engineering,Spielberg,Feature Race,,Round 5 ,2017-07-09
+40,53:18.510,56.881,3.458,194.258,1:17.222,15.0,18,16,N. Jeffri,Trident,Spielberg,Feature Race,,Round 5 ,2017-07-09
+39,52:34.631,1 LAP,1 LAP,192.033,1:18.327,31.0,19,17,R. Marciello,Trident,Spielberg,Feature Race,,Round 5 ,2017-07-09
+14,1:13.396,-,-,211.793,,,1,1,C. Leclerc,PREMA Racing,Spielberg,Qualifying Session,16:21:12,Round 5 ,2017-07-09
+14,1:13.776,0.380,0.040,210.702,,,2,2,A. Fuoco,PREMA Racing,Spielberg,Qualifying Session,16:23:33,Round 5 ,2017-07-09
+15,1:13.888,0.492,0.112,210.383,,,3,8,A. Albon,ART Grand Prix,Spielberg,Qualifying Session,16:20:14,Round 5 ,2017-07-09
+14,1:13.903,0.507,0.015,210.34,,,4,9,O. Rowland,DAMS,Spielberg,Qualifying Session,16:23:36,Round 5 ,2017-07-09
+14,1:13.922,0.526,0.019,210.286,,,5,7,N. Matsushita,ART Grand Prix,Spielberg,Qualifying Session,16:20:24,Round 5 ,2017-07-09
+15,1:14.034,0.638,0.112,209.968,,,6,18,N. de Vries,Rapax,Spielberg,Qualifying Session,16:20:19,Round 5 ,2017-07-09
+14,1:14.180,0.784,0.146,209.555,,,7,5,L. Ghiotto,RUSSIAN TIME,Spielberg,Qualifying Session,16:22:34,Round 5 ,2017-07-09
+14,1:14.193,0.797,0.013,209.518,,,8,10,N. Latifi,DAMS,Spielberg,Qualifying Session,16:24:01,Round 5 ,2017-07-09
+14,1:14.203,0.807,0.010,209.49,,,9,20,N. Nato,Pertamina Arden,Spielberg,Qualifying Session,16:21:04,Round 5 ,2017-07-09
+16,1:14.363,0.967,0.160,209.039,,,10,11,R. Boschung,Campos Racing,Spielberg,Qualifying Session,16:23:12,Round 5 ,2017-07-09
+16,1:14.377,0.981,0.014,209.0,,,11,3,L. Delétraz,Racing Engineering,Spielberg,Qualifying Session,16:20:22,Round 5 ,2017-07-09
+14,1:14.384,0.988,0.007,208.98,,,12,15,J. King,MP Motorsport,Spielberg,Qualifying Session,16:20:28,Round 5 ,2017-07-09
+15,1:14.489,1.093,0.105,208.685,,,13,19,S. Canamasas,Rapax,Spielberg,Qualifying Session,16:01:39,Round 5 ,2017-07-09
+16,1:14.534,1.138,0.045,208.559,,,14,6,A. Markelov,RUSSIAN TIME,Spielberg,Qualifying Session,16:20:07,Round 5 ,2017-07-09
+15,1:14.555,1.159,0.021,208.501,,,15,21,S. Gelael,Pertamina Arden,Spielberg,Qualifying Session,16:23:55,Round 5 ,2017-07-09
+14,1:14.643,1.247,0.088,208.255,,,16,17,R. Marciello,Trident,Spielberg,Qualifying Session,16:13:21,Round 5 ,2017-07-09
+15,1:14.653,1.257,0.010,208.227,,,17,12,R. Visoiu,Campos Racing,Spielberg,Qualifying Session,16:21:15,Round 5 ,2017-07-09
+17,1:14.672,1.276,0.019,208.174,,,18,16,N. Jeffri,Trident,Spielberg,Qualifying Session,16:20:59,Round 5 ,2017-07-09
+16,1:15.121,1.725,0.449,206.93,,,19,4,G. Malja,Racing Engineering,Spielberg,Qualifying Session,16:21:59,Round 5 ,2017-07-09
+25,1:14.356,-,-,209.059,,,1,1,C. Leclerc,PREMA Racing,Spielberg,Free Practice,12:15:06,Round 5 ,2017-07-09
+23,1:14.721,0.365,-,208.037,,,2,2,A. Fuoco,PREMA Racing,Spielberg,Free Practice,12:30:33,Round 5 ,2017-07-09
+24,1:14.730,0.374,0.009,208.012,,,3,18,N. de Vries,Rapax,Spielberg,Free Practice,12:19:10,Round 5 ,2017-07-09
+27,1:14.822,0.466,0.092,207.757,,,4,10,N. Latifi,DAMS,Spielberg,Free Practice,12:13:28,Round 5 ,2017-07-09
+25,1:14.865,0.509,0.043,207.637,,,5,9,O. Rowland,DAMS,Spielberg,Free Practice,12:15:42,Round 5 ,2017-07-09
+23,1:14.877,0.521,0.012,207.604,,,6,19,S. Canamasas,Rapax,Spielberg,Free Practice,12:16:28,Round 5 ,2017-07-09
+20,1:14.915,0.559,0.038,207.499,,,7,7,N. Matsushita,ART Grand Prix,Spielberg,Free Practice,12:28:07,Round 5 ,2017-07-09
+26,1:14.951,0.595,0.036,207.399,,,8,8,A. Albon,ART Grand Prix,Spielberg,Free Practice,12:14:07,Round 5 ,2017-07-09
+20,1:15.029,0.673,0.078,207.183,,,9,11,R. Boschung,Campos Racing,Spielberg,Free Practice,12:16:32,Round 5 ,2017-07-09
+23,1:15.031,0.675,0.002,207.178,,,10,5,L. Ghiotto,RUSSIAN TIME,Spielberg,Free Practice,12:14:31,Round 5 ,2017-07-09
+28,1:15.066,0.710,0.035,207.081,,,11,20,N. Nato,Pertamina Arden,Spielberg,Free Practice,12:21:02,Round 5 ,2017-07-09
+24,1:15.081,0.725,0.015,207.04,,,12,6,A. Markelov,RUSSIAN TIME,Spielberg,Free Practice,12:14:13,Round 5 ,2017-07-09
+26,1:15.099,0.743,0.018,206.99,,,13,15,J. King,MP Motorsport,Spielberg,Free Practice,12:14:24,Round 5 ,2017-07-09
+25,1:15.100,0.744,0.001,206.988,,,14,21,S. Gelael,Pertamina Arden,Spielberg,Free Practice,12:16:54,Round 5 ,2017-07-09
+20,1:15.174,0.818,0.074,206.784,,,15,14,S. Sette Câmara,MP Motorsport,Spielberg,Free Practice,12:32:16,Round 5 ,2017-07-09
+26,1:15.246,0.890,0.072,206.586,,,16,3,L. Delétraz,Racing Engineering,Spielberg,Free Practice,12:11:57,Round 5 ,2017-07-09
+24,1:15.480,1.124,0.234,205.945,,,17,4,G. Malja,Racing Engineering,Spielberg,Free Practice,12:13:23,Round 5 ,2017-07-09
+25,1:15.488,1.132,0.008,205.924,,,18,17,R. Marciello,Trident,Spielberg,Free Practice,12:14:00,Round 5 ,2017-07-09
+26,1:15.554,1.198,0.066,205.744,,,19,12,R. Visoiu,Campos Racing,Spielberg,Free Practice,12:15:09,Round 5 ,2017-07-09
+26,1:15.643,1.287,0.089,205.502,,,20,16,N. Jeffri,Trident,Spielberg,Free Practice,12:20:53,Round 5 ,2017-07-09

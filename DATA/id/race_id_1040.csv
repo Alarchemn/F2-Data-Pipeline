@@ -1,0 +1,81 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+26,1:03:29.334,-,-,147.402,1:56.633,21.0,1,1,D. Hauger,PREMA Racing,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:29.826,0.492,0.492,147.383,1:56.720,20.0,2,6,L. Sargeant,Carlin,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:30.280,0.946,0.454,147.366,1:57.277,21.0,3,11,F. Drugovich,MP Motorsport,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:30.998,1.664,0.718,147.338,1:57.247,22.0,4,2,J. Daruvala,PREMA Racing,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:32.110,2.776,1.112,147.295,1:57.412,19.0,5,20,R. Verschoor,Trident,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:32.304,2.970,0.194,147.287,1:57.620,20.0,6,22,E. Fittipaldi,Charouz Racing System,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:32.483,3.149,0.179,147.281,1:56.857,20.0,7,9,F. Vesti,ART Grand Prix,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:34.125,4.791,1.642,147.217,1:58.156,20.0,8,4,M. Sato,Virtuosi Racing,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:34.245,4.911,0.120,147.212,1:58.729,19.0,9,15,R. Boschung,Campos Racing,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:34.597,5.263,0.352,147.199,1:58.534,20.0,10,24,J. Hughes,Van Amersfoort Racing,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:34.641,5.307,0.044,147.197,1:56.767,20.0,11,10,T. Pourchaire,ART Grand Prix,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:35.349,6.015,0.708,147.17,1:57.086,18.0,12,7,M. Armstrong,Hitech Grand Prix,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:36.236,6.902,0.887,147.136,1:57.343,20.0,13,3,J. Doohan,Virtuosi Racing,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:36.613,7.279,0.377,147.121,1:57.832,22.0,14,17,A. Iwasa,DAMS,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:40.909,11.575,4.296,146.956,1:58.332,11.0,15,5,L. Lawson,Carlin,Baku,Feature Race,,Round 6 ,2022-06-12
+26,1:03:41.532,12.198,0.623,146.932,1:57.529,21.0,16,21,C. Williams,Trident,Baku,Feature Race,,Round 6 ,2022-06-12
+21,48:36.014,-,-,155.504,1:57.581,11.0,1,9,F. Vesti,ART Grand Prix,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:36.394,0.380,0.380,155.483,1:57.540,10.0,2,2,J. Daruvala,PREMA Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:37.116,1.102,0.722,155.445,1:57.553,13.0,3,5,L. Lawson,Carlin,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:37.531,1.517,0.415,155.423,1:57.627,11.0,4,7,M. Armstrong,Hitech Grand Prix,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:37.778,1.764,0.247,155.41,1:57.637,11.0,5,11,F. Drugovich,MP Motorsport,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:38.192,2.178,0.414,155.388,1:57.561,11.0,6,6,L. Sargeant,Carlin,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:38.682,2.668,0.490,155.362,1:57.683,5.0,7,10,T. Pourchaire,ART Grand Prix,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:39.260,3.246,0.578,155.331,1:58.083,5.0,8,17,A. Iwasa,DAMS,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:41.510,5.496,2.250,155.211,1:58.351,4.0,9,24,J. Hughes,Van Amersfoort Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:43.395,7.381,1.885,155.111,1:58.361,6.0,10,16,R. Nissany,DAMS,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:43.587,7.573,0.192,155.101,1:57.798,13.0,11,3,J. Doohan,Virtuosi Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:44.041,8.027,0.454,155.077,1:57.867,12.0,12,8,J. Vips,Hitech Grand Prix,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:45.011,8.997,0.970,155.025,1:59.372,7.0,13,25,A. Cordeel,Van Amersfoort Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+21,48:45.304,9.290,0.293,155.01,1:59.279,12.0,14,12,C. Novalak,MP Motorsport,Baku,Sprint Race,,Round 6 ,2022-06-12
+20,46:36.325,DNF,-,154.431,1:58.371,7.0,15,15,R. Boschung,Campos Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+20,46:36.598,DNF,-,154.416,1:57.911,13.0,16,21,C. Williams,Trident,Baku,Sprint Race,,Round 6 ,2022-06-12
+20,46:37.164,DNF,-,154.385,1:58.497,9.0,17,4,M. Sato,Virtuosi Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+20,46:37.229,DNF,-,154.381,1:58.493,11.0,18,23,C. Bölükbasi,Charouz Racing System,Baku,Sprint Race,,Round 6 ,2022-06-12
+20,48:46.667,1 LAP,129.438,147.554,1:58.354,9.0,19,14,O. Caldwell,Campos Racing,Baku,Sprint Race,,Round 6 ,2022-06-12
+18,40:44.593,DNF,-,158.971,1:57.353,13.0,20,20,R. Verschoor,Trident,Baku,Sprint Race,,Round 6 ,2022-06-12
+12,1:53.762,-,-,189.965,,,1,8,J. Vips,Hitech Grand Prix,Baku,Qualifying Session,17:08:55,Round 6 ,2022-06-12
+12,1:53.925,0.163,0.163,189.693,,,2,5,L. Lawson,Carlin,Baku,Qualifying Session,17:10:56,Round 6 ,2022-06-12
+11,1:53.973,0.211,0.048,189.613,,,3,1,D. Hauger,PREMA Racing,Baku,Qualifying Session,17:08:32,Round 6 ,2022-06-12
+12,1:53.977,0.215,0.004,189.606,,,4,7,M. Armstrong,Hitech Grand Prix,Baku,Qualifying Session,17:10:48,Round 6 ,2022-06-12
+11,1:54.000,0.238,0.023,189.568,,,5,11,F. Drugovich,MP Motorsport,Baku,Qualifying Session,17:08:43,Round 6 ,2022-06-12
+13,1:54.029,0.267,0.029,189.52,,,6,20,R. Verschoor,Trident,Baku,Qualifying Session,17:10:22,Round 6 ,2022-06-12
+12,1:54.194,0.432,0.165,189.246,,,7,6,L. Sargeant,Carlin,Baku,Qualifying Session,17:11:00,Round 6 ,2022-06-12
+12,1:54.201,0.439,0.007,189.234,,,8,2,J. Daruvala,PREMA Racing,Baku,Qualifying Session,17:10:33,Round 6 ,2022-06-12
+12,1:54.247,0.485,0.046,189.158,,,9,9,F. Vesti,ART Grand Prix,Baku,Qualifying Session,17:10:46,Round 6 ,2022-06-12
+13,1:54.356,0.594,0.109,188.978,,,10,24,J. Hughes,Van Amersfoort Racing,Baku,Qualifying Session,17:10:29,Round 6 ,2022-06-12
+12,1:54.363,0.601,0.007,188.966,,,11,3,J. Doohan,Virtuosi Racing,Baku,Qualifying Session,17:10:52,Round 6 ,2022-06-12
+12,1:54.440,0.678,0.077,188.839,,,12,10,T. Pourchaire,ART Grand Prix,Baku,Qualifying Session,17:10:42,Round 6 ,2022-06-12
+8,1:54.483,0.721,0.043,188.768,,,13,17,A. Iwasa,DAMS,Baku,Qualifying Session,16:36:57,Round 6 ,2022-06-12
+12,1:54.727,0.965,0.244,188.367,,,14,16,R. Nissany,DAMS,Baku,Qualifying Session,17:10:25,Round 6 ,2022-06-12
+12,1:54.732,0.970,0.005,188.358,,,15,4,M. Sato,Virtuosi Racing,Baku,Qualifying Session,17:10:54,Round 6 ,2022-06-12
+12,1:54.738,0.976,0.006,188.349,,,16,22,E. Fittipaldi,Charouz Racing System,Baku,Qualifying Session,17:10:18,Round 6 ,2022-06-12
+13,1:55.010,1.248,0.272,187.903,,,17,21,C. Williams,Trident,Baku,Qualifying Session,17:08:31,Round 6 ,2022-06-12
+11,1:55.140,1.378,0.130,187.691,,,18,15,R. Boschung,Campos Racing,Baku,Qualifying Session,17:10:33,Round 6 ,2022-06-12
+12,1:55.321,1.559,0.181,187.396,,,19,25,A. Cordeel,Van Amersfoort Racing,Baku,Qualifying Session,17:08:27,Round 6 ,2022-06-12
+13,1:55.456,1.694,0.135,187.177,,,20,12,C. Novalak,MP Motorsport,Baku,Qualifying Session,17:10:45,Round 6 ,2022-06-12
+12,1:55.732,1.970,0.276,186.731,,,21,23,C. Bölükbasi,Charouz Racing System,Baku,Qualifying Session,17:10:20,Round 6 ,2022-06-12
+12,1:56.247,2.485,0.515,185.904,,,22,14,O. Caldwell,Campos Racing,Baku,Qualifying Session,17:10:39,Round 6 ,2022-06-12
+11,1:55.924,-,-,186.422,,,1,8,J. Vips,Hitech Grand Prix,Baku,Free Practice,13:20:57,Round 6 ,2022-06-12
+14,1:56.001,0.077,0.077,186.298,,,2,5,L. Lawson,Carlin,Baku,Free Practice,13:21:01,Round 6 ,2022-06-12
+11,1:56.238,0.314,0.237,185.918,,,3,7,M. Armstrong,Hitech Grand Prix,Baku,Free Practice,13:20:55,Round 6 ,2022-06-12
+12,1:56.414,0.490,0.176,185.637,,,4,3,J. Doohan,Virtuosi Racing,Baku,Free Practice,13:21:04,Round 6 ,2022-06-12
+14,1:56.532,0.608,0.118,185.449,,,5,9,F. Vesti,ART Grand Prix,Baku,Free Practice,13:20:51,Round 6 ,2022-06-12
+12,1:56.698,0.774,0.166,185.185,,,6,2,J. Daruvala,PREMA Racing,Baku,Free Practice,13:20:16,Round 6 ,2022-06-12
+12,1:56.698,0.774,0.000,185.185,,,7,11,F. Drugovich,MP Motorsport,Baku,Free Practice,13:20:45,Round 6 ,2022-06-12
+9,1:56.911,0.987,0.213,184.848,,,8,15,R. Boschung,Campos Racing,Baku,Free Practice,12:54:16,Round 6 ,2022-06-12
+14,1:56.920,0.996,0.009,184.834,,,9,20,R. Verschoor,Trident,Baku,Free Practice,13:20:34,Round 6 ,2022-06-12
+12,1:56.953,1.029,0.033,184.781,,,10,1,D. Hauger,PREMA Racing,Baku,Free Practice,13:20:13,Round 6 ,2022-06-12
+12,1:57.183,1.259,0.230,184.419,,,11,17,A. Iwasa,DAMS,Baku,Free Practice,13:20:48,Round 6 ,2022-06-12
+14,1:57.247,1.323,0.064,184.318,,,12,6,L. Sargeant,Carlin,Baku,Free Practice,13:21:00,Round 6 ,2022-06-12
+12,1:57.353,1.429,0.106,184.152,,,13,4,M. Sato,Virtuosi Racing,Baku,Free Practice,13:21:09,Round 6 ,2022-06-12
+14,1:57.481,1.557,0.128,183.951,,,14,22,E. Fittipaldi,Charouz Racing System,Baku,Free Practice,13:20:26,Round 6 ,2022-06-12
+14,1:57.548,1.624,0.067,183.846,,,15,10,T. Pourchaire,ART Grand Prix,Baku,Free Practice,13:20:49,Round 6 ,2022-06-12
+13,1:57.643,1.719,0.095,183.698,,,16,21,C. Williams,Trident,Baku,Free Practice,13:21:15,Round 6 ,2022-06-12
+12,1:57.724,1.800,0.081,183.571,,,17,16,R. Nissany,DAMS,Baku,Free Practice,13:20:37,Round 6 ,2022-06-12
+12,1:58.083,2.159,0.359,183.013,,,18,25,A. Cordeel,Van Amersfoort Racing,Baku,Free Practice,13:20:32,Round 6 ,2022-06-12
+13,1:58.236,2.312,0.153,182.776,,,19,23,C. Bölükbasi,Charouz Racing System,Baku,Free Practice,13:20:40,Round 6 ,2022-06-12
+12,1:58.820,2.896,0.584,181.878,,,20,24,J. Hughes,Van Amersfoort Racing,Baku,Free Practice,13:20:25,Round 6 ,2022-06-12
+13,1:59.820,3.896,1.000,180.36,,,21,14,O. Caldwell,Campos Racing,Baku,Free Practice,13:20:48,Round 6 ,2022-06-12
+7,1:59.823,3.899,0.003,180.356,,,22,12,C. Novalak,MP Motorsport,Baku,Free Practice,12:50:37,Round 6 ,2022-06-12

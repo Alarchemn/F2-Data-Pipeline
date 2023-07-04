@@ -1,0 +1,85 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+23,43:15.992,-,-,172.276,1:46.545,2.0,1,21,R. Shwartzman,PREMA Racing,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,43:21.275,5.283,5.283,171.926,1:46.683,4.0,2,24,N. Mazepin,Hitech Grand Prix,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,43:22.464,6.472,1.189,171.847,1:45.114,10.0,3,11,L. Delétraz,Charouz Racing System,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,43:26.647,10.655,4.183,171.572,1:46.880,2.0,4,5,M. Armstrong,ART Grand Prix,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,43:31.125,15.133,4.478,171.277,1:47.335,10.0,5,3,G. Zhou,UNI-Virtuosi,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,43:34.556,18.564,3.431,171.053,1:47.308,4.0,6,6,C. Lundgaard,ART Grand Prix,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,43:36.733,20.741,2.177,170.91,1:47.179,10.0,7,20,M. Schumacher,PREMA Racing,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,43:39.502,23.510,2.769,170.73,1:47.209,10.0,8,15,F. Drugovich,MP Motorsport,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,43:41.344,25.352,1.842,170.61,1:48.049,4.0,9,22,R. Nissany,Trident,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,43:47.142,31.150,5.798,170.233,1:47.525,4.0,10,16,A. Markelov,BWT HWA RACELAB,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,43:47.840,31.848,0.698,170.188,1:48.375,3.0,11,23,M. Sato,Trident,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,43:55.816,39.824,7.976,169.673,1:46.875,11.0,12,2,D. Ticktum,DAMS,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,43:59.896,43.904,4.080,169.411,1:48.457,10.0,13,14,G. Alesi,MP Motorsport,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,44:00.419,44.427,0.523,169.377,1:46.850,11.0,14,1,S. Gelael,DAMS,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,44:05.140,49.148,4.721,169.075,1:46.140,10.0,15,7,Y. Tsunoda,Carlin,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+23,44:19.455,63.463,14.315,168.165,1:46.006,12.0,16,4,C. Ilott,UNI-Virtuosi,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+22,41:50.160,DNF,-,170.405,1:47.115,11.0,17,9,J. Aitken,Campos Racing,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+22,43:15.266,DNF,-,164.817,1:46.117,10.0,18,10,G. Samaia,Campos Racing,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+21,39:43.028,DNF,-,171.32,1:47.087,10.0,19,12,P. Piquet,Charouz Racing System,Sakhir,Sprint Race,,Round 11 ,2020-11-29
+32,58:24.004,-,-,177.675,1:46.808,17.0,1,15,F. Drugovich,MP Motorsport,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,58:38.837,14.833,14.833,176.926,1:46.480,15.0,2,4,C. Ilott,UNI-Virtuosi,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,58:43.380,19.376,4.543,176.698,1:47.039,15.0,3,8,J. Daruvala,Carlin,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,58:44.274,20.270,0.894,176.653,1:47.001,21.0,4,20,M. Schumacher,PREMA Racing,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,58:52.297,28.293,8.023,176.252,1:47.269,20.0,5,24,N. Mazepin,Hitech Grand Prix,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,58:52.594,28.590,0.297,176.237,1:46.316,21.0,6,7,Y. Tsunoda,Carlin,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,58:55.365,31.361,2.771,176.099,1:47.720,4.0,7,5,M. Armstrong,ART Grand Prix,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:07.872,43.868,12.507,175.478,1:46.595,11.0,8,21,R. Shwartzman,PREMA Racing,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:10.963,46.959,3.091,175.326,1:47.501,14.0,9,2,D. Ticktum,DAMS,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:11.331,47.327,0.368,175.308,1:46.653,19.0,10,9,J. Aitken,Campos Racing,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:13.178,49.174,1.847,175.216,1:47.785,20.0,11,12,P. Piquet,Charouz Racing System,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:13.298,49.294,0.120,175.21,1:46.155,15.0,12,25,L. Ghiotto,Hitech Grand Prix,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:14.594,50.590,1.296,175.147,1:47.575,16.0,13,1,S. Gelael,DAMS,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:17.779,53.775,3.185,174.99,1:46.313,22.0,14,3,G. Zhou,UNI-Virtuosi,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:17.820,53.816,0.041,174.988,1:47.889,19.0,15,22,R. Nissany,Trident,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:19.961,55.957,2.141,174.883,1:47.284,19.0,16,11,L. Delétraz,Charouz Racing System,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:25.492,61.488,5.531,174.611,1:46.526,18.0,17,14,G. Alesi,MP Motorsport,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:25.843,61.839,0.351,174.594,1:47.966,21.0,18,17,T. Pourchaire,BWT HWA RACELAB,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:27.090,63.086,1.247,174.533,1:47.018,18.0,19,6,C. Lundgaard,ART Grand Prix,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:29.580,65.576,2.490,174.411,1:47.930,16.0,20,23,M. Sato,Trident,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:30.760,66.756,1.180,174.354,1:48.099,19.0,21,10,G. Samaia,Campos Racing,Sakhir,Feature Race,,Round 11 ,2020-11-29
+32,59:40.023,76.019,9.263,173.903,1:47.163,8.0,22,16,A. Markelov,BWT HWA RACELAB,Sakhir,Feature Race,,Round 11 ,2020-11-29
+9,1:41.479,-,-,191.992,,,1,4,C. Ilott,UNI-Virtuosi,Sakhir,Qualifying Session,16:22:23,Round 11 ,2020-11-29
+12,1:41.870,0.391,0.391,191.255,,,2,15,F. Drugovich,MP Motorsport,Sakhir,Qualifying Session,16:31:42,Round 11 ,2020-11-29
+11,1:42.047,0.568,0.177,190.923,,,3,2,D. Ticktum,DAMS,Sakhir,Qualifying Session,16:31:53,Round 11 ,2020-11-29
+9,1:42.052,0.573,0.005,190.914,,,4,5,M. Armstrong,ART Grand Prix,Sakhir,Qualifying Session,16:20:58,Round 11 ,2020-11-29
+10,1:42.065,0.586,0.013,190.89,,,5,3,G. Zhou,UNI-Virtuosi,Sakhir,Qualifying Session,16:22:31,Round 11 ,2020-11-29
+11,1:42.074,0.595,0.009,190.873,,,6,14,G. Alesi,MP Motorsport,Sakhir,Qualifying Session,16:43:34,Round 11 ,2020-11-29
+9,1:42.139,0.660,0.065,190.751,,,7,24,N. Mazepin,Hitech Grand Prix,Sakhir,Qualifying Session,16:43:25,Round 11 ,2020-11-29
+10,1:42.191,0.712,0.052,190.654,,,8,8,J. Daruvala,Carlin,Sakhir,Qualifying Session,16:43:49,Round 11 ,2020-11-29
+9,1:42.259,0.780,0.068,190.527,,,9,6,C. Lundgaard,ART Grand Prix,Sakhir,Qualifying Session,16:43:22,Round 11 ,2020-11-29
+9,1:42.283,0.804,0.024,190.483,,,10,20,M. Schumacher,PREMA Racing,Sakhir,Qualifying Session,16:43:14,Round 11 ,2020-11-29
+12,1:42.316,0.837,0.033,190.421,,,11,11,L. Delétraz,Charouz Racing System,Sakhir,Qualifying Session,16:31:44,Round 11 ,2020-11-29
+9,1:42.338,0.859,0.022,190.38,,,12,22,R. Nissany,Trident,Sakhir,Qualifying Session,16:21:04,Round 11 ,2020-11-29
+12,1:42.481,1.002,0.143,190.115,,,13,12,P. Piquet,Charouz Racing System,Sakhir,Qualifying Session,16:43:45,Round 11 ,2020-11-29
+12,1:42.654,1.175,0.173,189.794,,,14,21,R. Shwartzman,PREMA Racing,Sakhir,Qualifying Session,16:47:18,Round 11 ,2020-11-29
+10,1:42.848,1.369,0.194,189.436,,,15,9,J. Aitken,Campos Racing,Sakhir,Qualifying Session,16:21:12,Round 11 ,2020-11-29
+10,1:42.967,1.488,0.119,189.217,,,16,17,T. Pourchaire,BWT HWA RACELAB,Sakhir,Qualifying Session,16:44:14,Round 11 ,2020-11-29
+11,1:43.170,1.691,0.203,188.845,,,17,23,M. Sato,Trident,Sakhir,Qualifying Session,16:43:20,Round 11 ,2020-11-29
+11,1:43.191,1.712,0.021,188.807,,,18,1,S. Gelael,DAMS,Sakhir,Qualifying Session,16:31:49,Round 11 ,2020-11-29
+10,1:43.286,1.807,0.095,188.633,,,19,10,G. Samaia,Campos Racing,Sakhir,Qualifying Session,16:22:19,Round 11 ,2020-11-29
+8,1:43.366,1.887,0.080,188.487,,,20,25,L. Ghiotto,Hitech Grand Prix,Sakhir,Qualifying Session,16:21:27,Round 11 ,2020-11-29
+11,1:44.019,2.540,0.653,187.304,,,21,16,A. Markelov,BWT HWA RACELAB,Sakhir,Qualifying Session,16:44:09,Round 11 ,2020-11-29
+12,1:42.660,-,-,189.783,,,1,24,N. Mazepin,Hitech Grand Prix,Sakhir,Free Practice,13:16:20,Round 11 ,2020-11-29
+14,1:42.782,0.122,0.122,189.558,,,2,8,J. Daruvala,Carlin,Sakhir,Free Practice,13:12:50,Round 11 ,2020-11-29
+15,1:42.918,0.258,0.136,189.307,,,3,7,Y. Tsunoda,Carlin,Sakhir,Free Practice,13:12:57,Round 11 ,2020-11-29
+14,1:42.965,0.305,0.047,189.221,,,4,2,D. Ticktum,DAMS,Sakhir,Free Practice,13:10:56,Round 11 ,2020-11-29
+16,1:43.064,0.404,0.099,189.039,,,5,6,C. Lundgaard,ART Grand Prix,Sakhir,Free Practice,13:08:56,Round 11 ,2020-11-29
+13,1:43.079,0.419,0.015,189.012,,,6,25,L. Ghiotto,Hitech Grand Prix,Sakhir,Free Practice,13:15:22,Round 11 ,2020-11-29
+14,1:43.100,0.440,0.021,188.973,,,7,21,R. Shwartzman,PREMA Racing,Sakhir,Free Practice,13:16:31,Round 11 ,2020-11-29
+12,1:43.128,0.468,0.028,188.922,,,8,3,G. Zhou,UNI-Virtuosi,Sakhir,Free Practice,13:12:47,Round 11 ,2020-11-29
+13,1:43.142,0.482,0.014,188.896,,,9,15,F. Drugovich,MP Motorsport,Sakhir,Free Practice,13:11:36,Round 11 ,2020-11-29
+13,1:43.172,0.512,0.030,188.841,,,10,20,M. Schumacher,PREMA Racing,Sakhir,Free Practice,13:12:40,Round 11 ,2020-11-29
+15,1:43.201,0.541,0.029,188.788,,,11,5,M. Armstrong,ART Grand Prix,Sakhir,Free Practice,12:59:51,Round 11 ,2020-11-29
+13,1:43.270,0.610,0.069,188.662,,,12,12,P. Piquet,Charouz Racing System,Sakhir,Free Practice,13:25:16,Round 11 ,2020-11-29
+15,1:43.490,0.830,0.220,188.261,,,13,11,L. Delétraz,Charouz Racing System,Sakhir,Free Practice,13:12:59,Round 11 ,2020-11-29
+14,1:43.491,0.831,0.001,188.259,,,14,4,C. Ilott,UNI-Virtuosi,Sakhir,Free Practice,13:17:24,Round 11 ,2020-11-29
+14,1:43.835,1.175,0.344,187.636,,,15,14,G. Alesi,MP Motorsport,Sakhir,Free Practice,13:23:06,Round 11 ,2020-11-29
+14,1:44.009,1.349,0.174,187.322,,,16,9,J. Aitken,Campos Racing,Sakhir,Free Practice,13:13:05,Round 11 ,2020-11-29
+14,1:44.420,1.760,0.411,186.584,,,17,17,T. Pourchaire,BWT HWA RACELAB,Sakhir,Free Practice,13:17:01,Round 11 ,2020-11-29
+14,1:44.915,2.255,0.495,185.704,,,18,22,R. Nissany,Trident,Sakhir,Free Practice,13:22:55,Round 11 ,2020-11-29
+13,1:45.246,2.586,0.331,185.120,,,19,10,G. Samaia,Campos Racing,Sakhir,Free Practice,13:11:16,Round 11 ,2020-11-29
+5,2:00.250,17.590,15.004,162.022,,,20,1,S. Gelael,DAMS,Sakhir,Free Practice,12:49:01,Round 11 ,2020-11-29
+3,-,-,-,-,,,21,23,M. Sato,Trident,Sakhir,Free Practice,-,Round 11 ,2020-11-29
+2,-,-,-,-,,,22,16,A. Markelov,BWT HWA RACELAB,Sakhir,Free Practice,-,Round 11 ,2020-11-29

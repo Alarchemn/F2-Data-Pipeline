@@ -1,0 +1,81 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+35,1:01:56.611,-,-,166.213,1:29.956,19.0,1,10,T. Pourchaire,ART Grand Prix,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:56.999,0.388,0.388,166.195,1:30.151,17.0,2,22,E. Fittipaldi,Charouz Racing System,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:57.340,0.729,0.341,166.18,1:30.159,17.0,3,15,R. Boschung,Campos Racing,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:58.108,1.497,0.768,166.146,1:30.164,15.0,4,12,C. Novalak,MP Motorsport,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:58.417,1.806,0.309,166.132,1:30.118,17.0,5,17,A. Iwasa,DAMS,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:58.733,2.122,0.316,166.118,1:29.968,14.0,6,9,F. Vesti,ART Grand Prix,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:59.203,2.592,0.470,166.097,1:30.107,16.0,7,6,L. Sargeant,Carlin,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:01:59.840,3.229,0.637,166.068,1:30.485,15.0,8,23,D. Beckmann,Charouz Racing System,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:00.802,4.191,0.962,166.025,1:28.353,31.0,9,2,J. Daruvala,PREMA Racing,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:01.007,4.396,0.205,166.016,1:29.668,30.0,10,11,F. Drugovich,MP Motorsport,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:01.504,4.893,0.497,165.994,1:29.465,15.0,11,4,M. Sato,Virtuosi Racing,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:01.655,5.044,0.151,165.987,1:28.938,30.0,12,24,J. Hughes,Van Amersfoort Racing,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:03.356,6.745,0.458,165.911,1:30.050,16.0,13,14,O. Caldwell,Campos Racing,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:03.882,7.271,0.526,165.888,1:28.654,29.0,14,20,R. Verschoor,Trident,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:04.374,7.763,0.492,165.866,1:29.135,30.0,15,21,C. Williams,Trident,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:02:0.898,6.287,1.243,165.932,1:28.972,31.0,16,7,M. Armstrong,Hitech Grand Prix,Imola,Feature Race,,Round 3 ,2022-04-24
+35,1:03:18.014,81.403,73.640,162.65,1:30.517,16.0,17,25,A. Cordeel,Van Amersfoort Racing,Imola,Feature Race,,Round 3 ,2022-04-24
+25,40:50.545,-,-,179.97,1:29.286,12.0,1,7,M. Armstrong,Hitech Grand Prix,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,40:51.976,1.431,1.431,179.865,1:29.196,9.0,2,2,J. Daruvala,PREMA Racing,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,40:52.788,2.243,0.812,179.805,1:29.106,12.0,3,1,D. Hauger,PREMA Racing,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,40:53.348,2.803,0.560,179.764,1:29.263,20.0,4,16,R. Nissany,DAMS,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,40:57.590,7.045,4.242,179.454,1:29.344,17.0,5,11,F. Drugovich,MP Motorsport,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:00.366,9.821,2.776,179.251,1:29.423,17.0,6,6,L. Sargeant,Carlin,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:02.917,12.372,2.551,179.066,1:29.447,17.0,7,10,T. Pourchaire,ART Grand Prix,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:03.371,12.826,0.454,179.033,1:29.505,17.0,8,5,L. Lawson,Carlin,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:03.981,13.436,0.610,178.988,1:29.456,14.0,9,17,A. Iwasa,DAMS,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:08.259,17.714,4.278,178.678,1:29.609,14.0,10,9,F. Vesti,ART Grand Prix,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:10.724,20.179,2.465,178.5,1:29.403,12.0,11,3,J. Doohan,Virtuosi Racing,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:11.604,21.059,0.880,178.436,1:29.597,14.0,12,22,E. Fittipaldi,Charouz Racing System,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:12.038,21.493,0.434,178.405,1:29.309,14.0,13,20,R. Verschoor,Trident,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:13.487,22.942,1.449,178.3,1:29.511,15.0,14,21,C. Williams,Trident,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:13.820,23.275,0.333,178.276,1:28.841,12.0,15,8,J. Vips,Hitech Grand Prix,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:14.761,24.216,0.941,178.209,1:29.893,12.0,16,4,M. Sato,Virtuosi Racing,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:15.182,24.637,0.421,178.178,1:29.663,15.0,17,14,O. Caldwell,Campos Racing,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:16.401,25.856,1.219,178.091,1:29.643,15.0,18,24,J. Hughes,Van Amersfoort Racing,Imola,Sprint Race,,Round 3 ,2022-04-24
+25,41:16.844,26.299,0.443,178.059,1:29.670,17.0,19,12,C. Novalak,MP Motorsport,Imola,Sprint Race,,Round 3 ,2022-04-24
+14,1:40.221,-,-,176.334,,,1,8,J. Vips,Hitech Grand Prix,Imola,Qualifying Session,19:39:35,Round 3 ,2022-04-24
+13,1:40.378,0.157,0.157,176.058,,,2,17,A. Iwasa,DAMS,Imola,Qualifying Session,19:42:46,Round 3 ,2022-04-24
+15,1:40.431,0.210,0.053,175.965,,,3,3,J. Doohan,Virtuosi Racing,Imola,Qualifying Session,19:42:16,Round 3 ,2022-04-24
+13,1:40.496,0.275,0.065,175.851,,,4,15,R. Boschung,Campos Racing,Imola,Qualifying Session,19:40:43,Round 3 ,2022-04-24
+13,1:40.572,0.351,0.076,175.718,,,5,1,D. Hauger,PREMA Racing,Imola,Qualifying Session,19:42:55,Round 3 ,2022-04-24
+14,1:40.621,0.400,0.049,175.633,,,6,16,R. Nissany,DAMS,Imola,Qualifying Session,19:40:48,Round 3 ,2022-04-24
+14,1:40.862,0.641,0.241,175.213,,,7,10,T. Pourchaire,ART Grand Prix,Imola,Qualifying Session,19:40:52,Round 3 ,2022-04-24
+13,1:40.886,0.665,0.024,175.171,,,8,2,J. Daruvala,PREMA Racing,Imola,Qualifying Session,19:39:19,Round 3 ,2022-04-24
+15,1:41.004,0.783,0.118,174.967,,,9,7,M. Armstrong,Hitech Grand Prix,Imola,Qualifying Session,19:40:11,Round 3 ,2022-04-24
+14,1:41.062,0.841,0.058,174.866,,,10,6,L. Sargeant,Carlin,Imola,Qualifying Session,19:40:16,Round 3 ,2022-04-24
+13,1:41.129,0.908,0.067,174.751,,,11,23,D. Beckmann,Charouz Racing System,Imola,Qualifying Session,19:41:36,Round 3 ,2022-04-24
+14,1:41.131,0.910,0.002,174.747,,,12,11,F. Drugovich,MP Motorsport,Imola,Qualifying Session,19:40:08,Round 3 ,2022-04-24
+14,1:41.173,0.952,0.042,174.675,,,13,12,C. Novalak,MP Motorsport,Imola,Qualifying Session,19:41:10,Round 3 ,2022-04-24
+14,1:41.199,0.978,0.026,174.63,,,14,5,L. Lawson,Carlin,Imola,Qualifying Session,19:41:34,Round 3 ,2022-04-24
+13,1:41.235,1.014,0.036,174.568,,,15,22,E. Fittipaldi,Charouz Racing System,Imola,Qualifying Session,19:45:05,Round 3 ,2022-04-24
+11,1:41.434,1.213,0.199,174.225,,,16,9,F. Vesti,ART Grand Prix,Imola,Qualifying Session,19:45:31,Round 3 ,2022-04-24
+12,1:41.520,1.299,0.086,174.078,,,17,24,J. Hughes,Van Amersfoort Racing,Imola,Qualifying Session,19:41:38,Round 3 ,2022-04-24
+14,1:41.592,1.371,0.072,173.954,,,18,25,A. Cordeel,Van Amersfoort Racing,Imola,Qualifying Session,19:40:39,Round 3 ,2022-04-24
+11,1:42.144,1.923,0.552,173.014,,,19,20,R. Verschoor,Trident,Imola,Qualifying Session,19:41:31,Round 3 ,2022-04-24
+12,1:42.498,2.277,0.354,172.417,,,20,21,C. Williams,Trident,Imola,Qualifying Session,19:40:27,Round 3 ,2022-04-24
+4,1:42.954,2.733,0.456,171.653,,,21,14,O. Caldwell,Campos Racing,Imola,Qualifying Session,19:17:30,Round 3 ,2022-04-24
+15,1:43.311,3.090,0.357,171.06,,,22,4,M. Sato,Virtuosi Racing,Imola,Qualifying Session,19:16:20,Round 3 ,2022-04-24
+5,1:41.996,-,-,173.265,,,1,15,R. Boschung,Campos Racing,Imola,Free Practice,15:38:40,Round 3 ,2022-04-24
+5,1:42.277,0.281,0.281,172.789,,,2,8,J. Vips,Hitech Grand Prix,Imola,Free Practice,15:39:04,Round 3 ,2022-04-24
+4,1:43.362,1.366,1.085,170.975,,,3,2,J. Daruvala,PREMA Racing,Imola,Free Practice,15:39:20,Round 3 ,2022-04-24
+5,1:43.968,1.972,0.606,169.979,,,4,12,C. Novalak,MP Motorsport,Imola,Free Practice,15:38:55,Round 3 ,2022-04-24
+5,1:44.083,2.087,0.115,169.791,,,5,4,M. Sato,Virtuosi Racing,Imola,Free Practice,15:39:17,Round 3 ,2022-04-24
+5,1:44.316,2.320,0.233,169.412,,,6,11,F. Drugovich,MP Motorsport,Imola,Free Practice,15:38:52,Round 3 ,2022-04-24
+4,1:44.629,2.633,0.313,168.905,,,7,1,D. Hauger,PREMA Racing,Imola,Free Practice,15:39:24,Round 3 ,2022-04-24
+4,1:44.704,2.708,0.075,168.784,,,8,20,R. Verschoor,Trident,Imola,Free Practice,15:39:27,Round 3 ,2022-04-24
+5,1:44.741,2.745,0.037,168.724,,,9,23,D. Beckmann,Charouz Racing System,Imola,Free Practice,15:39:28,Round 3 ,2022-04-24
+5,1:44.838,2.842,0.097,168.568,,,10,5,L. Lawson,Carlin,Imola,Free Practice,15:39:10,Round 3 ,2022-04-24
+5,1:45.102,3.106,0.264,168.145,,,11,3,J. Doohan,Virtuosi Racing,Imola,Free Practice,15:39:15,Round 3 ,2022-04-24
+5,1:46.251,4.255,1.149,166.326,,,12,14,O. Caldwell,Campos Racing,Imola,Free Practice,15:38:50,Round 3 ,2022-04-24
+5,1:46.755,4.759,0.504,165.541,,,13,10,T. Pourchaire,ART Grand Prix,Imola,Free Practice,15:39:00,Round 3 ,2022-04-24
+4,1:47.104,5.108,0.349,165.002,,,14,16,R. Nissany,DAMS,Imola,Free Practice,15:39:30,Round 3 ,2022-04-24
+5,1:47.602,5.606,0.498,164.238,,,15,9,F. Vesti,ART Grand Prix,Imola,Free Practice,15:39:04,Round 3 ,2022-04-24
+3,1:50.410,8.414,2.808,160.061,,,16,21,C. Williams,Trident,Imola,Free Practice,15:27:55,Round 3 ,2022-04-24
+4,1:52.885,10.889,2.475,156.552,,,17,25,A. Cordeel,Van Amersfoort Racing,Imola,Free Practice,15:27:44,Round 3 ,2022-04-24
+4,1:54.422,12.426,1.537,154.449,,,18,24,J. Hughes,Van Amersfoort Racing,Imola,Free Practice,15:27:28,Round 3 ,2022-04-24
+3,-,-,-,-,,,19,22,E. Fittipaldi,Charouz Racing System,Imola,Free Practice,-,Round 3 ,2022-04-24
+3,-,-,-,-,,,20,17,A. Iwasa,DAMS,Imola,Free Practice,-,Round 3 ,2022-04-24
+2,-,-,-,-,,,21,6,L. Sargeant,Carlin,Imola,Free Practice,-,Round 3 ,2022-04-24
+1,-,-,-,-,,,22,7,M. Armstrong,Hitech Grand Prix,Imola,Free Practice,-,Round 3 ,2022-04-24

@@ -1,0 +1,73 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+30,41:51.284,-,-,143.51,1:23.012,27.0,1,18,N. de Vries,Rapax,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:01.118,9.834,-,142.95,1:23.206,4.0,2,19,J. Cecotto,Rapax,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:01.699,10.415,0.581,142.917,1:23.331,8.0,3,4,G. Malja,Racing Engineering,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:02.165,10.881,0.466,142.891,1:21.999,12.0,4,5,L. Ghiotto,RUSSIAN TIME,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:02.542,11.258,0.377,142.87,1:21.674,8.0,5,6,A. Markelov,RUSSIAN TIME,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:03.185,11.901,0.643,142.833,1:22.014,12.0,6,8,A. Albon,ART Grand Prix,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:04.911,13.627,1.726,142.736,1:22.419,4.0,7,7,N. Matsushita,ART Grand Prix,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:05.254,13.970,0.343,142.716,1:22.257,11.0,8,15,J. King,MP Motorsport,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:20.277,28.993,15.023,141.872,1:22.557,10.0,9,9,O. Rowland,DAMS,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:20.335,29.051,0.058,141.869,1:23.024,20.0,10,2,A. Fuoco,PREMA Racing,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:25.325,34.041,4.990,141.591,1:23.493,14.0,11,16,N. Jeffri,Trident,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:34.016,42.732,8.691,141.109,1:23.272,21.0,12,21,S. Gelael,Pertamina Arden,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:34.714,43.430,0.698,141.07,1:22.504,25.0,13,10,N. Latifi,DAMS,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:37.707,46.423,2.993,140.905,1:23.756,6.0,14,14,S. Sette Câmara,MP Motorsport,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:38.291,47.007,0.584,140.873,1:23.555,22.0,15,12,R. Visoiu,Campos Racing,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:44.463,53.179,6.172,140.534,1:23.308,26.0,16,3,L. Delétraz,Racing Engineering,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+30,42:46.961,55.677,2.498,140.397,1:22.782,29.0,17,17,S. Canamasas,Trident,Monte Carlo,Sprint Race,,Round 3 ,2017-05-27
+41,1:00:46.545,-,-,135.07,1:21.562,27.0,1,9,O. Rowland,DAMS,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:00:47.409,0.864,-,135.038,1:21.592,30.0,2,6,A. Markelov,RUSSIAN TIME,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:00.314,13.769,12.905,134.562,1:21.654,28.0,3,7,N. Matsushita,ART Grand Prix,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:06.283,19.738,5.969,134.343,1:22.198,6.0,4,8,A. Albon,ART Grand Prix,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:11.202,24.657,4.919,134.163,1:23.113,6.0,5,5,L. Ghiotto,RUSSIAN TIME,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:14.627,28.082,3.425,134.038,1:23.369,34.0,6,4,G. Malja,Racing Engineering,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:14.998,28.453,0.371,134.024,1:23.146,17.0,7,18,N. de Vries,Rapax,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:15.670,29.125,0.672,134.0,1:23.402,28.0,8,19,J. Cecotto,Rapax,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:32.097,45.552,16.427,133.404,1:22.910,6.0,9,15,J. King,MP Motorsport,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:33.126,46.581,1.029,133.367,1:22.875,6.0,10,17,S. Canamasas,Trident,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:34.363,47.818,1.237,133.322,1:23.702,18.0,11,2,A. Fuoco,PREMA Racing,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:37.317,50.772,2.954,133.215,1:23.588,5.0,12,11,R. Boschung,Campos Racing,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+41,1:01:40.239,53.694,2.922,133.11,1:23.313,17.0,13,21,S. Gelael,Pertamina Arden,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+40,1:01:37.787,1 LAP,1 LAP,129.95,1:23.583,27.0,14,16,N. Jeffri,Trident,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+39,1:01:58.772,2 LAPS,1 LAP,125.986,1:21.983,27.0,15,3,L. Delétraz,Racing Engineering,Monte Carlo,Feature Race,,Round 3 ,2017-05-27
+11,1:19.321,-,-,151.45,,,1,8,A. Albon,ART Grand Prix,Monte Carlo,Qualifying Group B,16:52:46,Round 3 ,2017-05-27
+10,1:19.647,0.326,-,150.83,,,2,6,A. Markelov,RUSSIAN TIME,Monte Carlo,Qualifying Group B,16:55:23,Round 3 ,2017-05-27
+8,1:19.803,0.482,0.156,150.535,,,3,20,N. Nato,Pertamina Arden,Monte Carlo,Qualifying Group B,16:50:23,Round 3 ,2017-05-27
+9,1:19.814,0.493,0.011,150.514,,,4,18,N. de Vries,Rapax,Monte Carlo,Qualifying Group B,16:50:53,Round 3 ,2017-05-27
+9,1:20.042,0.721,0.228,150.086,,,5,10,N. Latifi,DAMS,Monte Carlo,Qualifying Group B,16:53:02,Round 3 ,2017-05-27
+11,1:20.282,0.961,0.240,149.637,,,6,4,G. Malja,Racing Engineering,Monte Carlo,Qualifying Group B,16:53:13,Round 3 ,2017-05-27
+11,1:20.593,1.272,0.311,149.06,,,7,2,A. Fuoco,PREMA Racing,Monte Carlo,Qualifying Group B,16:55:33,Round 3 ,2017-05-27
+10,1:20.867,1.546,0.274,148.555,,,8,12,R. Visoiu,Campos Racing,Monte Carlo,Qualifying Group B,16:53:41,Round 3 ,2017-05-27
+11,1:21.239,1.918,0.372,147.874,,,9,16,N. Jeffri,Trident,Monte Carlo,Qualifying Group B,16:52:52,Round 3 ,2017-05-27
+11,1:21.271,1.950,0.032,147.816,,,10,14,S. Sette Câmara,MP Motorsport,Monte Carlo,Qualifying Group B,16:53:09,Round 3 ,2017-05-27
+10,1:19.309,-,-,151.473,,,1,1,C. Leclerc,PREMA Racing,Monte Carlo,Qualifying Group A,16:29:15,Round 3 ,2017-05-27
+9,1:19.541,0.232,-,151.031,,,2,9,O. Rowland,DAMS,Monte Carlo,Qualifying Group A,16:26:26,Round 3 ,2017-05-27
+10,1:19.922,0.613,0.381,150.311,,,3,7,N. Matsushita,ART Grand Prix,Monte Carlo,Qualifying Group A,16:28:54,Round 3 ,2017-05-27
+10,1:20.058,0.749,0.136,150.056,,,4,15,J. King,MP Motorsport,Monte Carlo,Qualifying Group A,16:30:27,Round 3 ,2017-05-27
+9,1:20.089,0.780,0.031,149.998,,,5,5,L. Ghiotto,RUSSIAN TIME,Monte Carlo,Qualifying Group A,16:29:35,Round 3 ,2017-05-27
+11,1:20.272,0.963,0.183,149.656,,,6,21,S. Gelael,Pertamina Arden,Monte Carlo,Qualifying Group A,16:31:23,Round 3 ,2017-05-27
+11,1:20.413,1.104,0.141,149.393,,,7,19,J. Cecotto,Rapax,Monte Carlo,Qualifying Group A,16:24:31,Round 3 ,2017-05-27
+11,1:20.415,1.106,0.002,149.39,,,8,17,S. Canamasas,Trident,Monte Carlo,Qualifying Group A,16:29:29,Round 3 ,2017-05-27
+12,1:21.592,2.283,1.177,147.235,,,9,3,L. Delétraz,Racing Engineering,Monte Carlo,Qualifying Group A,16:30:32,Round 3 ,2017-05-27
+10,1:21.664,2.355,0.072,147.105,,,10,11,R. Boschung,Campos Racing,Monte Carlo,Qualifying Group A,16:29:20,Round 3 ,2017-05-27
+25,1:19.722,-,-,150.688,,,1,1,C. Leclerc,PREMA Racing,Monte Carlo,Free Practice,12:35:05,Round 3 ,2017-05-27
+23,1:19.861,0.139,-,150.426,,,2,17,S. Canamasas,Trident,Monte Carlo,Free Practice,12:30:59,Round 3 ,2017-05-27
+24,1:19.868,0.146,0.007,150.413,,,3,9,O. Rowland,DAMS,Monte Carlo,Free Practice,12:46:00,Round 3 ,2017-05-27
+25,1:20.058,0.336,0.190,150.056,,,4,20,N. Nato,Pertamina Arden,Monte Carlo,Free Practice,12:34:34,Round 3 ,2017-05-27
+26,1:20.366,0.644,0.308,149.481,,,5,8,A. Albon,ART Grand Prix,Monte Carlo,Free Practice,12:38:15,Round 3 ,2017-05-27
+24,1:20.515,0.793,0.149,149.204,,,6,5,L. Ghiotto,RUSSIAN TIME,Monte Carlo,Free Practice,12:38:46,Round 3 ,2017-05-27
+26,1:20.530,0.808,0.015,149.176,,,7,18,N. de Vries,Rapax,Monte Carlo,Free Practice,12:30:28,Round 3 ,2017-05-27
+23,1:20.540,0.818,0.010,149.158,,,8,6,A. Markelov,RUSSIAN TIME,Monte Carlo,Free Practice,12:40:01,Round 3 ,2017-05-27
+26,1:20.866,1.144,0.326,148.556,,,9,10,N. Latifi,DAMS,Monte Carlo,Free Practice,12:37:38,Round 3 ,2017-05-27
+22,1:20.944,1.222,0.078,148.413,,,10,19,J. Cecotto,Rapax,Monte Carlo,Free Practice,12:32:39,Round 3 ,2017-05-27
+25,1:21.013,1.291,0.069,148.287,,,11,15,J. King,MP Motorsport,Monte Carlo,Free Practice,12:24:24,Round 3 ,2017-05-27
+23,1:21.099,1.377,0.086,148.13,,,12,21,S. Gelael,Pertamina Arden,Monte Carlo,Free Practice,12:36:40,Round 3 ,2017-05-27
+26,1:21.103,1.381,0.004,148.122,,,13,12,R. Visoiu,Campos Racing,Monte Carlo,Free Practice,12:32:33,Round 3 ,2017-05-27
+26,1:21.123,1.401,0.020,148.086,,,14,7,N. Matsushita,ART Grand Prix,Monte Carlo,Free Practice,12:33:23,Round 3 ,2017-05-27
+26,1:21.305,1.583,0.182,147.754,,,15,4,G. Malja,Racing Engineering,Monte Carlo,Free Practice,12:32:14,Round 3 ,2017-05-27
+23,1:21.791,2.069,0.486,146.876,,,16,2,A. Fuoco,PREMA Racing,Monte Carlo,Free Practice,12:38:09,Round 3 ,2017-05-27
+24,1:21.987,2.265,0.196,146.525,,,17,3,L. Delétraz,Racing Engineering,Monte Carlo,Free Practice,12:30:43,Round 3 ,2017-05-27
+26,1:22.064,2.342,0.077,146.388,,,18,14,S. Sette Câmara,MP Motorsport,Monte Carlo,Free Practice,12:35:00,Round 3 ,2017-05-27
+26,1:22.111,2.389,0.047,146.304,,,19,11,R. Boschung,Campos Racing,Monte Carlo,Free Practice,12:30:16,Round 3 ,2017-05-27
+24,1:22.130,2.408,0.019,146.27,,,20,16,N. Jeffri,Trident,Monte Carlo,Free Practice,12:36:00,Round 3 ,2017-05-27

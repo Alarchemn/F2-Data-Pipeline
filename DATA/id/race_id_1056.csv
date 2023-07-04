@@ -1,0 +1,87 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+37,56:56.729,-,-,181.418,1:30.075,3.0,1,8,O. Bearman,PREMA Racing,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,56:59.573,2.844,2.844,181.267,1:30.318,4.0,2,4,E. Fittipaldi,Carlin,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:00.207,3.478,0.634,181.234,1:29.347,27.0,3,6,V. Martins,ART Grand Prix,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:05.752,9.023,5.545,180.94,1:30.554,26.0,4,11,A. Iwasa,DAMS,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:06.344,9.615,0.592,180.909,1:28.577,27.0,5,7,F. Vesti,PREMA Racing,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:13.820,17.091,7.476,180.515,1:30.472,2.0,6,14,J. Doohan,Invicta Virtuosi Racing,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:17.144,20.415,3.324,180.341,1:30.416,4.0,7,5,T. Pourchaire,ART Grand Prix,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:18.012,21.283,0.868,180.295,1:30.198,12.0,8,1,D. Hauger,MP Motorsport,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:18.612,21.883,0.600,180.264,1:29.863,24.0,9,12,A. Leclerc,DAMS,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:31.342,34.613,12.730,179.599,1:29.709,25.0,10,22,R. Verschoor,Van Amersfoort Racing,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:38.763,42.034,7.421,179.214,1:30.232,11.0,11,23,J. Correa,Van Amersfoort Racing,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:39.616,42.887,0.853,179.169,1:30.998,14.0,12,20,R. Stanek,Trident,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:40.221,43.492,0.605,179.138,1:29.960,26.0,13,9,J. Crawford,Hitech Pulse-Eight,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:42.282,45.553,2.061,179.031,1:29.640,21.0,14,2,J. Daruvala,MP Motorsport,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:55.016,58.287,12.734,178.375,1:30.813,8.0,15,25,R. Boschung,Campos Racing,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:57.382,60.653,2.366,178.254,1:28.887,31.0,16,3,Z. Maloney,Carlin,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,57:59.415,62.686,2.033,178.15,1:29.748,31.0,17,24,K. Maini,Campos Racing,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,58:01.012,64.283,1.597,178.068,1:29.872,22.0,18,16,R. Nissany,PHM Racing by Charouz,Barcelona,Feature Race,,Round 7 ,2023-06-04
+37,58:17.825,81.096,16.813,177.212,1:31.199,26.0,19,15,A. Cordeel,Invicta Virtuosi Racing,Barcelona,Feature Race,,Round 7 ,2023-06-04
+36,57:06.814,1 LAP,1 LAP,175.992,1:29.289,31.0,20,10,I. Hadjar,Hitech Pulse-Eight,Barcelona,Feature Race,,Round 7 ,2023-06-04
+36,57:06.862,1 LAP,0.048,175.99,1:27.474,35.0,21,21,C. Novalak,Trident,Barcelona,Feature Race,,Round 7 ,2023-06-04
+36,58:46.420,1 LAP,99.558,171.021,1:30.627,32.0,22,17,B. Benavides,PHM Racing by Charouz,Barcelona,Feature Race,,Round 7 ,2023-06-04
+26,47:22.796,-,-,153.173,1:28.558,26.0,1,7,F. Vesti,PREMA Racing,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:23.900,1.104,1.104,153.114,1:28.422,26.0,2,5,T. Pourchaire,ART Grand Prix,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:27.422,4.626,3.522,152.924,1:29.355,26.0,3,6,V. Martins,ART Grand Prix,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:27.980,5.184,0.558,152.894,1:29.385,26.0,4,1,D. Hauger,MP Motorsport,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:28.457,5.661,0.477,152.869,1:29.365,26.0,5,14,J. Doohan,Invicta Virtuosi Racing,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:29.816,7.020,1.359,152.796,1:30.058,26.0,6,22,R. Verschoor,Van Amersfoort Racing,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:30.282,7.486,0.466,152.771,1:29.935,26.0,7,8,O. Bearman,PREMA Racing,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:32.660,9.864,2.378,152.644,1:30.666,25.0,8,11,A. Iwasa,DAMS,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:33.011,10.215,0.351,152.625,1:30.667,25.0,9,12,A. Leclerc,DAMS,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:35.183,12.387,2.172,152.509,1:31.138,26.0,10,4,E. Fittipaldi,Carlin,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:35.617,12.821,0.434,152.485,1:31.034,26.0,11,21,C. Novalak,Trident,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:36.747,13.951,1.130,152.425,1:31.694,26.0,12,10,I. Hadjar,Hitech Pulse-Eight,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:37.125,14.329,0.378,152.405,1:31.565,26.0,13,20,R. Stanek,Trident,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:38.852,16.056,1.727,152.313,1:31.540,26.0,14,3,Z. Maloney,Carlin,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:39.718,16.922,0.866,152.267,1:30.917,26.0,15,17,B. Benavides,PHM Racing by Charouz,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:43.628,20.832,3.910,152.059,1:33.069,26.0,16,25,R. Boschung,Campos Racing,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,47:47.453,24.65,3.825,151.856,1:30.698,25.0,17,15,A. Cordeel,Invicta Virtuosi Racing,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+26,48:23.640,60.844,36.187,149.964,1:32.678,26.0,18,24,K. Maini,Campos Racing,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+25,46:06.237,DNF,-,151.352,1:32.030,25.0,19,2,J. Daruvala,MP Motorsport,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+25,46:06.748,DNF,-,151.324,1:32.045,25.0,20,16,R. Nissany,PHM Racing by Charouz,Barcelona,Sprint Race,,Round 7 ,2023-06-04
+8,1:23.546,-,-,200.67,,,1,8,O. Bearman,PREMA Racing,Barcelona,Qualifying Session,16:22:34,Round 7 ,2023-06-04
+10,1:23.623,0.077,0.077,200.485,,,2,4,E. Fittipaldi,Carlin,Barcelona,Qualifying Session,16:15:17,Round 7 ,2023-06-04
+7,1:23.656,0.110,0.033,200.406,,,3,14,J. Doohan,Invicta Virtuosi Racing,Barcelona,Qualifying Session,16:22:53,Round 7 ,2023-06-04
+10,1:23.739,0.193,0.083,200.207,,,4,11,A. Iwasa,DAMS,Barcelona,Qualifying Session,16:21:49,Round 7 ,2023-06-04
+11,1:23.744,0.198,0.005,200.195,,,5,5,T. Pourchaire,ART Grand Prix,Barcelona,Qualifying Session,16:15:07,Round 7 ,2023-06-04
+9,1:23.923,0.377,0.179,199.768,,,6,1,D. Hauger,MP Motorsport,Barcelona,Qualifying Session,16:08:23,Round 7 ,2023-06-04
+11,1:23.978,0.432,0.055,199.638,,,7,6,V. Martins,ART Grand Prix,Barcelona,Qualifying Session,16:15:14,Round 7 ,2023-06-04
+8,1:24.009,0.463,0.031,199.564,,,8,7,F. Vesti,PREMA Racing,Barcelona,Qualifying Session,16:22:27,Round 7 ,2023-06-04
+9,1:24.069,0.523,0.060,199.421,,,9,9,J. Crawford,Hitech Pulse-Eight,Barcelona,Qualifying Session,16:22:07,Round 7 ,2023-06-04
+10,1:24.087,0.541,0.018,199.379,,,10,15,A. Cordeel,Invicta Virtuosi Racing,Barcelona,Qualifying Session,16:22:20,Round 7 ,2023-06-04
+11,1:24.106,0.560,0.019,199.334,,,11,23,J. Correa,Van Amersfoort Racing,Barcelona,Qualifying Session,16:15:09,Round 7 ,2023-06-04
+11,1:24.110,0.564,0.004,199.324,,,12,22,R. Verschoor,Van Amersfoort Racing,Barcelona,Qualifying Session,16:15:21,Round 7 ,2023-06-04
+11,1:24.228,0.682,0.118,199.045,,,13,12,A. Leclerc,DAMS,Barcelona,Qualifying Session,16:21:53,Round 7 ,2023-06-04
+10,1:24.244,0.698,0.016,199.007,,,14,24,K. Maini,Campos Racing,Barcelona,Qualifying Session,16:14:44,Round 7 ,2023-06-04
+9,1:24.256,0.710,0.012,198.979,,,15,2,J. Daruvala,MP Motorsport,Barcelona,Qualifying Session,16:08:28,Round 7 ,2023-06-04
+11,1:24.356,0.810,0.100,198.743,,,16,16,R. Nissany,PHM Racing by Charouz,Barcelona,Qualifying Session,16:15:28,Round 7 ,2023-06-04
+12,1:24.497,0.951,0.141,198.411,,,17,25,R. Boschung,Campos Racing,Barcelona,Qualifying Session,16:17:54,Round 7 ,2023-06-04
+10,1:24.500,0.954,0.003,198.404,,,18,20,R. Stanek,Trident,Barcelona,Qualifying Session,16:15:56,Round 7 ,2023-06-04
+10,1:24.532,0.986,0.032,198.329,,,19,21,C. Novalak,Trident,Barcelona,Qualifying Session,16:21:55,Round 7 ,2023-06-04
+11,1:24.566,1.020,0.034,198.249,,,20,10,I. Hadjar,Hitech Pulse-Eight,Barcelona,Qualifying Session,16:22:14,Round 7 ,2023-06-04
+12,1:24.661,1.115,0.095,198.027,,,21,3,Z. Maloney,Carlin,Barcelona,Qualifying Session,16:00:25,Round 7 ,2023-06-04
+13,1:24.803,1.257,0.142,197.695,,,22,17,B. Benavides,PHM Racing by Charouz,Barcelona,Qualifying Session,16:15:51,Round 7 ,2023-06-04
+10,1:26.722,-,-,193.321,,,1,7,F. Vesti,PREMA Racing,Barcelona,Free Practice,11:39:36,Round 7 ,2023-06-04
+10,1:26.848,0.126,0.126,193.04,,,2,8,O. Bearman,PREMA Racing,Barcelona,Free Practice,11:39:41,Round 7 ,2023-06-04
+10,1:27.084,0.362,0.236,192.517,,,3,2,J. Daruvala,MP Motorsport,Barcelona,Free Practice,11:24:57,Round 7 ,2023-06-04
+11,1:27.172,0.450,0.088,192.323,,,4,1,D. Hauger,MP Motorsport,Barcelona,Free Practice,11:23:13,Round 7 ,2023-06-04
+8,1:27.194,0.472,0.022,192.274,,,5,4,E. Fittipaldi,Carlin,Barcelona,Free Practice,11:48:52,Round 7 ,2023-06-04
+11,1:27.374,0.652,0.180,191.878,,,6,11,A. Iwasa,DAMS,Barcelona,Free Practice,11:39:18,Round 7 ,2023-06-04
+12,1:27.393,0.671,0.019,191.836,,,7,5,T. Pourchaire,ART Grand Prix,Barcelona,Free Practice,11:41:43,Round 7 ,2023-06-04
+13,1:27.399,0.677,0.006,191.823,,,8,14,J. Doohan,Invicta Virtuosi Racing,Barcelona,Free Practice,11:42:23,Round 7 ,2023-06-04
+13,1:27.455,0.733,0.056,191.7,,,9,22,R. Verschoor,Van Amersfoort Racing,Barcelona,Free Practice,11:45:45,Round 7 ,2023-06-04
+13,1:27.483,0.761,0.028,191.639,,,10,3,Z. Maloney,Carlin,Barcelona,Free Practice,11:41:50,Round 7 ,2023-06-04
+12,1:27.567,0.845,0.084,191.455,,,11,10,I. Hadjar,Hitech Pulse-Eight,Barcelona,Free Practice,11:42:34,Round 7 ,2023-06-04
+18,1:27.621,0.899,0.054,191.337,,,12,25,R. Boschung,Campos Racing,Barcelona,Free Practice,11:21:15,Round 7 ,2023-06-04
+18,1:27.712,0.990,0.091,191.139,,,13,15,A. Cordeel,Invicta Virtuosi Racing,Barcelona,Free Practice,11:18:47,Round 7 ,2023-06-04
+10,1:27.771,1.049,0.059,191.01,,,14,23,J. Correa,Van Amersfoort Racing,Barcelona,Free Practice,11:42:09,Round 7 ,2023-06-04
+12,1:27.807,1.085,0.036,190.932,,,15,20,R. Stanek,Trident,Barcelona,Free Practice,11:42:12,Round 7 ,2023-06-04
+12,1:27.901,1.179,0.094,190.728,,,16,21,C. Novalak,Trident,Barcelona,Free Practice,11:42:53,Round 7 ,2023-06-04
+12,1:27.932,1.210,0.031,190.66,,,17,12,A. Leclerc,DAMS,Barcelona,Free Practice,11:46:12,Round 7 ,2023-06-04
+13,1:28.152,1.430,0.220,190.185,,,18,16,R. Nissany,PHM Racing by Charouz,Barcelona,Free Practice,11:45:55,Round 7 ,2023-06-04
+12,1:28.450,1.728,0.298,189.544,,,19,17,B. Benavides,PHM Racing by Charouz,Barcelona,Free Practice,11:42:20,Round 7 ,2023-06-04
+11,1:28.455,1.733,0.005,189.533,,,20,9,J. Crawford,Hitech Pulse-Eight,Barcelona,Free Practice,11:39:29,Round 7 ,2023-06-04
+19,1:28.477,1.755,0.022,189.486,,,21,24,K. Maini,Campos Racing,Barcelona,Free Practice,11:18:20,Round 7 ,2023-06-04
+3,1:58.572,31.850,30.095,141.392,,,22,6,V. Martins,ART Grand Prix,Barcelona,Free Practice,11:23:51,Round 7 ,2023-06-04

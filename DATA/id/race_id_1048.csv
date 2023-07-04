@@ -1,0 +1,84 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+33,57:02.908,-,-,183.168,1:39.938,11.0,1,17,A. Iwasa,DAMS,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:03.738,0.830,0.830,183.124,1:39.831,11.0,2,11,F. Drugovich,MP Motorsport,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:04.256,1.348,0.518,183.096,1:39.884,9.0,3,5,L. Lawson,Carlin,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:16.348,13.440,12.092,182.452,1:39.786,11.0,4,1,D. Hauger,PREMA Racing,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:16.972,14.064,0.624,182.418,1:39.818,12.0,5,6,L. Sargeant,Carlin,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:18.627,15.719,1.655,182.331,1:39.485,14.0,6,25,A. Cordeel,Van Amersfoort Racing,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:21.070,18.162,2.443,182.201,1:39.350,25.0,7,20,R. Verschoor,Trident,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:23.187,20.279,2.117,182.089,1:39.771,14.0,8,8,J. Vips,Hitech Grand Prix,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:23.592,20.684,0.405,182.068,1:39.626,24.0,9,7,M. Armstrong,Hitech Grand Prix,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:25.089,22.181,1.497,181.989,1:39.930,12.0,10,16,R. Nissany,DAMS,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:25.640,22.732,0.551,181.96,1:39.910,14.0,11,9,F. Vesti,ART Grand Prix,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:26.397,23.489,0.757,181.92,1:39.146,24.0,12,12,C. Novalak,MP Motorsport,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:27.206,24.298,0.809,181.877,1:39.253,24.0,13,2,J. Daruvala,PREMA Racing,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:30.524,27.616,3.318,181.702,1:40.376,33.0,14,22,E. Fittipaldi,Charouz Racing System,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:31.154,28.246,0.630,181.669,1:39.307,24.0,15,4,M. Sato,Virtuosi Racing,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:34.662,31.754,3.508,181.484,1:40.135,14.0,16,21,Z. Maloney,Trident,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:40.354,37.44,5.692,181.186,1:39.996,20.0,17,24,J. Correa,Van Amersfoort Racing,Yas Island,Feature Race,,Round 14 ,2022-11-20
+33,57:48.024,45.116,12.670,180.785,1:40.396,21.0,18,23,T. Calderón,Charouz Racing System,Yas Island,Feature Race,,Round 14 ,2022-11-20
+31,55:13.253,DNF,-,177.754,1:40.010,23.0,19,10,T. Pourchaire,ART Grand Prix,Yas Island,Feature Race,,Round 14 ,2022-11-20
+29,51:04.060,DNF,-,179.801,1:40.081,29.0,20,14,O. Caldwell,Campos Racing,Yas Island,Feature Race,,Round 14 ,2022-11-20
+23,1:11:53.868,-,-,101.267,1:39.292,7.0,1,5,L. Lawson,Carlin,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:01.811,7.943,7.943,101.08,1:39.337,7.0,2,20,R. Verschoor,Trident,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:02.671,8.803,0.860,101.06,1:39.835,9.0,3,11,F. Drugovich,MP Motorsport,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:08.805,14.937,6.134,100.917,1:39.448,8.0,4,1,D. Hauger,PREMA Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:09.317,15.449,0.512,100.905,1:39.465,8.0,5,25,A. Cordeel,Van Amersfoort Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:09.806,15.938,0.489,100.894,1:39.987,8.0,6,6,L. Sargeant,Carlin,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:10.369,16.501,0.563,100.881,1:39.850,8.0,7,3,J. Doohan,Virtuosi Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:11.181,17.313,0.812,100.862,1:39.860,9.0,8,16,R. Nissany,DAMS,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:11.447,17.579,0.266,100.856,1:40.071,10.0,9,10,T. Pourchaire,ART Grand Prix,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:11.836,17.968,0.389,100.847,1:40.009,10.0,10,7,M. Armstrong,Hitech Grand Prix,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:13.081,19.213,1.245,100.818,1:40.115,16.0,11,9,F. Vesti,ART Grand Prix,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:15.899,22.031,2.818,100.752,1:39.999,8.0,12,8,J. Vips,Hitech Grand Prix,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:18.030,24.162,2.131,100.703,1:40.154,10.0,13,17,A. Iwasa,DAMS,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:20.963,27.095,2.933,100.634,1:40.020,13.0,14,12,C. Novalak,MP Motorsport,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:27.728,33.860,0.696,100.478,1:40.595,10.0,15,21,Z. Maloney,Trident,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:27.902,34.034,0.174,100.474,1:40.604,8.0,16,14,O. Caldwell,Campos Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:30.298,36.430,2.396,100.419,1:40.342,4.0,17,15,R. Boschung,Campos Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:27.032,33.164,6.069,100.494,1:40.324,12.0,18,24,J. Correa,Van Amersfoort Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:12:52.578,58.710,22.280,99.907,1:40.366,17.0,19,4,M. Sato,Virtuosi Racing,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+23,1:13:08.758,74.890,16.180,99.539,1:41.720,8.0,20,23,T. Calderón,Charouz Racing System,Yas Island,Sprint Race,,Round 14 ,2022-11-20
+10,1:36.290,-,-,197.441,,,1,17,A. Iwasa,DAMS,Yas Island,Qualifying Session,16:04:23,Round 14 ,2022-11-20
+10,1:36.326,0.036,0.036,197.367,,,2,16,R. Nissany,DAMS,Yas Island,Qualifying Session,16:04:17,Round 14 ,2022-11-20
+11,1:36.372,0.082,0.046,197.273,,,3,10,T. Pourchaire,ART Grand Prix,Yas Island,Qualifying Session,16:00:07,Round 14 ,2022-11-20
+12,1:36.482,0.192,0.110,197.048,,,4,11,F. Drugovich,MP Motorsport,Yas Island,Qualifying Session,16:03:31,Round 14 ,2022-11-20
+11,1:36.510,0.220,0.028,196.99,,,5,3,J. Doohan,Virtuosi Racing,Yas Island,Qualifying Session,16:04:01,Round 14 ,2022-11-20
+11,1:36.514,0.224,0.004,196.982,,,6,6,L. Sargeant,Carlin,Yas Island,Qualifying Session,16:00:23,Round 14 ,2022-11-20
+12,1:36.550,0.260,0.036,196.909,,,7,1,D. Hauger,PREMA Racing,Yas Island,Qualifying Session,16:00:29,Round 14 ,2022-11-20
+12,1:36.578,0.288,0.028,196.852,,,8,25,A. Cordeel,Van Amersfoort Racing,Yas Island,Qualifying Session,16:04:31,Round 14 ,2022-11-20
+11,1:36.588,0.298,0.010,196.831,,,9,5,L. Lawson,Carlin,Yas Island,Qualifying Session,16:04:07,Round 14 ,2022-11-20
+12,1:36.588,0.298,0.000,196.831,,,10,20,R. Verschoor,Trident,Yas Island,Qualifying Session,16:04:44,Round 14 ,2022-11-20
+11,1:36.619,0.329,0.031,196.768,,,11,7,M. Armstrong,Hitech Grand Prix,Yas Island,Qualifying Session,16:00:14,Round 14 ,2022-11-20
+12,1:36.630,0.340,0.011,196.746,,,12,2,J. Daruvala,PREMA Racing,Yas Island,Qualifying Session,16:00:32,Round 14 ,2022-11-20
+11,1:36.680,0.390,0.050,196.644,,,13,22,E. Fittipaldi,Charouz Racing System,Yas Island,Qualifying Session,16:04:13,Round 14 ,2022-11-20
+12,1:36.685,0.395,0.005,196.634,,,14,15,R. Boschung,Campos Racing,Yas Island,Qualifying Session,15:59:52,Round 14 ,2022-11-20
+11,1:36.794,0.504,0.109,196.413,,,15,8,J. Vips,Hitech Grand Prix,Yas Island,Qualifying Session,16:00:18,Round 14 ,2022-11-20
+11,1:37.023,0.733,0.229,195.949,,,16,9,F. Vesti,ART Grand Prix,Yas Island,Qualifying Session,16:03:43,Round 14 ,2022-11-20
+10,1:37.084,0.794,0.039,195.826,,,17,24,J. Correa,Van Amersfoort Racing,Yas Island,Qualifying Session,16:04:26,Round 14 ,2022-11-20
+11,1:37.100,0.810,0.016,195.794,,,18,21,Z. Maloney,Trident,Yas Island,Qualifying Session,16:01:04,Round 14 ,2022-11-20
+12,1:37.208,0.918,0.108,195.576,,,19,14,O. Caldwell,Campos Racing,Yas Island,Qualifying Session,16:03:36,Round 14 ,2022-11-20
+11,1:37.248,0.755,0.022,195.904,,,20,12,C. Novalak,MP Motorsport,Yas Island,Qualifying Session,16:03:33,Round 14 ,2022-11-20
+11,1:37.828,1.538,0.620,194.336,,,21,23,T. Calderón,Charouz Racing System,Yas Island,Qualifying Session,16:04:34,Round 14 ,2022-11-20
+16,1:38.168,-,-,193.663,,,1,17,A. Iwasa,DAMS,Yas Island,Free Practice,11:52:55,Round 14 ,2022-11-20
+17,1:38.223,0.055,0.055,193.555,,,2,10,T. Pourchaire,ART Grand Prix,Yas Island,Free Practice,12:06:11,Round 14 ,2022-11-20
+14,1:38.236,0.068,0.013,193.529,,,3,3,J. Doohan,Virtuosi Racing,Yas Island,Free Practice,12:21:15,Round 14 ,2022-11-20
+15,1:38.297,0.129,0.061,193.409,,,4,6,L. Sargeant,Carlin,Yas Island,Free Practice,12:07:59,Round 14 ,2022-11-20
+17,1:38.372,0.204,0.075,193.262,,,5,5,L. Lawson,Carlin,Yas Island,Free Practice,12:21:10,Round 14 ,2022-11-20
+16,1:38.417,0.249,0.045,193.173,,,6,12,C. Novalak,MP Motorsport,Yas Island,Free Practice,12:02:41,Round 14 ,2022-11-20
+14,1:38.469,0.301,0.052,193.071,,,7,7,M. Armstrong,Hitech Grand Prix,Yas Island,Free Practice,11:48:02,Round 14 ,2022-11-20
+15,1:38.490,0.322,0.021,193.03,,,8,8,J. Vips,Hitech Grand Prix,Yas Island,Free Practice,12:21:07,Round 14 ,2022-11-20
+17,1:38.609,0.441,0.119,192.797,,,9,9,F. Vesti,ART Grand Prix,Yas Island,Free Practice,12:20:59,Round 14 ,2022-11-20
+17,1:38.612,0.444,0.003,192.791,,,10,11,F. Drugovich,MP Motorsport,Yas Island,Free Practice,12:04:35,Round 14 ,2022-11-20
+15,1:38.765,0.597,0.153,192.493,,,11,16,R. Nissany,DAMS,Yas Island,Free Practice,11:48:58,Round 14 ,2022-11-20
+17,1:38.766,0.598,0.001,192.491,,,12,4,M. Sato,Virtuosi Racing,Yas Island,Free Practice,12:21:18,Round 14 ,2022-11-20
+17,1:38.773,0.605,0.007,192.477,,,13,25,A. Cordeel,Van Amersfoort Racing,Yas Island,Free Practice,12:05:57,Round 14 ,2022-11-20
+16,1:38.795,0.627,0.022,192.434,,,14,24,J. Correa,Van Amersfoort Racing,Yas Island,Free Practice,12:21:20,Round 14 ,2022-11-20
+16,1:38.895,0.727,0.100,192.24,,,15,1,D. Hauger,PREMA Racing,Yas Island,Free Practice,12:08:28,Round 14 ,2022-11-20
+15,1:39.055,0.887,0.160,191.929,,,16,2,J. Daruvala,PREMA Racing,Yas Island,Free Practice,11:47:53,Round 14 ,2022-11-20
+16,1:39.136,0.968,0.081,191.772,,,17,20,R. Verschoor,Trident,Yas Island,Free Practice,11:52:48,Round 14 ,2022-11-20
+14,1:39.349,1.181,0.213,191.361,,,18,15,R. Boschung,Campos Racing,Yas Island,Free Practice,12:00:52,Round 14 ,2022-11-20
+17,1:39.354,1.186,0.005,191.352,,,19,14,O. Caldwell,Campos Racing,Yas Island,Free Practice,12:20:39,Round 14 ,2022-11-20
+17,1:39.393,1.225,0.039,191.277,,,20,22,E. Fittipaldi,Charouz Racing System,Yas Island,Free Practice,12:08:18,Round 14 ,2022-11-20
+15,1:39.935,1.767,0.542,190.239,,,21,21,Z. Maloney,Trident,Yas Island,Free Practice,12:03:47,Round 14 ,2022-11-20
+17,1:40.276,2.108,0.341,189.592,,,22,23,T. Calderón,Charouz Racing System,Yas Island,Free Practice,12:05:44,Round 14 ,2022-11-20

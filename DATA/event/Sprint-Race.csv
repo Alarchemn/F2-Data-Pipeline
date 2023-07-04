@@ -1,0 +1,1359 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,ROUND,DATE
+28,38:45.691,-,-,186.955,1:18.159,7.0,1.0,5,S. Sette Câmara,DAMS,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,38:46.254,0.563,0.563,186.91,1:18.476,3.0,2.0,8,L. Ghiotto,UNI-Virtuosi,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,38:51.227,5.536,4.973,186.511,1:18.159,3.0,3.0,4,N. de Vries,ART Grand Prix,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,38:51.472,5.781,0.245,186.491,1:18.722,4.0,4.0,9,M. Schumacher,PREMA Racing,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,38:51.960,6.269,0.488,186.452,1:18.597,28.0,5.0,2,N. Matsushita,Carlin,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,38:58.921,13.230,6.961,185.898,1:18.797,4.0,6.0,6,N. Latifi,DAMS,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,38:59.786,14.095,0.865,185.829,1:18.713,8.0,7.0,16,J. King,MP Motorsport,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,39:00.777,15.086,0.991,185.75,1:18.195,3.0,8.0,7,G. Zhou,UNI-Virtuosi,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,39:01.350,15.659,0.573,185.705,1:18.703,4.0,9.0,11,C. Ilott,Sauber Junior Team by Charouz,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,39:02.298,16.607,0.948,185.63,1:18.768,4.0,10.0,12,J. Correa,Sauber Junior Team by Charouz,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,39:03.981,18.290,1.683,185.496,1:18.665,6.0,11.0,3,N. Mazepin,ART Grand Prix,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,39:05.177,19.486,1.196,185.402,1:18.837,8.0,12.0,10,S. Gelael,PREMA Racing,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,39:06.827,21.136,1.650,185.271,1:19.440,7.0,13.0,18,T. Calderón,BWT Arden,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,39:07.985,22.294,1.158,185.18,1:18.932,7.0,14.0,17,P. O'Ward,MP Motorsport,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,39:08.547,22.856,0.562,185.136,1:19.097,9.0,15.0,14,A. Maini,Campos Racing,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,39:10.993,25.302,1.245,184.943,1:18.974,7.0,16.0,21,R. Tveter,Trident,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,39:09.748,24.057,1.201,185.041,1:18.829,4.0,17.0,19,A. Hubert,BWT Arden,Spielberg,Sprint Race,Round 6 ,2019-06-30
+28,39:21.228,35.537,10.235,184.141,1:18.844,3.0,18.0,15,J. Aitken,Campos Racing,Spielberg,Sprint Race,Round 6 ,2019-06-30
+21,36:47.822,-,-,201.5,1:39.993,20.0,1.0,15,J. Aitken,Campos Racing,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,36:52.819,4.997,4.997,201.045,1:40.976,19.0,2.0,1,L. Delétraz,Carlin,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,36:56.016,8.194,3.197,200.755,1:40.966,20.0,3.0,4,N. de Vries,ART Grand Prix,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,36:56.672,8.850,0.656,200.695,1:41.078,20.0,4.0,11,C. Ilott,Sauber Junior Team by Charouz,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:04.025,16.203,7.353,200.032,1:41.364,19.0,5.0,6,N. Latifi,DAMS,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:07.044,19.222,3.019,199.761,1:41.612,20.0,6.0,9,M. Schumacher,PREMA Racing,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:07.488,19.666,0.444,199.721,1:41.370,20.0,7.0,2,N. Matsushita,Carlin,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:08.003,20.181,0.515,199.675,1:41.218,21.0,8.0,7,G. Zhou,UNI-Virtuosi,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:09.553,21.731,1.550,199.536,1:41.580,20.0,9.0,16,J. King,MP Motorsport,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:13.642,25.820,4.089,199.171,1:41.358,20.0,10.0,12,J. Correa,Sauber Junior Team by Charouz,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:22.131,34.309,8.489,198.417,1:41.666,19.0,11.0,19,A. Hubert,BWT Arden,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:25.248,37.426,3.117,198.141,1:42.384,21.0,12.0,3,N. Mazepin,ART Grand Prix,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:28.403,40.581,3.155,197.863,1:40.715,21.0,13.0,14,A. Maini,Campos Racing,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:35.081,47.259,6.678,197.277,1:42.310,17.0,14.0,21,D. Boccolacci,Trident,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:45.518,57.696,10.437,196.368,1:40.902,18.0,15.0,8,L. Ghiotto,UNI-Virtuosi,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:47.820,59.998,2.302,196.169,1:42.850,18.0,16.0,18,T. Calderón,BWT Arden,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:57.813,69.991,9.993,195.308,1:40.330,19.0,17.0,5,S. Sette Câmara,DAMS,Silverstone,Sprint Race,Round 7 ,2019-07-14
+21,37:57.979,70.157,0.166,195.294,1:43.010,20.0,18.0,17,M. Raghunathan,MP Motorsport,Silverstone,Sprint Race,Round 7 ,2019-07-14
+28,43:59.841,-,-,167.23,1:33.490,19.0,1.0,9,M. Schumacher,PREMA Racing,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:01.294,1.453,1.453,167.138,1:33.056,4.0,2.0,2,N. Matsushita,Carlin,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:03.237,3.396,1.943,167.015,1:33.542,16.0,3.0,5,S. Sette Câmara,DAMS,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:04.018,4.177,0.781,166.965,1:33.663,9.0,4.0,16,J. King,MP Motorsport,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:04.801,4.960,0.783,166.916,1:33.560,17.0,5.0,15,J. Aitken,Campos Racing,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:11.269,11.428,6.468,166.509,1:34.030,17.0,6.0,4,N. de Vries,ART Grand Prix,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:12.155,12.314,0.886,166.453,1:33.704,18.0,7.0,6,N. Latifi,DAMS,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:12.771,12.930,0.616,166.414,1:33.287,9.0,8.0,8,L. Ghiotto,UNI-Virtuosi,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:13.662,13.821,0.891,166.359,1:33.673,11.0,9.0,7,G. Zhou,UNI-Virtuosi,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:23.718,23.877,10.056,165.731,1:33.714,10.0,10.0,11,C. Ilott,Sauber Junior Team by Charouz,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:26.732,26.891,3.014,165.543,1:33.871,11.0,11.0,19,A. Hubert,BWT Arden,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:29.368,29.527,2.636,165.38,1:33.905,11.0,12.0,20,G. Alesi,Trident,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:35.582,35.741,6.214,164.996,1:33.797,11.0,13.0,1,L. Delétraz,Carlin,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:38.355,38.514,2.773,164.825,1:33.996,11.0,14.0,12,J. Correa,Sauber Junior Team by Charouz,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:39.773,39.932,1.418,164.738,1:33.933,10.0,15.0,3,N. Mazepin,ART Grand Prix,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:39.934,40.093,0.161,164.728,1:33.734,13.0,16.0,14,A. Maini,Campos Racing,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:40.578,40.737,0.644,164.688,1:33.808,12.0,17.0,10,S. Gelael,PREMA Racing,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:42.698,42.857,2.120,164.558,1:33.812,11.0,18.0,21,R. Boschung,Trident,Budapest,Sprint Race,Round 8 ,2019-08-04
+28,44:59.529,59.688,16.831,163.532,1:34.757,5.0,19.0,17,M. Raghunathan,MP Motorsport,Budapest,Sprint Race,Round 8 ,2019-08-04
+21,34:26.288,-,-,211.412,1:35.849,4.0,1.0,15,J. Aitken,Campos Racing,Monza,Sprint Race,Round 10 ,2019-09-08
+21,34:29.052,2.764,2.764,211.129,1:35.812,4.0,2.0,16,J. King,MP Motorsport,Monza,Sprint Race,Round 10 ,2019-09-08
+21,34:32.818,6.530,3.766,210.746,1:35.770,10.0,3.0,4,N. de Vries,ART Grand Prix,Monza,Sprint Race,Round 10 ,2019-09-08
+21,34:33.900,7.612,1.082,210.636,1:35.813,4.0,4.0,7,G. Zhou,UNI-Virtuosi,Monza,Sprint Race,Round 10 ,2019-09-08
+21,34:34.476,8.189,0.577,210.577,1:35.689,12.0,5.0,2,N. Matsushita,Carlin,Monza,Sprint Race,Round 10 ,2019-09-08
+21,34:34.829,8.541,0.352,210.541,1:35.422,4.0,6.0,9,M. Schumacher,PREMA Racing,Monza,Sprint Race,Round 10 ,2019-09-08
+21,34:39.139,12.851,4.310,210.105,1:36.060,4.0,7.0,20,G. Alesi,Trident,Monza,Sprint Race,Round 10 ,2019-09-08
+21,34:39.677,13.389,0.538,210.051,1:36.016,10.0,8.0,1,L. Delétraz,Carlin,Monza,Sprint Race,Round 10 ,2019-09-08
+21,34:40.228,13.941,0.552,209.995,1:36.039,4.0,9.0,3,N. Mazepin,ART Grand Prix,Monza,Sprint Race,Round 10 ,2019-09-08
+21,34:49.379,23.091,9.150,209.075,1:36.135,4.0,10.0,6,N. Latifi,DAMS,Monza,Sprint Race,Round 10 ,2019-09-08
+21,34:55.851,29.564,6.473,208.429,1:36.635,12.0,11.0,14,M. Sato,Campos Racing,Monza,Sprint Race,Round 10 ,2019-09-08
+21,35:07.678,41.390,11.826,207.26,1:35.816,5.0,12.0,11,C. Ilott,Sauber Junior Team by Charouz,Monza,Sprint Race,Round 10 ,2019-09-08
+21,35:18.766,52.478,11.088,206.175,1:37.252,14.0,13.0,17,M. Raghunathan,MP Motorsport,Monza,Sprint Race,Round 10 ,2019-09-08
+21,35:19.309,53.021,0.543,206.123,1:36.993,19.0,14.0,18,T. Calderón,BWT Arden,Monza,Sprint Race,Round 10 ,2019-09-08
+21,35:58.979,92.691,39.670,202.335,1:35.854,4.0,15.0,8,L. Ghiotto,UNI-Virtuosi,Monza,Sprint Race,Round 10 ,2019-09-08
+15,1:18:21.329,-,-,67.018,1:52.354,4.0,1.0,8,L. Ghiotto,UNI-Virtuosi,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:22.041,0.712,0.712,67.008,1:52.381,5.0,2.0,4,N. de Vries,ART Grand Prix,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:23.001,1.672,0.960,66.994,1:52.532,4.0,3.0,11,C. Ilott,Sauber Junior Team by Charouz,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:24.712,3.383,1.711,66.97,1:52.272,12.0,4.0,6,N. Latifi,DAMS,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:25.149,3.820,0.437,66.964,1:52.334,10.0,5.0,7,G. Zhou,UNI-Virtuosi,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:28.665,7.336,3.516,66.913,1:52.360,12.0,6.0,5,S. Sette Câmara,DAMS,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:31.672,10.343,3.007,66.871,1:53.051,13.0,7.0,10,S. Gelael,PREMA Racing,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:34.437,13.108,2.765,66.832,1:52.923,12.0,8.0,20,G. Alesi,Trident,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:36.180,14.851,1.743,66.807,1:52.834,15.0,9.0,16,J. King,MP Motorsport,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:38.098,16.769,1.918,66.78,1:52.822,15.0,10.0,22,A. Markelov,BWT Arden,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:45.227,23.898,7.129,66.679,1:53.077,11.0,11.0,15,J. Aitken,Campos Racing,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:47.887,26.558,2.660,66.641,1:53.089,7.0,12.0,21,R. Boschung,Trident,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:48.743,27.414,0.856,66.629,1:53.061,12.0,13.0,12,M. Isaakyan,Sauber Junior Team by Charouz,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:53.262,31.933,4.519,66.566,1:52.347,12.0,14.0,1,L. Delétraz,Carlin,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:18:57.801,36.472,4.539,66.502,1:53.849,12.0,15.0,14,M. Sato,Campos Racing,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:19:04.386,43.057,6.585,66.41,1:54.201,10.0,16.0,18,T. Calderón,BWT Arden,Sochi,Sprint Race,Round 11 ,2019-09-29
+15,1:19:22.835,61.506,18.449,66.152,1:55.632,9.0,17.0,17,M. Raghunathan,MP Motorsport,Sochi,Sprint Race,Round 11 ,2019-09-29
+22,44:22.552,-,-,165.053,1:55.746,3.0,1.0,8,L. Ghiotto,UNI-Virtuosi,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,44:29.826,7.274,7.274,164.603,1:55.526,6.0,2.0,6,N. Latifi,DAMS,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,44:32.787,10.235,2.961,164.421,1:56.038,6.0,3.0,5,S. Sette Câmara,DAMS,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,44:38.658,16.106,5.871,164.06,1:56.256,3.0,4.0,11,C. Ilott,Sauber Junior Team by Charouz,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,44:39.825,17.273,1.167,163.989,1:56.194,2.0,5.0,20,G. Alesi,Trident,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,44:42.003,19.451,2.178,163.856,1:56.421,3.0,6.0,1,L. Delétraz,Carlin,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,44:50.782,28.230,8.779,163.321,1:56.491,4.0,7.0,2,N. Matsushita,Carlin,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,44:51.664,29.112,0.882,163.268,1:56.741,4.0,8.0,7,G. Zhou,UNI-Virtuosi,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,44:54.084,31.532,2.420,163.121,1:56.644,3.0,9.0,16,J. King,MP Motorsport,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,44:54.627,32.075,0.543,163.088,1:56.677,3.0,10.0,15,J. Aitken,Campos Racing,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,44:56.130,33.578,1.503,162.997,1:56.506,3.0,11.0,9,M. Schumacher,PREMA Racing,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,44:59.570,37.018,3.440,162.789,1:57.145,3.0,12.0,21,C. Lundgaard,Trident,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,45:02.988,40.436,3.418,162.584,1:56.930,3.0,13.0,4,N. de Vries,ART Grand Prix,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,45:05.701,43.149,2.713,162.421,1:57.355,4.0,14.0,18,T. Calderón,BWT Arden,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,45:15.145,52.593,9.444,161.856,1:58.024,5.0,15.0,17,M. Raghunathan,MP Motorsport,Yas Island,Sprint Race,Round 12 ,2019-12-01
+22,45:22.271,59.719,7.126,161.432,1:56.678,3.0,16.0,14,M. Sato,Campos Racing,Yas Island,Sprint Race,Round 12 ,2019-12-01
+19,39:10.298,DNF,-,161.46,1:57.187,3.0,17.0,3,N. Mazepin,ART Grand Prix,Yas Island,Sprint Race,Round 12 ,2019-12-01
+23,42:36.192,-,-,174.958,1:47.184,14.0,1.0,8,L. Ghiotto,UNI-Virtuosi,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,42:41.666,5.474,5.474,174.584,1:48.760,3.0,2.0,5,S. Sette Câmara,DAMS,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,42:43.059,6.867,1.393,174.489,1:49.038,4.0,3.0,6,N. Latifi,DAMS,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,42:54.432,18.240,11.373,173.719,1:49.559,4.0,4.0,7,G. Zhou,UNI-Virtuosi,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,42:58.131,21.939,3.699,173.469,1:49.306,2.0,5.0,1,L. Delétraz,Carlin,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,43:00.871,24.679,2.740,173.285,1:49.930,5.0,6.0,9,M. Schumacher,PREMA Racing,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,43:01.346,25.154,0.475,173.253,1:47.145,14.0,7.0,4,N. de Vries,ART Grand Prix,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,43:01.712,25.520,0.366,173.229,1:47.797,13.0,8.0,16,J. King,MP Motorsport,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,43:06.706,30.514,4.994,172.894,1:48.785,16.0,9.0,19,A. Hubert,BWT Arden,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,43:06.724,30.532,0.018,172.893,1:48.079,12.0,10.0,10,S. Gelael,PREMA Racing,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,43:08.416,32.224,1.692,172.78,1:49.761,4.0,11.0,15,J. Aitken,Campos Racing,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,43:12.172,35.980,3.756,172.53,1:48.056,12.0,12.0,2,N. Matsushita,Carlin,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,43:16.733,40.541,4.561,172.227,1:49.356,20.0,13.0,3,N. Mazepin,ART Grand Prix,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,43:19.266,43.074,2.533,172.059,1:49.868,4.0,14.0,21,R. Boschung,Trident,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,43:22.198,46.006,2.932,171.865,1:50.248,4.0,15.0,18,T. Calderón,BWT Arden,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,43:32.679,56.487,10.481,171.176,1:49.931,4.0,16.0,11,C. Ilott,Sauber Junior Team by Charouz,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,43:36.240,60.048,3.561,170.943,1:48.299,19.0,17.0,14,D. Boccolacci,Campos Racing,Sakhir,Sprint Race,Round 1 ,2019-03-31
+23,44:08.777,92.585,11.470,168.843,1:48.920,10.0,18.0,12,J. Correa,Sauber Junior Team by Charouz,Sakhir,Sprint Race,Round 1 ,2019-03-31
+22,42:41.591,1 LAP,1 LAP,166.984,1:50.368,2.0,19.0,17,M. Raghunathan,MP Motorsport,Sakhir,Sprint Race,Round 1 ,2019-03-31
+30,44:23.388,-,-,135.314,1:24.280,6.0,1.0,19,A. Hubert,BWT Arden,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:23.447,0.059,0.059,135.311,1:24.387,10.0,2.0,1,L. Delétraz,Carlin,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:24.310,0.922,0.863,135.268,1:24.436,10.0,3.0,7,G. Zhou,UNI-Virtuosi,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:25.847,2.459,1.537,135.19,1:24.368,10.0,4.0,16,A. Markelov,MP Motorsport,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:37.077,13.689,11.230,134.622,1:25.141,18.0,5.0,14,D. Boccolacci,Campos Racing,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:39.710,16.322,2.633,134.49,1:25.032,16.0,6.0,5,S. Sette Câmara,DAMS,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:40.340,16.952,0.630,134.459,1:25.223,16.0,7.0,4,N. de Vries,ART Grand Prix,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:40.725,17.337,0.385,134.439,1:25.332,17.0,8.0,3,N. Mazepin,ART Grand Prix,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:42.158,18.770,1.433,134.367,1:25.361,27.0,9.0,2,N. Matsushita,Carlin,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:42.723,19.335,0.565,134.339,1:23.868,30.0,10.0,6,N. Latifi,DAMS,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:44.947,21.559,2.224,134.228,1:24.708,24.0,11.0,9,M. Schumacher,PREMA Racing,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:46.027,22.639,1.080,134.174,1:25.143,18.0,12.0,12,J. Correa,Sauber Junior Team by Charouz,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:46.672,23.284,0.645,134.142,1:25.237,26.0,13.0,15,J. Aitken,Campos Racing,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+30,44:48.201,24.813,1.529,134.065,1:24.410,25.0,14.0,11,C. Ilott,Sauber Junior Team by Charouz,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+29,44:27.053,1 LAP,1 LAP,130.624,1:23.318,27.0,15.0,10,S. Gelael,PREMA Racing,Monte Carlo,Sprint Race,Round 4 ,2019-05-25
+26,41:55.669,-,-,173.017,1:33.870,6.0,1.0,15,F. Drugovich,MP Motorsport,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:05.205,9.536,9.536,172.363,1:33.950,6.0,2.0,25,L. Ghiotto,Hitech Grand Prix,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:06.625,10.956,1.420,172.267,1:34.303,4.0,3.0,20,M. Schumacher,PREMA Racing,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:10.593,14.924,3.968,171.996,1:34.686,5.0,4.0,7,Y. Tsunoda,Carlin,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:15.590,19.921,4.997,171.658,1:34.754,6.0,5.0,14,N. Matsushita,MP Motorsport,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:18.900,23.231,3.310,171.434,1:34.827,4.0,6.0,24,N. Mazepin,Hitech Grand Prix,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:20.197,24.528,1.297,171.346,1:34.980,5.0,7.0,12,P. Piquet,Charouz Racing System,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:25.387,29.718,5.190,170.997,1:34.189,5.0,8.0,4,C. Ilott,UNI-Virtuosi,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:27.642,31.973,2.255,170.845,1:34.761,4.0,9.0,11,L. Delétraz,Charouz Racing System,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:27.824,32.155,0.182,170.833,1:33.595,21.0,10.0,2,D. Ticktum,DAMS,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:29.865,34.196,2.041,170.697,1:34.867,4.0,11.0,6,C. Lundgaard,ART Grand Prix,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:30.491,34.822,0.626,170.655,1:35.344,6.0,12.0,22,R. Nissany,Trident,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:36.923,41.254,6.432,170.225,1:33.736,22.0,13.0,21,R. Shwartzman,PREMA Racing,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:37.665,41.996,0.742,170.176,1:33.450,24.0,14.0,3,G. Zhou,UNI-Virtuosi,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:39.082,43.413,1.417,170.082,1:35.283,4.0,15.0,5,M. Armstrong,ART Grand Prix,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:41.287,45.618,2.205,169.935,1:35.037,4.0,16.0,16,A. Markelov,BWT HWA RACELAB,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:41.888,46.219,0.601,169.895,1:35.333,4.0,17.0,8,J. Daruvala,Carlin,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:44.100,48.431,2.212,169.749,1:34.441,21.0,18.0,9,J. Aitken,Campos Racing,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,42:50.405,54.736,6.305,169.333,1:33.413,21.0,19.0,17,G. Alesi,BWT HWA RACELAB,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,43:04.751,69.082,14.346,168.393,1:35.425,4.0,20.0,10,G. Samaia,Campos Racing,Barcelona,Sprint Race,Round 6 ,2020-08-16
+26,43:10.336,74.667,5.585,168.03,1:35.350,4.0,21.0,23,M. Sato,Trident,Barcelona,Sprint Race,Round 6 ,2020-08-16
+28,42:05.526,-,-,172.162,1:17.277,25.0,1.0,15,F. Drugovich,MP Motorsport,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:07.995,2.469,2.469,171.994,1:17.389,20.0,2.0,11,L. Delétraz,Charouz Racing System,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:08.316,2.790,0.321,171.972,1:17.386,22.0,3.0,2,D. Ticktum,DAMS,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:08.856,3.330,0.540,171.935,1:17.366,26.0,4.0,21,R. Shwartzman,PREMA Racing,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:10.922,5.396,2.066,171.795,1:17.347,20.0,5.0,6,C. Lundgaard,ART Grand Prix,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:14.703,9.177,3.781,171.539,1:17.615,26.0,6.0,14,N. Matsushita,MP Motorsport,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:15.267,9.741,0.564,171.5,1:17.614,26.0,7.0,20,M. Schumacher,PREMA Racing,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:19.567,14.041,4.300,171.21,1:17.770,23.0,8.0,9,J. Aitken,Campos Racing,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:19.798,14.272,0.231,171.195,1:17.688,23.0,9.0,4,C. Ilott,UNI-Virtuosi,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:20.921,15.395,1.123,171.119,1:17.733,23.0,10.0,24,N. Mazepin,Hitech Grand Prix,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:23.054,17.528,2.133,170.975,1:17.845,21.0,11.0,7,Y. Tsunoda,Carlin,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:23.997,18.471,0.943,170.912,1:17.861,23.0,12.0,22,R. Nissany,Trident,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:24.644,19.118,0.647,170.869,1:17.848,20.0,13.0,12,P. Piquet,Charouz Racing System,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:25.194,19.668,0.550,170.832,1:17.832,21.0,14.0,3,G. Zhou,UNI-Virtuosi,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:27.608,22.082,2.414,170.67,1:17.972,28.0,15.0,10,G. Samaia,Campos Racing,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:29.816,24.290,2.208,170.522,1:17.950,13.0,16.0,8,J. Daruvala,Carlin,Spielberg,Sprint Race,Round 1 ,2020-07-05
+28,42:30.435,24.909,0.619,170.481,1:17.862,24.0,17.0,23,M. Sato,Trident,Spielberg,Sprint Race,Round 1 ,2020-07-05
+27,43:13.391,1 LAP,1 LAP,161.663,1:17.542,19.0,18.0,16,A. Markelov,BWT HWA RACELAB,Spielberg,Sprint Race,Round 1 ,2020-07-05
+21,39:50.019,-,-,186.139,1:42.202,21.0,1.0,2,D. Ticktum,DAMS,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,39:50.395,0.376,0.376,186.11,1:41.337,21.0,2.0,6,C. Lundgaard,ART Grand Prix,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,39:52.716,2.697,2.321,185.929,1:42.344,3.0,3.0,11,L. Delétraz,Charouz Racing System,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,39:56.276,6.257,3.560,185.653,1:42.200,20.0,4.0,8,J. Daruvala,Carlin,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,39:56.502,6.483,0.226,185.636,1:42.434,3.0,5.0,24,N. Mazepin,Hitech Grand Prix,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,39:58.478,8.459,1.976,185.483,1:42.310,3.0,6.0,15,F. Drugovich,MP Motorsport,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,39:58.975,8.956,0.497,185.444,1:42.718,5.0,7.0,14,N. Matsushita,MP Motorsport,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,39:59.801,9.782,0.826,185.38,1:42.705,3.0,8.0,9,J. Aitken,Campos Racing,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,40:00.867,10.848,1.066,185.298,1:42.503,5.0,9.0,3,G. Zhou,UNI-Virtuosi,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,40:01.014,10.995,0.147,185.287,1:43.326,5.0,10.0,5,M. Armstrong,ART Grand Prix,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,40:07.436,17.417,6.422,184.792,1:43.805,6.0,11.0,16,A. Markelov,BWT HWA RACELAB,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,40:08.662,18.643,1.226,184.698,1:42.048,20.0,12.0,23,M. Sato,Trident,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,40:12.339,22.320,3.677,184.417,1:42.082,21.0,13.0,21,R. Shwartzman,PREMA Racing,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,40:16.249,26.230,3.910,184.118,1:42.703,4.0,14.0,20,M. Schumacher,PREMA Racing,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,40:18.550,28.531,2.301,183.943,1:44.129,3.0,15.0,10,G. Samaia,Campos Racing,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,40:21.993,31.974,3.443,183.682,1:42.489,19.0,16.0,22,R. Nissany,Trident,Silverstone,Sprint Race,Round 4 ,2020-08-02
+21,40:31.414,41.395,9.421,182.97,1:42.808,4.0,17.0,12,P. Piquet,Charouz Racing System,Silverstone,Sprint Race,Round 4 ,2020-08-02
+20,40:11.387,1 LAP,1 LAP,175.695,1:42.712,19.0,18.0,17,G. Alesi,BWT HWA RACELAB,Silverstone,Sprint Race,Round 4 ,2020-08-02
+19,36:40.319,2 LAPS,-,182.91,1:43.198,4.0,19.0,25,L. Ghiotto,Hitech Grand Prix,Silverstone,Sprint Race,Round 4 ,2020-08-02
+28,45:04.725,-,-,163.218,1:33.452,9.0,1.0,25,L. Ghiotto,Hitech Grand Prix,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:05.148,0.423,0.423,163.192,1:32.098,20.0,2.0,4,C. Ilott,UNI-Virtuosi,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:16.487,11.762,11.339,162.511,1:32.836,22.0,3.0,20,M. Schumacher,PREMA Racing,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:18.543,13.818,2.056,162.388,1:31.690,21.0,4.0,21,R. Shwartzman,PREMA Racing,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:19.877,15.152,1.334,162.309,1:31.520,22.0,5.0,24,N. Mazepin,Hitech Grand Prix,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:28.176,23.451,8.299,161.815,1:33.221,20.0,6.0,11,L. Delétraz,Charouz Racing System,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:28.556,23.831,0.380,161.792,1:32.878,17.0,7.0,8,J. Daruvala,Carlin,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:36.955,32.230,8.399,161.296,1:30.969,22.0,8.0,3,G. Zhou,UNI-Virtuosi,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:39.000,34.275,2.045,161.175,1:31.817,21.0,9.0,5,M. Armstrong,ART Grand Prix,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:44.008,39.283,5.008,160.881,1:33.831,7.0,10.0,17,G. Alesi,BWT HWA RACELAB,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:47.456,42.731,3.448,160.679,1:32.295,22.0,11.0,14,N. Matsushita,MP Motorsport,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:49.678,44.953,2.222,160.549,1:32.598,17.0,12.0,1,S. Gelael,DAMS,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:51.651,46.926,1.973,160.434,1:32.388,20.0,13.0,6,C. Lundgaard,ART Grand Prix,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:56.458,51.733,4.807,160.155,1:32.124,21.0,14.0,16,A. Markelov,BWT HWA RACELAB,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,45:56.956,52.231,0.498,160.126,1:32.342,18.0,15.0,12,P. Piquet,Charouz Racing System,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,46:00.615,55.890,3.659,159.913,1:33.574,23.0,16.0,15,F. Drugovich,MP Motorsport,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,46:09.090,64.365,8.475,159.424,1:32.818,20.0,17.0,22,R. Nissany,Trident,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,46:18.531,73.806,9.441,158.882,1:32.371,11.0,18.0,7,Y. Tsunoda,Carlin,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,46:20.381,75.656,1.850,158.777,1:34.635,7.0,19.0,9,J. Aitken,Campos Racing,Budapest,Sprint Race,Round 3 ,2020-07-19
+28,46:27.784,83.059,7.403,158.355,1:33.999,19.0,20.0,23,M. Sato,Trident,Budapest,Sprint Race,Round 3 ,2020-07-19
+27,45:46.891,1 LAP,1 LAP,154.971,1:34.168,18.0,21.0,10,G. Samaia,Campos Racing,Budapest,Sprint Race,Round 3 ,2020-07-19
+18,42:44.391,-,-,176.811,2:01.124,7.0,1.0,21,R. Shwartzman,PREMA Racing,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,42:53.416,9.025,9.025,176.191,2:02.655,12.0,2.0,20,M. Schumacher,PREMA Racing,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,42:55.584,11.193,2.168,176.042,2:02.751,16.0,3.0,3,G. Zhou,UNI-Virtuosi,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:05.336,20.945,9.752,175.378,2:03.391,7.0,4.0,24,N. Mazepin,Hitech Grand Prix,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:06.298,21.907,0.962,175.313,2:03.463,7.0,5.0,25,L. Ghiotto,Hitech Grand Prix,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:09.573,25.182,3.275,175.091,2:03.346,7.0,6.0,11,L. Delétraz,Charouz Racing System,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:11.187,26.796,1.614,174.982,2:03.321,7.0,7.0,6,C. Lundgaard,ART Grand Prix,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:14.883,30.492,3.696,174.733,2:03.218,9.0,8.0,16,A. Markelov,BWT HWA RACELAB,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:14.950,30.559,0.067,174.728,2:03.345,7.0,9.0,7,Y. Tsunoda,Carlin,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:16.517,32.126,1.567,174.623,2:03.206,8.0,10.0,2,D. Ticktum,DAMS,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:16.722,32.331,0.205,174.609,2:01.515,8.0,11.0,1,J. Vips,DAMS,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:17.223,32.832,0.501,174.575,2:03.374,9.0,12.0,12,P. Piquet,Charouz Racing System,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:17.432,33.041,0.209,174.561,2:03.529,8.0,13.0,15,F. Drugovich,MP Motorsport,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:17.839,33.448,0.407,174.534,2:03.451,8.0,14.0,17,G. Alesi,BWT HWA RACELAB,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:19.120,34.729,1.281,174.448,2:03.586,9.0,15.0,10,G. Samaia,Campos Racing,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,43:28.469,44.078,9.349,173.823,2:03.306,8.0,16.0,8,J. Daruvala,Carlin,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+18,44:00.695,76.304,32.226,171.702,2:00.884,16.0,17.0,9,J. Aitken,Campos Racing,Spa-Francorchamps,Sprint Race,Round 7 ,2020-08-30
+21,34:12.598,4.663,4.663,212.822,1:34.891,6.0,1.0,4,C. Ilott,UNI-Virtuosi,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:13.234,5.299,0.636,212.756,1:34.783,6.0,2.0,6,C. Lundgaard,ART Grand Prix,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:14.550,6.615,1.316,212.619,1:34.533,5.0,3.0,20,M. Schumacher,PREMA Racing,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:15.007,7.072,0.457,212.572,1:35.148,3.0,4.0,11,L. Delétraz,Charouz Racing System,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:15.273,7.338,0.266,212.545,1:35.081,15.0,5.0,21,R. Shwartzman,PREMA Racing,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:18.924,10.989,3.651,212.168,1:34.680,4.0,6.0,8,J. Daruvala,Carlin,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:24.897,16.962,5.973,211.554,1:35.450,13.0,7.0,9,J. Aitken,Campos Racing,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:26.717,18.782,1.820,211.368,1:35.177,4.0,8.0,24,N. Mazepin,Hitech Grand Prix,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:27.620,19.685,0.903,211.275,1:35.186,20.0,9.0,1,J. Vips,DAMS,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:38.779,30.844,11.159,210.141,1:35.116,15.0,10.0,22,R. Nissany,Trident,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:39.014,31.080,0.236,210.117,1:35.378,5.0,11.0,14,N. Matsushita,MP Motorsport,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:40.266,32.331,1.251,209.991,1:35.504,6.0,12.0,17,G. Alesi,BWT HWA RACELAB,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:41.047,33.113,0.782,209.912,1:35.811,20.0,13.0,23,M. Sato,Trident,Monza,Sprint Race,Round 8 ,2020-09-06
+21,34:49.701,41.766,8.653,209.043,1:35.688,5.0,14.0,10,G. Samaia,Campos Racing,Monza,Sprint Race,Round 8 ,2020-09-06
+21,35:07.989,60.054,18.288,207.229,1:34.602,21.0,15.0,25,L. Ghiotto,Hitech Grand Prix,Monza,Sprint Race,Round 8 ,2020-09-06
+20,34:33.713,1 LAP,1 LAP,200.598,1:34.966,4.0,16.0,16,A. Markelov,BWT HWA RACELAB,Monza,Sprint Race,Round 8 ,2020-09-06
+20,34:34.291,1 LAP,0.578,200.542,1:34.204,20.0,17.0,12,P. Piquet,Charouz Racing System,Monza,Sprint Race,Round 8 ,2020-09-06
+20,34:59.152,1 LAP,24.861,198.167,1:34.710,20.0,18.0,5,M. Armstrong,ART Grand Prix,Monza,Sprint Race,Round 8 ,2020-09-06
+28,36:51.582,-,-,196.601,1:16.900,5.0,1.0,6,C. Lundgaard,ART Grand Prix,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,36:53.645,2.063,2.063,196.418,1:17.065,15.0,2.0,2,D. Ticktum,DAMS,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:01.808,10.226,8.163,195.696,1:17.033,5.0,3.0,5,M. Armstrong,ART Grand Prix,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:02.526,10.944,0.718,195.633,1:17.329,26.0,4.0,3,G. Zhou,UNI-Virtuosi,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:03.116,11.534,0.590,195.581,1:17.154,26.0,5.0,4,C. Ilott,UNI-Virtuosi,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:12.040,20.458,8.924,194.799,1:17.478,28.0,6.0,9,J. Aitken,Campos Racing,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:14.537,22.955,2.497,194.582,1:17.531,7.0,7.0,1,S. Gelael,DAMS,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:15.214,23.632,0.677,194.523,1:17.584,12.0,8.0,24,N. Mazepin,Hitech Grand Prix,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:15.762,24.180,0.548,194.475,1:17.615,8.0,9.0,8,J. Daruvala,Carlin,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:19.352,27.770,3.590,194.163,1:17.608,10.0,10.0,25,L. Ghiotto,Hitech Grand Prix,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:19.974,28.392,0.622,194.109,1:17.567,23.0,11.0,14,N. Matsushita,MP Motorsport,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:20.829,29.247,0.855,194.035,1:17.423,18.0,12.0,11,L. Delétraz,Charouz Racing System,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:24.352,32.770,3.523,193.731,1:17.749,27.0,13.0,15,F. Drugovich,MP Motorsport,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:25.695,34.113,1.343,193.615,1:17.839,21.0,14.0,12,P. Piquet,Charouz Racing System,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:33.403,41.821,7.708,192.952,1:17.373,28.0,15.0,17,G. Alesi,BWT HWA RACELAB,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:40.822,49.240,7.419,192.319,1:18.166,8.0,16.0,16,A. Markelov,BWT HWA RACELAB,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,37:42.400,50.818,1.578,192.185,1:18.044,26.0,17.0,10,G. Samaia,Campos Racing,Spielberg,Sprint Race,Round 2 ,2020-07-12
+28,38:02.893,71.311,20.493,190.46,1:16.419,25.0,18.0,22,R. Nissany,Trident,Spielberg,Sprint Race,Round 2 ,2020-07-12
+21,36:15.140,-,-,204.528,1:42.130,3.0,1.0,7,Y. Tsunoda,Carlin,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:18.260,3.120,3.120,204.235,1:41.887,3.0,2.0,20,M. Schumacher,PREMA Racing,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:33.133,17.993,14.873,202.85,1:42.095,3.0,3.0,9,J. Aitken,Campos Racing,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:35.398,20.258,2.265,202.64,1:42.297,4.0,4.0,11,L. Delétraz,Charouz Racing System,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:36.199,21.059,0.801,202.566,1:41.991,4.0,5.0,3,G. Zhou,UNI-Virtuosi,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:37.294,22.154,1.095,202.465,1:42.505,3.0,6.0,4,C. Ilott,UNI-Virtuosi,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:38.053,22.913,0.759,202.396,1:42.810,6.0,7.0,2,D. Ticktum,DAMS,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:40.341,25.201,2.288,202.185,1:42.371,3.0,8.0,24,N. Mazepin,Hitech Grand Prix,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:43.812,28.672,3.471,201.867,1:42.872,3.0,9.0,8,J. Daruvala,Carlin,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:44.206,29.066,0.394,201.831,1:42.989,7.0,10.0,25,L. Ghiotto,Hitech Grand Prix,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:48.826,33.686,4.620,201.408,1:43.001,7.0,11.0,16,A. Markelov,BWT HWA RACELAB,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:49.916,34.776,1.090,201.309,1:43.034,6.0,12.0,15,F. Drugovich,MP Motorsport,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:51.502,36.362,1.586,201.165,1:41.976,3.0,13.0,21,R. Shwartzman,PREMA Racing,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:53.135,37.995,1.633,201.016,1:43.527,4.0,14.0,5,M. Armstrong,ART Grand Prix,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:55.291,40.151,2.156,200.821,1:43.544,6.0,15.0,22,R. Nissany,Trident,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,36:58.888,43.748,3.597,200.495,1:42.525,5.0,16.0,12,P. Piquet,Charouz Racing System,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,37:02.342,47.202,3.454,200.183,1:43.747,3.0,17.0,23,M. Sato,Trident,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,37:15.415,60.275,13.073,199.013,1:43.435,7.0,18.0,14,N. Matsushita,MP Motorsport,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,37:16.850,61.710,1.435,198.885,1:43.978,4.0,19.0,10,G. Samaia,Campos Racing,Silverstone,Sprint Race,Round 5 ,2020-08-09
+21,37:46.688,91.548,29.838,196.267,1:41.683,21.0,20.0,17,G. Alesi,BWT HWA RACELAB,Silverstone,Sprint Race,Round 5 ,2020-08-09
+20,36:22.348,1 LAP,1 LAP,194.134,1:41.087,20.0,21.0,6,C. Lundgaard,ART Grand Prix,Silverstone,Sprint Race,Round 5 ,2020-08-09
+23,37:51.980,-,-,191.215,1:34.907,2.0,1.0,6,C. Lundgaard,ART Grand Prix,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:06.301,14.321,14.321,190.017,1:35.086,3.0,2.0,11,L. Delétraz,Charouz Racing System,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:06.850,14.870,0.549,189.971,1:35.462,3.0,3.0,1,J. Vips,DAMS,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:09.998,18.018,3.148,189.71,1:35.671,3.0,4.0,20,M. Schumacher,PREMA Racing,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:10.362,18.382,0.364,189.68,1:35.164,18.0,5.0,3,G. Zhou,UNI-Virtuosi,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:16.401,24.421,6.039,189.181,1:35.811,6.0,6.0,4,C. Ilott,UNI-Virtuosi,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:18.244,26.264,1.843,189.03,1:35.636,4.0,7.0,8,J. Daruvala,Carlin,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:18.281,26.301,0.037,189.027,1:35.147,22.0,8.0,23,M. Sato,Trident,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:23.405,31.425,5.124,188.606,1:35.927,8.0,9.0,21,R. Shwartzman,PREMA Racing,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:24.922,32.942,1.517,188.482,1:36.005,6.0,10.0,22,R. Nissany,Trident,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:26.882,34.902,1.960,188.322,1:35.577,4.0,11.0,5,M. Armstrong,ART Grand Prix,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:27.020,35.040,0.138,188.31,1:35.993,5.0,12.0,12,P. Piquet,Charouz Racing System,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:27.234,35.254,0.214,188.293,1:34.671,18.0,13.0,9,J. Aitken,Campos Racing,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:28.963,36.983,1.729,188.152,1:35.140,19.0,14.0,14,N. Matsushita,MP Motorsport,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:31.052,39.072,2.089,187.982,1:35.684,4.0,15.0,15,F. Drugovich,MP Motorsport,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:40.413,48.433,9.361,187.224,1:34.627,19.0,16.0,10,G. Samaia,Campos Racing,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:40.463,48.483,0.050,187.22,1:33.295,18.0,17.0,2,D. Ticktum,DAMS,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,38:42.773,50.793,2.310,187.033,1:34.274,23.0,18.0,24,N. Mazepin,Hitech Grand Prix,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,39:01.629,69.649,18.856,185.527,1:33.376,22.0,19.0,7,Y. Tsunoda,Carlin,Mugello,Sprint Race,Round 9 ,2020-09-13
+23,39:13.865,81.885,12.236,184.563,1:35.635,3.0,20.0,16,A. Markelov,BWT HWA RACELAB,Mugello,Sprint Race,Round 9 ,2020-09-13
+5,10:01.184,-,-,173.902,1:52.150,5.0,1.0,3,G. Zhou,UNI-Virtuosi,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:02.002,0.818,0.818,173.666,1:51.873,5.0,2.0,24,N. Mazepin,Hitech Grand Prix,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:06.000,4.816,3.998,172.52,1:52.625,5.0,3.0,20,M. Schumacher,PREMA Racing,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:07.643,6.459,1.643,172.054,1:52.844,5.0,4.0,9,J. Aitken,Campos Racing,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:08.854,7.670,1.211,171.712,1:52.499,5.0,5.0,25,L. Ghiotto,Hitech Grand Prix,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:09.466,8.282,0.612,171.539,1:52.506,5.0,6.0,7,Y. Tsunoda,Carlin,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:10.325,9.141,0.859,171.298,1:52.737,5.0,7.0,4,C. Ilott,UNI-Virtuosi,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:10.953,9.769,0.628,171.122,1:52.880,5.0,8.0,2,D. Ticktum,DAMS,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:11.690,10.506,0.737,170.915,1:52.585,5.0,9.0,12,P. Piquet,Charouz Racing System,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:12.428,11.244,0.738,170.71,1:52.911,5.0,10.0,21,R. Shwartzman,PREMA Racing,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:13.172,11.988,0.744,170.502,1:52.652,5.0,11.0,8,J. Daruvala,Carlin,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:13.622,12.438,0.450,170.377,1:53.631,5.0,12.0,16,A. Markelov,BWT HWA RACELAB,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:14.720,13.536,1.098,170.073,1:53.832,4.0,13.0,6,C. Lundgaard,ART Grand Prix,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:15.237,14.053,0.517,169.93,1:54.071,4.0,14.0,5,M. Armstrong,ART Grand Prix,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:15.795,14.611,0.558,169.776,1:53.805,4.0,15.0,23,M. Sato,Trident,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:16.216,15.032,0.421,169.66,1:53.857,4.0,16.0,14,G. Alesi,MP Motorsport,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:16.901,15.717,0.685,169.472,1:54.121,4.0,17.0,11,L. Delétraz,Charouz Racing System,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:18.284,17.100,1.383,169.093,1:53.771,5.0,18.0,1,J. Vips,DAMS,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:18.941,17.757,0.657,168.913,1:53.666,5.0,19.0,22,R. Nissany,Trident,Sochi,Sprint Race,Round 10 ,2020-09-27
+5,10:39.186,38.002,20.245,163.563,1:53.988,5.0,20.0,15,F. Drugovich,MP Motorsport,Sochi,Sprint Race,Round 10 ,2020-09-27
+23,43:15.992,-,-,172.276,1:46.545,2.0,1.0,21,R. Shwartzman,PREMA Racing,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,43:21.275,5.283,5.283,171.926,1:46.683,4.0,2.0,24,N. Mazepin,Hitech Grand Prix,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,43:22.464,6.472,1.189,171.847,1:45.114,10.0,3.0,11,L. Delétraz,Charouz Racing System,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,43:26.647,10.655,4.183,171.572,1:46.880,2.0,4.0,5,M. Armstrong,ART Grand Prix,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,43:31.125,15.133,4.478,171.277,1:47.335,10.0,5.0,3,G. Zhou,UNI-Virtuosi,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,43:34.556,18.564,3.431,171.053,1:47.308,4.0,6.0,6,C. Lundgaard,ART Grand Prix,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,43:36.733,20.741,2.177,170.91,1:47.179,10.0,7.0,20,M. Schumacher,PREMA Racing,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,43:39.502,23.510,2.769,170.73,1:47.209,10.0,8.0,15,F. Drugovich,MP Motorsport,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,43:41.344,25.352,1.842,170.61,1:48.049,4.0,9.0,22,R. Nissany,Trident,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,43:47.142,31.150,5.798,170.233,1:47.525,4.0,10.0,16,A. Markelov,BWT HWA RACELAB,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,43:47.840,31.848,0.698,170.188,1:48.375,3.0,11.0,23,M. Sato,Trident,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,43:55.816,39.824,7.976,169.673,1:46.875,11.0,12.0,2,D. Ticktum,DAMS,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,43:59.896,43.904,4.080,169.411,1:48.457,10.0,13.0,14,G. Alesi,MP Motorsport,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,44:00.419,44.427,0.523,169.377,1:46.850,11.0,14.0,1,S. Gelael,DAMS,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,44:05.140,49.148,4.721,169.075,1:46.140,10.0,15.0,7,Y. Tsunoda,Carlin,Sakhir,Sprint Race,Round 11 ,2020-11-29
+23,44:19.455,63.463,14.315,168.165,1:46.006,12.0,16.0,4,C. Ilott,UNI-Virtuosi,Sakhir,Sprint Race,Round 11 ,2020-11-29
+22,41:50.160,DNF,-,170.405,1:47.115,11.0,17.0,9,J. Aitken,Campos Racing,Sakhir,Sprint Race,Round 11 ,2020-11-29
+22,43:15.266,DNF,-,164.817,1:46.117,10.0,18.0,10,G. Samaia,Campos Racing,Sakhir,Sprint Race,Round 11 ,2020-11-29
+21,39:43.028,DNF,-,171.32,1:47.087,10.0,19.0,12,P. Piquet,Charouz Racing System,Sakhir,Sprint Race,Round 11 ,2020-11-29
+34,37:26.570,-,-,192.639,1:05.017,6.0,1.0,8,J. Daruvala,Carlin,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:30.131,3.561,3.561,192.334,1:04.812,6.0,2.0,7,Y. Tsunoda,Carlin,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:30.472,3.902,0.341,192.305,1:04.987,4.0,3.0,2,D. Ticktum,DAMS,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:32.185,5.615,1.713,192.158,1:04.854,6.0,4.0,3,G. Zhou,UNI-Virtuosi,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:34.155,7.585,1.970,191.991,1:04.843,6.0,5.0,21,R. Shwartzman,PREMA Racing,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:35.610,9.040,1.455,191.867,1:05.240,8.0,6.0,14,G. Alesi,MP Motorsport,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:37.663,11.093,2.053,191.692,1:05.036,12.0,7.0,25,L. Ghiotto,Hitech Grand Prix,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:40.448,13.878,2.785,191.456,1:04.928,7.0,8.0,15,F. Drugovich,MP Motorsport,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:41.106,14.536,0.658,191.4,1:05.081,4.0,9.0,24,N. Mazepin,Hitech Grand Prix,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:42.593,16.023,1.487,191.275,1:04.962,4.0,10.0,4,C. Ilott,UNI-Virtuosi,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:42.727,16.157,0.134,191.263,1:05.195,12.0,11.0,12,P. Piquet,Charouz Racing System,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:43.621,17.051,0.894,191.188,1:05.019,8.0,12.0,6,C. Lundgaard,ART Grand Prix,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:46.746,20.176,3.125,190.924,1:05.302,12.0,13.0,11,L. Delétraz,Charouz Racing System,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:48.414,21.844,1.668,190.784,1:05.238,9.0,14.0,5,M. Armstrong,ART Grand Prix,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:50.209,23.639,1.795,190.633,1:05.540,5.0,15.0,22,R. Nissany,Trident,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:52.659,26.089,2.450,190.427,1:05.407,21.0,16.0,23,M. Sato,Trident,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:53.329,26.759,0.670,190.371,1:05.673,6.0,17.0,1,S. Gelael,DAMS,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,37:55.099,28.529,1.770,190.223,1:04.383,24.0,18.0,20,M. Schumacher,PREMA Racing,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,38:02.506,35.936,7.407,189.606,1:05.692,6.0,19.0,10,G. Samaia,Campos Racing,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+34,38:26.339,59.769,23.833,187.647,1:04.811,21.0,20.0,16,A. Markelov,BWT HWA RACELAB,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+33,37:30.734,1 LAP,1 LAP,186.615,1:04.583,30.0,21.0,17,T. Pourchaire,BWT HWA RACELAB,Sakhir ,Sprint Race,Round 12 ,2020-12-06
+23,44:11.624,-,-,168.661,1:51.352,5.0,1.0,7,L. Lawson,Hitech Grand Prix,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:12.549,0.925,0.925,168.603,1:51.486,5.0,2.0,6,J. Daruvala,Carlin Racing,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:26.006,14.382,13.457,167.752,1:51.415,5.0,3.0,14,D. Beckmann,Charouz Racing System,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:28.702,17.078,2.696,167.582,1:51.492,6.0,4.0,1,R. Shwartzman,PREMA Racing,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:29.128,17.504,0.426,167.555,1:51.852,8.0,5.0,2,O. Piastri,PREMA Racing,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:30.176,18.552,1.048,167.49,1:51.752,6.0,6.0,9,C. Lundgaard,ART Grand Prix,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:33.913,22.289,3.737,167.256,1:51.737,5.0,7.0,3,G. Zhou,UNI-Virtuosi,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:36.484,24.860,2.571,167.095,1:51.222,5.0,8.0,5,D. Ticktum,Carlin Racing,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:38.915,27.291,2.431,166.943,1:50.886,5.0,9.0,12,L. Zendeli,MP Motorsport,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:39.557,27.933,0.642,166.903,1:52.254,6.0,10.0,8,J. Vips,Hitech Grand Prix,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:43.532,31.908,3.214,166.656,1:51.912,8.0,11.0,15,G. Samaia,Charouz Racing System,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:43.929,32.305,0.397,166.631,1:52.084,6.0,12.0,16,R. Nissany,DAMS,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:45.318,28.694,0.761,166.856,1:52.094,8.0,13.0,24,B. Viscaal,Trident,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:45.587,33.963,1.658,166.528,1:52.053,6.0,14.0,22,M. Nannini,HWA RACELAB,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,44:58.509,46.885,12.922,165.731,1:52.693,9.0,15.0,25,M. Sato,Trident,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,45:14.874,63.250,16.365,164.732,1:51.374,19.0,16.0,4,F. Drugovich,UNI-Virtuosi,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,45:18.565,66.941,3.691,164.508,1:53.308,9.0,17.0,20,G. Petecof,Campos Racing,Sakhir,Sprint Race,Round 1 ,2021-03-28
+23,45:20.534,68.910,1.969,164.389,1:52.883,5.0,18.0,23,A. Deledda,HWA RACELAB,Sakhir,Sprint Race,Round 1 ,2021-03-28
+30,44:21.272,-,-,135.422,1:22.445,24.0,1.0,3,G. Zhou,UNI-Virtuosi,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:23.668,2.396,2.396,135.3,1:22.971,18.0,2.0,4,F. Drugovich,UNI-Virtuosi,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:27.181,5.909,3.513,135.122,1:23.730,18.0,3.0,16,R. Nissany,DAMS,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:28.702,7.430,1.521,135.045,1:23.883,12.0,4.0,21,R. Boschung,Campos Racing,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:32.279,11.007,3.577,134.864,1:22.125,22.0,5.0,8,J. Vips,Hitech Grand Prix,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:32.767,11.495,0.488,134.84,1:22.128,23.0,6.0,5,D. Ticktum,Carlin Racing,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:34.519,13.247,1.752,134.751,1:22.960,24.0,7.0,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:36.519,15.247,2.000,134.651,1:23.906,21.0,8.0,2,O. Piastri,PREMA Racing,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:38.786,17.514,2.267,134.537,1:23.840,12.0,9.0,7,L. Lawson,Hitech Grand Prix,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:40.219,18.947,1.433,134.465,1:24.191,9.0,10.0,17,M. Armstrong,DAMS,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:40.562,19.290,0.343,134.447,1:24.243,8.0,11.0,6,J. Daruvala,Carlin Racing,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:40.818,19.546,0.256,134.435,1:24.290,8.0,12.0,14,D. Beckmann,Charouz Racing System,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:41.187,19.915,0.369,134.416,1:24.148,12.0,13.0,11,R. Verschoor,MP Motorsport,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:41.506,20.234,0.319,134.4,1:24.099,14.0,14.0,24,B. Viscaal,Trident,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:42.027,20.755,0.521,134.374,1:24.397,20.0,15.0,12,L. Zendeli,MP Motorsport,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:42.440,21.168,0.413,134.353,1:24.263,23.0,16.0,22,J. Aitken,HWA RACELAB,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+30,44:43.145,21.873,0.705,134.318,1:24.487,23.0,17.0,15,G. Samaia,Charouz Racing System,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+29,45:03.834,1 LAP,1 LAP,128.847,1:26.315,23.0,18.0,23,A. Deledda,HWA RACELAB,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+28,41:48.788,DNF,-,134.076,1:24.669,16.0,19.0,25,M. Sato,Trident,Monte Carlo,Sprint Race,Round 2 ,2021-05-22
+21,44:35.734,-,-,169.468,1:57.060,21.0,1.0,1,R. Shwartzman,PREMA Racing,Baku,Sprint Race,Round 3 ,2021-06-06
+21,44:40.878,5.144,5.144,169.143,1:57.130,21.0,2.0,5,D. Ticktum,Carlin Racing,Baku,Sprint Race,Round 3 ,2021-06-06
+21,44:44.606,8.872,3.728,168.908,1:57.620,19.0,3.0,3,G. Zhou,UNI-Virtuosi,Baku,Sprint Race,Round 3 ,2021-06-06
+21,44:46.086,10.352,1.480,168.815,1:57.502,18.0,4.0,6,J. Daruvala,Carlin Racing,Baku,Sprint Race,Round 3 ,2021-06-06
+21,44:46.773,11.039,0.687,168.772,1:56.928,21.0,5.0,10,T. Pourchaire,ART Grand Prix,Baku,Sprint Race,Round 3 ,2021-06-06
+21,44:48.858,13.124,2.085,168.641,1:57.396,15.0,6.0,21,R. Boschung,Campos Racing,Baku,Sprint Race,Round 3 ,2021-06-06
+21,44:50.189,14.455,1.331,168.557,1:57.727,18.0,7.0,17,M. Armstrong,DAMS,Baku,Sprint Race,Round 3 ,2021-06-06
+21,44:50.258,14.524,0.069,168.553,1:57.690,9.0,8.0,8,J. Vips,Hitech Grand Prix,Baku,Sprint Race,Round 3 ,2021-06-06
+21,44:53.033,17.299,2.775,168.379,1:57.946,12.0,9.0,14,D. Beckmann,Charouz Racing System,Baku,Sprint Race,Round 3 ,2021-06-06
+21,44:53.498,17.764,0.465,168.35,1:57.598,12.0,10.0,24,B. Viscaal,Trident,Baku,Sprint Race,Round 3 ,2021-06-06
+21,44:55.472,19.738,1.974,168.227,1:57.661,16.0,11.0,9,C. Lundgaard,ART Grand Prix,Baku,Sprint Race,Round 3 ,2021-06-06
+21,44:56.798,21.064,1.326,168.144,1:57.754,19.0,12.0,11,R. Verschoor,MP Motorsport,Baku,Sprint Race,Round 3 ,2021-06-06
+21,44:57.571,21.837,0.773,168.096,1:57.353,21.0,13.0,12,L. Zendeli,MP Motorsport,Baku,Sprint Race,Round 3 ,2021-06-06
+21,45:01.583,25.849,4.012,167.846,1:57.811,16.0,14.0,4,F. Drugovich,UNI-Virtuosi,Baku,Sprint Race,Round 3 ,2021-06-06
+21,45:11.704,35.970,10.121,167.22,1:58.245,15.0,15.0,20,M. Nannini,Campos Racing,Baku,Sprint Race,Round 3 ,2021-06-06
+21,45:18.205,42.471,6.501,166.82,1:58.505,18.0,16.0,16,R. Nissany,DAMS,Baku,Sprint Race,Round 3 ,2021-06-06
+21,45:25.023,49.289,6.818,166.403,1:58.319,20.0,17.0,15,G. Samaia,Charouz Racing System,Baku,Sprint Race,Round 3 ,2021-06-06
+21,46:07.034,91.300,42.011,163.876,1:58.944,21.0,18.0,25,M. Sato,Trident,Baku,Sprint Race,Round 3 ,2021-06-06
+21,42:34.300,-,-,174.167,1:42.698,15.0,1.0,1,R. Shwartzman,PREMA Racing,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:35.271,0.971,0.971,174.101,1:42.638,21.0,2.0,8,J. Vips,Hitech Grand Prix,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:36.834,2.534,1.563,173.995,1:42.632,21.0,3.0,9,C. Lundgaard,ART Grand Prix,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:39.341,5.041,2.507,173.824,1:42.978,21.0,4.0,4,F. Drugovich,UNI-Virtuosi,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:39.894,5.594,0.553,173.787,1:42.926,21.0,5.0,10,T. Pourchaire,ART Grand Prix,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:42.703,8.403,2.809,173.596,1:42.498,21.0,6.0,2,O. Piastri,PREMA Racing,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:45.940,11.640,3.237,173.377,1:43.829,21.0,7.0,7,L. Lawson,Hitech Grand Prix,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:46.665,12.365,0.725,173.328,1:43.880,20.0,8.0,5,D. Ticktum,Carlin Racing,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:47.095,12.795,0.430,173.299,1:43.905,21.0,9.0,17,M. Armstrong,DAMS,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:47.940,13.640,0.845,173.242,1:43.348,19.0,10.0,11,R. Verschoor,MP Motorsport,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:48.522,14.222,0.582,173.203,1:43.506,20.0,11.0,12,L. Zendeli,MP Motorsport,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:50.994,16.694,2.472,173.037,1:44.102,10.0,12.0,6,J. Daruvala,Carlin Racing,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:51.515,17.215,0.521,173.001,1:43.899,20.0,13.0,14,D. Beckmann,Charouz Racing System,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:53.647,19.347,2.132,172.858,1:44.560,19.0,14.0,21,R. Boschung,Campos Racing,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:54.413,20.113,0.766,172.807,1:44.105,15.0,15.0,20,M. Nannini,Campos Racing,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:55.348,21.048,0.935,172.744,1:44.162,20.0,16.0,24,B. Viscaal,Trident,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,42:56.970,22.670,1.622,172.635,1:44.546,15.0,17.0,22,J. Aitken,HWA RACELAB,Silverstone,Sprint Race,Round 4 ,2021-07-18
+21,39:12.495,-,-,185.691,1:34.314,16.0,1.0,10,T. Pourchaire,ART Grand Prix,Monza,Sprint Race,Round 5 ,2021-09-12
+21,39:16.855,4.360,4.360,185.348,1:34.627,8.0,2.0,3,G. Zhou,UNI-Virtuosi,Monza,Sprint Race,Round 5 ,2021-09-12
+21,39:19.424,6.929,2.569,185.146,1:34.572,9.0,3.0,9,C. Lundgaard,ART Grand Prix,Monza,Sprint Race,Round 5 ,2021-09-12
+21,39:20.189,7.694,0.765,185.086,1:34.905,16.0,4.0,2,O. Piastri,PREMA Racing,Monza,Sprint Race,Round 5 ,2021-09-12
+21,39:22.262,9.767,2.073,184.923,1:35.078,17.0,5.0,7,L. Lawson,Hitech Grand Prix,Monza,Sprint Race,Round 5 ,2021-09-12
+21,39:23.242,10.747,0.980,184.847,1:34.570,8.0,6.0,1,R. Shwartzman,PREMA Racing,Monza,Sprint Race,Round 5 ,2021-09-12
+21,39:23.999,11.504,0.757,184.787,1:35.333,17.0,7.0,24,B. Viscaal,Trident,Monza,Sprint Race,Round 5 ,2021-09-12
+21,39:25.284,12.789,1.285,184.687,1:35.029,8.0,8.0,8,J. Vips,Hitech Grand Prix,Monza,Sprint Race,Round 5 ,2021-09-12
+21,39:25.663,13.168,0.379,184.657,1:34.966,17.0,9.0,6,J. Daruvala,Carlin Racing,Monza,Sprint Race,Round 5 ,2021-09-12
+21,39:27.727,15.232,2.064,184.496,1:34.759,8.0,10.0,20,D. Beckmann,Campos Racing,Monza,Sprint Race,Round 5 ,2021-09-12
+21,39:28.141,15.646,0.414,184.464,1:35.124,9.0,11.0,17,M. Armstrong,DAMS,Monza,Sprint Race,Round 5 ,2021-09-12
+21,39:31.335,18.840,3.194,184.216,1:35.444,15.0,12.0,22,J. Hughes,HWA RACELAB,Monza,Sprint Race,Round 5 ,2021-09-12
+21,39:32.892,20.397,1.557,184.095,1:36.245,9.0,13.0,23,A. Deledda,HWA RACELAB,Monza,Sprint Race,Round 5 ,2021-09-12
+20,39:38.836,1 LAP,1 LAP,174.868,1:35.452,14.0,14.0,21,R. Boschung,Campos Racing,Monza,Sprint Race,Round 5 ,2021-09-12
+18,34:35.351,DNF,-,180.342,1:34.954,8.0,15.0,12,L. Zendeli,MP Motorsport,Monza,Sprint Race,Round 5 ,2021-09-12
+18,36:37.195,-,-,172.144,1:50.899,16.0,1.0,5,D. Ticktum,Carlin Racing,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,36:41.617,4.422,4.422,171.798,1:50.886,15.0,2.0,8,J. Vips,Hitech Grand Prix,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,36:43.833,6.638,2.216,171.625,1:51.280,14.0,3.0,1,R. Shwartzman,PREMA Racing,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,36:46.089,8.894,2.256,171.45,1:51.502,14.0,4.0,22,J. Hughes,HWA RACELAB,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,36:47.019,9.824,0.930,171.377,1:50.669,16.0,5.0,10,T. Pourchaire,ART Grand Prix,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,36:50.189,12.994,3.170,171.131,1:51.724,13.0,6.0,21,R. Boschung,Campos Racing,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,36:50.864,13.669,0.675,171.079,1:51.802,14.0,7.0,9,C. Lundgaard,ART Grand Prix,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,36:51.367,14.172,0.503,171.04,1:51.750,14.0,8.0,11,R. Verschoor,MP Motorsport,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,36:52.116,14.921,0.749,170.982,1:51.462,16.0,9.0,2,O. Piastri,PREMA Racing,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,36:54.463,17.268,2.347,170.801,1:51.526,14.0,10.0,12,L. Zendeli,MP Motorsport,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,36:55.374,18.179,0.911,170.731,1:51.620,13.0,11.0,17,M. Armstrong,DAMS,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,37:05.326,28.131,9.952,169.967,1:51.362,14.0,12.0,6,J. Daruvala,Carlin Racing,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,37:05.959,28.764,0.633,169.919,1:51.311,16.0,13.0,15,G. Samaia,Charouz Racing System,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,37:17.856,40.661,11.897,169.016,1:51.227,16.0,14.0,25,M. Sato,Trident,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,37:34.866,57.671,17.010,167.741,1:50.680,15.0,15.0,20,D. Beckmann,Campos Racing,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,37:47.660,70.465,12.794,166.794,1:51.584,18.0,16.0,16,R. Nissany,DAMS,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,37:48.867,71.672,1.207,166.706,1:51.727,18.0,17.0,14,E. Fittipaldi,Charouz Racing System,Sochi,Sprint Race,Round 6 ,2021-09-26
+18,38:10.534,93.339,21.667,165.129,1:54.052,15.0,18.0,23,A. Deledda,HWA RACELAB,Sochi,Sprint Race,Round 6 ,2021-09-26
+20,41:44.102,-,-,177.16,1:44.710,19.0,1.0,17,M. Armstrong,DAMS,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:44.665,0.563,0.563,177.12,1:44.253,20.0,2.0,7,L. Lawson,Hitech Grand Prix,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:46.146,2.044,1.481,177.016,1:44.638,20.0,3.0,8,J. Vips,Hitech Grand Prix,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:46.928,2.826,0.782,176.96,1:44.773,20.0,4.0,4,F. Drugovich,UNI-Virtuosi,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:52.380,8.278,2.794,176.576,1:44.179,20.0,5.0,1,R. Shwartzman,PREMA Racing,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:52.479,8.377,0.099,176.569,1:45.022,8.0,6.0,9,C. Lundgaard,ART Grand Prix,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:52.554,8.452,0.075,176.564,1:44.656,11.0,7.0,5,D. Ticktum,Carlin Racing,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:52.715,8.613,0.161,176.553,1:44.907,9.0,8.0,2,O. Piastri,PREMA Racing,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:54.570,10.468,1.855,176.423,1:45.311,7.0,9.0,24,B. Viscaal,Trident,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:49.586,5.484,2.658,176.773,1:44.249,20.0,10.0,6,J. Daruvala,Carlin Racing,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:54.668,10.566,0.098,176.416,1:45.539,20.0,11.0,11,J. Doohan,MP Motorsport,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:55.067,10.965,0.399,176.388,1:44.912,20.0,12.0,14,E. Fittipaldi,Charouz Racing System,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:57.079,12.977,2.012,176.247,1:45.589,12.0,13.0,16,R. Nissany,DAMS,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:57.206,13.104,0.127,176.238,1:45.729,10.0,14.0,12,C. Novalak,MP Motorsport,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:58.434,14.332,1.228,176.152,1:45.307,8.0,15.0,21,R. Boschung,Campos Racing,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,41:59.410,15.308,0.976,176.084,1:45.814,10.0,16.0,22,L. Sargeant,HWA RACELAB,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,42:01.445,17.343,2.035,175.941,1:46.699,8.0,17.0,3,G. Zhou,UNI-Virtuosi,Jeddah,Sprint Race,Round 7 ,2021-12-05
+20,42:08.754,24.652,7.309,175.433,1:45.785,12.0,18.0,20,O. Caldwell,Campos Racing,Jeddah,Sprint Race,Round 7 ,2021-12-05
+23,38:33.605,-,-,188.819,1:39.850,18.0,1.0,6,J. Daruvala,Carlin Racing,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,38:35.684,2.079,2.079,188.649,1:40.052,6.0,2.0,4,F. Drugovich,UNI-Virtuosi,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,38:36.520,2.915,0.836,188.581,1:39.797,23.0,3.0,2,O. Piastri,PREMA Racing,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,38:37.186,3.581,0.666,188.527,1:39.529,23.0,4.0,1,R. Shwartzman,PREMA Racing,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,38:44.848,11.243,7.662,187.905,1:40.274,21.0,5.0,7,L. Lawson,Hitech Grand Prix,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,38:46.583,12.978,1.735,187.765,1:40.177,23.0,6.0,5,D. Ticktum,Carlin Racing,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,38:47.725,14.120,1.142,187.673,1:40.368,22.0,7.0,10,T. Pourchaire,ART Grand Prix,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,38:49.200,15.595,1.475,187.554,1:40.413,5.0,8.0,3,G. Zhou,UNI-Virtuosi,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,38:50.686,17.081,1.486,187.435,1:40.482,21.0,9.0,21,R. Boschung,Campos Racing,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,38:51.144,17.539,0.458,187.398,1:40.412,5.0,10.0,17,M. Armstrong,DAMS,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,38:52.135,18.530,0.991,187.318,1:40.448,5.0,11.0,11,J. Doohan,MP Motorsport,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,38:52.875,19.270,0.740,187.259,1:40.197,18.0,12.0,8,J. Vips,Hitech Grand Prix,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,38:60.831,22.226,2.956,187.022,1:39.876,21.0,13.0,24,B. Viscaal,Trident,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,39:03.532,29.927,7.701,186.407,1:40.397,23.0,14.0,16,R. Nissany,DAMS,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,39:05.704,32.099,2.172,186.235,1:40.509,4.0,15.0,9,C. Lundgaard,ART Grand Prix,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,39:06.241,32.636,0.537,186.192,1:40.839,14.0,16.0,15,G. Samaia,Charouz Racing System,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,39:10.641,37.036,4.400,185.844,1:40.685,20.0,17.0,12,C. Novalak,MP Motorsport,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,39:22.553,48.948,11.912,184.907,1:41.271,8.0,18.0,23,A. Deledda,HWA RACELAB,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,39:27.938,54.333,5.385,184.486,1:40.665,4.0,19.0,25,M. Sato,Trident,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,40:17.166,103.561,49.228,180.729,1:39.070,22.0,20.0,20,O. Caldwell,Campos Racing,Yas Island,Sprint Race,Round 8 ,2021-12-12
+23,43:34.983,-,-,171.025,1:45.832,7.0,1.0,20,R. Verschoor,Trident,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,43:36.836,1.853,1.853,170.904,1:46.311,2.0,2.0,2,J. Daruvala,PREMA Racing,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,43:39.958,4.975,3.122,170.7,1:46.669,2.0,3.0,5,L. Lawson,Carlin,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,43:41.964,6.981,2.006,170.569,1:46.126,7.0,4.0,15,R. Boschung,Campos Racing,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,43:43.784,8.801,1.820,170.451,1:46.773,7.0,5.0,11,F. Drugovich,MP Motorsport,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,43:44.246,9.263,0.462,170.421,1:47.100,18.0,6.0,6,L. Sargeant,Carlin,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,43:48.333,13.350,4.087,170.156,1:46.770,2.0,7.0,8,J. Vips,Hitech Grand Prix,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,43:50.732,15.749,2.399,170.001,1:46.779,9.0,8.0,17,A. Iwasa,DAMS,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,43:52.648,17.665,1.916,169.877,1:46.864,8.0,9.0,1,D. Hauger,PREMA Racing,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,43:56.455,21.472,3.807,169.632,1:46.805,2.0,10.0,3,J. Doohan,Virtuosi Racing,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,43:57.885,22.902,1.430,169.54,1:47.187,9.0,11.0,22,E. Fittipaldi,Charouz Racing System,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,44:01.557,26.574,3.672,169.304,1:46.939,8.0,12.0,16,R. Nissany,DAMS,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,44:02.473,27.490,0.916,169.246,1:47.699,13.0,13.0,9,F. Vesti,ART Grand Prix,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,44:06.904,31.921,4.431,168.962,1:47.412,10.0,14.0,23,C. Bölükbasi,Charouz Racing System,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,44:24.942,49.959,18.038,167.819,1:48.190,10.0,15.0,21,C. Williams,Trident,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,44:25.623,50.640,0.681,167.776,1:47.528,2.0,16.0,4,M. Sato,Virtuosi Racing,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,44:27.654,52.671,2.031,167.648,1:43.848,20.0,17.0,25,A. Cordeel,Van Amersfoort Racing,Sakhir,Sprint Race,Round 1 ,2022-03-20
+23,44:53.188,78.205,25.534,166.058,1:46.664,19.0,18.0,12,C. Novalak,MP Motorsport,Sakhir,Sprint Race,Round 1 ,2022-03-20
+22,42:20.232,DNF,-,168.388,1:48.546,9.0,19.0,14,O. Caldwell,Campos Racing,Sakhir,Sprint Race,Round 1 ,2022-03-20
+20,47:55.487,-,-,154.279,1:43.378,17.0,1.0,5,L. Lawson,Carlin,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,47:58.653,3.166,3.166,154.109,1:43.284,20.0,2.0,8,J. Vips,Hitech Grand Prix,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:00.333,4.846,1.622,154.019,1:43.441,20.0,3.0,11,F. Drugovich,MP Motorsport,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:01.764,6.277,1.431,153.943,1:44.019,18.0,4.0,21,C. Williams,Trident,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:07.608,12.121,5.844,153.631,1:44.617,16.0,5.0,20,R. Verschoor,Trident,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:09.007,13.520,1.399,153.557,1:44.112,20.0,6.0,17,A. Iwasa,DAMS,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:10.724,15.237,0.783,153.466,1:45.003,18.0,7.0,2,J. Daruvala,PREMA Racing,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:11.527,16.040,0.803,153.423,1:45.067,16.0,8.0,4,M. Sato,Virtuosi Racing,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:12.877,17.390,1.350,153.351,1:45.130,17.0,9.0,16,R. Nissany,DAMS,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:12.928,17.441,0.051,153.349,1:45.287,18.0,10.0,22,E. Fittipaldi,Charouz Racing System,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:14.226,18.739,1.298,153.28,1:45.253,18.0,11.0,12,C. Novalak,MP Motorsport,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:15.785,20.298,1.559,153.197,1:45.531,16.0,12.0,9,F. Vesti,ART Grand Prix,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:16.056,20.569,0.271,153.183,1:45.460,20.0,13.0,10,T. Pourchaire,ART Grand Prix,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:20.982,25.495,4.926,152.923,1:45.877,17.0,14.0,14,O. Caldwell,Campos Racing,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:29.941,14.454,0.934,153.507,1:44.626,17.0,15.0,15,R. Boschung,Campos Racing,Jeddah,Sprint Race,Round 2 ,2022-03-27
+20,48:46.982,51.495,26.000,151.564,1:44.702,20.0,16.0,1,D. Hauger,PREMA Racing,Jeddah,Sprint Race,Round 2 ,2022-03-27
+25,40:50.545,-,-,179.97,1:29.286,12.0,1.0,7,M. Armstrong,Hitech Grand Prix,Imola,Sprint Race,Round 3 ,2022-04-24
+25,40:51.976,1.431,1.431,179.865,1:29.196,9.0,2.0,2,J. Daruvala,PREMA Racing,Imola,Sprint Race,Round 3 ,2022-04-24
+25,40:52.788,2.243,0.812,179.805,1:29.106,12.0,3.0,1,D. Hauger,PREMA Racing,Imola,Sprint Race,Round 3 ,2022-04-24
+25,40:53.348,2.803,0.560,179.764,1:29.263,20.0,4.0,16,R. Nissany,DAMS,Imola,Sprint Race,Round 3 ,2022-04-24
+25,40:57.590,7.045,4.242,179.454,1:29.344,17.0,5.0,11,F. Drugovich,MP Motorsport,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:00.366,9.821,2.776,179.251,1:29.423,17.0,6.0,6,L. Sargeant,Carlin,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:02.917,12.372,2.551,179.066,1:29.447,17.0,7.0,10,T. Pourchaire,ART Grand Prix,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:03.371,12.826,0.454,179.033,1:29.505,17.0,8.0,5,L. Lawson,Carlin,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:03.981,13.436,0.610,178.988,1:29.456,14.0,9.0,17,A. Iwasa,DAMS,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:08.259,17.714,4.278,178.678,1:29.609,14.0,10.0,9,F. Vesti,ART Grand Prix,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:10.724,20.179,2.465,178.5,1:29.403,12.0,11.0,3,J. Doohan,Virtuosi Racing,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:11.604,21.059,0.880,178.436,1:29.597,14.0,12.0,22,E. Fittipaldi,Charouz Racing System,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:12.038,21.493,0.434,178.405,1:29.309,14.0,13.0,20,R. Verschoor,Trident,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:13.487,22.942,1.449,178.3,1:29.511,15.0,14.0,21,C. Williams,Trident,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:13.820,23.275,0.333,178.276,1:28.841,12.0,15.0,8,J. Vips,Hitech Grand Prix,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:14.761,24.216,0.941,178.209,1:29.893,12.0,16.0,4,M. Sato,Virtuosi Racing,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:15.182,24.637,0.421,178.178,1:29.663,15.0,17.0,14,O. Caldwell,Campos Racing,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:16.401,25.856,1.219,178.091,1:29.643,15.0,18.0,24,J. Hughes,Van Amersfoort Racing,Imola,Sprint Race,Round 3 ,2022-04-24
+25,41:16.844,26.299,0.443,178.059,1:29.670,17.0,19.0,12,C. Novalak,MP Motorsport,Imola,Sprint Race,Round 3 ,2022-04-24
+26,44:12.635,-,-,164.789,1:35.211,23.0,1.0,11,F. Drugovich,MP Motorsport,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:14.744,2.109,2.109,164.658,1:36.162,25.0,2.0,17,A. Iwasa,DAMS,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:16.800,4.165,2.056,164.531,1:36.270,21.0,3.0,6,L. Sargeant,Carlin,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:21.128,8.493,4.328,164.263,1:36.076,21.0,4.0,2,J. Daruvala,PREMA Racing,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:21.886,9.251,0.758,164.216,1:36.288,17.0,5.0,10,T. Pourchaire,ART Grand Prix,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:23.116,10.481,1.230,164.14,1:36.004,22.0,6.0,3,J. Doohan,Virtuosi Racing,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:29.065,16.430,5.949,163.775,1:36.329,16.0,7.0,9,F. Vesti,ART Grand Prix,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:29.891,17.256,0.826,163.724,1:36.158,16.0,8.0,22,E. Fittipaldi,Charouz Racing System,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:30.340,17.705,0.449,163.696,1:36.255,17.0,9.0,5,L. Lawson,Carlin,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:31.159,18.524,0.819,163.646,1:36.377,19.0,10.0,7,M. Armstrong,Hitech Grand Prix,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:37.956,25.321,6.797,163.231,1:36.794,20.0,11.0,20,R. Verschoor,Trident,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:38.632,25.997,0.676,163.19,1:36.817,14.0,12.0,1,D. Hauger,PREMA Racing,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:39.111,26.476,0.479,163.16,1:36.867,20.0,13.0,14,O. Caldwell,Campos Racing,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:41.950,29.315,2.839,162.988,1:35.865,15.0,14.0,12,C. Novalak,MP Motorsport,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:44.125,31.490,2.175,162.856,1:36.532,21.0,15.0,16,R. Nissany,DAMS,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:46.416,33.781,2.291,162.717,1:36.745,20.0,16.0,21,C. Williams,Trident,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,44:50.071,37.436,3.655,162.496,1:37.177,20.0,17.0,4,M. Sato,Virtuosi Racing,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,45:05.916,53.281,15.845,161.544,1:37.690,4.0,18.0,23,C. Bölükbasi,Charouz Racing System,Barcelona,Sprint Race,Round 4 ,2022-05-22
+26,45:18.561,65.926,12.645,160.793,1:36.869,19.0,19.0,25,A. Cordeel,Van Amersfoort Racing,Barcelona,Sprint Race,Round 4 ,2022-05-22
+24,41:30.794,DNF,-,161.983,1:36.310,17.0,20.0,24,J. Hughes,Van Amersfoort Racing,Barcelona,Sprint Race,Round 4 ,2022-05-22
+30,44:28.491,-,-,135.056,1:23.033,28.0,1.0,1,D. Hauger,PREMA Racing,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,44:35.202,6.711,6.711,134.717,1:23.549,26.0,2.0,2,J. Daruvala,PREMA Racing,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,44:35.758,7.267,0.556,134.689,1:23.086,30.0,3.0,7,M. Armstrong,Hitech Grand Prix,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,44:41.655,13.164,5.897,134.393,1:24.087,16.0,4.0,22,E. Fittipaldi,Charouz Racing System,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,44:43.057,14.566,1.402,134.322,1:24.213,17.0,5.0,8,J. Vips,Hitech Grand Prix,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,44:44.320,15.829,1.263,134.259,1:22.941,30.0,6.0,10,T. Pourchaire,ART Grand Prix,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,44:45.856,17.365,1.536,134.182,1:22.832,30.0,7.0,3,J. Doohan,Virtuosi Racing,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,44:50.161,21.670,4.305,133.968,1:23.661,27.0,8.0,5,L. Lawson,Carlin,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,44:51.329,22.838,1.168,133.91,1:24.363,9.0,9.0,16,R. Nissany,DAMS,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,44:51.522,23.031,0.193,133.9,1:23.085,30.0,10.0,6,L. Sargeant,Carlin,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,44:54.847,26.356,3.325,133.735,1:24.538,20.0,11.0,9,F. Vesti,ART Grand Prix,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,44:59.829,31.338,4.982,133.488,1:24.579,9.0,12.0,23,C. Bölükbasi,Charouz Racing System,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,45:00.905,32.414,1.076,133.435,1:23.286,29.0,13.0,20,R. Verschoor,Trident,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,45:12.717,44.226,11.812,132.854,1:24.750,7.0,14.0,21,C. Williams,Trident,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,45:13.143,44.652,0.426,132.833,1:24.879,6.0,15.0,4,M. Sato,Virtuosi Racing,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,45:13.736,45.245,0.593,132.804,1:24.883,7.0,16.0,14,O. Caldwell,Campos Racing,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,45:15.761,47.270,2.025,132.705,1:23.815,8.0,17.0,25,A. Cordeel,Van Amersfoort Racing,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,45:23.894,55.403,8.133,132.309,1:23.594,15.0,18.0,24,J. Hughes,Van Amersfoort Racing,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+30,45:24.242,55.751,0.348,132.292,1:23.846,15.0,19.0,17,A. Iwasa,DAMS,Monte Carlo,Sprint Race,Round 5 ,2022-05-29
+21,48:36.014,-,-,155.504,1:57.581,11.0,1.0,9,F. Vesti,ART Grand Prix,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:36.394,0.380,0.380,155.483,1:57.540,10.0,2.0,2,J. Daruvala,PREMA Racing,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:37.116,1.102,0.722,155.445,1:57.553,13.0,3.0,5,L. Lawson,Carlin,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:37.531,1.517,0.415,155.423,1:57.627,11.0,4.0,7,M. Armstrong,Hitech Grand Prix,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:37.778,1.764,0.247,155.41,1:57.637,11.0,5.0,11,F. Drugovich,MP Motorsport,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:38.192,2.178,0.414,155.388,1:57.561,11.0,6.0,6,L. Sargeant,Carlin,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:38.682,2.668,0.490,155.362,1:57.683,5.0,7.0,10,T. Pourchaire,ART Grand Prix,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:39.260,3.246,0.578,155.331,1:58.083,5.0,8.0,17,A. Iwasa,DAMS,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:41.510,5.496,2.250,155.211,1:58.351,4.0,9.0,24,J. Hughes,Van Amersfoort Racing,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:43.395,7.381,1.885,155.111,1:58.361,6.0,10.0,16,R. Nissany,DAMS,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:43.587,7.573,0.192,155.101,1:57.798,13.0,11.0,3,J. Doohan,Virtuosi Racing,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:44.041,8.027,0.454,155.077,1:57.867,12.0,12.0,8,J. Vips,Hitech Grand Prix,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:45.011,8.997,0.970,155.025,1:59.372,7.0,13.0,25,A. Cordeel,Van Amersfoort Racing,Baku,Sprint Race,Round 6 ,2022-06-12
+21,48:45.304,9.290,0.293,155.01,1:59.279,12.0,14.0,12,C. Novalak,MP Motorsport,Baku,Sprint Race,Round 6 ,2022-06-12
+20,46:36.325,DNF,-,154.431,1:58.371,7.0,15.0,15,R. Boschung,Campos Racing,Baku,Sprint Race,Round 6 ,2022-06-12
+20,46:36.598,DNF,-,154.416,1:57.911,13.0,16.0,21,C. Williams,Trident,Baku,Sprint Race,Round 6 ,2022-06-12
+20,46:37.164,DNF,-,154.385,1:58.497,9.0,17.0,4,M. Sato,Virtuosi Racing,Baku,Sprint Race,Round 6 ,2022-06-12
+20,46:37.229,DNF,-,154.381,1:58.493,11.0,18.0,23,C. Bölükbasi,Charouz Racing System,Baku,Sprint Race,Round 6 ,2022-06-12
+20,48:46.667,1 LAP,129.438,147.554,1:58.354,9.0,19.0,14,O. Caldwell,Campos Racing,Baku,Sprint Race,Round 6 ,2022-06-12
+18,40:44.593,DNF,-,158.971,1:57.353,13.0,20.0,20,R. Verschoor,Trident,Baku,Sprint Race,Round 6 ,2022-06-12
+20,40:42.488,-,-,173.458,2:00.164,19.0,1.0,3,J. Doohan,Virtuosi Racing,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,40:43.420,0.932,0.932,173.392,1:58.954,20.0,2.0,17,A. Iwasa,DAMS,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,40:59.210,16.722,15.790,172.278,2:01.157,19.0,3.0,22,E. Fittipaldi,Charouz Racing System,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:00.376,17.888,1.166,172.197,2:01.204,19.0,4.0,10,T. Pourchaire,ART Grand Prix,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:04.205,21.717,3.829,171.929,1:59.295,20.0,5.0,11,F. Drugovich,MP Motorsport,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:09.318,26.830,5.113,171.573,1:59.964,20.0,6.0,9,F. Vesti,ART Grand Prix,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:10.772,28.284,1.454,171.472,1:59.774,19.0,7.0,6,L. Sargeant,Carlin,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:18.779,36.291,8.007,170.918,2:01.532,2.0,8.0,2,J. Daruvala,PREMA Racing,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:21.187,38.699,2.408,170.752,2:00.719,20.0,9.0,7,M. Armstrong,Hitech Grand Prix,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:26.258,43.770,5.071,170.404,2:01.564,17.0,10.0,20,R. Verschoor,Trident,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:27.099,44.611,0.841,170.346,2:00.996,18.0,11.0,24,J. Hughes,Van Amersfoort Racing,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:30.601,48.113,3.502,170.107,2:01.974,19.0,12.0,8,J. Vips,Hitech Grand Prix,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:31.936,49.448,1.335,170.016,2:01.664,20.0,13.0,12,C. Novalak,MP Motorsport,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:36.997,54.509,5.061,169.671,2:01.970,18.0,14.0,16,R. Nissany,DAMS,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:37.723,55.235,0.726,169.622,2:02.608,2.0,15.0,1,D. Hauger,PREMA Racing,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:41.191,58.703,3.468,169.387,2:01.236,20.0,16.0,25,D. Beckmann,Van Amersfoort Racing,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:48.565,66.077,7.374,168.889,2:02.256,19.0,17.0,21,C. Williams,Trident,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,41:48.899,66.411,0.334,168.866,2:03.055,2.0,18.0,14,O. Caldwell,Campos Racing,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,42:04.199,81.711,15.300,167.843,2:03.039,2.0,19.0,23,C. Bölükbasi,Charouz Racing System,Silverstone,Sprint Race,Round 7 ,2022-07-03
+20,42:17.513,95.025,13.314,166.962,2:01.680,18.0,20.0,5,L. Lawson,Carlin,Silverstone,Sprint Race,Round 7 ,2022-07-03
+28,36:38.856,-,-,197.739,1:17.338,7.0,1.0,7,M. Armstrong,Hitech Grand Prix,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,36:39.954,1.098,1.098,197.64,1:17.406,7.0,2.0,10,T. Pourchaire,ART Grand Prix,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,36:41.025,2.169,1.071,197.544,1:17.419,22.0,3.0,3,J. Doohan,Virtuosi Racing,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,36:43.909,5.053,2.884,197.286,1:17.328,9.0,4.0,11,F. Drugovich,MP Motorsport,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,36:50.828,11.972,6.919,196.668,1:17.519,7.0,5.0,8,J. Vips,Hitech Grand Prix,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,36:53.688,14.832,2.860,196.414,1:17.646,8.0,6.0,20,R. Verschoor,Trident,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,36:54.147,15.291,0.459,196.373,1:17.735,5.0,7.0,6,L. Sargeant,Carlin,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,36:56.394,17.538,1.647,196.174,1:17.617,4.0,8.0,22,E. Fittipaldi,Charouz Racing System,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,36:58.193,19.337,1.799,196.015,1:17.426,14.0,9.0,1,D. Hauger,PREMA Racing,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,36:54.747,15.891,0.600,196.32,1:17.662,6.0,10.0,17,A. Iwasa,DAMS,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,37:00.500,21.644,2.307,195.812,1:17.825,4.0,11.0,2,J. Daruvala,PREMA Racing,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,37:00.892,22.036,0.392,195.777,1:17.738,16.0,12.0,9,F. Vesti,ART Grand Prix,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,37:10.556,31.700,9.664,194.929,1:17.800,20.0,13.0,16,R. Nissany,DAMS,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,37:13.421,34.565,2.865,194.679,1:18.064,20.0,14.0,21,C. Williams,Trident,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,37:17.529,38.673,4.108,194.321,1:18.252,11.0,15.0,12,C. Novalak,MP Motorsport,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,37:19.101,40.245,0.124,194.185,1:18.209,10.0,16.0,24,J. Hughes,Van Amersfoort Racing,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,37:32.415,53.559,13.314,193.037,1:18.415,8.0,17.0,14,O. Caldwell,Campos Racing,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,37:18.977,40.121,1.448,194.196,1:18.361,20.0,18.0,25,A. Cordeel,Van Amersfoort Racing,Spielberg,Sprint Race,Round 8 ,2022-07-10
+26,34:42.061,2 LAPS,-,193.899,1:18.170,19.0,19.0,15,R. Merhi,Campos Racing,Spielberg,Sprint Race,Round 8 ,2022-07-10
+28,45:42.642,-,-,160.961,1:33.017,9.0,1.0,3,J. Doohan,Virtuosi Racing,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,45:47.917,5.275,5.275,160.652,1:32.837,8.0,2.0,8,J. Vips,Hitech Grand Prix,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,45:48.967,6.325,1.050,160.591,1:32.934,10.0,3.0,22,E. Fittipaldi,Charouz Racing System,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,45:50.434,7.792,1.467,160.505,1:33.065,9.0,4.0,11,F. Drugovich,MP Motorsport,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,45:51.908,9.266,1.474,160.419,1:33.060,9.0,5.0,9,F. Vesti,ART Grand Prix,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,45:56.192,13.550,4.284,160.17,1:33.299,9.0,6.0,5,L. Lawson,Carlin,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,46:02.827,20.185,6.635,159.785,1:33.148,9.0,7.0,7,M. Armstrong,Hitech Grand Prix,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,46:03.365,20.723,0.538,159.754,1:33.380,7.0,8.0,17,A. Iwasa,DAMS,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,46:04.357,21.715,0.992,159.697,1:33.034,8.0,9.0,10,T. Pourchaire,ART Grand Prix,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,46:12.436,29.794,8.079,159.232,1:33.269,8.0,10.0,14,O. Caldwell,Campos Racing,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,46:13.698,31.056,1.262,159.159,1:33.419,7.0,11.0,21,C. Williams,Trident,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,46:14.481,31.839,0.783,159.114,1:33.703,8.0,12.0,24,D. Beckmann,Van Amersfoort Racing,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,46:14.932,32.290,0.451,159.088,1:33.836,7.0,13.0,25,A. Cordeel,Van Amersfoort Racing,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,46:31.526,48.884,16.594,158.143,1:31.449,21.0,14.0,15,R. Merhi,Campos Racing,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,46:34.460,51.818,2.934,157.977,1:33.571,7.0,15.0,4,M. Sato,Virtuosi Racing,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,46:49.805,67.163,10.141,157.114,1:32.465,17.0,16.0,23,C. Bölükbasi,Charouz Racing System,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,46:59.910,77.268,10.105,156.551,1:30.452,28.0,17.0,2,J. Daruvala,PREMA Racing,Budapest,Sprint Race,Round 10 ,2022-07-31
+28,46:39.664,57.022,5.204,157.683,1:30.414,26.0,18.0,20,R. Verschoor,Trident,Budapest,Sprint Race,Round 10 ,2022-07-31
+27,46:26.888,1 LAP,1 LAP,152.747,1:32.824,10.0,19.0,16,R. Nissany,DAMS,Budapest,Sprint Race,Round 10 ,2022-07-31
+27,46:54.431,1 LAP,27.543,151.252,1:32.218,9.0,20.0,12,C. Novalak,MP Motorsport,Budapest,Sprint Race,Round 10 ,2022-07-31
+18,40:22.343,-,-,187.179,2:01.740,2.0,1.0,5,L. Lawson,Carlin,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:26.211,3.868,3.868,186.881,2:02.489,3.0,2.0,3,J. Doohan,Virtuosi Racing,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:28.061,5.718,1.850,186.738,2:01.845,3.0,3.0,15,R. Boschung,Campos Racing,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:28.703,6.360,0.642,186.689,2:01.981,3.0,4.0,11,F. Drugovich,MP Motorsport,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:30.750,8.407,2.047,186.532,2:02.319,3.0,5.0,20,R. Verschoor,Trident,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:31.029,8.686,0.279,186.51,2:02.409,3.0,6.0,10,T. Pourchaire,ART Grand Prix,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:31.765,9.422,0.736,186.454,2:02.188,3.0,7.0,7,M. Armstrong,Hitech Grand Prix,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:32.408,10.065,0.643,186.404,2:02.467,3.0,8.0,24,D. Beckmann,Van Amersfoort Racing,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:33.176,10.833,0.768,186.346,2:03.078,3.0,9.0,17,A. Iwasa,DAMS,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:33.477,11.134,0.301,186.323,2:02.527,3.0,10.0,1,D. Hauger,PREMA Racing,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:33.958,11.615,0.481,186.286,2:03.009,3.0,11.0,16,R. Nissany,DAMS,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:36.432,14.089,2.474,186.097,2:03.302,3.0,12.0,4,M. Sato,Virtuosi Racing,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:38.144,15.801,1.712,185.966,2:03.188,3.0,13.0,22,E. Fittipaldi,Charouz Racing System,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:38.736,16.393,0.592,185.921,2:02.820,3.0,14.0,8,J. Vips,Hitech Grand Prix,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:39.110,16.767,0.374,185.892,2:03.268,3.0,15.0,9,F. Vesti,ART Grand Prix,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:40.012,17.669,0.902,185.824,2:03.300,4.0,16.0,21,C. Williams,Trident,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:40.896,18.553,0.884,185.756,2:03.130,3.0,17.0,12,C. Novalak,MP Motorsport,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:40.937,18.594,0.041,185.753,2:03.381,3.0,18.0,25,A. Cordeel,Van Amersfoort Racing,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:41.387,19.044,0.450,185.719,2:04.136,4.0,19.0,23,T. Calderón,Charouz Racing System,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+18,40:45.550,23.207,4.163,185.403,2:03.461,4.0,20.0,14,L. Zendeli,Campos Racing,Spa-Francorchamps,Sprint Race,Round 11 ,2022-08-28
+29,43:42.549,-,-,169.461,1:26.338,5.0,1.0,7,M. Armstrong,Hitech Grand Prix,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:43.429,0.880,0.880,169.404,1:26.253,5.0,2.0,12,C. Novalak,MP Motorsport,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:44.539,1.990,1.110,169.332,1:26.293,3.0,3.0,1,D. Hauger,PREMA Racing,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:45.066,2.517,0.527,169.298,1:26.261,4.0,4.0,5,L. Lawson,Carlin,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:45.575,3.026,0.509,169.265,1:26.225,4.0,5.0,8,J. Vips,Hitech Grand Prix,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:45.867,3.318,0.292,169.246,1:26.287,5.0,6.0,17,A. Iwasa,DAMS,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:46.817,4.268,0.950,169.185,1:26.366,5.0,7.0,20,R. Verschoor,Trident,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:47.199,4.650,0.382,169.161,1:26.218,5.0,8.0,6,L. Sargeant,Carlin,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:47.389,4.840,0.190,169.148,1:25.987,18.0,9.0,3,J. Doohan,Virtuosi Racing,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:48.007,5.458,0.618,169.109,1:25.808,25.0,10.0,11,F. Drugovich,MP Motorsport,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:48.836,6.287,0.829,169.055,1:26.439,5.0,11.0,9,F. Vesti,ART Grand Prix,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:49.268,6.719,0.432,169.028,1:26.377,6.0,12.0,25,A. Cordeel,Van Amersfoort Racing,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:49.965,7.416,0.697,168.983,1:26.382,6.0,13.0,22,E. Fittipaldi,Charouz Racing System,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:50.652,8.103,0.687,168.939,1:26.237,4.0,14.0,24,D. Beckmann,Van Amersfoort Racing,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:51.489,8.940,0.837,168.885,1:26.431,6.0,15.0,16,R. Nissany,DAMS,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:52.268,9.719,0.779,168.835,1:26.020,22.0,16.0,2,J. Daruvala,PREMA Racing,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:52.367,9.818,0.099,168.829,1:26.708,11.0,17.0,15,R. Boschung,Campos Racing,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:52.994,10.445,0.627,168.788,1:26.772,12.0,18.0,21,C. Williams,Trident,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:53.837,11.288,0.843,168.734,1:26.688,9.0,19.0,4,M. Sato,Virtuosi Racing,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+29,43:54.019,11.470,0.182,168.723,1:26.003,24.0,20.0,10,T. Pourchaire,ART Grand Prix,Zandvoort,Sprint Race,Round 12 ,2022-09-04
+21,35:29.646,-,-,205.122,1:33.817,18.0,1.0,8,J. Vips,Hitech Grand Prix,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:30.681,1.035,1.035,205.022,1:33.763,19.0,2.0,9,F. Vesti,ART Grand Prix,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:37.330,7.684,6.649,204.385,1:34.059,12.0,3.0,2,J. Daruvala,PREMA Racing,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:38.668,9.022,1.338,204.257,1:34.017,11.0,4.0,6,L. Sargeant,Carlin,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:42.775,13.129,3.667,203.865,1:34.039,20.0,5.0,5,L. Lawson,Carlin,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:42.952,13.306,0.177,203.848,1:33.930,21.0,6.0,3,J. Doohan,Virtuosi Racing,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:44.037,14.391,1.085,203.745,1:33.856,20.0,7.0,24,D. Beckmann,Van Amersfoort Racing,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:39.108,9.462,0.440,204.215,1:33.874,20.0,8.0,20,R. Verschoor,Trident,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:44.369,14.723,0.332,203.714,1:33.739,20.0,9.0,1,D. Hauger,PREMA Racing,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:47.267,17.621,2.898,203.439,1:33.935,20.0,10.0,7,M. Armstrong,Hitech Grand Prix,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:48.841,19.195,1.574,203.29,1:34.103,8.0,11.0,4,M. Sato,Virtuosi Racing,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:52.250,22.604,3.409,202.968,1:34.052,7.0,12.0,22,E. Fittipaldi,Charouz Racing System,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:53.832,24.186,1.582,202.819,1:33.911,8.0,13.0,16,L. Ghiotto,DAMS,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:54.333,24.687,0.501,202.771,1:33.912,12.0,14.0,21,C. Williams,Trident,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:55.553,25.907,1.220,202.657,1:34.065,8.0,15.0,25,A. Cordeel,Van Amersfoort Racing,Monza,Sprint Race,Round 13 ,2022-09-11
+21,35:57.801,28.155,2.248,202.446,1:34.447,7.0,16.0,17,A. Iwasa,DAMS,Monza,Sprint Race,Round 13 ,2022-09-11
+21,36:00.031,30.385,2.230,202.237,1:34.035,6.0,17.0,10,T. Pourchaire,ART Grand Prix,Monza,Sprint Race,Round 13 ,2022-09-11
+23,1:11:53.868,-,-,101.267,1:39.292,7.0,1.0,5,L. Lawson,Carlin,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:01.811,7.943,7.943,101.08,1:39.337,7.0,2.0,20,R. Verschoor,Trident,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:02.671,8.803,0.860,101.06,1:39.835,9.0,3.0,11,F. Drugovich,MP Motorsport,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:08.805,14.937,6.134,100.917,1:39.448,8.0,4.0,1,D. Hauger,PREMA Racing,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:09.317,15.449,0.512,100.905,1:39.465,8.0,5.0,25,A. Cordeel,Van Amersfoort Racing,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:09.806,15.938,0.489,100.894,1:39.987,8.0,6.0,6,L. Sargeant,Carlin,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:10.369,16.501,0.563,100.881,1:39.850,8.0,7.0,3,J. Doohan,Virtuosi Racing,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:11.181,17.313,0.812,100.862,1:39.860,9.0,8.0,16,R. Nissany,DAMS,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:11.447,17.579,0.266,100.856,1:40.071,10.0,9.0,10,T. Pourchaire,ART Grand Prix,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:11.836,17.968,0.389,100.847,1:40.009,10.0,10.0,7,M. Armstrong,Hitech Grand Prix,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:13.081,19.213,1.245,100.818,1:40.115,16.0,11.0,9,F. Vesti,ART Grand Prix,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:15.899,22.031,2.818,100.752,1:39.999,8.0,12.0,8,J. Vips,Hitech Grand Prix,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:18.030,24.162,2.131,100.703,1:40.154,10.0,13.0,17,A. Iwasa,DAMS,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:20.963,27.095,2.933,100.634,1:40.020,13.0,14.0,12,C. Novalak,MP Motorsport,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:27.728,33.860,0.696,100.478,1:40.595,10.0,15.0,21,Z. Maloney,Trident,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:27.902,34.034,0.174,100.474,1:40.604,8.0,16.0,14,O. Caldwell,Campos Racing,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:30.298,36.430,2.396,100.419,1:40.342,4.0,17.0,15,R. Boschung,Campos Racing,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:27.032,33.164,6.069,100.494,1:40.324,12.0,18.0,24,J. Correa,Van Amersfoort Racing,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:12:52.578,58.710,22.280,99.907,1:40.366,17.0,19.0,4,M. Sato,Virtuosi Racing,Yas Island,Sprint Race,Round 14 ,2022-11-20
+23,1:13:08.758,74.890,16.180,99.539,1:41.720,8.0,20.0,23,T. Calderón,Charouz Racing System,Yas Island,Sprint Race,Round 14 ,2022-11-20
+21,41:22.995,-,-,177.964,1:47.984,21.0,1.0,5,L. Lawson,Carlin,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:26.201,3.206,3.206,177.735,1:48.395,21.0,2.0,2,J. Daruvala,PREMA Racing,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:27.830,4.835,0.283,177.618,1:48.310,21.0,3.0,11,F. Drugovich,MP Motorsport,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:28.704,5.709,0.874,177.556,1:48.433,21.0,4.0,3,J. Doohan,Virtuosi Racing,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:30.943,7.948,0.861,177.396,1:48.724,15.0,5.0,9,F. Vesti,ART Grand Prix,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:31.255,8.260,0.312,177.374,1:48.757,18.0,6.0,17,A. Iwasa,DAMS,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:27.547,4.552,1.346,177.639,1:48.453,21.0,7.0,10,T. Pourchaire,ART Grand Prix,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:32.649,9.654,0.221,177.275,1:48.784,18.0,8.0,6,L. Sargeant,Carlin,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:33.581,10.586,0.932,177.209,1:48.823,16.0,9.0,4,M. Sato,Virtuosi Racing,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:33.974,10.979,0.393,177.181,1:48.731,16.0,10.0,24,D. Beckmann,Van Amersfoort Racing,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:30.082,7.087,1.378,177.458,1:48.722,21.0,11.0,8,J. Vips,Hitech Grand Prix,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:35.472,12.477,1.498,177.074,1:48.926,18.0,12.0,1,D. Hauger,PREMA Racing,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:35.525,12.530,0.053,177.071,1:48.228,16.0,13.0,21,C. Williams,Trident,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:32.428,9.433,1.173,177.291,1:48.731,15.0,14.0,7,M. Armstrong,Hitech Grand Prix,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:38.856,15.861,3.331,176.835,1:49.148,4.0,15.0,23,C. Bölükbasi,Charouz Racing System,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:39.531,16.536,0.675,176.787,1:48.679,16.0,16.0,16,R. Nissany,DAMS,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:39.638,16.643,0.107,176.779,1:48.408,17.0,17.0,12,C. Novalak,MP Motorsport,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+21,41:40.333,17.338,0.695,176.73,1:48.384,17.0,18.0,14,O. Caldwell,Campos Racing,Le Castellet,Sprint Race,Round 9 ,2022-07-24
+23,41:50.597,-,-,178.136,1:47.857,4.0,1.0,25,R. Boschung,Campos Racing,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:01.445,10.848,10.848,177.369,1:48.205,4.0,2.0,1,D. Hauger,MP Motorsport,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:06.759,16.162,5.314,176.996,1:47.787,3.0,3.0,6,V. Martins,ART Grand Prix,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:15.091,24.494,8.332,176.414,1:47.866,3.0,4.0,11,A. Iwasa,DAMS,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:20.306,29.709,5.215,176.052,1:47.691,5.0,5.0,5,T. Pourchaire,ART Grand Prix,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:21.498,30.901,1.192,175.97,1:47.975,4.0,6.0,2,J. Daruvala,MP Motorsport,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:32.138,41.541,10.640,175.236,1:48.626,3.0,7.0,24,K. Maini,Campos Racing,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:33.662,43.065,1.524,175.132,1:48.661,7.0,8.0,4,E. Fittipaldi,Carlin,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:34.732,44.135,1.070,175.058,1:48.699,4.0,9.0,3,Z. Maloney,Carlin,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:39.137,48.540,4.405,174.757,1:48.932,3.0,10.0,23,J. Correa,Van Amersfoort Racing,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:39.848,49.251,0.711,174.708,1:49.100,3.0,11.0,14,J. Doohan,Invicta Virtuosi Racing,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:40.761,50.164,0.913,174.646,1:48.007,4.0,12.0,12,A. Leclerc,DAMS,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:41.222,50.625,0.461,174.615,1:48.487,5.0,13.0,20,R. Stanek,Trident,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:42.880,52.283,1.658,174.502,1:49.386,5.0,14.0,9,J. Crawford,Hitech Pulse-Eight,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:44.349,53.752,1.469,174.402,1:46.953,16.0,15.0,8,O. Bearman,PREMA Racing,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:45.204,54.607,0.855,174.344,1:49.430,3.0,16.0,21,C. Novalak,Trident,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:45.242,54.645,0.038,174.341,1:47.243,20.0,17.0,7,F. Vesti,PREMA Racing,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:55.083,64.486,9.841,173.675,1:47.046,19.0,18.0,16,R. Nissany,PHM Racing by Charouz,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,42:59.365,68.768,4.282,173.386,1:48.760,3.0,19.0,17,B. Benavides,PHM Racing by Charouz,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,43:03.920,73.323,4.555,173.081,1:48.699,3.0,20.0,10,I. Hadjar,Hitech Pulse-Eight,Sakhir,Sprint Race,Round 1 ,2023-03-05
+23,43:04.397,73.800,0.477,173.049,1:47.590,19.0,21.0,15,A. Cordeel,Invicta Virtuosi Racing,Sakhir,Sprint Race,Round 1 ,2023-03-05
+21,39:05.284,DNF,-,174.077,1:48.722,3.0,22.0,22,R. Verschoor,Van Amersfoort Racing,Sakhir,Sprint Race,Round 1 ,2023-03-05
+20,42:21.514,-,-,174.552,1:45.523,14.0,1.0,11,A. Iwasa,DAMS,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:22.214,0.700,0.700,174.504,1:44.886,14.0,2.0,6,V. Martins,ART Grand Prix,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:22.700,1.186,0.486,174.471,1:45.288,14.0,3.0,2,J. Daruvala,MP Motorsport,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:23.493,1.979,0.793,174.416,1:45.479,15.0,4.0,25,R. Boschung,Campos Racing,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:24.058,2.544,0.565,174.378,1:45.471,15.0,5.0,24,K. Maini,Campos Racing,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:24.454,2.940,0.396,174.35,1:45.428,15.0,6.0,7,F. Vesti,PREMA Racing,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:24.894,3.380,0.440,174.32,1:45.216,20.0,7.0,14,J. Doohan,Invicta Virtuosi Racing,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:26.069,4.555,1.175,174.24,1:45.350,14.0,8.0,1,D. Hauger,MP Motorsport,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:26.092,4.578,0.023,174.238,1:45.580,14.0,9.0,9,J. Crawford,Hitech Pulse-Eight,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:27.926,6.412,1.834,174.113,1:45.579,16.0,10.0,16,R. Nissany,PHM Racing by Charouz,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:28.400,6.886,0.474,174.08,1:45.297,14.0,11.0,12,A. Leclerc,DAMS,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:29.156,7.642,0.756,174.029,1:45.296,19.0,12.0,10,I. Hadjar,Hitech Pulse-Eight,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:29.872,8.358,0.716,173.98,1:45.255,19.0,13.0,4,E. Fittipaldi,Carlin,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:34.641,13.127,4.769,173.655,1:46.126,19.0,14.0,23,J. Correa,Van Amersfoort Racing,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:35.257,13.743,0.616,173.613,1:46.228,15.0,15.0,21,C. Novalak,Trident,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:35.292,13.778,0.035,173.611,1:45.915,12.0,16.0,22,R. Verschoor,Van Amersfoort Racing,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:35.774,14.260,0.482,173.578,1:45.902,13.0,17.0,20,R. Stanek,Trident,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:42.014,20.500,6.240,173.155,1:46.150,14.0,18.0,17,B. Benavides,PHM Racing by Charouz,Jeddah,Sprint Race,Round 2 ,2023-03-19
+20,42:56.932,35.418,14.918,172.153,1:47.714,12.0,19.0,15,A. Cordeel,Invicta Virtuosi Racing,Jeddah,Sprint Race,Round 2 ,2023-03-19
+22,40:03.429,-,-,173.925,1:31.267,13.0,1.0,1,D. Hauger,MP Motorsport,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:04.549,1.120,1.120,173.844,1:31.947,11.0,2.0,9,J. Crawford,Hitech Pulse-Eight,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:05.145,1.716,0.596,173.801,1:31.955,13.0,3.0,24,K. Maini,Campos Racing,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:05.493,2.064,0.348,173.776,1:31.964,9.0,4.0,12,A. Leclerc,DAMS,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:05.876,2.447,0.383,173.748,1:31.857,10.0,5.0,3,Z. Maloney,Carlin,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:06.271,2.842,0.395,173.72,1:31.815,11.0,6.0,10,I. Hadjar,Hitech Pulse-Eight,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:08.287,4.858,2.016,173.574,1:31.783,10.0,7.0,8,O. Bearman,PREMA Racing,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:08.728,5.299,0.441,173.542,1:31.709,11.0,8.0,7,F. Vesti,PREMA Racing,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:09.020,5.591,0.292,173.521,1:32.057,11.0,9.0,16,R. Nissany,PHM Racing by Charouz,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:09.188,5.759,0.168,173.509,1:32.337,11.0,10.0,22,R. Verschoor,Van Amersfoort Racing,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:09.846,6.417,0.658,173.462,1:32.261,11.0,11.0,21,C. Novalak,Trident,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:15.280,11.851,5.434,173.072,1:32.406,11.0,12.0,15,A. Cordeel,Invicta Virtuosi Racing,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:15.824,12.395,0.544,173.033,1:31.587,11.0,13.0,11,A. Iwasa,DAMS,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:20.245,16.816,4.421,172.717,1:32.175,22.0,14.0,23,J. Correa,Van Amersfoort Racing,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:40.069,36.640,19.824,171.313,1:31.772,10.0,15.0,6,V. Martins,ART Grand Prix,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:40.651,37.222,0.582,171.272,1:32.299,11.0,16.0,20,R. Stanek,Trident,Melbourne,Sprint Race,Round 3 ,2023-04-02
+22,40:44.505,41.076,3.854,171.002,1:32.169,11.0,17.0,2,J. Daruvala,MP Motorsport,Melbourne,Sprint Race,Round 3 ,2023-04-02
+20,37:02.903,DNF,-,170.954,1:32.354,10.0,18.0,5,T. Pourchaire,ART Grand Prix,Melbourne,Sprint Race,Round 3 ,2023-04-02
+21,51:27.274,-,-,146.877,1:55.796,14.0,1.0,8,O. Bearman,PREMA Racing,Baku,Sprint Race,Round 4 ,2023-04-30
+21,51:28.144,0.870,0.870,146.836,1:56.163,13.0,2.0,7,F. Vesti,PREMA Racing,Baku,Sprint Race,Round 4 ,2023-04-30
+21,51:30.364,3.090,2.220,146.731,1:56.176,14.0,3.0,9,J. Crawford,Hitech Pulse-Eight,Baku,Sprint Race,Round 4 ,2023-04-30
+21,51:33.759,6.485,3.395,146.57,1:56.168,14.0,4.0,24,K. Maini,Campos Racing,Baku,Sprint Race,Round 4 ,2023-04-30
+21,51:35.153,7.879,1.394,146.504,1:56.389,13.0,5.0,4,E. Fittipaldi,Carlin,Baku,Sprint Race,Round 4 ,2023-04-30
+21,51:37.679,10.405,2.526,146.384,1:56.709,12.0,6.0,23,J. Correa,Van Amersfoort Racing,Baku,Sprint Race,Round 4 ,2023-04-30
+21,51:38.364,11.090,0.685,146.352,1:57.002,13.0,7.0,21,C. Novalak,Trident,Baku,Sprint Race,Round 4 ,2023-04-30
+21,51:42.339,15.065,1.463,146.164,1:57.031,10.0,8.0,20,R. Stanek,Trident,Baku,Sprint Race,Round 4 ,2023-04-30
+21,51:43.506,16.232,1.167,146.109,1:57.343,13.0,9.0,15,A. Cordeel,Invicta Virtuosi Racing,Baku,Sprint Race,Round 4 ,2023-04-30
+21,51:45.414,18.140,1.908,146.019,1:56.171,11.0,10.0,17,B. Benavides,PHM Racing by Charouz,Baku,Sprint Race,Round 4 ,2023-04-30
+21,56:40.876,13.602,2.512,146.233,1:56.680,11.0,11.0,10,I. Hadjar,Hitech Pulse-Eight,Baku,Sprint Race,Round 4 ,2023-04-30
+18,41:52.761,DNF,-,154.658,1:56.062,14.0,12.0,1,D. Hauger,MP Motorsport,Baku,Sprint Race,Round 4 ,2023-04-30
+18,41:52.939,DNF,-,154.647,1:55.989,14.0,13.0,6,V. Martins,ART Grand Prix,Baku,Sprint Race,Round 4 ,2023-04-30
+18,41:53.467,DNF,-,154.615,1:56.185,14.0,14.0,2,J. Daruvala,MP Motorsport,Baku,Sprint Race,Round 4 ,2023-04-30
+18,41:53.893,DNF,-,154.588,1:56.112,14.0,15.0,5,T. Pourchaire,ART Grand Prix,Baku,Sprint Race,Round 4 ,2023-04-30
+18,41:54.411,DNF,-,154.557,1:56.384,13.0,16.0,12,A. Leclerc,DAMS,Baku,Sprint Race,Round 4 ,2023-04-30
+18,41:54.746,DNF,-,154.536,1:56.709,13.0,17.0,14,J. Doohan,Invicta Virtuosi Racing,Baku,Sprint Race,Round 4 ,2023-04-30
+30,46:39.033,-,-,128.757,1:23.749,9.0,1.0,11,A. Iwasa,DAMS,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,46:45.711,6.678,6.678,128.45,1:23.541,10.0,2.0,2,J. Daruvala,MP Motorsport,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,46:47.368,8.335,1.657,128.375,1:24.128,11.0,3.0,9,J. Crawford,Hitech Pulse-Eight,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,46:47.853,8.820,0.485,128.352,1:23.726,14.0,4.0,22,R. Verschoor,Van Amersfoort Racing,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,46:50.011,10.978,2.158,128.254,1:24.132,11.0,5.0,3,Z. Maloney,Carlin,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,46:53.668,14.635,3.657,128.087,1:22.819,28.0,6.0,14,J. Doohan,Invicta Virtuosi Racing,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,46:54.422,15.389,0.754,128.053,1:22.982,28.0,7.0,6,V. Martins,ART Grand Prix,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,46:56.402,17.369,1.980,127.963,1:23.365,28.0,8.0,5,T. Pourchaire,ART Grand Prix,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,46:57.444,18.411,1.042,127.915,1:23.410,17.0,9.0,7,F. Vesti,PREMA Racing,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,46:57.834,18.801,0.390,127.898,1:24.655,14.0,10.0,4,E. Fittipaldi,Carlin,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,46:59.574,20.541,1.238,127.819,1:24.834,9.0,11.0,17,B. Benavides,PHM Racing by Charouz,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,47:00.385,21.352,0.811,127.782,1:24.254,19.0,12.0,20,R. Stanek,Trident,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,47:01.428,22.395,1.043,127.735,1:23.700,15.0,14.0,24,K. Maini,Campos Racing,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,47:01.995,22.962,0.567,127.709,1:24.701,15.0,14.0,12,A. Leclerc,DAMS,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,47:04.082,25.049,2.087,127.615,1:23.990,11.0,15.0,1,D. Hauger,MP Motorsport,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,47:08.336,19.303,0.502,127.875,1:24.697,10.0,16.0,23,J. Correa,Van Amersfoort Racing,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+30,47:17.467,38.434,13.385,127.013,1:24.700,30.0,17.0,21,C. Novalak,Trident,Monte Carlo,Sprint Race,Round 6 ,2023-05-28
+26,47:22.796,-,-,153.173,1:28.558,26.0,1.0,7,F. Vesti,PREMA Racing,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:23.900,1.104,1.104,153.114,1:28.422,26.0,2.0,5,T. Pourchaire,ART Grand Prix,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:27.422,4.626,3.522,152.924,1:29.355,26.0,3.0,6,V. Martins,ART Grand Prix,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:27.980,5.184,0.558,152.894,1:29.385,26.0,4.0,1,D. Hauger,MP Motorsport,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:28.457,5.661,0.477,152.869,1:29.365,26.0,5.0,14,J. Doohan,Invicta Virtuosi Racing,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:29.816,7.020,1.359,152.796,1:30.058,26.0,6.0,22,R. Verschoor,Van Amersfoort Racing,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:30.282,7.486,0.466,152.771,1:29.935,26.0,7.0,8,O. Bearman,PREMA Racing,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:32.660,9.864,2.378,152.644,1:30.666,25.0,8.0,11,A. Iwasa,DAMS,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:33.011,10.215,0.351,152.625,1:30.667,25.0,9.0,12,A. Leclerc,DAMS,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:35.183,12.387,2.172,152.509,1:31.138,26.0,10.0,4,E. Fittipaldi,Carlin,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:35.617,12.821,0.434,152.485,1:31.034,26.0,11.0,21,C. Novalak,Trident,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:36.747,13.951,1.130,152.425,1:31.694,26.0,12.0,10,I. Hadjar,Hitech Pulse-Eight,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:37.125,14.329,0.378,152.405,1:31.565,26.0,13.0,20,R. Stanek,Trident,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:38.852,16.056,1.727,152.313,1:31.540,26.0,14.0,3,Z. Maloney,Carlin,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:39.718,16.922,0.866,152.267,1:30.917,26.0,15.0,17,B. Benavides,PHM Racing by Charouz,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:43.628,20.832,3.910,152.059,1:33.069,26.0,16.0,25,R. Boschung,Campos Racing,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,47:47.453,24.65,3.825,151.856,1:30.698,25.0,17.0,15,A. Cordeel,Invicta Virtuosi Racing,Barcelona,Sprint Race,Round 7 ,2023-06-04
+26,48:23.640,60.844,36.187,149.964,1:32.678,26.0,18.0,24,K. Maini,Campos Racing,Barcelona,Sprint Race,Round 7 ,2023-06-04
+25,46:06.237,DNF,-,151.352,1:32.030,25.0,19.0,2,J. Daruvala,MP Motorsport,Barcelona,Sprint Race,Round 7 ,2023-06-04
+25,46:06.748,DNF,-,151.324,1:32.045,25.0,20.0,16,R. Nissany,PHM Racing by Charouz,Barcelona,Sprint Race,Round 7 ,2023-06-04
+23,43:01.023,-,-,173.275,1:44.074,16.0,1.0,1,C. Leclerc,PREMA Racing,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:02.592,1.569,-,173.17,1:47.043,7.0,2.0,5,L. Ghiotto,RUSSIAN TIME,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:03.921,2.898,1.329,173.081,1:47.175,8.0,3.0,9,O. Rowland,DAMS,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:08.598,7.575,4.677,172.768,1:47.760,14.0,4.0,10,N. Latifi,DAMS,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:10.985,9.962,2.387,172.609,1:46.998,7.0,5.0,15,J. King,MP Motorsport,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:11.888,10.865,0.903,172.549,1:47.632,10.0,6.0,18,N. de Vries,Rapax,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:12.405,11.382,0.517,172.514,1:47.821,8.0,7.0,8,A. Albon,ART Grand Prix,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:19.976,18.953,7.571,172.012,1:45.891,11.0,8.0,6,A. Markelov,RUSSIAN TIME,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:20.173,19.150,0.197,171.999,1:47.868,13.0,9.0,19,J. Cecotto,Rapax,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:21.006,19.983,0.833,171.944,1:46.884,7.0,10.0,2,A. Fuoco,PREMA Racing,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:29.852,28.829,8.846,171.361,1:48.247,10.0,11.0,17,S. Canamasas,Trident,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:32.210,31.187,2.358,171.206,1:48.033,8.0,12.0,3,L. Delétraz,Racing Engineering,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:34.645,33.622,2.435,171.047,1:48.684,8.0,13.0,4,G. Malja,Racing Engineering,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:35.415,34.392,0.770,170.996,1:45.961,12.0,14.0,7,N. Matsushita,ART Grand Prix,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:36.924,35.901,1.509,170.898,1:47.837,11.0,15.0,12,S. Coletti,Campos Racing,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:42.618,41.595,5.694,170.527,1:48.576,8.0,16.0,16,N. Jeffri,Trident,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,43:53.052,52.029,10.434,169.851,1:46.512,13.0,17.0,21,S. Gelael,Pertamina Arden,Sakhir,Sprint Race,Round 1 ,2017-04-16
+23,44:09.593,68.570,16.541,168.791,1:43.950,22.0,18.0,14,S. Sette Câmara,MP Motorsport,Sakhir,Sprint Race,Round 1 ,2017-04-16
+22,41:36.188,-,-,176.053,1:52.573,18.0,1.0,1,C. Leclerc,PREMA Racing,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,41:37.481,1.293,-,175.962,1:51.901,4.0,2.0,8,A. Albon,ART Grand Prix,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,41:39.395,3.207,1.914,175.827,1:51.875,4.0,3.0,10,N. Latifi,DAMS,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,41:40.293,4.105,0.898,175.764,1:52.122,3.0,4.0,7,N. Matsushita,ART Grand Prix,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,41:41.140,4.952,0.847,175.704,1:52.760,9.0,5.0,5,L. Ghiotto,RUSSIAN TIME,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,41:50.946,14.758,9.806,175.018,1:53.022,12.0,6.0,6,A. Markelov,RUSSIAN TIME,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,41:51.634,15.446,0.688,174.97,1:52.792,3.0,7.0,9,O. Rowland,DAMS,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,42:00.983,24.795,9.349,174.321,1:53.286,3.0,8.0,14,S. Sette Câmara,MP Motorsport,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,42:05.449,29.261,4.466,174.013,1:52.348,4.0,9.0,3,N. de Vries,Racing Engineering,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,42:05.877,29.689,0.428,173.984,1:52.926,17.0,10.0,19,R. Merhi,Rapax,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,42:06.100,29.912,0.223,173.968,1:52.529,18.0,11.0,2,A. Fuoco,PREMA Racing,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,42:07.187,30.999,1.087,173.894,1:53.365,10.0,12.0,12,Á. Palou,Campos Racing,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,42:07.752,31.564,0.565,173.855,1:53.067,17.0,13.0,11,L. Norris,Campos Racing,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,42:14.902,38.714,7.150,173.364,1:53.424,5.0,14.0,21,S. Gelael,Pertamina Arden,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,42:15.793,39.605,0.891,173.303,1:53.597,9.0,15.0,17,S. Ferrucci,Trident,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,42:19.498,43.310,3.705,173.051,1:53.605,13.0,16.0,16,N. Jeffri,Trident,Yas Island,Sprint Race,Round 11 ,2017-11-26
+22,42:25.847,49.659,6.349,172.619,1:53.183,3.0,17.0,4,G. Malja,Racing Engineering,Yas Island,Sprint Race,Round 11 ,2017-11-26
+19,36:42.542,DNF,-,172.291,1:53.340,5.0,18.0,20,N. Nato,Pertamina Arden,Yas Island,Sprint Race,Round 11 ,2017-11-26
+26,42:20.450,-,-,171.329,1:35.246,11.0,1.0,7,N. Matsushita,ART Grand Prix,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:23.759,3.309,-,171.106,1:35.178,9.0,2.0,9,O. Rowland,DAMS,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:25.071,4.621,1.312,171.018,1:34.811,3.0,3.0,10,N. Latifi,DAMS,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:29.627,9.177,4.556,170.712,1:35.136,12.0,4.0,1,C. Leclerc,PREMA Racing,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:35.783,15.333,6.156,170.301,1:35.534,4.0,5.0,15,J. King,MP Motorsport,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:38.437,17.987,2.654,170.125,1:35.246,3.0,6.0,4,G. Malja,Racing Engineering,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:38.542,18.092,0.105,170.118,1:35.492,9.0,7.0,5,L. Ghiotto,RUSSIAN TIME,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:41.585,21.135,3.043,169.915,1:35.096,11.0,8.0,8,A. Albon,ART Grand Prix,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:42.002,21.552,0.417,169.888,1:35.400,10.0,9.0,6,A. Markelov,RUSSIAN TIME,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:51.194,30.744,9.192,169.281,1:35.574,8.0,10.0,19,J. Cecotto,Rapax,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:51.999,31.549,0.805,169.228,1:36.315,9.0,11.0,17,S. Canamasas,Trident,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:54.884,34.434,2.885,169.038,1:35.765,11.0,12.0,12,R. Merhi,Campos Racing,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:55.721,35.271,0.837,168.983,1:35.855,4.0,13.0,20,N. Nato,Pertamina Arden,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:58.540,38.090,2.819,168.798,1:36.532,6.0,14.0,3,L. Delétraz,Racing Engineering,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,42:59.896,39.446,1.356,168.71,1:36.330,5.0,15.0,14,S. Sette Câmara,MP Motorsport,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,43:07.400,46.950,7.504,168.22,1:36.084,7.0,16.0,21,S. Gelael,Pertamina Arden,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,43:10.676,50.226,3.276,168.008,1:34.670,5.0,17.0,11,R. Boschung,Campos Racing,Barcelona,Sprint Race,Round 2 ,2017-05-14
+26,43:20.362,59.912,9.686,167.382,1:36.672,4.0,18.0,16,N. Jeffri,Trident,Barcelona,Sprint Race,Round 2 ,2017-05-14
+30,41:51.284,-,-,143.51,1:23.012,27.0,1.0,18,N. de Vries,Rapax,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:01.118,9.834,-,142.95,1:23.206,4.0,2.0,19,J. Cecotto,Rapax,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:01.699,10.415,0.581,142.917,1:23.331,8.0,3.0,4,G. Malja,Racing Engineering,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:02.165,10.881,0.466,142.891,1:21.999,12.0,4.0,5,L. Ghiotto,RUSSIAN TIME,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:02.542,11.258,0.377,142.87,1:21.674,8.0,5.0,6,A. Markelov,RUSSIAN TIME,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:03.185,11.901,0.643,142.833,1:22.014,12.0,6.0,8,A. Albon,ART Grand Prix,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:04.911,13.627,1.726,142.736,1:22.419,4.0,7.0,7,N. Matsushita,ART Grand Prix,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:05.254,13.970,0.343,142.716,1:22.257,11.0,8.0,15,J. King,MP Motorsport,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:20.277,28.993,15.023,141.872,1:22.557,10.0,9.0,9,O. Rowland,DAMS,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:20.335,29.051,0.058,141.869,1:23.024,20.0,10.0,2,A. Fuoco,PREMA Racing,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:25.325,34.041,4.990,141.591,1:23.493,14.0,11.0,16,N. Jeffri,Trident,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:34.016,42.732,8.691,141.109,1:23.272,21.0,12.0,21,S. Gelael,Pertamina Arden,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:34.714,43.430,0.698,141.07,1:22.504,25.0,13.0,10,N. Latifi,DAMS,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:37.707,46.423,2.993,140.905,1:23.756,6.0,14.0,14,S. Sette Câmara,MP Motorsport,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:38.291,47.007,0.584,140.873,1:23.555,22.0,15.0,12,R. Visoiu,Campos Racing,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:44.463,53.179,6.172,140.534,1:23.308,26.0,16.0,3,L. Delétraz,Racing Engineering,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+30,42:46.961,55.677,2.498,140.397,1:22.782,29.0,17.0,17,S. Canamasas,Trident,Monte Carlo,Sprint Race,Round 3 ,2017-05-27
+21,40:37.601,-,-,186.024,1:54.413,19.0,1.0,20,N. Nato,Pertamina Arden,Baku,Sprint Race,Round 4 ,2017-06-25
+21,40:46.318,8.717,-,185.361,1:53.635,17.0,2.0,1,C. Leclerc,PREMA Racing,Baku,Sprint Race,Round 4 ,2017-06-25
+21,40:49.175,11.574,2.857,185.144,1:55.088,20.0,3.0,10,N. Latifi,DAMS,Baku,Sprint Race,Round 4 ,2017-06-25
+21,40:50.393,12.792,0.287,185.052,1:55.032,21.0,4.0,8,S. Sirotkin,ART Grand Prix,Baku,Sprint Race,Round 4 ,2017-06-25
+21,40:50.491,12.890,0.098,185.045,1:54.733,21.0,5.0,6,A. Markelov,RUSSIAN TIME,Baku,Sprint Race,Round 4 ,2017-06-25
+21,40:52.073,14.472,1.582,184.926,1:54.969,19.0,6.0,7,N. Matsushita,ART Grand Prix,Baku,Sprint Race,Round 4 ,2017-06-25
+21,40:54.489,16.888,2.416,184.744,1:54.980,20.0,7.0,5,L. Ghiotto,RUSSIAN TIME,Baku,Sprint Race,Round 4 ,2017-06-25
+21,40:58.988,21.387,4.499,184.406,1:54.971,21.0,8.0,11,R. Boschung,Campos Racing,Baku,Sprint Race,Round 4 ,2017-06-25
+21,41:04.944,27.343,5.956,183.96,1:55.345,16.0,9.0,14,S. Sette Câmara,MP Motorsport,Baku,Sprint Race,Round 4 ,2017-06-25
+21,41:05.428,27.827,0.484,183.924,1:55.020,21.0,10.0,21,S. Gelael,Pertamina Arden,Baku,Sprint Race,Round 4 ,2017-06-25
+21,41:09.213,31.612,3.785,183.642,1:55.802,21.0,11.0,12,R. Visoiu,Campos Racing,Baku,Sprint Race,Round 4 ,2017-06-25
+21,41:10.265,32.664,1.052,183.564,1:54.969,20.0,12.0,2,A. Fuoco,PREMA Racing,Baku,Sprint Race,Round 4 ,2017-06-25
+21,41:12.246,34.645,1.981,183.417,1:55.690,21.0,13.0,4,G. Malja,Racing Engineering,Baku,Sprint Race,Round 4 ,2017-06-25
+21,41:13.390,35.789,1.144,183.332,1:54.649,21.0,14.0,19,J. Cecotto,Rapax,Baku,Sprint Race,Round 4 ,2017-06-25
+21,41:26.844,49.243,13.454,182.34,1:55.353,20.0,15.0,17,S. Canamasas,Trident,Baku,Sprint Race,Round 4 ,2017-06-25
+21,41:34.753,57.152,7.909,181.762,1:57.045,18.0,16.0,3,L. Delétraz,Racing Engineering,Baku,Sprint Race,Round 4 ,2017-06-25
+21,42:16.532,98.931,41.779,178.768,1:56.949,19.0,17.0,16,N. Jeffri,Trident,Baku,Sprint Race,Round 4 ,2017-06-25
+28,40:32.190,-,-,178.769,1:16.119,21.0,1.0,6,A. Markelov,RUSSIAN TIME,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:33.648,1.458,-,178.662,1:16.781,13.0,2.0,8,A. Albon,ART Grand Prix,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:34.245,2.055,0.597,178.618,1:16.582,26.0,3.0,9,O. Rowland,DAMS,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:38.030,5.840,3.785,178.341,1:16.539,10.0,4.0,5,L. Ghiotto,RUSSIAN TIME,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:38.819,6.629,0.789,178.283,1:16.697,9.0,5.0,2,A. Fuoco,PREMA Racing,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:42.705,10.515,3.886,177.999,1:16.699,10.0,6.0,15,J. King,MP Motorsport,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:45.846,13.656,3.141,177.771,1:16.526,8.0,7.0,20,N. Nato,Pertamina Arden,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:48.112,15.922,2.266,177.606,1:16.607,10.0,8.0,10,N. Latifi,DAMS,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:48.169,15.979,0.057,177.602,1:16.757,13.0,9.0,19,S. Canamasas,Rapax,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:48.472,16.282,0.303,177.58,1:16.760,12.0,10.0,14,S. Sette Câmara,MP Motorsport,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:51.039,18.849,2.567,177.394,1:16.255,11.0,11.0,21,S. Gelael,Pertamina Arden,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:53.138,20.948,2.099,177.242,1:16.494,9.0,12.0,16,N. Jeffri,Trident,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:53.491,21.301,0.353,177.217,1:16.754,9.0,13.0,3,L. Delétraz,Racing Engineering,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,40:54.633,22.443,1.142,177.134,1:16.694,13.0,14.0,7,N. Matsushita,ART Grand Prix,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,41:40.112,67.922,45.479,173.912,1:16.571,10.0,15.0,4,G. Malja,Racing Engineering,Spielberg,Sprint Race,Round 5 ,2017-07-09
+26,38:44.210,DNF,-,173.698,1:16.525,13.0,16.0,18,N. de Vries,Rapax,Spielberg,Sprint Race,Round 5 ,2017-07-09
+25,38:01.268,DNF,-,170.153,1:16.568,11.0,17.0,12,R. Visoiu,Campos Racing,Spielberg,Sprint Race,Round 5 ,2017-07-09
+28,44:52.900,-,-,163.935,1:30.484,26.0,1.0,7,N. Matsushita,ART Grand Prix,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,44:57.207,4.307,-,163.673,1:31.087,28.0,2.0,9,O. Rowland,DAMS,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,45:00.043,7.143,2.836,163.501,1:31.303,10.0,3.0,18,N. de Vries,Rapax,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,45:04.535,11.635,4.492,163.229,1:30.513,9.0,4.0,1,C. Leclerc,PREMA Racing,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,45:05.358,12.458,0.823,163.18,1:31.334,12.0,5.0,20,N. Nato,Pertamina Arden,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,45:06.385,13.485,1.027,163.118,1:30.909,13.0,6.0,10,N. Latifi,DAMS,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,45:09.654,16.754,3.269,162.921,1:31.622,20.0,7.0,8,A. Albon,ART Grand Prix,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,45:17.743,24.843,8.089,162.436,1:31.096,10.0,8.0,5,L. Ghiotto,RUSSIAN TIME,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,45:18.477,25.577,0.734,162.392,1:29.257,27.0,9.0,6,A. Markelov,RUSSIAN TIME,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,45:26.787,33.887,8.310,161.897,1:31.675,9.0,10.0,21,S. Gelael,Pertamina Arden,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,45:28.670,35.770,1.883,161.786,1:31.761,15.0,11.0,15,J. King,MP Motorsport,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,45:28.723,35.823,0.053,161.782,1:30.274,25.0,12.0,3,L. Delétraz,Racing Engineering,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,45:34.747,41.847,6.024,161.426,1:32.094,7.0,13.0,14,S. Sette Câmara,MP Motorsport,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,45:35.022,42.122,0.275,161.41,1:31.823,9.0,14.0,17,S. Ferrucci,Trident,Budapest,Sprint Race,Round 7 ,2017-07-30
+28,46:19.847,86.947,44.825,158.807,1:32.040,14.0,15.0,16,N. Jeffri,Trident,Budapest,Sprint Race,Round 7 ,2017-07-30
+27,45:35.649,1 LAP,1 LAP,155.608,1:31.763,19.0,16.0,11,R. Boschung,Campos Racing,Budapest,Sprint Race,Round 7 ,2017-07-30
+27,45:43.321,1 LAP,7.672,155.172,1:29.121,23.0,17.0,2,A. Fuoco,PREMA Racing,Budapest,Sprint Race,Round 7 ,2017-07-30
+21,37:17.053,-,-,198.867,1:43.443,6.0,1.0,10,N. Latifi,DAMS,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:18.770,1.717,-,198.714,1:43.630,3.0,2.0,5,L. Ghiotto,RUSSIAN TIME,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:22.353,5.300,3.583,198.397,1:43.769,14.0,3.0,6,A. Markelov,RUSSIAN TIME,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:24.751,7.698,2.398,198.185,1:43.657,13.0,4.0,19,S. Canamasas,Rapax,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:24.996,7.943,0.245,198.163,1:43.219,13.0,5.0,1,C. Leclerc,PREMA Racing,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:25.332,8.279,0.336,198.134,1:44.192,6.0,6.0,20,N. Nato,Pertamina Arden,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:25.854,8.801,0.522,198.088,1:44.404,18.0,7.0,18,N. de Vries,Rapax,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:26.537,9.484,0.683,198.027,1:44.248,6.0,8.0,7,N. Matsushita,ART Grand Prix,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:27.671,10.618,1.134,197.928,1:44.621,15.0,9.0,4,G. Malja,Racing Engineering,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:30.315,13.262,0.999,197.695,1:44.364,4.0,10.0,8,A. Albon,ART Grand Prix,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:30.588,13.535,0.273,197.671,1:44.958,17.0,11.0,12,R. Visoiu,Campos Racing,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:30.878,13.825,0.290,197.646,1:44.865,13.0,12.0,2,A. Fuoco,PREMA Racing,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:31.439,14.386,0.561,197.596,1:45.168,14.0,13.0,3,L. Delétraz,Racing Engineering,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:31.718,14.665,0.279,197.572,1:44.972,15.0,14.0,17,C. Ilott,Trident,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:31.978,14.925,0.260,197.549,1:44.430,16.0,15.0,14,S. Sette Câmara,MP Motorsport,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:32.924,15.871,0.946,197.466,1:44.333,4.0,16.0,21,S. Gelael,Pertamina Arden,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,37:49.316,12.263,1.645,197.783,1:43.550,6.0,17.0,9,O. Rowland,DAMS,Silverstone,Sprint Race,Round 6 ,2017-07-16
+21,38:02.971,45.918,30.047,194.867,1:44.605,21.0,18.0,16,N. Jeffri,Trident,Silverstone,Sprint Race,Round 6 ,2017-07-16
+18,39:40.215,-,-,190.492,2:01.475,3.0,1.0,14,S. Sette Câmara,MP Motorsport,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:40.838,0.623,-,190.442,2:01.367,2.0,2.0,3,N. de Vries,Racing Engineering,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:42.618,2.403,1.780,190.3,2:01.812,5.0,3.0,5,L. Ghiotto,RUSSIAN TIME,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:43.324,3.109,0.706,190.243,2:01.718,4.0,4.0,20,N. Nato,Pertamina Arden,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:44.035,3.820,0.711,190.187,2:01.518,7.0,5.0,1,C. Leclerc,PREMA Racing,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:45.109,4.894,1.074,190.101,2:01.711,3.0,6.0,19,R. Merhi,Rapax,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:45.663,5.448,0.554,190.057,2:01.807,7.0,7.0,2,A. Fuoco,PREMA Racing,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:46.043,5.828,0.380,190.027,2:02.655,14.0,8.0,9,O. Rowland,DAMS,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:46.905,6.690,0.862,189.958,2:02.170,4.0,9.0,10,N. Latifi,DAMS,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:49.417,9.202,2.512,189.758,2:02.716,3.0,10.0,17,S. Ferrucci,Trident,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:49.844,9.629,0.427,189.724,2:02.625,5.0,11.0,4,G. Malja,Racing Engineering,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:50.771,10.556,0.927,189.651,2:02.683,3.0,12.0,18,L. Delétraz,Rapax,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:51.080,10.865,0.309,189.626,2:02.906,4.0,13.0,11,R. Boschung,Campos Racing,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:51.310,11.095,0.230,189.608,1:59.965,11.0,14.0,15,J. King,MP Motorsport,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:52.285,12.070,0.975,189.531,2:02.968,5.0,15.0,16,N. Jeffri,Trident,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:53.924,13.709,1.639,189.401,2:02.648,2.0,16.0,12,R. Visoiu,Campos Racing,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:54.336,14.121,0.412,189.368,2:00.377,14.0,17.0,21,S. Gelael,Pertamina Arden,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+18,39:57.758,17.543,3.422,189.098,2:00.925,3.0,18.0,8,A. Albon,ART Grand Prix,Spa-Francorchamps,Sprint Race,Round 8 ,2017-08-27
+21,33:15.078,-,-,218.958,1:34.104,7.0,1.0,5,L. Ghiotto,RUSSIAN TIME,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:17.374,2.296,-,218.706,1:34.258,3.0,2.0,14,S. Sette Câmara,MP Motorsport,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:19.583,4.505,2.209,218.464,1:34.080,4.0,3.0,2,A. Fuoco,PREMA Racing,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:21.324,6.246,1.741,218.274,1:34.253,4.0,4.0,18,L. Delétraz,Rapax,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:26.881,11.803,5.557,217.67,1:34.662,4.0,5.0,19,R. Merhi,Rapax,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:32.383,17.305,5.502,217.075,1:34.728,2.0,6.0,21,S. Gelael,Pertamina Arden,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:35.088,20.010,2.705,216.783,1:34.480,5.0,7.0,7,N. Matsushita,ART Grand Prix,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:35.666,20.588,0.578,216.721,1:34.315,4.0,8.0,8,A. Albon,ART Grand Prix,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:38.341,23.263,2.675,216.434,1:34.199,3.0,9.0,1,C. Leclerc,PREMA Racing,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:38.782,23.704,0.441,216.387,1:34.559,5.0,10.0,20,N. Nato,Pertamina Arden,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:42.497,27.419,3.715,215.989,1:34.661,5.0,11.0,9,O. Rowland,DAMS,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:44.385,29.307,1.888,215.788,1:34.325,4.0,12.0,3,N. de Vries,Racing Engineering,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:44.737,29.659,0.352,215.75,1:34.482,4.0,13.0,11,R. Boschung,Campos Racing,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:44.984,29.906,0.247,215.724,1:34.392,4.0,14.0,17,S. Ferrucci,Trident,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:47.123,32.045,2.139,215.496,1:34.324,4.0,15.0,6,A. Markelov,RUSSIAN TIME,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:48.043,32.965,0.920,215.398,1:34.251,4.0,16.0,10,N. Latifi,DAMS,Monza,Sprint Race,Round 9 ,2017-09-03
+21,33:48.315,33.237,0.272,215.37,1:35.063,4.0,17.0,16,N. Jeffri,Trident,Monza,Sprint Race,Round 9 ,2017-09-03
+21,34:12.525,57.447,24.210,212.829,1:33.523,19.0,18.0,4,G. Malja,Racing Engineering,Monza,Sprint Race,Round 9 ,2017-09-03
+21,34:15.207,60.129,2.682,212.551,1:34.493,14.0,19.0,12,R. Visoiu,Campos Racing,Monza,Sprint Race,Round 9 ,2017-09-03
+21,34:21.380,66.302,6.173,211.915,1:32.921,21.0,20.0,15,J. King,MP Motorsport,Monza,Sprint Race,Round 9 ,2017-09-03
+28,43:01.086,-,-,173.039,1:30.747,5.0,1.0,6,A. Markelov,RUSSIAN TIME,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:12.926,11.840,-,172.249,1:30.878,6.0,2.0,10,N. Latifi,DAMS,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:14.372,13.286,1.446,172.153,1:30.838,10.0,3.0,9,O. Rowland,DAMS,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:15.777,14.691,1.405,172.06,1:29.307,20.0,4.0,5,L. Ghiotto,RUSSIAN TIME,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:17.583,16.497,1.806,171.94,1:30.158,24.0,5.0,2,A. Fuoco,PREMA Racing,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:21.287,20.201,3.704,171.695,1:29.296,22.0,6.0,3,N. de Vries,Racing Engineering,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:21.596,20.510,0.309,171.675,1:29.579,23.0,7.0,1,C. Leclerc,PREMA Racing,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:26.113,25.027,4.517,171.377,1:30.848,2.0,8.0,12,Á. Palou,Campos Racing,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:26.699,25.613,0.586,171.339,1:31.369,6.0,9.0,8,A. Albon,ART Grand Prix,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:31.497,30.411,4.798,171.024,1:31.249,6.0,10.0,20,N. Nato,Pertamina Arden,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:35.145,34.059,3.648,170.786,1:31.505,6.0,11.0,7,N. Matsushita,ART Grand Prix,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:39.160,38.074,4.015,170.524,1:31.470,9.0,12.0,18,L. Delétraz,Rapax,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:45.343,44.257,6.183,170.122,1:30.280,14.0,13.0,17,S. Ferrucci,Trident,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:53.122,52.036,7.779,169.62,1:30.443,26.0,14.0,14,S. Sette Câmara,MP Motorsport,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:53.481,52.395,0.359,169.596,1:31.197,6.0,15.0,16,N. Jeffri,Trident,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:53.602,52.516,0.121,169.589,1:31.793,18.0,16.0,21,S. Gelael,Pertamina Arden,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,43:53.744,52.658,0.142,169.58,1:29.032,26.0,17.0,19,R. Binder,Rapax,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+28,44:05.922,64.836,12.178,168.799,1:31.434,20.0,18.0,4,G. Malja,Racing Engineering,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+27,42:08.048,DNF,-,170.364,1:31.772,10.0,19.0,11,R. Boschung,Campos Racing,Jerez de la Frontera,Sprint Race,Round 10 ,2017-10-08
+23,42:42.161,-,-,174.551,1:49.503,3.0,1.0,1,A. Markelov,RUSSIAN TIME,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,42:44.266,2.105,2.105,174.407,1:49.537,3.0,2.0,11,M. Günther,BWT Arden,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,42:45.964,3.803,1.698,174.292,1:49.777,2.0,3.0,18,S. Sette Câmara,Carlin,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,42:47.204,5.043,1.240,174.208,1:49.459,4.0,4.0,19,L. Norris,Carlin,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,42:52.426,10.265,5.222,173.854,1:47.711,11.0,5.0,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,42:57.857,15.696,5.431,173.488,1:50.334,3.0,6.0,14,L. Ghiotto,Campos Vexatec Racing,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,43:05.672,23.511,7.815,172.963,1:50.556,4.0,7.0,10,R. Boschung,MP Motorsport,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,43:06.743,24.582,1.071,172.892,1:50.477,4.0,8.0,12,N. Fukuzumi,BWT Arden,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,43:07.355,25.194,0.612,172.851,1:49.260,13.0,9.0,20,L. Delétraz,Charouz Racing System,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,43:07.848,25.687,0.493,172.818,1:50.618,2.0,10.0,6,N. Latifi,DAMS,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,43:07.965,25.804,0.117,172.81,1:48.877,10.0,11.0,9,R. Merhi,MP Motorsport,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,43:08.799,26.638,0.834,172.755,1:49.644,16.0,12.0,21,A. Fuoco,Charouz Racing System,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,43:13.920,31.759,5.121,172.413,1:50.656,5.0,13.0,5,A. Albon,DAMS,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,43:18.954,36.793,5.034,172.079,1:50.464,4.0,14.0,16,A. Maini,Trident,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,43:26.150,43.989,7.196,171.604,1:49.910,11.0,15.0,15,R. Nissany,Campos Vexatec Racing,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,43:40.006,57.845,13.856,170.697,1:47.998,18.0,16.0,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,43:45.980,63.819,5.974,170.308,1:49.834,7.0,17.0,2,T. Makino,RUSSIAN TIME,Sakhir,Sprint Race,Round 1 ,2018-04-08
+23,44:21.918,99.757,35.938,168.009,1:49.369,2.0,18.0,7,J. Aitken,ART Grand Prix,Sakhir,Sprint Race,Round 1 ,2018-04-08
+22,42:47.369,1 LAP,1 LAP,166.608,1:48.700,4.0,19.0,8,G. Russell,ART Grand Prix,Sakhir,Sprint Race,Round 1 ,2018-04-08
+22,43:06.059,1 LAP,18.690,165.404,1:49.826,3.0,20.0,17,S. Ferrucci,Trident,Sakhir,Sprint Race,Round 1 ,2018-04-08
+21,41:32.101,-,-,181.955,1:56.891,18.0,1.0,8,G. Russell,ART Grand Prix,Baku,Sprint Race,Round 2 ,2018-04-29
+21,41:36.875,4.774,2.170,181.607,1:57.218,18.0,2.0,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Baku,Sprint Race,Round 2 ,2018-04-29
+21,41:37.117,5.016,0.242,181.59,1:57.306,21.0,3.0,6,N. Latifi,DAMS,Baku,Sprint Race,Round 2 ,2018-04-29
+21,41:37.943,5.842,0.826,181.53,1:57.316,16.0,4.0,19,L. Norris,Carlin,Baku,Sprint Race,Round 2 ,2018-04-29
+21,41:45.707,13.606,7.764,180.967,1:57.623,20.0,5.0,16,A. Maini,Trident,Baku,Sprint Race,Round 2 ,2018-04-29
+21,41:51.209,19.108,5.502,180.571,1:57.361,21.0,6.0,17,S. Ferrucci,Trident,Baku,Sprint Race,Round 2 ,2018-04-29
+21,41:54.492,22.391,3.283,180.335,1:57.871,8.0,7.0,9,R. Merhi,MP Motorsport,Baku,Sprint Race,Round 2 ,2018-04-29
+21,41:56.480,24.379,1.988,180.193,1:58.215,6.0,8.0,10,R. Boschung,MP Motorsport,Baku,Sprint Race,Round 2 ,2018-04-29
+21,41:57.231,25.130,0.751,180.139,1:58.418,8.0,9.0,2,T. Makino,RUSSIAN TIME,Baku,Sprint Race,Round 2 ,2018-04-29
+21,42:18.662,46.561,21.431,178.618,1:59.066,7.0,10.0,20,L. Delétraz,Charouz Racing System,Baku,Sprint Race,Round 2 ,2018-04-29
+21,42:52.632,80.531,33.970,176.26,1:56.774,21.0,11.0,7,J. Aitken,ART Grand Prix,Baku,Sprint Race,Round 2 ,2018-04-29
+21,43:00.043,87.942,7.411,175.753,1:58.593,18.0,12.0,12,N. Fukuzumi,BWT Arden,Baku,Sprint Race,Round 2 ,2018-04-29
+21,43:05.205,93.104,5.162,175.402,1:57.254,20.0,13.0,5,A. Albon,DAMS,Baku,Sprint Race,Round 2 ,2018-04-29
+20,41:50.673,1 LAP,1 LAP,172.002,1:58.402,19.0,14.0,14,L. Ghiotto,Campos Vexatec Racing,Baku,Sprint Race,Round 2 ,2018-04-29
+18,37:51.440,DNF,-,171.089,1:57.350,14.0,15.0,11,M. Günther,BWT Arden,Baku,Sprint Race,Round 2 ,2018-04-29
+21,41:34.705,2.604,2.604,181.765,1:57.663,15.0,,18,S. Sette Câmara,Carlin,Baku,Sprint Race,Round 2 ,2018-04-29
+26,45:21.511,-,-,159.931,1:31.237,26.0,1.0,7,J. Aitken,ART Grand Prix,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:23.061,1.550,1.550,159.84,1:31.444,26.0,2.0,5,A. Albon,DAMS,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:24.375,2.864,1.314,159.763,1:31.298,26.0,3.0,19,L. Norris,Carlin,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:29.617,8.106,5.242,159.456,1:30.987,26.0,4.0,8,G. Russell,ART Grand Prix,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:32.620,11.109,3.003,159.28,1:31.887,16.0,5.0,14,L. Ghiotto,Campos Vexatec Racing,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:35.213,13.702,2.593,159.129,1:31.865,25.0,6.0,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:36.348,14.837,1.135,159.063,1:31.695,25.0,7.0,21,A. Fuoco,Charouz Racing System,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:50.189,28.678,13.841,158.263,1:32.426,15.0,8.0,6,N. Latifi,DAMS,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:50.576,29.065,0.387,158.241,1:32.259,25.0,9.0,1,A. Markelov,RUSSIAN TIME,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:50.948,29.437,0.372,158.219,1:32.641,15.0,10.0,20,L. Delétraz,Charouz Racing System,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:52.507,30.996,1.559,158.13,1:33.301,25.0,11.0,17,S. Ferrucci,Trident,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:53.939,32.428,1.432,158.047,1:32.645,25.0,12.0,11,M. Günther,BWT Arden,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:54.747,33.236,0.808,158.001,1:32.644,15.0,13.0,16,A. Maini,Trident,Barcelona,Sprint Race,Round 3 ,2018-05-13
+26,45:57.183,35.672,2.436,157.861,1:32.123,25.0,14.0,15,R. Nissany,Campos Vexatec Racing,Barcelona,Sprint Race,Round 3 ,2018-05-13
+30,48:44.373,-,-,123.238,1:24.562,19.0,1.0,21,A. Fuoco,Charouz Racing System,Monte Carlo,Sprint Race,Round 4 ,2018-05-26
+30,48:46.442,2.069,0.897,123.151,1:25.004,13.0,2.0,20,L. Delétraz,Charouz Racing System,Monte Carlo,Sprint Race,Round 4 ,2018-05-26
+30,48:45.545,1.172,1.172,123.189,1:24.041,26.0,3.0,19,L. Norris,Carlin,Monte Carlo,Sprint Race,Round 4 ,2018-05-26
+30,48:48.464,4.091,2.022,123.066,1:24.030,18.0,4.0,1,A. Markelov,RUSSIAN TIME,Monte Carlo,Sprint Race,Round 4 ,2018-05-26
+30,48:51.822,7.449,1.350,122.925,1:24.700,11.0,5.0,16,A. Maini,Trident,Monte Carlo,Sprint Race,Round 4 ,2018-05-26
+30,48:52.328,7.955,0.506,122.904,1:23.836,14.0,6.0,11,M. Günther,BWT Arden,Monte Carlo,Sprint Race,Round 4 ,2018-05-26
+30,48:55.472,6.099,2.008,122.982,1:24.850,12.0,7.0,9,R. Merhi,MP Motorsport,Monte Carlo,Sprint Race,Round 4 ,2018-05-26
+30,48:56.615,12.242,4.287,122.724,1:22.906,23.0,8.0,6,N. Latifi,DAMS,Monte Carlo,Sprint Race,Round 4 ,2018-05-26
+29,48:53.659,1 LAP,1 LAP,118.753,1:23.464,16.0,9.0,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Monte Carlo,Sprint Race,Round 4 ,2018-05-26
+29,48:55.963,1 LAP,2.304,118.66,1:23.407,22.0,10.0,14,L. Ghiotto,Campos Vexatec Racing,Monte Carlo,Sprint Race,Round 4 ,2018-05-26
+27,43:21.143,DNF,-,124.697,1:25.388,19.0,11.0,12,N. Fukuzumi,BWT Arden,Monte Carlo,Sprint Race,Round 4 ,2018-05-26
+27,43:35.650,DNF,-,124.481,1:25.488,19.0,12.0,17,S. Ferrucci,Trident,Monte Carlo,Sprint Race,Round 4 ,2018-05-26
+21,38:28.325,-,-,191.431,1:48.996,13.0,1.0,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+21,38:37.973,9.648,9.648,190.634,1:49.404,6.0,2.0,20,L. Delétraz,Charouz Racing System,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+21,38:38.195,9.870,0.222,190.616,1:49.248,16.0,3.0,14,L. Ghiotto,Campos Vexatec Racing,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+21,38:45.003,16.678,6.808,190.058,1:49.506,15.0,4.0,21,A. Fuoco,Charouz Racing System,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+21,38:46.077,17.752,1.074,189.97,1:49.295,13.0,5.0,19,L. Norris,Carlin,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+21,38:48.730,20.405,2.653,189.753,1:49.484,13.0,6.0,18,S. Sette Câmara,Carlin,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+21,38:49.057,20.732,0.327,189.727,1:49.353,19.0,7.0,5,A. Albon,DAMS,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+21,38:52.770,24.445,3.713,189.425,1:49.742,5.0,8.0,6,N. Latifi,DAMS,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+21,39:04.051,35.726,11.281,188.513,1:50.271,12.0,9.0,17,S. Ferrucci,Trident,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+21,39:14.968,41.643,5.917,188.038,1:50.275,11.0,10.0,15,R. Nissany,Campos Vexatec Racing,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+21,39:17.814,49.489,7.846,187.413,1:50.608,10.0,11.0,11,M. Günther,BWT Arden,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+21,39:22.090,53.765,4.276,187.073,1:50.625,13.0,12.0,12,N. Fukuzumi,BWT Arden,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+21,39:27.335,59.010,5.245,186.659,1:50.398,6.0,13.0,16,A. Maini,Trident,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+20,38:21.424,DNF,-,182.866,1:48.759,13.0,14.0,1,A. Markelov,RUSSIAN TIME,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+20,38:52.763,1 LAP,31.339,180.41,1:48.489,19.0,15.0,9,R. Merhi,MP Motorsport,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+20,39:13.399,1 LAP,20.636,178.828,1:47.827,15.0,16.0,10,R. Boschung,MP Motorsport,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+19,39:15.225,2 LAPS,1 LAP,169.76,1:48.071,11.0,17.0,8,G. Russell,ART Grand Prix,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+19,39:53.659,2 LAPS,38.434,167.034,1:49.385,19.0,18.0,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Le Castellet,Sprint Race,Round 5 ,2018-06-24
+28,36:41.950,-,-,197.461,1:17.365,6.0,1.0,1,A. Markelov,RUSSIAN TIME,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,36:47.551,5.600,5.600,196.96,1:17.406,3.0,2.0,8,G. Russell,ART Grand Prix,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,36:50.493,8.543,2.943,196.698,1:17.912,5.0,3.0,18,S. Sette Câmara,Carlin,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,36:59.139,17.188,8.645,195.932,1:17.651,3.0,4.0,21,A. Fuoco,Charouz Racing System,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,36:59.875,17.925,0.737,195.867,1:17.561,4.0,5.0,5,A. Albon,DAMS,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:04.530,22.580,4.655,195.457,1:17.629,5.0,6.0,2,T. Makino,RUSSIAN TIME,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:06.538,24.588,2.008,195.281,1:17.826,6.0,7.0,17,S. Ferrucci,Trident,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:09.236,27.286,2.698,195.044,1:17.765,4.0,8.0,6,N. Latifi,DAMS,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:09.996,28.046,0.760,194.978,1:17.826,4.0,9.0,12,N. Fukuzumi,BWT Arden,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:10.615,28.665,0.619,194.924,1:17.599,5.0,10.0,16,A. Maini,Trident,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:12.140,30.190,1.525,194.791,1:17.440,4.0,11.0,19,L. Norris,Carlin,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:12.750,30.800,0.610,194.737,1:17.965,5.0,12.0,11,M. Günther,BWT Arden,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:14.139,32.189,1.389,194.616,1:17.928,6.0,13.0,14,L. Ghiotto,Campos Vexatec Racing,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:14.903,32.953,0.764,194.55,1:17.985,6.0,14.0,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:18.902,36.952,3.999,194.202,1:18.278,4.0,15.0,10,R. Boschung,MP Motorsport,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:20.845,38.895,1.943,194.034,1:17.735,4.0,16.0,9,R. Merhi,MP Motorsport,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:26.050,44.100,5.205,193.584,1:17.694,4.0,17.0,15,R. Nissany,Campos Vexatec Racing,Spielberg,Sprint Race,Round 6 ,2018-07-01
+28,37:26.199,44.249,0.149,193.571,1:17.966,4.0,18.0,7,J. Aitken,ART Grand Prix,Spielberg,Sprint Race,Round 6 ,2018-07-01
+21,37:09.802,-,-,199.514,1:44.484,13.0,1.0,11,M. Günther,BWT Arden,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:10.323,0.520,0.520,199.467,1:43.731,12.0,2.0,8,G. Russell,ART Grand Prix,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:12.307,2.504,1.984,199.29,1:44.134,14.0,3.0,19,L. Norris,Carlin,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:19.727,9.924,7.420,198.63,1:44.434,12.0,4.0,1,A. Markelov,RUSSIAN TIME,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:21.807,12.005,2.081,198.445,1:44.626,2.0,5.0,20,L. Delétraz,Charouz Racing System,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:23.732,13.929,0.878,198.275,1:44.701,10.0,6.0,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:23.809,14.006,0.077,198.268,1:44.967,17.0,7.0,5,A. Albon,DAMS,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:24.487,14.684,0.678,198.208,1:44.880,17.0,8.0,10,R. Boschung,MP Motorsport,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:26.290,16.487,1.803,198.049,1:45.043,14.0,9.0,9,R. Merhi,MP Motorsport,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:27.853,13.051,1.046,198.353,1:44.625,4.0,10.0,14,L. Ghiotto,Campos Vexatec Racing,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:29.435,19.632,3.145,197.772,1:44.457,21.0,11.0,2,T. Makino,RUSSIAN TIME,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:33.455,23.653,4.021,197.42,1:45.218,12.0,12.0,7,J. Aitken,ART Grand Prix,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:33.843,24.040,0.387,197.386,1:44.603,17.0,13.0,16,A. Maini,Trident,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:41.968,32.165,4.447,196.677,1:45.064,13.0,14.0,15,R. Nissany,Campos Vexatec Racing,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:43.121,33.318,1.153,196.576,1:45.304,14.0,15.0,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:43.845,34.042,0.724,196.513,1:45.558,14.0,16.0,6,N. Latifi,DAMS,Silverstone,Sprint Race,Round 7 ,2018-07-08
+21,37:57.715,47.912,13.870,195.317,1:43.318,14.0,17.0,18,S. Sette Câmara,Carlin,Silverstone,Sprint Race,Round 7 ,2018-07-08
+28,44:47.130,-,-,164.287,1:33.893,5.0,1.0,5,A. Albon,DAMS,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,44:56.595,9.465,9.465,163.71,1:33.537,6.0,2.0,14,L. Ghiotto,Campos Vexatec Racing,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,44:58.501,11.371,1.906,163.594,1:33.952,5.0,3.0,18,S. Sette Câmara,Carlin,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,45:00.768,13.638,2.267,163.457,1:33.871,14.0,4.0,19,L. Norris,Carlin,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,45:15.340,28.210,14.572,162.58,1:33.892,8.0,5.0,9,R. Merhi,MP Motorsport,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,45:21.274,34.144,5.934,162.225,1:34.354,10.0,6.0,12,N. Fukuzumi,BWT Arden,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,45:21.275,34.145,0.001,162.225,1:34.204,10.0,7.0,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,45:23.716,36.586,2.441,162.08,1:33.806,17.0,8.0,8,G. Russell,ART Grand Prix,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,45:24.270,37.140,0.554,162.047,1:34.435,14.0,9.0,20,L. Delétraz,Charouz Racing System,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,45:26.106,38.976,1.836,161.938,1:34.172,8.0,10.0,7,J. Aitken,ART Grand Prix,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,45:28.093,40.963,1.987,161.82,1:34.423,9.0,11.0,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,45:28.665,41.535,0.572,161.786,1:34.111,14.0,12.0,2,T. Makino,RUSSIAN TIME,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,45:39.360,52.230,10.695,161.154,1:34.036,10.0,13.0,1,A. Markelov,RUSSIAN TIME,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,45:39.509,52.379,0.149,161.145,1:34.320,12.0,14.0,16,A. Maini,Trident,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,45:48.062,60.932,8.553,160.644,1:33.782,9.0,15.0,15,R. Nissany,Campos Vexatec Racing,Budapest,Sprint Race,Round 8 ,2018-07-29
+28,46:04.314,77.184,16.252,159.699,1:34.337,12.0,16.0,6,N. Latifi,DAMS,Budapest,Sprint Race,Round 8 ,2018-07-29
+27,45:47.668,1 LAP,1 LAP,154.927,1:31.889,24.0,17.0,21,A. Fuoco,Charouz Racing System,Budapest,Sprint Race,Round 8 ,2018-07-29
+18,37:13.659,-,-,202.991,2:01.484,2.0,1.0,6,N. Latifi,DAMS,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:24.061,10.402,10.402,202.05,2:02.440,2.0,2.0,19,L. Norris,Carlin,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:24.425,10.766,0.364,202.017,2:03.074,3.0,3.0,5,A. Albon,DAMS,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:26.869,13.210,2.444,201.797,2:02.028,2.0,4.0,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:27.107,13.448,0.238,201.776,2:02.410,2.0,5.0,1,A. Markelov,RUSSIAN TIME,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:35.838,22.179,8.731,200.995,2:02.059,2.0,6.0,14,L. Ghiotto,Campos Vexatec Racing,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:37.016,23.357,1.178,200.89,2:02.190,2.0,7.0,8,G. Russell,ART Grand Prix,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:45.523,31.864,8.507,200.136,2:03.729,3.0,8.0,16,A. Maini,Trident,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:47.237,33.578,1.714,199.984,2:03.214,5.0,9.0,18,S. Sette Câmara,Carlin,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:48.226,34.567,0.989,199.897,2:04.072,2.0,10.0,7,J. Aitken,ART Grand Prix,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:53.691,40.032,5.465,199.417,2:04.447,8.0,11.0,2,T. Makino,RUSSIAN TIME,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:53.759,40.100,0.068,199.411,2:04.666,3.0,12.0,10,R. Boschung,MP Motorsport,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:56.558,42.899,2.799,199.165,2:04.366,2.0,13.0,20,L. Delétraz,Charouz Racing System,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,37:58.290,44.631,1.732,199.014,2:03.809,5.0,14.0,15,R. Nissany,Campos Vexatec Racing,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,38:06.227,52.568,7.937,198.323,2:03.574,2.0,15.0,17,A. Lorandi,Trident,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,38:08.964,55.305,2.737,198.086,2:02.504,15.0,16.0,11,M. Günther,BWT Arden,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,38:12.666,59.007,3.702,197.766,2:04.950,3.0,17.0,12,N. Fukuzumi,BWT Arden,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,38:13.774,60.115,1.108,197.671,2:02.504,14.0,18.0,9,D. Boccolacci,MP Motorsport,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+18,38:20.595,66.936,6.821,197.085,2:01.712,17.0,19.0,21,A. Fuoco,Charouz Racing System,Spa-Francorchamps,Sprint Race,Round 9 ,2018-08-26
+21,33:31.886,-,-,217.128,1:34.899,3.0,1.0,8,G. Russell,ART Grand Prix,Monza,Sprint Race,Round 10 ,2018-09-02
+21,33:32.942,1.056,1.056,217.014,1:34.927,3.0,2.0,1,A. Markelov,RUSSIAN TIME,Monza,Sprint Race,Round 10 ,2018-09-02
+21,33:36.233,4.347,3.291,216.66,1:34.896,4.0,3.0,18,S. Sette Câmara,Carlin,Monza,Sprint Race,Round 10 ,2018-09-02
+21,33:37.537,5.651,1.304,216.52,1:35.300,3.0,4.0,6,N. Latifi,DAMS,Monza,Sprint Race,Round 10 ,2018-09-02
+21,33:38.060,6.174,0.523,216.464,1:35.017,4.0,5.0,19,L. Norris,Carlin,Monza,Sprint Race,Round 10 ,2018-09-02
+21,33:49.338,17.452,11.278,215.261,1:35.502,4.0,6.0,14,L. Ghiotto,Campos Vexatec Racing,Monza,Sprint Race,Round 10 ,2018-09-02
+21,33:52.637,20.751,3.299,214.912,1:35.737,9.0,7.0,9,D. Boccolacci,MP Motorsport,Monza,Sprint Race,Round 10 ,2018-09-02
+21,33:56.102,24.216,3.465,214.546,1:35.489,11.0,8.0,7,J. Aitken,ART Grand Prix,Monza,Sprint Race,Round 10 ,2018-09-02
+21,33:57.074,25.188,0.972,214.444,1:35.886,9.0,9.0,16,A. Maini,Trident,Monza,Sprint Race,Round 10 ,2018-09-02
+21,34:00.339,28.453,3.265,214.1,1:35.800,5.0,10.0,21,A. Fuoco,Charouz Racing System,Monza,Sprint Race,Round 10 ,2018-09-02
+21,34:03.761,31.875,3.422,213.742,1:35.845,3.0,11.0,20,L. Delétraz,Charouz Racing System,Monza,Sprint Race,Round 10 ,2018-09-02
+21,34:06.678,34.792,2.917,213.437,1:35.571,5.0,12.0,17,A. Lorandi,Trident,Monza,Sprint Race,Round 10 ,2018-09-02
+21,34:10.208,38.323,3.531,213.07,1:35.981,5.0,13.0,12,N. Fukuzumi,BWT Arden,Monza,Sprint Race,Round 10 ,2018-09-02
+21,34:36.264,64.379,26.056,210.396,1:35.555,21.0,14.0,2,T. Makino,RUSSIAN TIME,Monza,Sprint Race,Round 10 ,2018-09-02
+21,34:49.666,77.780,13.401,209.046,1:35.812,4.0,15.0,15,R. Nissany,Campos Vexatec Racing,Monza,Sprint Race,Round 10 ,2018-09-02
+21,34:50.734,78.848,1.068,208.94,1:36.226,8.0,16.0,11,M. Günther,BWT Arden,Monza,Sprint Race,Round 10 ,2018-09-02
+20,33:53.153,1 LAP,1 LAP,204.6,1:35.198,20.0,17.0,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Monza,Sprint Race,Round 10 ,2018-09-02
+21,44:46.259,-,-,164.314,1:50.501,5.0,1.0,8,G. Russell,ART Grand Prix,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,44:53.697,7.438,7.438,163.861,1:52.274,5.0,2.0,18,S. Sette Câmara,Carlin,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,44:54.475,8.216,0.778,163.813,1:52.221,6.0,3.0,5,A. Albon,DAMS,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,45:05.391,19.132,10.916,163.152,1:52.237,5.0,4.0,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,45:08.517,22.258,3.126,162.964,1:52.333,5.0,5.0,1,A. Markelov,RUSSIAN TIME,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,45:14.037,27.778,5.520,162.633,1:52.561,5.0,6.0,15,R. Merhi,Campos Vexatec Racing,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,45:17.111,30.852,3.074,162.449,1:52.237,5.0,7.0,12,N. Fukuzumi,BWT Arden,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,45:21.449,35.190,4.338,162.19,1:53.002,5.0,8.0,9,D. Boccolacci,MP Motorsport,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,45:26.240,39.981,4.791,161.905,1:52.341,5.0,9.0,21,A. Fuoco,Charouz Racing System,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,45:33.335,47.076,7.095,161.484,1:53.781,6.0,10.0,11,M. Günther,BWT Arden,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,45:36.967,50.708,3.632,161.27,1:52.423,5.0,11.0,2,T. Makino,RUSSIAN TIME,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,45:39.369,53.110,2.402,161.129,1:53.012,5.0,12.0,3,S. Gelael,PERTAMINA PREMA Theodore Racing,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,45:39.663,53.404,0.294,161.111,1:52.444,5.0,13.0,20,L. Delétraz,Charouz Racing System,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,45:39.812,53.553,0.149,161.103,1:52.388,5.0,14.0,14,L. Ghiotto,Campos Vexatec Racing,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,46:28.261,102.002,48.449,158.303,1:53.743,6.0,15.0,16,A. Maini,Trident,Sochi,Sprint Race,Round 11 ,2018-09-30
+21,42:48.729,-,-,163.298,1:58.016,5.0,1.0,21,A. Fuoco,Charouz Racing System,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,42:50.442,1.713,1.713,163.189,1:57.678,4.0,2.0,19,L. Norris,Carlin,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,42:52.401,3.672,1.959,163.064,1:57.834,4.0,3.0,15,R. Merhi,Campos Vexatec Racing,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,42:57.277,8.548,4.876,162.756,1:57.590,5.0,4.0,8,G. Russell,ART Grand Prix,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,42:58.187,9.458,0.910,162.698,1:57.745,5.0,5.0,4,N. de Vries,PERTAMINA PREMA Theodore Racing,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,42:59.779,11.050,1.592,162.598,1:57.658,5.0,6.0,20,L. Delétraz,Charouz Racing System,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,43:01.689,12.960,1.910,162.478,1:57.695,5.0,7.0,1,A. Markelov,RUSSIAN TIME,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,43:03.776,15.047,2.087,162.347,1:58.138,5.0,8.0,5,A. Albon,DAMS,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,43:08.375,19.646,4.599,162.058,1:58.109,5.0,9.0,14,L. Ghiotto,Campos Vexatec Racing,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,43:11.781,23.052,3.406,161.845,1:57.637,5.0,10.0,18,S. Sette Câmara,Carlin,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,43:13.158,24.429,1.377,161.759,1:58.081,5.0,11.0,9,D. Boccolacci,MP Motorsport,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,43:16.572,27.843,3.414,161.546,1:58.614,4.0,12.0,12,N. Fukuzumi,BWT Arden,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,43:19.264,30.535,2.692,161.379,1:58.293,5.0,13.0,7,J. Aitken,ART Grand Prix,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,43:21.934,33.205,2.670,161.214,1:59.288,5.0,14.0,17,A. Lorandi,Trident,Yas Island,Sprint Race,Round 12 ,2018-11-25
+21,44:24.743,96.014,62.809,157.414,1:58.205,19.0,15.0,6,N. Latifi,DAMS,Yas Island,Sprint Race,Round 12 ,2018-11-25
+19,48:43.284,-,-,140.332,1:57.949,5.0,1.0,6,N. Latifi,DAMS,Baku,Sprint Race,Round 2 ,2019-04-28
+19,48:44.245,0.961,0.961,140.286,1:58.306,19.0,2.0,12,J. Correa,Sauber Junior Team by Charouz,Baku,Sprint Race,Round 2 ,2019-04-28
+19,48:44.805,1.521,0.560,140.259,1:58.137,19.0,3.0,15,J. Aitken,Campos Racing,Baku,Sprint Race,Round 2 ,2019-04-28
+19,48:45.886,2.602,1.081,140.207,1:58.114,5.0,4.0,4,N. de Vries,ART Grand Prix,Baku,Sprint Race,Round 2 ,2019-04-28
+19,48:46.531,3.247,0.645,140.176,1:57.945,19.0,5.0,9,M. Schumacher,PREMA Racing,Baku,Sprint Race,Round 2 ,2019-04-28
+19,48:47.344,4.060,0.813,140.137,1:57.941,19.0,6.0,5,S. Sette Câmara,DAMS,Baku,Sprint Race,Round 2 ,2019-04-28
+19,48:49.787,6.503,2.443,140.02,1:58.918,4.0,7.0,14,D. Boccolacci,Campos Racing,Baku,Sprint Race,Round 2 ,2019-04-28
+19,48:51.008,7.724,1.221,139.962,1:58.645,5.0,8.0,10,S. Gelael,PREMA Racing,Baku,Sprint Race,Round 2 ,2019-04-28
+19,48:51.013,7.729,0.005,139.962,1:59.443,6.0,9.0,11,C. Ilott,Sauber Junior Team by Charouz,Baku,Sprint Race,Round 2 ,2019-04-28
+19,48:52.577,9.293,1.564,139.887,1:59.431,6.0,10.0,7,G. Zhou,UNI-Virtuosi,Baku,Sprint Race,Round 2 ,2019-04-28
+19,48:54.358,11.074,1.781,139.802,1:58.970,6.0,11.0,19,A. Hubert,BWT Arden,Baku,Sprint Race,Round 2 ,2019-04-28
+19,48:54.519,11.235,0.161,139.794,1:58.336,19.0,12.0,2,N. Matsushita,Carlin,Baku,Sprint Race,Round 2 ,2019-04-28
+19,49:00.868,17.584,6.349,139.493,2:02.480,8.0,13.0,17,M. Raghunathan,MP Motorsport,Baku,Sprint Race,Round 2 ,2019-04-28
+26,42:25.916,-,-,170.961,1:32.673,8.0,1.0,4,N. de Vries,ART Grand Prix,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,42:28.315,2.399,2.399,170.8,1:32.546,17.0,2.0,8,L. Ghiotto,UNI-Virtuosi,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,42:30.298,4.382,1.983,170.668,1:32.911,11.0,3.0,11,C. Ilott,Sauber Junior Team by Charouz,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,42:37.099,11.183,6.801,170.214,1:33.150,15.0,4.0,7,G. Zhou,UNI-Virtuosi,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,42:38.483,12.567,1.384,170.122,1:33.320,15.0,5.0,19,A. Hubert,BWT Arden,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,42:39.004,13.088,0.521,170.087,1:32.444,17.0,6.0,6,N. Latifi,DAMS,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,42:47.335,21.419,8.331,169.535,1:33.698,23.0,7.0,16,J. King,MP Motorsport,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,42:52.560,26.644,5.225,169.191,1:33.608,14.0,8.0,15,J. Aitken,Campos Racing,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,42:53.361,27.445,0.801,169.138,1:33.842,20.0,9.0,10,S. Gelael,PREMA Racing,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,42:54.085,28.169,0.724,169.09,1:33.772,25.0,10.0,21,R. Boschung,Trident,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,42:54.451,28.535,0.366,169.066,1:33.227,23.0,11.0,1,L. Delétraz,Carlin,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,42:56.824,30.908,2.373,168.911,1:33.632,21.0,12.0,9,M. Schumacher,PREMA Racing,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,42:58.185,32.269,1.361,168.822,1:33.986,16.0,13.0,18,T. Calderón,BWT Arden,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,43:00.977,35.061,2.792,168.639,1:33.976,14.0,14.0,3,N. Mazepin,ART Grand Prix,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,43:03.768,37.852,2.791,168.457,1:34.068,14.0,15.0,12,J. Correa,Sauber Junior Team by Charouz,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,43:06.310,40.394,2.542,168.291,1:33.990,21.0,16.0,20,G. Alesi,Trident,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,43:06.454,40.538,0.144,168.282,1:33.612,17.0,17.0,5,S. Sette Câmara,DAMS,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,43:10.126,44.210,3.672,168.043,1:33.899,23.0,18.0,14,D. Boccolacci,Campos Racing,Barcelona,Sprint Race,Round 3 ,2019-05-12
+26,43:34.617,68.701,24.491,166.469,1:34.971,19.0,19.0,17,M. Raghunathan,MP Motorsport,Barcelona,Sprint Race,Round 3 ,2019-05-12
+21,37:19.524,-,-,197.312,1:45.633,18.0,1.0,19,A. Hubert,BWT Arden,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:21.726,2.202,2.202,197.118,1:45.584,18.0,2.0,12,J. Correa,Sauber Junior Team by Charouz,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:23.744,4.220,2.018,196.941,1:45.590,18.0,3.0,7,G. Zhou,UNI-Virtuosi,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:25.655,6.131,1.911,196.773,1:45.578,21.0,4.0,15,J. Aitken,Campos Racing,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:27.312,7.788,1.657,196.628,1:45.297,18.0,5.0,5,S. Sette Câmara,DAMS,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:30.319,10.795,3.007,196.365,1:45.758,18.0,6.0,6,N. Latifi,DAMS,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:32.646,13.122,2.327,196.162,1:45.193,19.0,7.0,1,L. Delétraz,Carlin,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:34.931,15.407,2.285,195.964,1:45.708,20.0,8.0,11,C. Ilott,Sauber Junior Team by Charouz,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:35.724,16.200,0.793,195.895,1:44.702,18.0,9.0,2,N. Matsushita,Carlin,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:37.212,17.688,1.488,195.766,1:45.863,18.0,10.0,4,N. de Vries,ART Grand Prix,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:40.618,21.094,3.406,195.471,1:45.774,19.0,11.0,16,J. King,MP Motorsport,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:45.778,26.254,5.160,195.025,1:45.289,19.0,12.0,8,L. Ghiotto,UNI-Virtuosi,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:46.592,27.068,0.814,194.955,1:45.896,19.0,13.0,14,D. Boccolacci,Campos Racing,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:51.501,31.977,4.909,194.534,1:45.965,17.0,14.0,20,G. Alesi,Trident,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:53.125,33.601,1.624,194.395,1:45.843,17.0,15.0,21,R. Boschung,Trident,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:53.377,33.853,0.252,194.374,1:45.855,16.0,16.0,3,N. Mazepin,ART Grand Prix,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,37:53.955,34.431,0.578,194.324,1:45.670,19.0,17.0,10,S. Gelael,PREMA Racing,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+21,38:32.977,73.453,39.022,191.046,1:47.484,21.0,18.0,17,M. Raghunathan,MP Motorsport,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+18,32:51.508,DNF,-,192.133,1:47.736,13.0,19.0,18,T. Calderón,BWT Arden,Le Castellet,Sprint Race,Round 5 ,2019-06-23
+27,39:36.231,-,-,176.437,1:17.892,14.0,1.0,9,J. Crawford,Hitech Pulse-Eight,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:38.517,2.286,2.286,176.267,1:17.630,14.0,2.0,6,V. Martins,ART Grand Prix,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:40.597,4.366,0.456,176.113,1:17.704,12.0,3.0,10,I. Hadjar,Hitech Pulse-Eight,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:45.755,9.524,5.158,175.733,1:18.178,12.0,4.0,23,J. Correa,Van Amersfoort Racing,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:46.406,10.175,0.651,175.685,1:17.687,11.0,5.0,20,R. Stanek,Trident,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:46.859,10.628,0.453,175.651,1:17.842,13.0,6.0,1,D. Hauger,MP Motorsport,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:47.632,11.401,0.773,175.594,1:18.123,16.0,7.0,14,J. Doohan,Invicta Virtuosi Racing,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:48.689,12.458,1.057,175.517,1:17.722,12.0,8.0,8,O. Bearman,PREMA Racing,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:49.154,12.923,0.465,175.483,1:17.915,13.0,9.0,7,F. Vesti,PREMA Racing,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:49.769,13.538,0.615,175.437,1:18.057,21.0,10.0,16,R. Nissany,PHM Racing by Charouz,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:53.989,17.758,4.220,175.128,1:18.325,15.0,11.0,11,A. Iwasa,DAMS,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:55.321,19.090,1.332,175.031,1:18.073,15.0,12.0,17,B. Benavides,PHM Racing by Charouz,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:56.838,20.607,1.517,174.92,1:18.398,13.0,13.0,12,A. Leclerc,DAMS,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:58.261,22.030,1.423,174.816,1:18.127,22.0,14.0,5,T. Pourchaire,ART Grand Prix,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,39:58.436,22.205,0.175,174.803,1:18.146,11.0,15.0,15,A. Cordeel,Invicta Virtuosi Racing,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,40:12.718,36.48,14.282,173.769,1:17.896,11.0,16.0,24,K. Maini,Campos Racing,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,40:13.127,36.89,0.409,173.739,1:18.341,13.0,17.0,25,R. Boschung,Campos Racing,Spielberg,Sprint Race,Round 8 ,2023-07-02
+27,40:37.709,61.478,24.582,171.987,1:17.294,20.0,18.0,3,Z. Maloney,Carlin,Spielberg,Sprint Race,Round 8 ,2023-07-02

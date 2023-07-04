@@ -1,0 +1,84 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+29,53:50.586,-,-,190.224,1:42.487,26.0,1,6,L. Sargeant,Carlin,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,53:52.267,1.681,1.681,190.126,1:42.538,26.0,2,10,T. Pourchaire,ART Grand Prix,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,53:59.580,8.994,7.313,189.696,1:43.123,13.0,3,5,L. Lawson,Carlin,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:01.898,11.312,2.318,189.561,1:43.068,27.0,4,11,F. Drugovich,MP Motorsport,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:02.547,11.961,0.649,189.523,1:43.223,25.0,5,9,F. Vesti,ART Grand Prix,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:02.862,12.276,0.315,189.504,1:42.033,24.0,6,8,J. Vips,Hitech Grand Prix,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:04.485,13.899,1.623,189.41,1:41.581,25.0,7,2,J. Daruvala,PREMA Racing,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:07.906,17.320,3.421,189.21,1:43.102,27.0,8,7,M. Armstrong,Hitech Grand Prix,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:11.619,21.033,3.713,188.994,1:41.134,29.0,9,3,J. Doohan,Virtuosi Racing,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:18.883,28.297,7.264,188.573,1:41.195,26.0,10,24,J. Hughes,Van Amersfoort Racing,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:19.703,29.117,0.820,188.525,1:43.961,13.0,11,22,E. Fittipaldi,Charouz Racing System,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:21.172,30.586,1.469,188.44,1:43.265,13.0,12,17,A. Iwasa,DAMS,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:24.747,34.161,3.575,188.234,1:43.668,28.0,13,12,C. Novalak,MP Motorsport,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:25.590,35.004,0.843,188.185,1:43.372,27.0,14,20,R. Verschoor,Trident,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:26.012,35.426,0.422,188.161,1:42.130,25.0,15,4,M. Sato,Virtuosi Racing,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:26.977,36.391,0.965,188.106,1:41.970,26.0,16,21,C. Williams,Trident,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:41.752,51.166,14.775,187.259,1:44.148,24.0,17,14,O. Caldwell,Campos Racing,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:51.664,61.078,9.912,186.695,1:44.468,12.0,18,23,C. Bölükbasi,Charouz Racing System,Silverstone,Feature Race,,Round 7 ,2022-07-03
+29,54:53.793,63.207,2.129,186.574,1:40.842,27.0,19,25,D. Beckmann,Van Amersfoort Racing,Silverstone,Feature Race,,Round 7 ,2022-07-03
+20,40:42.488,-,-,173.458,2:00.164,19.0,1,3,J. Doohan,Virtuosi Racing,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,40:43.420,0.932,0.932,173.392,1:58.954,20.0,2,17,A. Iwasa,DAMS,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,40:59.210,16.722,15.790,172.278,2:01.157,19.0,3,22,E. Fittipaldi,Charouz Racing System,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:00.376,17.888,1.166,172.197,2:01.204,19.0,4,10,T. Pourchaire,ART Grand Prix,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:04.205,21.717,3.829,171.929,1:59.295,20.0,5,11,F. Drugovich,MP Motorsport,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:09.318,26.830,5.113,171.573,1:59.964,20.0,6,9,F. Vesti,ART Grand Prix,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:10.772,28.284,1.454,171.472,1:59.774,19.0,7,6,L. Sargeant,Carlin,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:18.779,36.291,8.007,170.918,2:01.532,2.0,8,2,J. Daruvala,PREMA Racing,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:21.187,38.699,2.408,170.752,2:00.719,20.0,9,7,M. Armstrong,Hitech Grand Prix,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:26.258,43.770,5.071,170.404,2:01.564,17.0,10,20,R. Verschoor,Trident,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:27.099,44.611,0.841,170.346,2:00.996,18.0,11,24,J. Hughes,Van Amersfoort Racing,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:30.601,48.113,3.502,170.107,2:01.974,19.0,12,8,J. Vips,Hitech Grand Prix,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:31.936,49.448,1.335,170.016,2:01.664,20.0,13,12,C. Novalak,MP Motorsport,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:36.997,54.509,5.061,169.671,2:01.970,18.0,14,16,R. Nissany,DAMS,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:37.723,55.235,0.726,169.622,2:02.608,2.0,15,1,D. Hauger,PREMA Racing,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:41.191,58.703,3.468,169.387,2:01.236,20.0,16,25,D. Beckmann,Van Amersfoort Racing,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:48.565,66.077,7.374,168.889,2:02.256,19.0,17,21,C. Williams,Trident,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,41:48.899,66.411,0.334,168.866,2:03.055,2.0,18,14,O. Caldwell,Campos Racing,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,42:04.199,81.711,15.300,167.843,2:03.039,2.0,19,23,C. Bölükbasi,Charouz Racing System,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+20,42:17.513,95.025,13.314,166.962,2:01.680,18.0,20,5,L. Lawson,Carlin,Silverstone,Sprint Race,,Round 7 ,2022-07-03
+13,1:38.432,-,-,215.454,,,1,6,L. Sargeant,Carlin,Silverstone,Qualifying Session,17:53:07,Round 7 ,2022-07-03
+12,1:38.539,0.107,0.107,215.22,,,2,9,F. Vesti,ART Grand Prix,Silverstone,Qualifying Session,17:53:37,Round 7 ,2022-07-03
+12,1:38.553,0.121,0.014,215.189,,,3,11,F. Drugovich,MP Motorsport,Silverstone,Qualifying Session,17:53:24,Round 7 ,2022-07-03
+12,1:38.553,0.121,0.000,215.189,,,4,10,T. Pourchaire,ART Grand Prix,Silverstone,Qualifying Session,17:54:04,Round 7 ,2022-07-03
+13,1:38.625,0.193,0.072,215.032,,,5,5,L. Lawson,Carlin,Silverstone,Qualifying Session,17:56:55,Round 7 ,2022-07-03
+12,1:38.734,0.302,0.109,214.795,,,6,17,A. Iwasa,DAMS,Silverstone,Qualifying Session,17:57:39,Round 7 ,2022-07-03
+12,1:38.901,0.469,0.167,214.432,,,7,3,J. Doohan,Virtuosi Racing,Silverstone,Qualifying Session,17:56:45,Round 7 ,2022-07-03
+10,1:39.013,0.581,0.112,214.19,,,8,8,J. Vips,Hitech Grand Prix,Silverstone,Qualifying Session,17:58:23,Round 7 ,2022-07-03
+14,1:39.077,0.645,0.064,214.051,,,9,22,E. Fittipaldi,Charouz Racing System,Silverstone,Qualifying Session,17:57:14,Round 7 ,2022-07-03
+8,1:39.115,0.683,0.038,213.969,,,10,2,J. Daruvala,PREMA Racing,Silverstone,Qualifying Session,17:47:28,Round 7 ,2022-07-03
+12,1:39.222,0.790,0.107,213.738,,,11,16,R. Nissany,DAMS,Silverstone,Qualifying Session,17:57:31,Round 7 ,2022-07-03
+12,1:39.266,0.834,0.044,213.644,,,12,7,M. Armstrong,Hitech Grand Prix,Silverstone,Qualifying Session,17:56:53,Round 7 ,2022-07-03
+11,1:39.429,0.997,0.163,213.293,,,13,1,D. Hauger,PREMA Racing,Silverstone,Qualifying Session,18:01:12,Round 7 ,2022-07-03
+12,1:39.448,1.016,0.019,213.253,,,14,24,J. Hughes,Van Amersfoort Racing,Silverstone,Qualifying Session,17:57:59,Round 7 ,2022-07-03
+12,1:39.492,1.060,0.044,213.158,,,15,20,R. Verschoor,Trident,Silverstone,Qualifying Session,17:53:27,Round 7 ,2022-07-03
+12,1:39.580,1.148,0.088,212.97,,,16,14,O. Caldwell,Campos Racing,Silverstone,Qualifying Session,17:57:44,Round 7 ,2022-07-03
+12,1:39.597,1.165,0.017,212.934,,,17,15,R. Boschung,Campos Racing,Silverstone,Qualifying Session,17:53:20,Round 7 ,2022-07-03
+12,1:39.660,1.228,0.063,212.799,,,18,12,C. Novalak,MP Motorsport,Silverstone,Qualifying Session,17:57:19,Round 7 ,2022-07-03
+12,1:39.677,1.245,0.017,212.763,,,19,4,M. Sato,Virtuosi Racing,Silverstone,Qualifying Session,17:53:17,Round 7 ,2022-07-03
+14,1:39.691,1.259,0.014,212.733,,,20,23,C. Bölükbasi,Charouz Racing System,Silverstone,Qualifying Session,17:54:08,Round 7 ,2022-07-03
+12,1:39.912,1.480,0.221,212.262,,,21,21,C. Williams,Trident,Silverstone,Qualifying Session,17:58:07,Round 7 ,2022-07-03
+9,1:40.291,1.859,0.379,211.46,,,22,25,D. Beckmann,Van Amersfoort Racing,Silverstone,Qualifying Session,17:41:16,Round 7 ,2022-07-03
+15,1:40.902,-,-,210.18,,,1,6,L. Sargeant,Carlin,Silverstone,Free Practice,11:27:20,Round 7 ,2022-07-03
+13,1:40.939,0.037,0.037,210.103,,,2,11,F. Drugovich,MP Motorsport,Silverstone,Free Practice,11:27:08,Round 7 ,2022-07-03
+13,1:41.082,0.180,0.143,209.805,,,3,3,J. Doohan,Virtuosi Racing,Silverstone,Free Practice,11:07:16,Round 7 ,2022-07-03
+13,1:41.090,0.188,0.008,209.789,,,4,17,A. Iwasa,DAMS,Silverstone,Free Practice,11:27:02,Round 7 ,2022-07-03
+14,1:41.149,0.247,0.059,209.666,,,5,10,T. Pourchaire,ART Grand Prix,Silverstone,Free Practice,11:06:53,Round 7 ,2022-07-03
+14,1:41.176,0.274,0.027,209.61,,,6,5,L. Lawson,Carlin,Silverstone,Free Practice,11:27:18,Round 7 ,2022-07-03
+13,1:41.277,0.375,0.101,209.401,,,7,16,R. Nissany,DAMS,Silverstone,Free Practice,11:26:53,Round 7 ,2022-07-03
+10,1:41.294,0.392,0.017,209.366,,,8,2,J. Daruvala,PREMA Racing,Silverstone,Free Practice,11:27:24,Round 7 ,2022-07-03
+12,1:41.339,0.437,0.045,209.273,,,9,8,J. Vips,Hitech Grand Prix,Silverstone,Free Practice,11:06:35,Round 7 ,2022-07-03
+13,1:41.562,0.660,0.223,208.814,,,10,7,M. Armstrong,Hitech Grand Prix,Silverstone,Free Practice,11:13:30,Round 7 ,2022-07-03
+14,1:41.697,0.795,0.135,208.537,,,11,15,R. Boschung,Campos Racing,Silverstone,Free Practice,11:27:12,Round 7 ,2022-07-03
+14,1:41.945,1.043,0.248,208.029,,,12,9,F. Vesti,ART Grand Prix,Silverstone,Free Practice,11:06:44,Round 7 ,2022-07-03
+13,1:42.032,1.130,0.087,207.852,,,13,22,E. Fittipaldi,Charouz Racing System,Silverstone,Free Practice,11:01:53,Round 7 ,2022-07-03
+13,1:42.060,1.158,0.028,207.795,,,14,12,C. Novalak,MP Motorsport,Silverstone,Free Practice,11:27:15,Round 7 ,2022-07-03
+14,1:42.704,1.802,0.644,206.492,,,15,14,O. Caldwell,Campos Racing,Silverstone,Free Practice,11:06:21,Round 7 ,2022-07-03
+10,1:42.876,1.974,0.172,206.147,,,16,21,C. Williams,Trident,Silverstone,Free Practice,11:10:46,Round 7 ,2022-07-03
+12,1:43.016,2.114,0.140,205.867,,,17,20,R. Verschoor,Trident,Silverstone,Free Practice,10:58:10,Round 7 ,2022-07-03
+11,1:43.032,2.130,0.016,205.835,,,18,24,J. Hughes,Van Amersfoort Racing,Silverstone,Free Practice,10:55:01,Round 7 ,2022-07-03
+13,1:43.446,2.544,0.414,205.011,,,19,23,C. Bölükbasi,Charouz Racing System,Silverstone,Free Practice,11:06:27,Round 7 ,2022-07-03
+11,1:43.806,2.904,0.360,204.3,,,20,4,M. Sato,Virtuosi Racing,Silverstone,Free Practice,11:10:20,Round 7 ,2022-07-03
+12,1:44.323,3.421,0.517,203.287,,,21,25,D. Beckmann,Van Amersfoort Racing,Silverstone,Free Practice,11:08:37,Round 7 ,2022-07-03
+10,2:05.632,24.730,21.309,168.807,,,22,1,D. Hauger,PREMA Racing,Silverstone,Free Practice,10:56:57,Round 7 ,2022-07-03

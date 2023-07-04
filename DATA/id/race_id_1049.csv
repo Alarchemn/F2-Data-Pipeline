@@ -1,0 +1,80 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+30,57:54.568,-,-,181.653,1:47.520,21.0,1,17,A. Iwasa,DAMS,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:03.217,8.649,8.649,181.202,1:47.643,19.0,2,10,T. Pourchaire,ART Grand Prix,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:04.455,9.887,1.238,181.137,1:47.740,18.0,3,9,F. Vesti,ART Grand Prix,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:04.821,10.253,0.366,181.118,1:46.901,29.0,4,11,F. Drugovich,MP Motorsport,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:10.618,16.050,5.797,180.817,1:47.631,18.0,5,3,J. Doohan,Virtuosi Racing,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:14.248,19.680,3.630,180.63,1:47.929,25.0,6,5,L. Lawson,Carlin,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:22.126,27.558,7.878,180.223,1:47.315,20.0,7,2,J. Daruvala,PREMA Racing,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:27.420,32.852,5.294,179.951,1:48.321,17.0,8,12,C. Novalak,MP Motorsport,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:31.082,36.514,3.662,179.764,1:48.411,28.0,9,16,R. Nissany,DAMS,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:32.254,37.686,1.172,179.704,1:48.392,28.0,10,22,E. Fittipaldi,Charouz Racing System,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:34.782,40.214,2.528,179.574,1:47.766,20.0,11,21,C. Williams,Trident,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:40.152,45.584,5.370,179.3,1:48.295,20.0,12,8,J. Vips,Hitech Grand Prix,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:41.044,46.476,0.892,179.255,1:48.445,23.0,13,14,O. Caldwell,Campos Racing,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:43.069,48.501,2.025,179.152,1:48.797,10.0,14,24,D. Beckmann,Van Amersfoort Racing,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,58:43.660,49.092,0.591,179.122,1:47.755,23.0,15,25,A. Cordeel,Van Amersfoort Racing,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+30,59:19.704,85.136,36.044,177.308,1:47.226,28.0,16,1,D. Hauger,PREMA Racing,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+28,54:47.917,DNF,-,179.172,1:48.192,17.0,17,20,R. Verschoor,Trident,Le Castellet,Feature Race,,Round 9 ,2022-07-24
+21,41:22.995,-,-,177.964,1:47.984,21.0,1,5,L. Lawson,Carlin,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:26.201,3.206,3.206,177.735,1:48.395,21.0,2,2,J. Daruvala,PREMA Racing,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:27.830,4.835,0.283,177.618,1:48.310,21.0,3,11,F. Drugovich,MP Motorsport,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:28.704,5.709,0.874,177.556,1:48.433,21.0,4,3,J. Doohan,Virtuosi Racing,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:30.943,7.948,0.861,177.396,1:48.724,15.0,5,9,F. Vesti,ART Grand Prix,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:31.255,8.260,0.312,177.374,1:48.757,18.0,6,17,A. Iwasa,DAMS,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:27.547,4.552,1.346,177.639,1:48.453,21.0,7,10,T. Pourchaire,ART Grand Prix,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:32.649,9.654,0.221,177.275,1:48.784,18.0,8,6,L. Sargeant,Carlin,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:33.581,10.586,0.932,177.209,1:48.823,16.0,9,4,M. Sato,Virtuosi Racing,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:33.974,10.979,0.393,177.181,1:48.731,16.0,10,24,D. Beckmann,Van Amersfoort Racing,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:30.082,7.087,1.378,177.458,1:48.722,21.0,11,8,J. Vips,Hitech Grand Prix,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:35.472,12.477,1.498,177.074,1:48.926,18.0,12,1,D. Hauger,PREMA Racing,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:35.525,12.530,0.053,177.071,1:48.228,16.0,13,21,C. Williams,Trident,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:32.428,9.433,1.173,177.291,1:48.731,15.0,14,7,M. Armstrong,Hitech Grand Prix,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:38.856,15.861,3.331,176.835,1:49.148,4.0,15,23,C. Bölükbasi,Charouz Racing System,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:39.531,16.536,0.675,176.787,1:48.679,16.0,16,16,R. Nissany,DAMS,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:39.638,16.643,0.107,176.779,1:48.408,17.0,17,12,C. Novalak,MP Motorsport,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+21,41:40.333,17.338,0.695,176.73,1:48.384,17.0,18,14,O. Caldwell,Campos Racing,Le Castellet,Sprint Race,,Round 9 ,2022-07-24
+14,1:43.871,-,-,202.474,,,1,6,L. Sargeant,Carlin,Le Castellet,Qualifying Session,19:07:47,Round 9 ,2022-07-24
+12,1:43.877,0.006,0.006,202.462,,,2,17,A. Iwasa,DAMS,Le Castellet,Qualifying Session,19:03:58,Round 9 ,2022-07-24
+14,1:43.900,0.029,0.023,202.417,,,3,9,F. Vesti,ART Grand Prix,Le Castellet,Qualifying Session,19:07:32,Round 9 ,2022-07-24
+13,1:44.034,0.163,0.003,202.156,,,4,3,J. Doohan,Virtuosi Racing,Le Castellet,Qualifying Session,19:03:43,Round 9 ,2022-07-24
+13,1:44.161,0.290,0.127,201.91,,,5,10,T. Pourchaire,ART Grand Prix,Le Castellet,Qualifying Session,19:07:36,Round 9 ,2022-07-24
+13,1:44.241,0.370,0.067,201.755,,,6,11,F. Drugovich,MP Motorsport,Le Castellet,Qualifying Session,19:07:25,Round 9 ,2022-07-24
+13,1:44.308,0.437,0.147,201.625,,,7,8,J. Vips,Hitech Grand Prix,Le Castellet,Qualifying Session,19:07:40,Round 9 ,2022-07-24
+13,1:44.377,0.506,0.069,201.492,,,8,7,M. Armstrong,Hitech Grand Prix,Le Castellet,Qualifying Session,19:07:42,Round 9 ,2022-07-24
+14,1:44.483,0.612,0.106,201.288,,,9,5,L. Lawson,Carlin,Le Castellet,Qualifying Session,19:03:39,Round 9 ,2022-07-24
+13,1:44.626,0.755,0.143,201.013,,,10,2,J. Daruvala,PREMA Racing,Le Castellet,Qualifying Session,19:07:50,Round 9 ,2022-07-24
+14,1:44.758,0.887,0.132,200.759,,,11,20,R. Verschoor,Trident,Le Castellet,Qualifying Session,19:07:54,Round 9 ,2022-07-24
+13,1:44.839,0.968,0.081,200.604,,,12,4,M. Sato,Virtuosi Racing,Le Castellet,Qualifying Session,19:07:52,Round 9 ,2022-07-24
+14,1:44.918,1.047,0.079,200.453,,,13,21,C. Williams,Trident,Le Castellet,Qualifying Session,19:07:56,Round 9 ,2022-07-24
+6,1:45.035,1.164,0.117,200.23,,,14,22,E. Fittipaldi,Charouz Racing System,Le Castellet,Qualifying Session,18:41:52,Round 9 ,2022-07-24
+13,1:45.101,1.230,0.066,200.104,,,15,15,R. Merhi,Campos Racing,Le Castellet,Qualifying Session,19:07:58,Round 9 ,2022-07-24
+13,1:45.117,1.246,0.016,200.074,,,16,12,C. Novalak,MP Motorsport,Le Castellet,Qualifying Session,19:07:30,Round 9 ,2022-07-24
+12,1:45.303,1.432,0.186,199.72,,,17,24,D. Beckmann,Van Amersfoort Racing,Le Castellet,Qualifying Session,19:03:53,Round 9 ,2022-07-24
+8,1:45.397,1.526,0.094,199.542,,,18,1,D. Hauger,PREMA Racing,Le Castellet,Qualifying Session,18:41:39,Round 9 ,2022-07-24
+12,1:45.505,1.634,0.108,199.338,,,19,25,A. Cordeel,Van Amersfoort Racing,Le Castellet,Qualifying Session,18:42:05,Round 9 ,2022-07-24
+13,1:45.742,1.871,0.237,198.891,,,20,16,R. Nissany,DAMS,Le Castellet,Qualifying Session,18:42:15,Round 9 ,2022-07-24
+12,1:45.743,1.872,0.001,198.889,,,21,14,O. Caldwell,Campos Racing,Le Castellet,Qualifying Session,19:04:05,Round 9 ,2022-07-24
+12,1:45.773,1.902,0.030,198.833,,,22,23,C. Bölükbasi,Charouz Racing System,Le Castellet,Qualifying Session,19:04:02,Round 9 ,2022-07-24
+21,1:46.501,-,-,197.474,,,1,8,J. Vips,Hitech Grand Prix,Le Castellet,Free Practice,12:16:04,Round 9 ,2022-07-24
+18,1:46.667,0.166,0.166,197.166,,,2,17,A. Iwasa,DAMS,Le Castellet,Free Practice,12:09:26,Round 9 ,2022-07-24
+19,1:46.723,0.222,0.056,197.063,,,3,10,T. Pourchaire,ART Grand Prix,Le Castellet,Free Practice,11:58:38,Round 9 ,2022-07-24
+20,1:46.849,0.348,0.126,196.831,,,4,11,F. Drugovich,MP Motorsport,Le Castellet,Free Practice,12:20:22,Round 9 ,2022-07-24
+18,1:46.899,0.398,0.050,196.738,,,5,2,J. Daruvala,PREMA Racing,Le Castellet,Free Practice,12:20:09,Round 9 ,2022-07-24
+19,1:46.917,0.416,0.018,196.705,,,6,20,R. Verschoor,Trident,Le Castellet,Free Practice,12:13:47,Round 9 ,2022-07-24
+21,1:46.957,0.456,0.040,196.632,,,7,7,M. Armstrong,Hitech Grand Prix,Le Castellet,Free Practice,12:21:35,Round 9 ,2022-07-24
+18,1:46.994,0.493,0.037,196.564,,,8,3,J. Doohan,Virtuosi Racing,Le Castellet,Free Practice,11:57:15,Round 9 ,2022-07-24
+21,1:47.091,0.590,0.097,196.386,,,9,6,L. Sargeant,Carlin,Le Castellet,Free Practice,12:13:10,Round 9 ,2022-07-24
+21,1:47.162,0.661,0.071,196.256,,,10,22,E. Fittipaldi,Charouz Racing System,Le Castellet,Free Practice,12:12:26,Round 9 ,2022-07-24
+16,1:47.268,0.767,0.106,196.062,,,11,1,D. Hauger,PREMA Racing,Le Castellet,Free Practice,12:09:51,Round 9 ,2022-07-24
+20,1:47.410,0.909,0.142,195.802,,,12,14,O. Caldwell,Campos Racing,Le Castellet,Free Practice,12:06:38,Round 9 ,2022-07-24
+21,1:47.545,1.044,0.135,195.557,,,13,5,L. Lawson,Carlin,Le Castellet,Free Practice,12:07:29,Round 9 ,2022-07-24
+19,1:47.569,1.068,0.024,195.513,,,14,21,C. Williams,Trident,Le Castellet,Free Practice,12:21:38,Round 9 ,2022-07-24
+18,1:47.599,1.098,0.030,195.459,,,15,24,D. Beckmann,Van Amersfoort Racing,Le Castellet,Free Practice,12:06:10,Round 9 ,2022-07-24
+18,1:47.607,1.106,0.008,195.444,,,16,25,A. Cordeel,Van Amersfoort Racing,Le Castellet,Free Practice,12:01:58,Round 9 ,2022-07-24
+22,1:47.644,1.143,0.037,195.377,,,17,15,R. Merhi,Campos Racing,Le Castellet,Free Practice,12:20:36,Round 9 ,2022-07-24
+17,1:47.735,1.234,0.091,195.212,,,18,16,R. Nissany,DAMS,Le Castellet,Free Practice,12:07:16,Round 9 ,2022-07-24
+19,1:48.120,1.619,0.385,194.517,,,19,12,C. Novalak,MP Motorsport,Le Castellet,Free Practice,11:58:31,Round 9 ,2022-07-24
+20,1:48.141,1.640,0.021,194.479,,,20,4,M. Sato,Virtuosi Racing,Le Castellet,Free Practice,12:13:17,Round 9 ,2022-07-24
+22,1:48.860,2.359,0.719,193.194,,,21,23,C. Bölükbasi,Charouz Racing System,Le Castellet,Free Practice,12:19:56,Round 9 ,2022-07-24
+1,-,-,-,-,,,22,9,F. Vesti,ART Grand Prix,Le Castellet,Free Practice,-,Round 9 ,2022-07-24

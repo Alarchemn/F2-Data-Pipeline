@@ -1,0 +1,76 @@
+LAPS,TIME,GAP,INT.,KPH,BEST,LAP,POS,CAR,PILOT NAME,TEAM,CIRCUIT,TYPE,LAP SET ON,ROUND,DATE
+22,44:22.552,-,-,165.053,1:55.746,3.0,1,8,L. Ghiotto,UNI-Virtuosi,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:29.826,7.274,7.274,164.603,1:55.526,6.0,2,6,N. Latifi,DAMS,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:32.787,10.235,2.961,164.421,1:56.038,6.0,3,5,S. Sette Câmara,DAMS,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:38.658,16.106,5.871,164.06,1:56.256,3.0,4,11,C. Ilott,Sauber Junior Team by Charouz,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:39.825,17.273,1.167,163.989,1:56.194,2.0,5,20,G. Alesi,Trident,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:42.003,19.451,2.178,163.856,1:56.421,3.0,6,1,L. Delétraz,Carlin,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:50.782,28.230,8.779,163.321,1:56.491,4.0,7,2,N. Matsushita,Carlin,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:51.664,29.112,0.882,163.268,1:56.741,4.0,8,7,G. Zhou,UNI-Virtuosi,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:54.084,31.532,2.420,163.121,1:56.644,3.0,9,16,J. King,MP Motorsport,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:54.627,32.075,0.543,163.088,1:56.677,3.0,10,15,J. Aitken,Campos Racing,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:56.130,33.578,1.503,162.997,1:56.506,3.0,11,9,M. Schumacher,PREMA Racing,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,44:59.570,37.018,3.440,162.789,1:57.145,3.0,12,21,C. Lundgaard,Trident,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,45:02.988,40.436,3.418,162.584,1:56.930,3.0,13,4,N. de Vries,ART Grand Prix,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,45:05.701,43.149,2.713,162.421,1:57.355,4.0,14,18,T. Calderón,BWT Arden,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,45:15.145,52.593,9.444,161.856,1:58.024,5.0,15,17,M. Raghunathan,MP Motorsport,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+22,45:22.271,59.719,7.126,161.432,1:56.678,3.0,16,14,M. Sato,Campos Racing,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+19,39:10.298,DNF,-,161.46,1:57.187,3.0,17,3,N. Mazepin,ART Grand Prix,Yas Island,Sprint Race,,Round 12 ,2019-12-01
+31,1:02:17.011,-,-,165.75,1:57.189,8.0,1,5,S. Sette Câmara,DAMS,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:22.160,5.149,5.149,165.522,1:55.226,29.0,2,2,N. Matsushita,Carlin,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:24.776,7.765,2.616,165.407,1:54.077,30.0,3,7,G. Zhou,UNI-Virtuosi,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:27.930,10.919,3.154,165.267,1:56.162,8.0,4,1,L. Delétraz,Carlin,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:32.992,15.981,5.062,165.044,1:56.606,8.0,5,11,C. Ilott,Sauber Junior Team by Charouz,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:37.396,20.385,4.404,164.851,1:54.593,29.0,6,8,L. Ghiotto,UNI-Virtuosi,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:42.796,25.785,5.400,164.614,1:56.378,10.0,7,6,N. Latifi,DAMS,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:49.260,32.249,6.464,164.332,1:54.706,28.0,8,20,G. Alesi,Trident,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:02:58.913,41.902,9.653,163.912,1:56.709,10.0,9,9,M. Schumacher,PREMA Racing,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:05.691,48.680,6.778,163.619,1:56.658,27.0,10,3,N. Mazepin,ART Grand Prix,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:06.571,49.560,0.880,163.581,1:57.311,10.0,11,15,J. Aitken,Campos Racing,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:07.490,50.479,0.919,163.541,1:56.427,10.0,12,16,J. King,MP Motorsport,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:10.466,53.455,2.976,163.413,1:56.727,10.0,13,4,N. de Vries,ART Grand Prix,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:10.974,53.963,0.508,163.391,1:57.674,27.0,14,21,C. Lundgaard,Trident,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:13.604,56.593,2.630,163.278,1:57.471,11.0,15,12,M. Isaakyan,Sauber Junior Team by Charouz,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:15.613,58.602,2.009,163.191,1:57.356,11.0,16,18,T. Calderón,BWT Arden,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:19.911,62.900,4.298,163.007,1:56.924,12.0,17,10,S. Gelael,PREMA Racing,Yas Island,Feature Race,,Round 12 ,2019-12-01
+31,1:03:54.481,97.470,34.570,161.537,1:56.988,29.0,18,14,M. Sato,Campos Racing,Yas Island,Feature Race,,Round 12 ,2019-12-01
+10,1:49.751,-,-,182.179,,,1,5,S. Sette Câmara,DAMS,Yas Island,Qualifying Session,19:28:08,Round 12 ,2019-12-01
+10,1:49.840,0.089,0.089,182.032,,,2,11,C. Ilott,Sauber Junior Team by Charouz,Yas Island,Qualifying Session,19:28:29,Round 12 ,2019-12-01
+9,1:49.931,0.180,0.091,181.881,,,3,1,L. Delétraz,Carlin,Yas Island,Qualifying Session,19:28:18,Round 12 ,2019-12-01
+10,1:50.157,0.406,0.226,181.508,,,4,2,N. Matsushita,Carlin,Yas Island,Qualifying Session,19:28:16,Round 12 ,2019-12-01
+9,1:50.190,0.439,0.033,181.453,,,5,7,G. Zhou,UNI-Virtuosi,Yas Island,Qualifying Session,19:28:37,Round 12 ,2019-12-01
+8,1:50.288,0.537,0.098,181.292,,,6,4,N. de Vries,ART Grand Prix,Yas Island,Qualifying Session,19:28:02,Round 12 ,2019-12-01
+9,1:50.303,0.552,0.015,181.267,,,7,6,N. Latifi,DAMS,Yas Island,Qualifying Session,19:16:49,Round 12 ,2019-12-01
+8,1:50.520,0.769,0.217,180.912,,,8,15,J. Aitken,Campos Racing,Yas Island,Qualifying Session,19:16:54,Round 12 ,2019-12-01
+5,1:50.618,0.867,0.098,180.751,,,9,3,N. Mazepin,ART Grand Prix,Yas Island,Qualifying Session,19:28:13,Round 12 ,2019-12-01
+7,1:50.652,0.901,0.034,180.696,,,10,9,M. Schumacher,PREMA Racing,Yas Island,Qualifying Session,19:17:05,Round 12 ,2019-12-01
+10,1:50.858,1.107,0.206,180.36,,,11,8,L. Ghiotto,UNI-Virtuosi,Yas Island,Qualifying Session,19:07:41,Round 12 ,2019-12-01
+10,1:50.920,1.169,0.062,180.259,,,12,20,G. Alesi,Trident,Yas Island,Qualifying Session,19:28:22,Round 12 ,2019-12-01
+10,1:51.174,1.423,0.254,179.847,,,13,16,J. King,MP Motorsport,Yas Island,Qualifying Session,19:29:06,Round 12 ,2019-12-01
+10,1:51.412,1.661,0.238,179.463,,,14,22,A. Markelov,BWT Arden,Yas Island,Qualifying Session,19:08:08,Round 12 ,2019-12-01
+10,1:51.522,1.771,0.110,179.286,,,15,12,M. Isaakyan,Sauber Junior Team by Charouz,Yas Island,Qualifying Session,19:07:19,Round 12 ,2019-12-01
+10,1:51.829,2.078,0.307,178.794,,,16,14,M. Sato,Campos Racing,Yas Island,Qualifying Session,19:07:24,Round 12 ,2019-12-01
+8,1:51.884,2.133,0.055,178.706,,,17,10,S. Gelael,PREMA Racing,Yas Island,Qualifying Session,19:06:58,Round 12 ,2019-12-01
+10,1:52.140,2.389,0.256,178.298,,,18,21,C. Lundgaard,Trident,Yas Island,Qualifying Session,19:11:44,Round 12 ,2019-12-01
+10,1:52.412,2.661,0.272,177.867,,,19,18,T. Calderón,BWT Arden,Yas Island,Qualifying Session,19:07:47,Round 12 ,2019-12-01
+6,1:53.363,3.612,0.951,176.375,,,20,17,M. Raghunathan,MP Motorsport,Yas Island,Qualifying Session,19:07:34,Round 12 ,2019-12-01
+11,1:51.941,-,-,178.615,,,1,5,S. Sette Câmara,DAMS,Yas Island,Free Practice,11:46:07,Round 12 ,2019-12-01
+11,1:52.112,0.171,0.171,178.343,,,2,6,N. Latifi,DAMS,Yas Island,Free Practice,11:47:32,Round 12 ,2019-12-01
+11,1:52.113,0.172,0.001,178.341,,,3,7,G. Zhou,UNI-Virtuosi,Yas Island,Free Practice,11:51:18,Round 12 ,2019-12-01
+11,1:52.140,0.199,0.027,178.298,,,4,11,C. Ilott,Sauber Junior Team by Charouz,Yas Island,Free Practice,11:45:16,Round 12 ,2019-12-01
+11,1:52.156,0.215,0.016,178.273,,,5,1,L. Delétraz,Carlin,Yas Island,Free Practice,11:45:43,Round 12 ,2019-12-01
+12,1:52.200,0.259,0.044,178.203,,,6,8,L. Ghiotto,UNI-Virtuosi,Yas Island,Free Practice,11:50:59,Round 12 ,2019-12-01
+10,1:52.303,0.362,0.103,178.039,,,7,2,N. Matsushita,Carlin,Yas Island,Free Practice,11:46:53,Round 12 ,2019-12-01
+10,1:52.361,0.420,0.058,177.947,,,8,3,N. Mazepin,ART Grand Prix,Yas Island,Free Practice,11:45:20,Round 12 ,2019-12-01
+8,1:52.378,0.437,0.017,177.92,,,9,9,M. Schumacher,PREMA Racing,Yas Island,Free Practice,11:54:55,Round 12 ,2019-12-01
+12,1:52.653,0.712,0.275,177.486,,,10,4,N. de Vries,ART Grand Prix,Yas Island,Free Practice,11:45:26,Round 12 ,2019-12-01
+10,1:52.657,0.716,0.004,177.48,,,11,15,J. Aitken,Campos Racing,Yas Island,Free Practice,11:46:34,Round 12 ,2019-12-01
+9,1:52.807,0.866,0.150,177.244,,,12,16,J. King,MP Motorsport,Yas Island,Free Practice,11:52:12,Round 12 ,2019-12-01
+12,1:53.051,1.110,0.244,176.861,,,13,22,A. Markelov,BWT Arden,Yas Island,Free Practice,11:45:35,Round 12 ,2019-12-01
+8,1:53.410,1.469,0.359,176.301,,,14,10,S. Gelael,PREMA Racing,Yas Island,Free Practice,11:54:13,Round 12 ,2019-12-01
+13,1:54.136,2.195,0.726,175.18,,,15,14,M. Sato,Campos Racing,Yas Island,Free Practice,11:46:00,Round 12 ,2019-12-01
+9,1:54.296,2.355,0.160,174.935,,,16,12,M. Isaakyan,Sauber Junior Team by Charouz,Yas Island,Free Practice,12:00:24,Round 12 ,2019-12-01
+12,1:54.501,2.560,0.205,174.622,,,17,20,G. Alesi,Trident,Yas Island,Free Practice,11:45:41,Round 12 ,2019-12-01
+12,1:54.865,2.924,0.364,174.068,,,18,21,C. Lundgaard,Trident,Yas Island,Free Practice,11:50:10,Round 12 ,2019-12-01
+11,1:54.901,2.960,0.036,174.014,,,19,18,T. Calderón,BWT Arden,Yas Island,Free Practice,11:51:39,Round 12 ,2019-12-01
+12,1:55.210,3.269,0.309,173.547,,,20,17,M. Raghunathan,MP Motorsport,Yas Island,Free Practice,11:59:52,Round 12 ,2019-12-01
