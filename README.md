@@ -1,4 +1,4 @@
-# Formula 2 End-To-End ELT Pipeline
+# Formula 2 End-To-End ETL Pipeline
 ## Overview
 This project aims to create an automated pipeline for extracting, transforming, and updating the Formula 2 dataset on Kaggle.
 - **Data Source:** [www.fiaformula2.com](https://www.fiaformula2.com/)
