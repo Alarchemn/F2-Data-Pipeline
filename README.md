@@ -30,7 +30,6 @@ The pipeline enables regular updates of the Formula 2 dataset on Kaggle, ensurin
 - `f2-dag.py`: The argument for the data extraction is a list with the ID of each race in `str` format
 - `utils.py`: Utility functions file, you can find the race IDs here
 - `lambda_load.py`: Lambda function of transformation and load. PUT/GET permissions are required for to S3 bucket
-- `lambda_kaggle.py`: Function to update the kaggle dataset. It is required to store credentials as environment variables
 - `draft.ipynb`: Notebook to test each function separately
 - `test_dag_integrity.py`: Assess DAG integrity
 - `\DATA\`: nformation cataloged by race_id, event and season
