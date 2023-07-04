@@ -2,7 +2,7 @@
 ## Overview
 This project aims to create an automated pipeline for extracting, transforming, and updating the Formula 2 dataset on Kaggle.
 - **Data Source:** [www.fiaformula2.com](https://www.fiaformula2.com/)
-- **Destination:** **LINK**
+- **Destination:** [Kaggle Dataset](https://www.kaggle.com/datasets/alarchemn/formula-2-dataset)
 
 ## Architecture
 ![Architecture.png](figures/architecture.png)
@@ -36,4 +36,4 @@ The pipeline enables regular updates of the Formula 2 dataset on Kaggle, ensurin
 
 
 ## Data description
-Detailed description in **LINK**
+Detailed description here: [Kaggle Dataset](https://www.kaggle.com/datasets/alarchemn/formula-2-dataset)
