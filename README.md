@@ -21,7 +21,6 @@ The pipeline enables regular updates of the Formula 2 dataset on Kaggle, ensurin
 ## Requirements:
 - Configure AWS account through AWS CLI (to interact with AWS)
 - Configure AWS connection via Airflow UI
-- Apache Airflow
 - Docker / Docker-Compose (to run Apache Airflow)
 - AWS role with read/write S3 objects permission
 - Kaggle API KEY
