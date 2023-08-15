@@ -32,7 +32,7 @@ The pipeline enables regular updates of the Formula 2 dataset on Kaggle, ensurin
 - `lambda_load.py`: Lambda function of transformation and load. PUT/GET permissions are required for to S3 bucket
 - `draft.ipynb`: Notebook to test each function separately
 - `test_dag_integrity.py`: Assess DAG integrity
-- `\DATA\`: nformation cataloged by race_id, event and season
+- `\DATA\`: information cataloged by race_id, event and season
 
 
 ## Data description
