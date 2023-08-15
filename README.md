@@ -18,7 +18,7 @@ This project aims to create an automated pipeline for extracting, transforming, 
 
 The pipeline enables regular updates of the Formula 2 dataset on Kaggle, ensuring that it remains up-to-date with the latest race information.
 
-## Requirements:
+## Special requirements:
 - Configure AWS account through AWS CLI (to interact with AWS)
 - Configure AWS connection via Airflow UI
 - Docker / Docker-Compose (to run Apache Airflow)
